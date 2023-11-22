@@ -2,23 +2,42 @@ const connectDB = require("./src/database.js");
 const linkService = require("./src/services/linkService.js");
 const contentService = require("./src/services/contentService.js");
 const pageService = require("./src/services/pageService.js");
+require("dotenv").config();
 
-//step 1: Connect DB
-connectDB();
+// function delay(milliseconds) {
+//   return new Promise((resolve) => {
+//     setTimeout(resolve, milliseconds);
+//   });
+// }
 
-//Step 2: Crawling the URLs
-linkService.crawAllUrl();
+async () => {
+  try {
+    // Step 1: Connect to the database
+    await connectDB();
+    //console.log("Connected to the database");
 
-//Step 3: Crawling all the pages English word in to db
-const links = linkService.getLinksNeedToCrawl();
-(async (links) => {
-  await contentService.crawlingAllPage(links);
-})(links);
+    //Step 2: Crawling the URLs
+    await linkService.crawAllUrl();
+    // //await delay(5000);
+    console.log("URL crawling completed successfully");
+
+    // //Step 3: Crawling all the pages English word in to db
+    const links = await linkService.getLinksNeedToCrawl();
+    await contentService.crawlingAllPage(links);
+
+    console.log("Application initialized successfully");
+  } catch (error) {
+    console.error("Error initializing application:", error);
+  }
+};
 
 //Step 4: Translate all words in db in to Vietnamese
+// (async () => {
+//   await contentService.translateDb();
+// })();
 (async () => {
-  await contentService.translateDb();
+  await connectDB();
+  //Step 5: Demo: go to a link and replace it with Vietnamese and give it back to fe
+  console.log(process.env.ORIGIN_URL);
+  pageService.getTranslatePage(process.env.ORIGIN_URL);
 })();
-
-//Step 5: Demo: go to a link and replace it with Vietnamese and give it back to fe
-pageService.getTranslatePage(url);

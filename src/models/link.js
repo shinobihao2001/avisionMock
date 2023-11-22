@@ -2,7 +2,7 @@ const moongoose = require("mongoose");
 
 const linkSchema = new moongoose.Schema({
   value: {
-    typeo: String,
+    type: String,
   },
   vnLink: {
     type: String,
@@ -12,4 +12,4 @@ const linkSchema = new moongoose.Schema({
   },
 });
 
-module.exports = mongoose.model("linkModel", linkSchema);
+module.exports = moongoose.model("linkModel", linkSchema);
