@@ -1,6 +1,7 @@
 const express = require("express");
 const connectDB = require("./src/database");
 const pageService = require("./src/services/pageService.js");
+const path = require("path");
 require("dotenv").config();
 const fs = require("fs");
 connectDB();
@@ -11,6 +12,7 @@ app.listen(port, () => {
   console.log(`Server is run on http://localhost:${port}/`);
 });
 
+console.log(__dirname);
 app.get("*", async (req, res) => {
   const path = (process.env.EN_DOMAIN + req.url).toString();
   console.log(path);

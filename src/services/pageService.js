@@ -117,9 +117,10 @@ module.exports = {
     return html;
   },
   async saveHtmlLocal(html, filename) {
-    let folder = path.join(__dirname, "local");
+    let folder = path.join(__dirname, "localPage");
     try {
-      fs.writeFileSync(path.join(folder, filename), html);
+      //console.log(html);
+      fs.writeFileSync(path.join(folder, filename), html[0]);
       return "Save file successfully";
     } catch (error) {
       console.log(error);
@@ -132,12 +133,13 @@ module.exports = {
       .slice(27)
       .replaceAll("/", "_")
       .replaceAll("-", "_");
-    return localname;
+
+    return localname ? localname : "mainPage";
   },
 
   async getPage(name) {
     let localname = this.getLocalName(name);
-    folder = path(__dirname, "local");
+    folder = path(__dirname, "localPage");
     try {
       let page = fs.readFileSync(path.join(folder, localname), "utf-8");
       return page;
@@ -148,10 +150,11 @@ module.exports = {
 
   async translateAllPage(urls) {
     for (let url of urls) {
+      //console.log(url);
       let html = await this.translatePage(url);
       let filename = this.getLocalName(url);
       let results = await this.saveHtmlLocal(html, filename);
-      return results;
     }
+    return "All page translate done";
   },
 };
