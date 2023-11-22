@@ -77,7 +77,18 @@ function modifyHTML(urls, crawler) {
 
                 // Save the modified HTML to a file
                 const modifiedHtml = $.html();
-                fs.writeFileSync("modified.html", modifiedHtml);
+
+                fs.writeFileSync(
+                  url
+                    .toString()
+                    .replace(
+                      "https://www.avision.com/en",
+                      "http://localhost:3000"
+                    )
+                    .replaceAll(":", "_")
+                    .replaceAll("/", "H"),
+                  modifiedHtml
+                );
 
                 // Open the file in the default web browser
                 // const { exec } = require("child_process");
@@ -103,5 +114,17 @@ module.exports = {
   async getTranslatePage(url) {
     let html = await modifyHTML([url], crawler);
     return html;
+  },
+  async saveHtmlLocal(html, path) {
+    path = "local/" + fs.writeFileSync(path, html);
+  },
+
+  getLocalPath(path) {
+    let localPath = path
+      .toString()
+      .slice(27)
+      .replaceAll("/", "_")
+      .replaceAll("-", "_");
+    return localPath;
   },
 };

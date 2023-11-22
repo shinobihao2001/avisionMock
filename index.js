@@ -17,6 +17,6 @@ app.get("*", async (req, res) => {
   let html = await pageService.getTranslatePage(path);
   //let ren = fs.readFileSync("modified.html", "utf8");
   res.setHeader("Content-Type", "text/html");
-  console.log(typeof html);
+  console.log(pageService.getLocalPath(path));
   res.send(html.toString());
 });

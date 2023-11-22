@@ -35,6 +35,8 @@ async () => {
 // (async () => {
 //   await contentService.translateDb();
 // })();
+
+//Step 5: Translat all page and save them to local
 (async () => {
   await connectDB();
   //Step 5: Demo: go to a link and replace it with Vietnamese and give it back to fe
