@@ -2,6 +2,7 @@ const Crawler = require("crawler");
 const Cheerio = require("cheerio");
 const fs = require("fs");
 const contentService = require("./contentService");
+const path = require("path");
 
 const crawler = new Crawler({
   maxConnections: 1,
@@ -78,17 +79,17 @@ function modifyHTML(urls, crawler) {
                 // Save the modified HTML to a file
                 const modifiedHtml = $.html();
 
-                fs.writeFileSync(
-                  url
-                    .toString()
-                    .replace(
-                      "https://www.avision.com/en",
-                      "http://localhost:3000"
-                    )
-                    .replaceAll(":", "_")
-                    .replaceAll("/", "H"),
-                  modifiedHtml
-                );
+                // fs.writeFileSync(
+                //   url
+                //     .toString()
+                //     .replace(
+                //       "https://www.avision.com/en",
+                //       "http://localhost:3000"
+                //     )
+                //     .replaceAll(":", "_")
+                //     .replaceAll("/", "H"),
+                //   modifiedHtml
+                // );
 
                 // Open the file in the default web browser
                 // const { exec } = require("child_process");
@@ -111,20 +112,46 @@ function modifyHTML(urls, crawler) {
 }
 
 module.exports = {
-  async getTranslatePage(url) {
+  async translatePage(url) {
     let html = await modifyHTML([url], crawler);
     return html;
   },
-  async saveHtmlLocal(html, path) {
-    path = "local/" + fs.writeFileSync(path, html);
+  async saveHtmlLocal(html, filename) {
+    let folder = path.join(__dirname, "local");
+    try {
+      fs.writeFileSync(path.join(folder, filename), html);
+      return "Save file successfully";
+    } catch (error) {
+      console.log(error);
+    }
   },
 
-  getLocalPath(path) {
-    let localPath = path
+  getLocalName(name) {
+    let localname = name
       .toString()
       .slice(27)
       .replaceAll("/", "_")
       .replaceAll("-", "_");
-    return localPath;
+    return localname;
+  },
+
+  async getPage(name) {
+    let localname = this.getLocalName(name);
+    folder = path(__dirname, "local");
+    try {
+      let page = fs.readFileSync(path.join(folder, localname), "utf-8");
+      return page;
+    } catch (error) {
+      console.log(error);
+    }
+  },
+
+  async translateAllPage(urls) {
+    for (let url of urls) {
+      let html = await this.translatePage(url);
+      let filename = this.getLocalName(url);
+      let results = await this.saveHtmlLocal(html, filename);
+      return results;
+    }
   },
 };

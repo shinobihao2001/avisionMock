@@ -10,7 +10,7 @@ require("dotenv").config();
 //   });
 // }
 
-async () => {
+(async () => {
   try {
     // Step 1: Connect to the database
     await connectDB();
@@ -25,20 +25,22 @@ async () => {
     const links = await linkService.getLinksNeedToCrawl();
     await contentService.crawlingAllPage(links);
 
+    //Step 5: Translat all page and save them to local
+    let result = await pageService.translateAllPage(links);
+    console.log(result);
     console.log("Application initialized successfully");
   } catch (error) {
     console.error("Error initializing application:", error);
   }
-};
+})();
 
 //Step 4: Translate all words in db in to Vietnamese
 // (async () => {
 //   await contentService.translateDb();
 // })();
 
-//Step 5: Translat all page and save them to local
-(async () => {
-  await connectDB();
-  //Step 5: Demo: go to a link and replace it with Vietnamese and give it back to fe
-  pageService.getTranslatePage(process.env.ORIGIN_URL);
-})();
+// (async () => {
+//   await connectDB();
+//   //Step 5: Demo: go to a link and replace it with Vietnamese and give it back to fe
+//   pageService.getTranslatePage(process.env.ORIGIN_URL);
+// })();
