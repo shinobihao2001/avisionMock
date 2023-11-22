@@ -23,7 +23,14 @@ function modifyHTML(url) {
               href.startsWith("https://www.avision.com") &&
               !href.endsWith("png")
             ) {
-              $(element).attr("href", href.replace("com/en", "/vn"));
+              $(element).attr(
+                "href",
+                href.replace(
+                  "https://www.avision.com/en/",
+                  "http://localhost:3000/"
+                )
+                // "http://localhost:3000/"
+              );
             }
           });
 

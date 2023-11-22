@@ -38,6 +38,5 @@ async () => {
 (async () => {
   await connectDB();
   //Step 5: Demo: go to a link and replace it with Vietnamese and give it back to fe
-  console.log(process.env.ORIGIN_URL);
   pageService.getTranslatePage(process.env.ORIGIN_URL);
 })();
