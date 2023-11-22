@@ -12,13 +12,11 @@ app.listen(port, () => {
   console.log(`Server is run on http://localhost:${port}/`);
 });
 
-console.log(__dirname);
 app.get("*", async (req, res) => {
-  const path = (process.env.EN_DOMAIN + req.url).toString();
-  console.log(path);
-  let html = await pageService.getTranslatePage(path);
+  const filename = (process.env.EN_DOMAIN + req.url).toString();
+  console.log(filename);
+  let html = await pageService.getPage(filename);
   //let ren = fs.readFileSync("modified.html", "utf8");
   res.setHeader("Content-Type", "text/html");
-  console.log(pageService.getLocalPath(path));
   res.send(html.toString());
 });
