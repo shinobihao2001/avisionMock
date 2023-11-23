@@ -4,15 +4,23 @@ require("dotenv").config();
 
 //save in to db
 const createLink = async (link) => {
+  let tempLink = await linkModel.findOne({
+    value: link,
+  });
+  if (tempLink) {
+    return "Already exist";
+  }
   try {
     await linkModel.create({
       value: link,
+      isVisit: false,
       vnLink: link.replace("/en", "/vn"),
       isCrawlNeed: link.includes("/en"),
     });
   } catch (error) {
     console.log(error);
   }
+  return "Create link succesfully";
 };
 const crawler = new Crawler({
   maxConnections: 1,
@@ -37,12 +45,16 @@ function getPageAsync(urls, crawler) {
                 // Find all anchor tags and get their href attributes
                 $("a").each((index, element) => {
                   const href = $(element).attr("href");
+
                   if (
                     href &&
                     href.startsWith("https://www.avision.com") &&
-                    !href.endsWith("png")
+                    !href.endsWith("png") &&
+                    !href.endsWith("jpg") &&
+                    !href.includes("upload") &&
+                    !href.includes("download")
                   ) {
-                    uniqueLinks.add(href);
+                    uniqueLinks.add(href.split("?")[0]);
                   }
                 });
 
@@ -50,11 +62,12 @@ function getPageAsync(urls, crawler) {
                 let links = Array.from(uniqueLinks);
 
                 // Print the links
-                console.log("Links:", links);
+                //console.log("Links:", links);
 
                 //save in to db
                 for (let link of links) {
-                  await createLink(link);
+                  let mess = await createLink(link);
+                  console.log(`${link}: ${mess}`);
                 }
               }
               resolve("Crawl Done");
@@ -81,8 +94,22 @@ module.exports = {
   //Crawling all the links
   crawAllUrl: async () => {
     console.log("Start crawling all links");
-    let result = await getPageAsync([process.env.ORIGIN_URL], crawler);
-    console.log(result);
+    let startUrl = null;
+    do {
+      let result = await getPageAsync(
+        [startUrl ? startUrl.value : process.env.ORIGIN_URL],
+        crawler
+      );
+      console.log(result);
+      startUrl = await linkModel.findOne({
+        isVisit: false,
+        value: { $regex: "/www.avision.com/en" },
+      });
+      if (startUrl) {
+        startUrl.isVisit = true;
+        await startUrl.save();
+      }
+    } while (startUrl);
     console.log("Finish crawling all links");
   },
 

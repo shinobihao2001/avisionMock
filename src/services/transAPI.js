@@ -1,21 +1,43 @@
 const OpenAI = require("openai");
 const openai = new OpenAI();
+const v2 = require("@google-cloud/translate").v2;
+require("dotenv").config();
 
-async function translate(text) {
-  try {
-    const completion = await openai.chat.completions.create({
-      messages: [
-        {
-          role: "system",
-          content: `Dịch câu tiếng Anh sau đây thành tiếng Việt Nam: ${text}`,
-        },
-      ],
-      model: "gpt-3.5-turbo",
-    });
-    console.log("Dịch xong");
-    return completion.choices[0].message.content;
-  } catch (error) {
-    console.log(error);
-  }
-}
-module.exports = translate;
+translateClient = new v2.Translate({
+  projectId: process.env.PROJECT_ID,
+  key: process.env.API_KEY,
+});
+
+module.exports = {
+  async translateChatGPT(text) {
+    try {
+      const completion = await openai.chat.completions.create({
+        messages: [
+          {
+            role: "system",
+            content: `Dịch câu tiếng Anh sau đây thành tiếng Việt Nam: ${text}`,
+          },
+        ],
+        model: "gpt-3.5-turbo",
+      });
+      console.log("Dịch xong");
+      return completion.choices[0].message.content;
+    } catch (error) {
+      console.log(error);
+    }
+  },
+
+  async translateGoogle(text) {
+    try {
+      let [translations] = await translateClient.translate(text, "vi");
+      translations = Array.isArray(translations)
+        ? translations
+        : [translations];
+      console.log("Translations:");
+      console.log(`Tiếng Việt :  ${translation}`);
+      return translations;
+    } catch (error) {
+      console.log(error);
+    }
+  },
+};

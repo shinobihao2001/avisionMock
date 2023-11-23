@@ -150,7 +150,7 @@ module.exports = {
 
   async translateAllPage(urls) {
     for (let url of urls) {
-      //console.log(url);
+      console.log(url);
       let html = await this.translatePage(url);
       let filename = this.getLocalName(url);
       let results = await this.saveHtmlLocal(html, filename);

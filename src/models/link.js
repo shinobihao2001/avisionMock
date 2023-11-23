@@ -3,6 +3,10 @@ const moongoose = require("mongoose");
 const linkSchema = new moongoose.Schema({
   value: {
     type: String,
+    unique: true,
+  },
+  isVisit: {
+    type: Boolean,
   },
   vnLink: {
     type: String,
