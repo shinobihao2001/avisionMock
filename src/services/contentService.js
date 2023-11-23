@@ -29,7 +29,7 @@ const crawler = new Crawler({
 
 function getPageAsync(urls, crawler) {
   return new Promise((resolve, reject) => {
-    const words = new Set();
+    let words = new Set();
     const loop = urls.map((url) => {
       return new Promise((resolve, reject) => {
         crawler.queue([
@@ -73,7 +73,7 @@ function getPageAsync(urls, crawler) {
     crawler.once("error", (error) => reject(error));
     crawler.once("drain", () => {
       Promise.all(loop).then((results) => {
-        resolve(results);
+        resolve(results[0]);
       });
     });
   });
@@ -87,11 +87,15 @@ module.exports = {
 
   crawlingAllPage: async function (links) {
     //console.log(links);
-    const uniqueWords = new Set();
+    let uniqueWords = new Set();
+
     for (let link of links) {
       console.log(`start crawling: ${link}`);
       let result = await this.crawlingOnePage(link, crawler);
-      uniqueWords = uniqueWords.union(result);
+      //console.log(result);
+      //console.log("ressult: " + Array.from(result));
+      uniqueWords = new Set([...uniqueWords, ...result]);
+      //console.log("Uniqueword: " + Array.from(uniqueWords));
       console.log(`finish crawling: ${link}`);
     }
     //Get all the word in db in to a set
@@ -100,16 +104,18 @@ module.exports = {
     for (let content of contents) {
       oldWords.add(content.text);
     }
-
+    // console.log("Uniqueword: " + Array.from(uniqueWords));
+    // console.log("Oldword: " + Array.from(oldWords));
     // get the word that not duplicated
-    uniqueWords = uniqueWords.difference(oldWords);
+    uniqueWords = new Set([...uniqueWords].filter((x) => !oldWords.has(x)));
 
     //add new wors to db
-    arr = Array.from(uniqueWords);
+    let arr = Array.from(uniqueWords);
+    // console.log("Array : " + arr);
     for (let i = 0; i < arr.length; i++) {
       await contentModel.create({
-        text: arr[i],
-        newText: arr[i] + " - translated",
+        text: arr[i].toString(),
+        newText: arr[i].toString() + " - translated",
         isTranslated: false,
       });
     }

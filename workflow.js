@@ -23,19 +23,19 @@ require("dotenv").config();
     await connectDB();
     // //console.log("Connected to the database");
 
-    // // //Step 2: Crawling the URLs
-    // // await linkService.crawAllUrl();
-    // // // //await delay(5000);
-    // // console.log("URL crawling completed successfully");
+    // //Step 2: Crawling the URLs
+    // await linkService.crawAllUrl();
+    // // //await delay(5000);
+    // console.log("URL crawling completed successfully");
 
     // //Step 3: Crawling all the pages English word in to db
     const links = await linkService.getLinksNeedToCrawl();
-    let mess = await contentService.crawlingAllPage(links);
-    console.log("Crawling all words");
+    // let mess = await contentService.crawlingAllPage(links);
+    // console.log("Crawling all words");
 
     //Step 4: Translate all words in db in to Vietnamese
-    // await contentService.translateDb();
-    // console.log("Translate all words to vn done");
+    await contentService.translateDb();
+    console.log("Translate all words to vn done");
 
     //Step 5: Translat all page and save them to local
     let result = await pageService.translateAllPage(links);
