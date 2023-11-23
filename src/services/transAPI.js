@@ -30,12 +30,13 @@ module.exports = {
   async translateGoogle(text) {
     try {
       let [translations] = await translateClient.translate(text, "vi");
-      translations = Array.isArray(translations)
-        ? translations
-        : [translations];
-      console.log("Translations:");
-      console.log(`Tiếng Việt :  ${translation}`);
-      return translations;
+      // translations = Array.isArray(translations)
+      //   ? translations
+      //   : [translations];
+      // console.log(typeof translations);
+      //console.log("Translations:");
+      //console.log(`Tiếng Việt :  ${translations}`);
+      return translations.toString();
     } catch (error) {
       console.log(error);
     }

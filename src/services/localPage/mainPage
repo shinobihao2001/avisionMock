@@ -824,7 +824,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel="stylesheet" id="oceanwp-woo-hover-style-css" href="https://www.avision.com/en/wp-content/themes/oceanwp/assets/css/woo/hover-style.min.css?ver=6.3.2" media="all">
 <link rel="stylesheet" id="oceanwp-woo-quick-view-css" href="https://www.avision.com/en/wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min.css?ver=6.3.2" media="all">
 <link rel="stylesheet" id="chld_thm_cfg_child-css" href="https://www.avision.com/en/wp-content/themes/oceanwp-child/style.css?ver=3.0.5.1644388334" media="all">
-<link rel="stylesheet" id="popup-maker-site-css" href="//www.avision.com/en/wp-content/uploads/pum/pum-site-styles-1.css?generated=1700713686&amp;ver=1.18.2" media="all">
+<link rel="stylesheet" id="popup-maker-site-css" href="//www.avision.com/en/wp-content/uploads/pum/pum-site-styles-1.css?generated=1700726975&amp;ver=1.18.2" media="all">
 <link rel="stylesheet" id="um_crop-css" href="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/css/um-crop.css?ver=2.7.0" media="all">
 <link rel="stylesheet" id="um_modal-css" href="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/css/um-modal.css?ver=2.7.0" media="all">
 <link rel="stylesheet" id="um_ui-css" href="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/jquery-ui.css?ver=1.12.1" media="all">
@@ -1142,83 +1142,83 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 								<div class="elementor-element elementor-element-3a0fbe8 elementor-nav-menu__align-center elementor-nav-menu__text-align-center elementor-widget__width-initial elementor-nav-menu--stretch elementor-nav-menu--dropdown-tablet elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="3a0fbe8" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
-				<ul id="menu-1-3a0fbe8" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7461"><a href="http://localhost:3000/scanner/" class="elementor-item">Scanner - translated </a>
+				<ul id="menu-1-3a0fbe8" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7461"><a href="http://localhost:3000/scanner/" class="elementor-item">M&#xE1;y qu&#xE9;t</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-20505"><a href="http://localhost:3000/product-category/document-scanner/" class="elementor-sub-item">DocumentScanner - translated </a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12778"><a href="http://localhost:3000/product-category/flatbed-scanner/" class="elementor-sub-item">Flatbed Scanner - translated </a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12781"><a href="http://localhost:3000/product-category/network-scanner/" class="elementor-sub-item">Network Scanner - translated </a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12779"><a href="http://localhost:3000/product-category/mobile-scanner/" class="elementor-sub-item">Mobile Scanner - translated </a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12780"><a href="http://localhost:3000/product-category/paperair-series/" class="elementor-sub-item">PaperAir Series - translated </a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-20505"><a href="http://localhost:3000/product-category/document-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12778"><a href="http://localhost:3000/product-category/flatbed-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12781"><a href="http://localhost:3000/product-category/network-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12779"><a href="http://localhost:3000/product-category/mobile-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12780"><a href="http://localhost:3000/product-category/paperair-series/" class="elementor-sub-item">D&#xF2;ng PaperAir</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12776"><a href="http://localhost:3000/product-category/printer-mfp/" class="elementor-item">Printer / MFP - translated </a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://localhost:3000/product-category/medical/" class="elementor-item">Medical Device - translated </a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7264"><a href="http://localhost:3000/about-avision/" class="elementor-item">About Avision - translated </a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12776"><a href="http://localhost:3000/product-category/printer-mfp/" class="elementor-item">M&#xE1;y in / MFP</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://localhost:3000/product-category/medical/" class="elementor-item">Thi&#x1EBF;t b&#x1ECB; y t&#x1EBF;</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7264"><a href="http://localhost:3000/about-avision/" class="elementor-item">Gi&#x1EDB;i thi&#x1EC7;u v&#x1EC1; Avision</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12986"><a href="http://localhost:3000/about-avision/why-avision/" class="elementor-sub-item">Why Avision - translated </a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12986"><a href="http://localhost:3000/about-avision/why-avision/" class="elementor-sub-item">T&#x1EA1;i sao Avision</a>
 	<ul class="sub-menu elementor-nav-menu--dropdown">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14275"><a href="http://localhost:3000/about-avision/why-avision/core-image-scanning-technology/" class="elementor-sub-item">Core Image Scanning Technology - translated </a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14275"><a href="http://localhost:3000/about-avision/why-avision/core-image-scanning-technology/" class="elementor-sub-item">C&#xF4;ng ngh&#x1EC7; qu&#xE9;t h&#xEC;nh &#x1EA3;nh c&#x1ED1;t l&#xF5;i</a></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7290"><a href="http://localhost:3000/about-avision/corporate-profile/" class="elementor-sub-item">Corporate Profile - translated </a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7291"><a href="http://localhost:3000/about-avision/news/" class="elementor-sub-item">News - translated </a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7289"><a href="http://localhost:3000/about-avision/crs/" class="elementor-sub-item">CSR - translated </a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7290"><a href="http://localhost:3000/about-avision/corporate-profile/" class="elementor-sub-item">H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7291"><a href="http://localhost:3000/about-avision/news/" class="elementor-sub-item">Tin t&#x1EE9;c</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7289"><a href="http://localhost:3000/about-avision/crs/" class="elementor-sub-item">CSR</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7263"><a href="http://localhost:3000/contact-us/" class="elementor-item">Sales &amp; Support - translated </a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7263"><a href="http://localhost:3000/contact-us/" class="elementor-item">H&#x1ED7; tr&#x1EE3; b&#xE1;n h&#xE0;ng</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11245"><a href="http://localhost:3000/download/" class="elementor-sub-item">Download Center - translated </a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20351"><a href="http://localhost:3000/contact-us/help-center/" class="elementor-sub-item">Help Center - translated </a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12163"><a href="http://localhost:3000/contact-us/product-registration/" class="elementor-sub-item">Product Registration - translated </a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23018"><a href="http://localhost:3000/contact-us/email-form/" class="elementor-sub-item">Contact Us - translated </a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item">Partner Portal - translated </a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11245"><a href="http://localhost:3000/download/" class="elementor-sub-item">Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20351"><a href="http://localhost:3000/contact-us/help-center/" class="elementor-sub-item">Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12163"><a href="http://localhost:3000/contact-us/product-registration/" class="elementor-sub-item">&#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23018"><a href="http://localhost:3000/contact-us/email-form/" class="elementor-sub-item">Li&#xEA;n h&#x1EC7; ch&#xFA;ng t&#xF4;i</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055"><a href="http://localhost:3000/login/" class="elementor-item">Login - translated </a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055"><a href="http://localhost:3000/login/" class="elementor-item">&#x110;&#x103;ng nh&#x1EAD;p</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://localhost:3000/registration/" class="elementor-sub-item">Registration - translated </a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://localhost:3000/registration/" class="elementor-sub-item">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
 </li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu - translated </span>
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Th&#x1EF1;c &#x111;&#x1A1;n</span>
 		</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-				<ul id="menu-2-3a0fbe8" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7461"><a href="http://localhost:3000/scanner/" class="elementor-item" tabindex="-1">Scanner - translated </a>
+				<ul id="menu-2-3a0fbe8" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7461"><a href="http://localhost:3000/scanner/" class="elementor-item" tabindex="-1">M&#xE1;y qu&#xE9;t</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-20505"><a href="http://localhost:3000/product-category/document-scanner/" class="elementor-sub-item" tabindex="-1">DocumentScanner - translated </a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12778"><a href="http://localhost:3000/product-category/flatbed-scanner/" class="elementor-sub-item" tabindex="-1">Flatbed Scanner - translated </a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12781"><a href="http://localhost:3000/product-category/network-scanner/" class="elementor-sub-item" tabindex="-1">Network Scanner - translated </a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12779"><a href="http://localhost:3000/product-category/mobile-scanner/" class="elementor-sub-item" tabindex="-1">Mobile Scanner - translated </a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12780"><a href="http://localhost:3000/product-category/paperair-series/" class="elementor-sub-item" tabindex="-1">PaperAir Series - translated </a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-20505"><a href="http://localhost:3000/product-category/document-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12778"><a href="http://localhost:3000/product-category/flatbed-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12781"><a href="http://localhost:3000/product-category/network-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12779"><a href="http://localhost:3000/product-category/mobile-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12780"><a href="http://localhost:3000/product-category/paperair-series/" class="elementor-sub-item" tabindex="-1">D&#xF2;ng PaperAir</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12776"><a href="http://localhost:3000/product-category/printer-mfp/" class="elementor-item" tabindex="-1">Printer / MFP - translated </a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://localhost:3000/product-category/medical/" class="elementor-item" tabindex="-1">Medical Device - translated </a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7264"><a href="http://localhost:3000/about-avision/" class="elementor-item" tabindex="-1">About Avision - translated </a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12776"><a href="http://localhost:3000/product-category/printer-mfp/" class="elementor-item" tabindex="-1">M&#xE1;y in / MFP</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://localhost:3000/product-category/medical/" class="elementor-item" tabindex="-1">Thi&#x1EBF;t b&#x1ECB; y t&#x1EBF;</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7264"><a href="http://localhost:3000/about-avision/" class="elementor-item" tabindex="-1">Gi&#x1EDB;i thi&#x1EC7;u v&#x1EC1; Avision</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12986"><a href="http://localhost:3000/about-avision/why-avision/" class="elementor-sub-item" tabindex="-1">Why Avision - translated </a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12986"><a href="http://localhost:3000/about-avision/why-avision/" class="elementor-sub-item" tabindex="-1">T&#x1EA1;i sao Avision</a>
 	<ul class="sub-menu elementor-nav-menu--dropdown">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14275"><a href="http://localhost:3000/about-avision/why-avision/core-image-scanning-technology/" class="elementor-sub-item" tabindex="-1">Core Image Scanning Technology - translated </a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14275"><a href="http://localhost:3000/about-avision/why-avision/core-image-scanning-technology/" class="elementor-sub-item" tabindex="-1">C&#xF4;ng ngh&#x1EC7; qu&#xE9;t h&#xEC;nh &#x1EA3;nh c&#x1ED1;t l&#xF5;i</a></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7290"><a href="http://localhost:3000/about-avision/corporate-profile/" class="elementor-sub-item" tabindex="-1">Corporate Profile - translated </a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7291"><a href="http://localhost:3000/about-avision/news/" class="elementor-sub-item" tabindex="-1">News - translated </a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7289"><a href="http://localhost:3000/about-avision/crs/" class="elementor-sub-item" tabindex="-1">CSR - translated </a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7290"><a href="http://localhost:3000/about-avision/corporate-profile/" class="elementor-sub-item" tabindex="-1">H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7291"><a href="http://localhost:3000/about-avision/news/" class="elementor-sub-item" tabindex="-1">Tin t&#x1EE9;c</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7289"><a href="http://localhost:3000/about-avision/crs/" class="elementor-sub-item" tabindex="-1">CSR</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7263"><a href="http://localhost:3000/contact-us/" class="elementor-item" tabindex="-1">Sales &amp; Support - translated </a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7263"><a href="http://localhost:3000/contact-us/" class="elementor-item" tabindex="-1">H&#x1ED7; tr&#x1EE3; b&#xE1;n h&#xE0;ng</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11245"><a href="http://localhost:3000/download/" class="elementor-sub-item" tabindex="-1">Download Center - translated </a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20351"><a href="http://localhost:3000/contact-us/help-center/" class="elementor-sub-item" tabindex="-1">Help Center - translated </a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12163"><a href="http://localhost:3000/contact-us/product-registration/" class="elementor-sub-item" tabindex="-1">Product Registration - translated </a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23018"><a href="http://localhost:3000/contact-us/email-form/" class="elementor-sub-item" tabindex="-1">Contact Us - translated </a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item" tabindex="-1">Partner Portal - translated </a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11245"><a href="http://localhost:3000/download/" class="elementor-sub-item" tabindex="-1">Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20351"><a href="http://localhost:3000/contact-us/help-center/" class="elementor-sub-item" tabindex="-1">Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12163"><a href="http://localhost:3000/contact-us/product-registration/" class="elementor-sub-item" tabindex="-1">&#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23018"><a href="http://localhost:3000/contact-us/email-form/" class="elementor-sub-item" tabindex="-1">Li&#xEA;n h&#x1EC7; ch&#xFA;ng t&#xF4;i</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item" tabindex="-1">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055"><a href="http://localhost:3000/login/" class="elementor-item" tabindex="-1">Login - translated </a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055"><a href="http://localhost:3000/login/" class="elementor-item" tabindex="-1">&#x110;&#x103;ng nh&#x1EAD;p</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://localhost:3000/registration/" class="elementor-sub-item" tabindex="-1">Registration - translated </a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://localhost:3000/registration/" class="elementor-sub-item" tabindex="-1">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
 </li>
 </ul>			</nav>
@@ -1264,12 +1264,12 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					<div class="elementor-swiper">
 			<div class="elementor-slides-wrapper elementor-main-swiper swiper-container" dir="ltr" data-animation="fadeInUp">
 				<div class="swiper-wrapper elementor-slides">
-										<div class="elementor-repeater-item-a961f20 swiper-slide"><div class="swiper-slide-bg elementor-ken-burns elementor-ken-burns--in"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents"><div class="elementor-slide-heading">A Vision of Your Office - translated </div><div class="elementor-slide-description">The Leading Expert of Digital Office Solution - translated </div></div></div></div><div class="elementor-repeater-item-671b314 swiper-slide"><div class="swiper-slide-bg elementor-ken-burns elementor-ken-burns--in"></div><a class="swiper-slide-inner" href="http://localhost:3000/scanner/"><div class="swiper-slide-contents"><div class="elementor-slide-heading">Find your suitable scanning system in our product range! - translated </div><div class="elementor-button elementor-slide-button elementor-size-sm">Contact us - translated </div></div></a></div><div class="elementor-repeater-item-aaff96f swiper-slide"><div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="http://localhost:3000/shop/printer-mfp/am76-series/"><div class="swiper-slide-contents"><div class="elementor-slide-heading">Avision A3 MFP AM76 Series / AM56 Series - translated </div><div class="elementor-slide-description">Make Document Flow Easy - translated </div><div class="elementor-button elementor-slide-button elementor-size-sm">Learn more - translated </div></div></a></div><div class="elementor-repeater-item-1b3f7c6 swiper-slide"><div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="http://localhost:3000/shop/printer-mfp/am40a/"><div class="swiper-slide-contents"><div class="elementor-slide-heading">Avision AM40A - translated </div><div class="elementor-slide-description">Drop &amp; Take, No Mistake !Fast, Professional A4 MFP - translated </div><div class="elementor-button elementor-slide-button elementor-size-sm">Read more - translated </div></div></a></div><div class="elementor-repeater-item-2898f65 swiper-slide"><div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="http://localhost:3000/product-category/document-scanner/ad380-series/"><div class="swiper-slide-contents"><div class="elementor-slide-heading">Avision AD380 Series - translated </div><div class="elementor-slide-description">Fast, and Affordable Sheet-Fed Scanner - translated </div><div class="elementor-button elementor-slide-button elementor-size-sm">Learn more - translated </div></div></a></div><div class="elementor-repeater-item-e7abee1 swiper-slide"><div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="http://localhost:3000/product/ad8120/"><div class="swiper-slide-contents"><div class="elementor-slide-heading">AD8120U - translated </div><div class="elementor-slide-description">A Duplex High-Volume Production Scanner - translated </div><div class="elementor-button elementor-slide-button elementor-size-sm">Learn more - translated </div></div></a></div>				</div>
+										<div class="elementor-repeater-item-a961f20 swiper-slide"><div class="swiper-slide-bg elementor-ken-burns elementor-ken-burns--in"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents"><div class="elementor-slide-heading">T&#x1EA7;m nh&#xEC;n v&#x1EC1; v&#x103;n ph&#xF2;ng c&#x1EE7;a b&#x1EA1;n</div><div class="elementor-slide-description">Chuy&#xEA;n gia h&#xE0;ng &#x111;&#x1EA7;u v&#x1EC1; gi&#x1EA3;i ph&#xE1;p v&#x103;n ph&#xF2;ng s&#x1ED1;</div></div></div></div><div class="elementor-repeater-item-671b314 swiper-slide"><div class="swiper-slide-bg elementor-ken-burns elementor-ken-burns--in"></div><a class="swiper-slide-inner" href="http://localhost:3000/scanner/"><div class="swiper-slide-contents"><div class="elementor-slide-heading">H&#xE3;y t&#xEC;m h&#x1EC7; th&#x1ED1;ng qu&#xE9;t ph&#xF9; h&#x1EE3;p v&#x1EDB;i d&#xF2;ng s&#x1EA3;n ph&#x1EA9;m c&#x1EE7;a ch&#xFA;ng t&#xF4;i!</div><div class="elementor-button elementor-slide-button elementor-size-sm">Li&#xEA;n h&#x1EC7; ch&#xFA;ng t&#xF4;i</div></div></a></div><div class="elementor-repeater-item-aaff96f swiper-slide"><div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="http://localhost:3000/shop/printer-mfp/am76-series/"><div class="swiper-slide-contents"><div class="elementor-slide-heading">D&#xF2;ng Avision A3 MFP AM76 / D&#xF2;ng AM56</div><div class="elementor-slide-description">L&#xE0;m cho lu&#x1ED3;ng t&#xE0;i li&#x1EC7;u tr&#x1EDF; n&#xEA;n d&#x1EC5; d&#xE0;ng</div><div class="elementor-button elementor-slide-button elementor-size-sm">T&#xEC;m hi&#x1EC3;u th&#xEA;m</div></div></a></div><div class="elementor-repeater-item-1b3f7c6 swiper-slide"><div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="http://localhost:3000/shop/printer-mfp/am40a/"><div class="swiper-slide-contents"><div class="elementor-slide-heading">T&#x1EA7;m nh&#xEC;n AM40A</div><div class="elementor-slide-description">Th&#x1EA3; v&#xE0; L&#x1EA5;y, Kh&#xF4;ng Sai L&#x1EA7;m! M&#xE1;y in A4 MFP nhanh, chuy&#xEA;n nghi&#x1EC7;p</div><div class="elementor-button elementor-slide-button elementor-size-sm">&#x110;&#x1ECD;c th&#xEA;m</div></div></a></div><div class="elementor-repeater-item-2898f65 swiper-slide"><div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="http://localhost:3000/product-category/document-scanner/ad380-series/"><div class="swiper-slide-contents"><div class="elementor-slide-heading">D&#xF2;ng Avision AD380</div><div class="elementor-slide-description">M&#xE1;y qu&#xE9;t n&#x1EA1;p gi&#x1EA5;y nhanh v&#xE0; gi&#xE1; c&#x1EA3; ph&#x1EA3;i ch&#x103;ng</div><div class="elementor-button elementor-slide-button elementor-size-sm">T&#xEC;m hi&#x1EC3;u th&#xEA;m</div></div></a></div><div class="elementor-repeater-item-e7abee1 swiper-slide"><div class="swiper-slide-bg"></div><a class="swiper-slide-inner" href="http://localhost:3000/product/ad8120/"><div class="swiper-slide-contents"><div class="elementor-slide-heading">AD8120U</div><div class="elementor-slide-description">M&#xE1;y qu&#xE9;t s&#x1EA3;n xu&#x1EA5;t kh&#x1ED1;i l&#x1B0;&#x1EE3;ng l&#x1EDB;n song c&#xF4;ng</div><div class="elementor-button elementor-slide-button elementor-size-sm">T&#xEC;m hi&#x1EC3;u th&#xEA;m</div></div></a></div>				</div>
 																				<div class="elementor-swiper-button elementor-swiper-button-prev">
-							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">Previous - translated </span>
+							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">Tr&#x1B0;&#x1EDB;c</span>
 						</div>
 						<div class="elementor-swiper-button elementor-swiper-button-next">
-							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">Next - translated </span>
+							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">K&#x1EBF; ti&#x1EBF;p</span>
 						</div>
 												</div>
 		</div>
@@ -1292,11 +1292,11 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			</div>
 							<div class="elementor-cta__content">
 				
-				<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item elementor-animated-item--grow">WHY AVISION - translated </h2>
-									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item elementor-animated-item--grow"> Good quality, witness with you.  - translated </div>
+				<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item elementor-animated-item--grow">T&#x1EA0;I SAO AVISION</h2>
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item elementor-animated-item--grow"> Ch&#x1EA5;t l&#x1B0;&#x1EE3;ng t&#x1ED1;t, c&#xF9;ng ch&#x1EE9;ng ki&#x1EBF;n nh&#xE9; b&#x1EA1;n.</div>
 				
 									<div class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item elementor-animated-item--grow">
-					<a class="elementor-cta__button elementor-button elementor-size-sm" href="http://localhost:3000/about-avision/why-avision/"> Read more  - translated </a>
+					<a class="elementor-cta__button elementor-button elementor-size-sm" href="http://localhost:3000/about-avision/why-avision/"> &#x110;&#x1ECD;c th&#xEA;m</a>
 					</div>
 							</div>
 						</div>
@@ -1318,44 +1318,44 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 											<div class="swiper-slide">
 							<a href="http://localhost:3000/product-category/document-scanner/">		<div class="elementor-carousel-image" style="background-image: url(https://www.avision.com/en/wp-content/uploads/2021/09/Document-Scanner.png)">
 					</div>
-					<div class="elementor-carousel-image-overlay e-overlay-animation-slide-up"> Document Scanner  - translated </div>
+					<div class="elementor-carousel-image-overlay e-overlay-animation-slide-up"> M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</div>
 			</a>						</div>
 											<div class="swiper-slide">
 							<a href="http://localhost:3000/product-category/flatbed-scanner/">		<div class="elementor-carousel-image" style="background-image: url(https://www.avision.com/en/wp-content/uploads/2021/09/Flatbed-Scanner.png)">
 					</div>
-					<div class="elementor-carousel-image-overlay e-overlay-animation-slide-up"> Flatbed Scanner  - translated </div>
+					<div class="elementor-carousel-image-overlay e-overlay-animation-slide-up"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</div>
 			</a>						</div>
 											<div class="swiper-slide">
 							<a href="http://localhost:3000/product-category/network-scanner/">		<div class="elementor-carousel-image" style="background-image: url(https://www.avision.com/en/wp-content/uploads/2021/09/Network-Scanner.png)">
 					</div>
-					<div class="elementor-carousel-image-overlay e-overlay-animation-slide-up"> Network Scanner  - translated </div>
+					<div class="elementor-carousel-image-overlay e-overlay-animation-slide-up"> M&#xE1;y qu&#xE9;t m&#x1EA1;ng</div>
 			</a>						</div>
 											<div class="swiper-slide">
 							<a href="http://localhost:3000/product-category/intelligent-portable-scanner/">		<div class="elementor-carousel-image" style="background-image: url(https://www.avision.com/en/wp-content/uploads/2021/09/Intelligent-Scanner.png)">
 					</div>
-					<div class="elementor-carousel-image-overlay e-overlay-animation-slide-up"> Mobile Scanner  - translated </div>
+					<div class="elementor-carousel-image-overlay e-overlay-animation-slide-up"> M&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng</div>
 			</a>						</div>
 											<div class="swiper-slide">
 							<a href="http://localhost:3000/product-category/paperair-series/">		<div class="elementor-carousel-image" style="background-image: url(https://www.avision.com/en/wp-content/uploads/2021/10/PaperAir-series.png)">
 					</div>
-					<div class="elementor-carousel-image-overlay e-overlay-animation-slide-up"> PaperAir Series  - translated </div>
+					<div class="elementor-carousel-image-overlay e-overlay-animation-slide-up"> D&#xF2;ng PaperAir</div>
 			</a>						</div>
 											<div class="swiper-slide">
 							<a href="http://localhost:3000/product-category/printer-mfp/">		<div class="elementor-carousel-image" style="background-image: url(https://www.avision.com/en/wp-content/uploads/2021/09/Multi-function-Peripheral.png)">
 					</div>
-					<div class="elementor-carousel-image-overlay e-overlay-animation-slide-up"> Multi-function Peripheral  - translated </div>
+					<div class="elementor-carousel-image-overlay e-overlay-animation-slide-up"> Thi&#x1EBF;t b&#x1ECB; ngo&#x1EA1;i vi &#x111;a ch&#x1EE9;c n&#x103;ng</div>
 			</a>						</div>
 											<div class="swiper-slide">
 							<a href="http://localhost:3000/medical-device/">		<div class="elementor-carousel-image" style="background-image: url(https://www.avision.com/en/wp-content/uploads/2022/04/Medical-Device.png)">
 					</div>
-					<div class="elementor-carousel-image-overlay e-overlay-animation-slide-up"> Medical Device  - translated </div>
+					<div class="elementor-carousel-image-overlay e-overlay-animation-slide-up"> Thi&#x1EBF;t b&#x1ECB; y t&#x1EBF;</div>
 			</a>						</div>
 									</div>
 																				<div class="elementor-swiper-button elementor-swiper-button-prev">
-							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">Previous - translated </span>
+							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">Tr&#x1B0;&#x1EDB;c</span>
 						</div>
 						<div class="elementor-swiper-button elementor-swiper-button-next">
-							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">Next - translated </span>
+							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">K&#x1EBF; ti&#x1EBF;p</span>
 						</div>
 												</div>
 		</div>
@@ -1372,11 +1372,11 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5a33cf8 elementor-widget elementor-widget-heading" data-id="5a33cf8" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-large">Digital Office Solution - translated </h1>		</div>
+			<h1 class="elementor-heading-title elementor-size-large">Gi&#x1EA3;i ph&#xE1;p v&#x103;n ph&#xF2;ng k&#x1EF9; thu&#x1EAD;t s&#x1ED1;</h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-b3347ca elementor-widget elementor-widget-text-editor" data-id="b3347ca" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Bring Professional scans to whether your Office or Home - translated </p>						</div>
+							<p>Mang c&#xE1;c b&#x1EA3;n qu&#xE9;t Chuy&#xEA;n nghi&#x1EC7;p &#x111;&#x1EBF;n V&#x103;n ph&#xF2;ng ho&#x1EB7;c Gia &#x111;&#xEC;nh c&#x1EE7;a b&#x1EA1;n</p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-65be876 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="65be876" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -1409,7 +1409,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-23f4bfe elementor-widget elementor-widget-heading" data-id="23f4bfe" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-xl">&#x300C;Empower Your Business with Avision &#x300D; - translated </h1>		</div>
+			<h1 class="elementor-heading-title elementor-size-xl">&#x300C;Trao quy&#x1EC1;n cho doanh nghi&#x1EC7;p c&#x1EE7;a b&#x1EA1;n v&#x1EDB;i Avision &#x300D;</h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-4609135 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="4609135" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -1420,7 +1420,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-feb58a6 elementor-widget elementor-widget-text-editor" data-id="feb58a6" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container"> Avision designs, manufactures, and markets a complete range of quality, high performance scanners, printers and multi-function printers. We&#x2019;re one of the world&#x2019;s leading provider of image processing equipment and digital office solutions.  - translated </div>
+				<div class="elementor-widget-container"> Avision thi&#x1EBF;t k&#x1EBF;, s&#x1EA3;n xu&#x1EA5;t v&#xE0; ti&#x1EBF;p th&#x1ECB; &#x111;&#x1EA7;y &#x111;&#x1EE7; c&#xE1;c lo&#x1EA1;i m&#xE1;y qu&#xE9;t, m&#xE1;y in v&#xE0; m&#xE1;y in &#x111;a ch&#x1EE9;c n&#x103;ng ch&#x1EA5;t l&#x1B0;&#x1EE3;ng, hi&#x1EC7;u su&#x1EA5;t cao. Ch&#xFA;ng t&#xF4;i l&#xE0; m&#x1ED9;t trong nh&#x1EEF;ng nh&#xE0; cung c&#x1EA5;p thi&#x1EBF;t b&#x1ECB; x&#x1EED; l&#xFD; h&#xEC;nh &#x1EA3;nh v&#xE0; gi&#x1EA3;i ph&#xE1;p v&#x103;n ph&#xF2;ng k&#x1EF9; thu&#x1EAD;t s&#x1ED1; h&#xE0;ng &#x111;&#x1EA7;u th&#x1EBF; gi&#x1EDB;i.</div>
 				</div>
 				<div class="elementor-element elementor-element-0e9cb82 elementor-widget elementor-widget-spacer" data-id="0e9cb82" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
@@ -1442,7 +1442,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			</div>
 						<div class="elementor-icon-box-content">
 				<h2 class="elementor-icon-box-title">
-					<span> Exclusive Technology  - translated </span>
+					<span> C&#xF4;ng ngh&#x1EC7; &#x111;&#x1ED9;c quy&#x1EC1;n</span>
 				</h2>
 							</div>
 		</div>
@@ -1461,7 +1461,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			</div>
 						<div class="elementor-icon-box-content">
 				<h2 class="elementor-icon-box-title">
-					<span> Profesional R&amp;D Team  - translated </span>
+					<span> &#x110;&#x1ED9;i ng&#x169; R &amp; D chuy&#xEA;n nghi&#x1EC7;p</span>
 				</h2>
 							</div>
 		</div>
@@ -1480,7 +1480,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			</div>
 						<div class="elementor-icon-box-content">
 				<h2 class="elementor-icon-box-title">
-					<span> High Quality Guarantee  - translated </span>
+					<span> &#x110;&#x1EA3;m b&#x1EA3;o ch&#x1EA5;t l&#x1B0;&#x1EE3;ng cao</span>
 				</h2>
 							</div>
 		</div>
@@ -1507,11 +1507,11 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			</div>
 							<div class="elementor-cta__content">
 				
-				<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item elementor-animated-item--grow">Scanner - translated </h2>
-									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item elementor-animated-item--grow"> Avision offers a complete range of professional scanners tailored to your scanning needs.  - translated </div>
+				<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item elementor-animated-item--grow">M&#xE1;y qu&#xE9;t</h2>
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item elementor-animated-item--grow"> Avision cung c&#x1EA5;p &#x111;&#x1EA7;y &#x111;&#x1EE7; c&#xE1;c lo&#x1EA1;i m&#xE1;y qu&#xE9;t chuy&#xEA;n nghi&#x1EC7;p ph&#xF9; h&#x1EE3;p v&#x1EDB;i nhu c&#x1EA7;u qu&#xE9;t c&#x1EE7;a b&#x1EA1;n.</div>
 				
 									<div class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item elementor-animated-item--grow">
-					<a class="elementor-cta__button elementor-button elementor-size-sm" href="http://localhost:3000/scanner/"> Read more  - translated </a>
+					<a class="elementor-cta__button elementor-button elementor-size-sm" href="http://localhost:3000/scanner/"> &#x110;&#x1ECD;c th&#xEA;m</a>
 					</div>
 							</div>
 						</div>
@@ -1530,11 +1530,11 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			</div>
 							<div class="elementor-cta__content">
 				
-				<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item elementor-animated-item--grow">Printer / MFP - translated </h2>
-									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item elementor-animated-item--grow"> Maximize the productivity of your business with Avision&apos;s MFP.  - translated </div>
+				<h2 class="elementor-cta__title elementor-cta__content-item elementor-content-item elementor-animated-item--grow">M&#xE1;y in / MFP</h2>
+									<div class="elementor-cta__description elementor-cta__content-item elementor-content-item elementor-animated-item--grow"> T&#x1ED1;i &#x111;a h&#xF3;a n&#x103;ng su&#x1EA5;t kinh doanh c&#x1EE7;a b&#x1EA1;n v&#x1EDB;i MFP c&#x1EE7;a Avision.</div>
 				
 									<div class="elementor-cta__button-wrapper elementor-cta__content-item elementor-content-item elementor-animated-item--grow">
-					<a class="elementor-cta__button elementor-button elementor-size-sm" href="http://localhost:3000/product-category/printer-mfp/"> Read more  - translated </a>
+					<a class="elementor-cta__button elementor-button elementor-size-sm" href="http://localhost:3000/product-category/printer-mfp/"> &#x110;&#x1ECD;c th&#xEA;m</a>
 					</div>
 							</div>
 						</div>
@@ -1557,7 +1557,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-a088f3d elementor-widget elementor-widget-heading" data-id="a088f3d" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-large">News - translated </h1>		</div>
+			<h1 class="elementor-heading-title elementor-size-large">Tin t&#x1EE9;c</h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-9feb5e3 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="9feb5e3" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -1584,11 +1584,11 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		</a>
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
-			<a href="http://localhost:3000/blog/exhibition/computex-taipei-2023/"> Avision Invites You to Visit Computex Taipei 2023  - translated </a>
+			<a href="http://localhost:3000/blog/exhibition/computex-taipei-2023/"> Avision M&#x1EDD;i B&#x1EA1;n Tham Quan COMPUTEX Taipei 2023</a>
 		</h3>
 				<div class="elementor-post__excerpt">
 					</div>
-					<a class="elementor-post__read-more" href="http://localhost:3000/blog/exhibition/computex-taipei-2023/"> Read More &#xBB;  - translated </a>
+					<a class="elementor-post__read-more" href="http://localhost:3000/blog/exhibition/computex-taipei-2023/"> &#x110;&#x1ECD;c th&#xEA;m &quot;</a>
 				</div>
 				</article>
 				<article class="elementor-post elementor-grid-item post-18090 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-medical entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
@@ -1597,11 +1597,11 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		</a>
 				<div class="elementor-post__text">
 				<h3 class="elementor-post__title">
-			<a href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2022-healthcare-expo/"> Avision Showcasing at 2022 Healthcare+ Expo  - translated </a>
+			<a href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2022-healthcare-expo/"> Tri&#x1EC3;n l&#xE3;m Avision t&#x1EA1;i 2022 Healthcare+ Expo</a>
 		</h3>
 				<div class="elementor-post__excerpt">
 					</div>
-					<a class="elementor-post__read-more" href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2022-healthcare-expo/"> Read More &#xBB;  - translated </a>
+					<a class="elementor-post__read-more" href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2022-healthcare-expo/"> &#x110;&#x1ECD;c th&#xEA;m &quot;</a>
 				</div>
 				</article>
 				</div>
@@ -1618,7 +1618,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fas fa-chevron-circle-right"></i>						</span>
-										<span class="elementor-icon-list-text">See More - translated </span>
+										<span class="elementor-icon-list-text">Xem th&#xEA;m</span>
 											</a>
 									</li>
 						</ul>
@@ -1662,7 +1662,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-31168200 elementor-widget elementor-widget-heading" data-id="31168200" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/about-avision/">About Avision - translated </a></h4>		</div>
+			<h4 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/about-avision/">Gi&#x1EDB;i thi&#x1EC7;u v&#x1EC1; Avision</a></h4>		</div>
 				</div>
 				<div class="elementor-element elementor-element-4d736331 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4d736331" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
@@ -1672,25 +1672,25 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 
 												<span class="elementor-icon-list-icon">
 							<i aria-hidden="true" class="fas fa-check"></i>						</span>
-										<span class="elementor-icon-list-text">Why Avision - translated </span>
+										<span class="elementor-icon-list-text">T&#x1EA1;i sao Avision</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
 											<a href="http://localhost:3000/about-avision/corporate-profile/">
 
-											<span class="elementor-icon-list-text">Corporate Profile - translated </span>
+											<span class="elementor-icon-list-text">H&#x1ED3; s&#x1A1; c&#xF4;ng ty</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
 											<a href="http://localhost:3000/about-avision/news/">
 
-											<span class="elementor-icon-list-text">News - translated </span>
+											<span class="elementor-icon-list-text">Tin t&#x1EE9;c</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
 											<a href="http://localhost:3000/about-avision/crs/">
 
-											<span class="elementor-icon-list-text">CSR - translated </span>
+											<span class="elementor-icon-list-text">CSR</span>
 											</a>
 									</li>
 						</ul>
@@ -1702,7 +1702,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-6a22b21d elementor-widget elementor-widget-heading" data-id="6a22b21d" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/scanner/">Scanner - translated </a></h4>		</div>
+			<h4 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/scanner/">M&#xE1;y qu&#xE9;t</a></h4>		</div>
 				</div>
 				<div class="elementor-element elementor-element-3fcd132e elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3fcd132e" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
@@ -1710,31 +1710,31 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 							<li class="elementor-icon-list-item">
 											<a href="http://localhost:3000/product-category/document-scanner/">
 
-											<span class="elementor-icon-list-text">Document Scanner - translated </span>
+											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
 											<a href="http://localhost:3000/product-category/flatbed-scanner/">
 
-											<span class="elementor-icon-list-text"> Flatbed Scanner - translated </span>
+											<span class="elementor-icon-list-text"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
 											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/">
 
-											<span class="elementor-icon-list-text">Intelligent/Portable Scanner - translated </span>
+											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
 											<a href="http://localhost:3000/product-category/network-scanner/">
 
-											<span class="elementor-icon-list-text">Network Scanner - translated </span>
+											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
 											<a href="http://localhost:3000/product-category/paperair-series/">
 
-											<span class="elementor-icon-list-text">PaperAir Series - translated </span>
+											<span class="elementor-icon-list-text">D&#xF2;ng PaperAir</span>
 											</a>
 									</li>
 						</ul>
@@ -1746,11 +1746,11 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-261a51b5 elementor-widget elementor-widget-heading" data-id="261a51b5" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/product-category/printer-mfp/" target="_blank">Printer / MFP - translated </a></h4>		</div>
+			<h4 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/product-category/printer-mfp/" target="_blank">M&#xE1;y in / MFP</a></h4>		</div>
 				</div>
 				<div class="elementor-element elementor-element-f44253e elementor-widget elementor-widget-heading" data-id="f44253e" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/product-category/medical/">Medical Device - translated </a></h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/product-category/medical/">Thi&#x1EBF;t b&#x1ECB; y t&#x1EBF;</a></h2>		</div>
 				</div>
 					</div>
 		</nav>
@@ -1758,7 +1758,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-184fd647 elementor-widget elementor-widget-heading" data-id="184fd647" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/contact-us/">Sales &amp; Support - translated </a></h4>		</div>
+			<h4 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/contact-us/">H&#x1ED7; tr&#x1EE3; b&#xE1;n h&#xE0;ng</a></h4>		</div>
 				</div>
 				<div class="elementor-element elementor-element-3349ee0c elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3349ee0c" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
@@ -1766,19 +1766,19 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 							<li class="elementor-icon-list-item">
 											<a href="http://localhost:3000/download/">
 
-											<span class="elementor-icon-list-text">Download Center - translated </span>
+											<span class="elementor-icon-list-text">Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
 											<a href="http://localhost:3000/contact-us/helpcenter/">
 
-											<span class="elementor-icon-list-text">Help Center - translated </span>
+											<span class="elementor-icon-list-text">Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</span>
 											</a>
 									</li>
 								<li class="elementor-icon-list-item">
 											<a href="http://localhost:3000/contact-us/product-registration/">
 
-											<span class="elementor-icon-list-text">Product Registration - translated </span>
+											<span class="elementor-icon-list-text">&#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</span>
 											</a>
 									</li>
 						</ul>
@@ -1786,7 +1786,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-5b85b7b elementor-widget elementor-widget-heading" data-id="5b85b7b" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/agent/">Partner Portal - translated </a></h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/agent/">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></h2>		</div>
 				</div>
 					</div>
 		</nav>
@@ -1794,19 +1794,19 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-4b4ea00c elementor-widget elementor-widget-heading" data-id="4b4ea00c" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">Follow Us - translated </h4>		</div>
+			<h4 class="elementor-heading-title elementor-size-default">Theo ch&#xFA;ng t&#xF4;i</h4>		</div>
 				</div>
 				<div class="elementor-element elementor-element-5852473a elementor-shape-circle e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="5852473a" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-social-icons-wrapper elementor-grid">
 							<span class="elementor-grid-item">
 					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-9758c9c" href="https://www.facebook.com/AvisionHQ/" target="_blank">
-						<span class="elementor-screen-only">Facebook-f - translated </span>
+						<span class="elementor-screen-only">Facebook-f</span>
 						<i class="fab fa-facebook-f"></i>					</a>
 				</span>
 							<span class="elementor-grid-item">
 					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-d550229" href="https://www.youtube.com/user/AvisionHQ" target="_blank">
-						<span class="elementor-screen-only">Youtube - translated </span>
+						<span class="elementor-screen-only">Youtube</span>
 						<i class="fab fa-youtube"></i>					</a>
 				</span>
 					</div>
@@ -1829,7 +1829,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 								<div class="elementor-element elementor-element-1398caa elementor-widget elementor-widget-copyright" data-id="1398caa" data-element_type="widget" data-widget_type="copyright.default">
 				<div class="elementor-widget-container">
 					<div class="hfe-copyright-wrapper">
-							<span>Copyright &#xA9; 2023 Avision EN | Powered by Avision ENAvision - translated </span>
+							<span>Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</span>
 					</div>
 				</div>
 				</div>
@@ -1839,7 +1839,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-553c3cad elementor-widget elementor-widget-heading" data-id="553c3cad" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/home/terms-of-use-and-legal-restrictions/">Terms and Restrictions - translated </a>&#x2502;<a href="http://localhost:3000/home/privacy-statement/">Privacy Statement - translated </a></p>		</div>
+			<p class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/home/terms-of-use-and-legal-restrictions/">&#x110;i&#x1EC1;u kho&#x1EA3;n v&#xE0; h&#x1EA1;n ch&#x1EBF;</a>&#x2502;<a href="http://localhost:3000/home/privacy-statement/">Cam k&#x1EBF;t b&#x1EA3;o m&#x1EAD;t</a></p>		</div>
 				</div>
 					</div>
 		</div>
@@ -2065,7 +2065,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			</div>
 						<div class="elementor-icon-box-content">
 				<h2 class="elementor-icon-box-title">
-					<span> Change country / region  - translated </span>
+					<span> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</span>
 				</h2>
 							</div>
 		</div>
@@ -2077,7 +2077,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-9113965 animated-fast elementor-invisible elementor-widget elementor-widget-heading" data-id="9113965" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Global Locations - translated </h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">&#x110;&#x1ECB;a &#x111;i&#x1EC3;m to&#xE0;n c&#x1EA7;u</h2>		</div>
 				</div>
 					</div>
 		</div>
@@ -2086,59 +2086,59 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 								<div class="elementor-element elementor-element-761f405b elementor-nav-menu__align-left elementor-nav-menu--dropdown-none elementor-widget__width-auto animated-fast elementor-invisible elementor-widget elementor-widget-nav-menu" data-id="761f405b" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;vertical&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-chevron-right\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-vertical e--pointer-underline e--animation-fast">
-				<ul id="menu-1-761f405b" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20515"><a class="elementor-item">Asia - translated </a>
+				<ul id="menu-1-761f405b" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20515"><a class="elementor-item">Ch&#xE2;u &#xC1;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11888"><a href="https://www.avision.com/tw/" class="elementor-sub-item">Taiwan - translated </a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20516"><a href="https://www.avision.com.cn/" class="elementor-sub-item">China - translated </a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11888"><a href="https://www.avision.com/tw/" class="elementor-sub-item">&#x110;&#xE0;i Loan</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20516"><a href="https://www.avision.com.cn/" class="elementor-sub-item">Trung Qu&#x1ED1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20517"><a class="elementor-item">Europe - translated </a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20517"><a class="elementor-item">Ch&#xE2;u &#xC2;u</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20522"><a href="https://www.avision.com/de/" class="elementor-sub-item">Germany - translated </a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20523"><a href="https://www.avision.com/ru/" class="elementor-sub-item">Russia - translated </a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20524"><a href="https://www.avision.pl/" class="elementor-sub-item">Poland - translated </a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20786"><a href="https://www.avision.com/eu/" class="elementor-sub-item">Other Countries - translated </a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20522"><a href="https://www.avision.com/de/" class="elementor-sub-item">n&#x1B0;&#x1EDB;c &#x110;&#x1EE9;c</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20523"><a href="https://www.avision.com/ru/" class="elementor-sub-item">Nga</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20524"><a href="https://www.avision.pl/" class="elementor-sub-item">Ba Lan</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20786"><a href="https://www.avision.com/eu/" class="elementor-sub-item">C&#xE1;c n&#x1B0;&#x1EDB;c kh&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-20518"><a class="elementor-item">North America - translated </a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-20518"><a class="elementor-item">B&#x1EAF;c M&#x1EF9;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-11887"><a href="http://localhost:3000/" aria-current="page" class="elementor-sub-item elementor-item-active">USA - translated </a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-11887"><a href="http://localhost:3000/" aria-current="page" class="elementor-sub-item elementor-item-active">con nai</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20519"><a class="elementor-item">Latin America - translated </a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20519"><a class="elementor-item">M&#x1EF9; La-tinh</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20525"><a href="https://www.avision.com/br/" class="elementor-sub-item">Brazil - translated </a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20521"><a href="https://www.avision.com/es/" class="elementor-sub-item">Other Countries( Spanish ) - translated </a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20525"><a href="https://www.avision.com/br/" class="elementor-sub-item">Brazil</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20521"><a href="https://www.avision.com/es/" class="elementor-sub-item">C&#xE1;c n&#x1B0;&#x1EDB;c kh&#xE1;c (T&#xE2;y Ban Nha)</a></li>
 </ul>
 </li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu - translated </span>
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Th&#x1EF1;c &#x111;&#x1A1;n</span>
 		</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-				<ul id="menu-2-761f405b" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20515"><a class="elementor-item" tabindex="-1">Asia - translated </a>
+				<ul id="menu-2-761f405b" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20515"><a class="elementor-item" tabindex="-1">Ch&#xE2;u &#xC1;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11888"><a href="https://www.avision.com/tw/" class="elementor-sub-item" tabindex="-1">Taiwan - translated </a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20516"><a href="https://www.avision.com.cn/" class="elementor-sub-item" tabindex="-1">China - translated </a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11888"><a href="https://www.avision.com/tw/" class="elementor-sub-item" tabindex="-1">&#x110;&#xE0;i Loan</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20516"><a href="https://www.avision.com.cn/" class="elementor-sub-item" tabindex="-1">Trung Qu&#x1ED1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20517"><a class="elementor-item" tabindex="-1">Europe - translated </a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20517"><a class="elementor-item" tabindex="-1">Ch&#xE2;u &#xC2;u</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20522"><a href="https://www.avision.com/de/" class="elementor-sub-item" tabindex="-1">Germany - translated </a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20523"><a href="https://www.avision.com/ru/" class="elementor-sub-item" tabindex="-1">Russia - translated </a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20524"><a href="https://www.avision.pl/" class="elementor-sub-item" tabindex="-1">Poland - translated </a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20786"><a href="https://www.avision.com/eu/" class="elementor-sub-item" tabindex="-1">Other Countries - translated </a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20522"><a href="https://www.avision.com/de/" class="elementor-sub-item" tabindex="-1">n&#x1B0;&#x1EDB;c &#x110;&#x1EE9;c</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20523"><a href="https://www.avision.com/ru/" class="elementor-sub-item" tabindex="-1">Nga</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20524"><a href="https://www.avision.pl/" class="elementor-sub-item" tabindex="-1">Ba Lan</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20786"><a href="https://www.avision.com/eu/" class="elementor-sub-item" tabindex="-1">C&#xE1;c n&#x1B0;&#x1EDB;c kh&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-20518"><a class="elementor-item" tabindex="-1">North America - translated </a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-20518"><a class="elementor-item" tabindex="-1">B&#x1EAF;c M&#x1EF9;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-11887"><a href="http://localhost:3000/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">USA - translated </a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-11887"><a href="http://localhost:3000/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">con nai</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20519"><a class="elementor-item" tabindex="-1">Latin America - translated </a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20519"><a class="elementor-item" tabindex="-1">M&#x1EF9; La-tinh</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20525"><a href="https://www.avision.com/br/" class="elementor-sub-item" tabindex="-1">Brazil - translated </a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20521"><a href="https://www.avision.com/es/" class="elementor-sub-item" tabindex="-1">Other Countries( Spanish ) - translated </a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20525"><a href="https://www.avision.com/br/" class="elementor-sub-item" tabindex="-1">Brazil</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20521"><a href="https://www.avision.com/es/" class="elementor-sub-item" tabindex="-1">C&#xE1;c n&#x1B0;&#x1EDB;c kh&#xE1;c (T&#xE2;y Ban Nha)</a></li>
 </ul>
 </li>
 </ul>			</nav>
@@ -2151,32 +2151,32 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 								<div class="elementor-element elementor-element-2c22cca elementor-widget elementor-widget-nav-menu" data-id="2c22cca" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;dropdown&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-chevron-right\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Menu - translated </span>
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Th&#x1EF1;c &#x111;&#x1A1;n</span>
 		</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-				<ul id="menu-2-2c22cca" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20515"><a class="elementor-item" tabindex="-1">Asia - translated </a>
+				<ul id="menu-2-2c22cca" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20515"><a class="elementor-item" tabindex="-1">Ch&#xE2;u &#xC1;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11888"><a href="https://www.avision.com/tw/" class="elementor-sub-item" tabindex="-1">Taiwan - translated </a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20516"><a href="https://www.avision.com.cn/" class="elementor-sub-item" tabindex="-1">China - translated </a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11888"><a href="https://www.avision.com/tw/" class="elementor-sub-item" tabindex="-1">&#x110;&#xE0;i Loan</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20516"><a href="https://www.avision.com.cn/" class="elementor-sub-item" tabindex="-1">Trung Qu&#x1ED1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20517"><a class="elementor-item" tabindex="-1">Europe - translated </a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20517"><a class="elementor-item" tabindex="-1">Ch&#xE2;u &#xC2;u</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20522"><a href="https://www.avision.com/de/" class="elementor-sub-item" tabindex="-1">Germany - translated </a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20523"><a href="https://www.avision.com/ru/" class="elementor-sub-item" tabindex="-1">Russia - translated </a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20524"><a href="https://www.avision.pl/" class="elementor-sub-item" tabindex="-1">Poland - translated </a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20786"><a href="https://www.avision.com/eu/" class="elementor-sub-item" tabindex="-1">Other Countries - translated </a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20522"><a href="https://www.avision.com/de/" class="elementor-sub-item" tabindex="-1">n&#x1B0;&#x1EDB;c &#x110;&#x1EE9;c</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20523"><a href="https://www.avision.com/ru/" class="elementor-sub-item" tabindex="-1">Nga</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20524"><a href="https://www.avision.pl/" class="elementor-sub-item" tabindex="-1">Ba Lan</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20786"><a href="https://www.avision.com/eu/" class="elementor-sub-item" tabindex="-1">C&#xE1;c n&#x1B0;&#x1EDB;c kh&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-20518"><a class="elementor-item" tabindex="-1">North America - translated </a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-20518"><a class="elementor-item" tabindex="-1">B&#x1EAF;c M&#x1EF9;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-11887"><a href="http://localhost:3000/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">USA - translated </a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-11887"><a href="http://localhost:3000/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">con nai</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20519"><a class="elementor-item" tabindex="-1">Latin America - translated </a>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20519"><a class="elementor-item" tabindex="-1">M&#x1EF9; La-tinh</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20525"><a href="https://www.avision.com/br/" class="elementor-sub-item" tabindex="-1">Brazil - translated </a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20521"><a href="https://www.avision.com/es/" class="elementor-sub-item" tabindex="-1">Other Countries( Spanish ) - translated </a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20525"><a href="https://www.avision.com/br/" class="elementor-sub-item" tabindex="-1">Brazil</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-20521"><a href="https://www.avision.com/es/" class="elementor-sub-item" tabindex="-1">C&#xE1;c n&#x1B0;&#x1EDB;c kh&#xE1;c (T&#xE2;y Ban Nha)</a></li>
 </ul>
 </li>
 </ul>			</nav>
@@ -2208,7 +2208,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items elementor-inline-items">
 							<li class="elementor-icon-list-item elementor-inline-item">
-										<span class="elementor-icon-list-text">Language - translated </span>
+										<span class="elementor-icon-list-text">Ng&#xF4;n ng&#x1EEF;</span>
 									</li>
 						</ul>
 				</div>
@@ -2318,7 +2318,7 @@ var pum_vars = {"version":"1.18.2","pm_dir_url":"https:\/\/www.avision.com\/en\/
 var pum_sub_vars = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","message_position":"top"};
 var pum_popups = {"pum-2659":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"7761","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"7761","id":2659,"slug":"paperport"},"pum-11307":{"triggers":[{"type":"click_open","settings":{"extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"7761","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"7761","id":11307,"slug":"example-of-s-n"}};
 </script>
-<script src="//www.avision.com/en/wp-content/uploads/pum/pum-site-scripts-1.js?defer&amp;generated=1700713686&amp;ver=1.18.2" id="popup-maker-site-js"></script>
+<script src="//www.avision.com/en/wp-content/uploads/pum/pum-site-scripts-1.js?defer&amp;generated=1700726975&amp;ver=1.18.2" id="popup-maker-site-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-hover-style.min.js?ver=3.0.5.1644388334" id="oceanwp-woo-hover-style-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-quick-view.min.js?ver=3.0.5.1644388334" id="oceanwp-woo-quick-view-js"></script>
 <script src="https://www.avision.com/en/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>

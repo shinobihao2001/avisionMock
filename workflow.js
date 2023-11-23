@@ -5,37 +5,46 @@ const pageService = require("./src/services/pageService.js");
 const transAPI = require("./src/services/transAPI.js");
 require("dotenv").config();
 
-transAPI.translateGoogle("Hello how are you");
+// (async () => {
+//   let word = await transAPI.translateGoogle("Hello how are you");
+//   console.log(typeof word);
+//   console.log(word);
+// })();
+
 // function delay(milliseconds) {
 //   return new Promise((resolve) => {
 //     setTimeout(resolve, milliseconds);
 //   });
 // }
 
-// (async () => {
-//   try {
-//     // Step 1: Connect to the database
-//     await connectDB();
-//     //console.log("Connected to the database");
+(async () => {
+  try {
+    // Step 1: Connect to the database
+    await connectDB();
+    // //console.log("Connected to the database");
 
-//     // //Step 2: Crawling the URLs
-//     // await linkService.crawAllUrl();
-//     // // //await delay(5000);
-//     // console.log("URL crawling completed successfully");
+    // // //Step 2: Crawling the URLs
+    // // await linkService.crawAllUrl();
+    // // // //await delay(5000);
+    // // console.log("URL crawling completed successfully");
 
-//     //Step 3: Crawling all the pages English word in to db
-//     const links = await linkService.getLinksNeedToCrawl();
-//     // await contentService.crawlingAllPage(links);
-//     // console.log("Crawling all words");
+    // //Step 3: Crawling all the pages English word in to db
+    const links = await linkService.getLinksNeedToCrawl();
+    // await contentService.crawlingAllPage(links);
+    // // console.log("Crawling all words");
 
-//     //Step 5: Translat all page and save them to local
-//     let result = await pageService.translateAllPage(links);
-//     console.log(result);
-//     console.log("Application initialized successfully");
-//   } catch (error) {
-//     console.error("Error initializing application:", error);
-//   }
-// })();
+    //Step 4: Translate all words in db in to Vietnamese
+    // await contentService.translateDb();
+    // console.log("Translate all words to vn done");
+
+    //Step 5: Translat all page and save them to local
+    let result = await pageService.translateAllPage(links);
+    console.log(result);
+    console.log("Application initialized successfully");
+  } catch (error) {
+    console.error("Error initializing application:", error);
+  }
+})();
 
 //Step 4: Translate all words in db in to Vietnamese
 // (async () => {

@@ -1,5 +1,5 @@
 const contentModel = require("../models/content");
-const translate = require("./transAPI");
+const transAPI = require("./transAPI");
 const Crawler = require("crawler");
 
 async function createContent(node, url) {
@@ -93,11 +93,12 @@ module.exports = {
     const allContents = await contentModel.find();
     for (var content of allContents) {
       console.log("Câu nhận vào: " + content.text);
-      let newText = await translate(content.text);
+      let newText = await transAPI.translateGoogle(content.text);
       console.log("Câu được dịch: " + newText);
       content.newText = newText;
       await content.save().catch((err) => console.log(err));
-      await new Promise((resolve) => setTimeout(resolve, 30000));
+      // Cái này khi xài chat gpt
+      //await new Promise((resolve) => setTimeout(resolve, 30000));
       console.log("Đã đợi xong 30s");
     }
   },
