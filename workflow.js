@@ -30,8 +30,8 @@ require("dotenv").config();
 
     // //Step 3: Crawling all the pages English word in to db
     const links = await linkService.getLinksNeedToCrawl();
-    // await contentService.crawlingAllPage(links);
-    // // console.log("Crawling all words");
+    let mess = await contentService.crawlingAllPage(links);
+    console.log("Crawling all words");
 
     //Step 4: Translate all words in db in to Vietnamese
     // await contentService.translateDb();

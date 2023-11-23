@@ -4,11 +4,22 @@ const Crawler = require("crawler");
 
 async function createContent(node, url) {
   await contentModel.create({
-    url: url,
-    tagName: node.prop("tagName"),
+    // url: url,
+    //  tagName: node.prop("tagName"),
     text: node.text().replace(/\s+/g, " "),
     newText: node.text().replace(/\s+/g, " ") + " - translated ",
+    isTranslated: false,
   });
+}
+
+function createOb(node, url) {
+  return {
+    // url: url,
+    // tagName: node.prop("tagName"),
+    text: node.text().replace(/\s+/g, " "),
+    newText: node.text().replace(/\s+/g, " ") + " - translated ",
+    isTranslated: false,
+  };
 }
 
 const crawler = new Crawler({
@@ -18,6 +29,7 @@ const crawler = new Crawler({
 
 function getPageAsync(urls, crawler) {
   return new Promise((resolve, reject) => {
+    const words = new Set();
     const loop = urls.map((url) => {
       return new Promise((resolve, reject) => {
         crawler.queue([
@@ -35,7 +47,8 @@ function getPageAsync(urls, crawler) {
                   if (content) {
                     if ($(element).children(":not(br)").length == 0) {
                       let node = $(element);
-                      await createContent(node, res.options.uri);
+                      // await createContent(node, res.options.uri);
+                      words.add(node.text().replace(/\s+/g, " "));
                     }
                     $(element)
                       .find("*")
@@ -43,13 +56,14 @@ function getPageAsync(urls, crawler) {
                         let node = $(childNode);
                         if (node.children(":not(br)").length == 0)
                           if (node.text().trim()) {
-                            await createContent(node, res.options.uri);
+                            //await createContent(node, res.options.uri);
+                            words.add(node.text().replace(/\s+/g, " "));
                           }
                       });
                   }
                 });
               }
-              resolve("Crawl Done");
+              resolve(words);
               done();
             },
           },
@@ -73,11 +87,34 @@ module.exports = {
 
   crawlingAllPage: async function (links) {
     //console.log(links);
+    const uniqueWords = new Set();
     for (let link of links) {
       console.log(`start crawling: ${link}`);
       let result = await this.crawlingOnePage(link, crawler);
+      uniqueWords = uniqueWords.union(result);
       console.log(`finish crawling: ${link}`);
     }
+    //Get all the word in db in to a set
+    let contents = await contentModel.find();
+    let oldWords = new Set();
+    for (let content of contents) {
+      oldWords.add(content.text);
+    }
+
+    // get the word that not duplicated
+    uniqueWords = uniqueWords.difference(oldWords);
+
+    //add new wors to db
+    arr = Array.from(uniqueWords);
+    for (let i = 0; i < arr.length; i++) {
+      await contentModel.create({
+        text: arr[i],
+        newText: arr[i] + " - translated",
+        isTranslated: false,
+      });
+    }
+
+    return "Done";
   },
 
   findTranslatedWord: async function (world) {
@@ -99,7 +136,7 @@ module.exports = {
       await content.save().catch((err) => console.log(err));
       // Cái này khi xài chat gpt
       //await new Promise((resolve) => setTimeout(resolve, 30000));
-      console.log("Đã đợi xong 30s");
+      //console.log("Đã đợi xong 30s");
     }
   },
 };
