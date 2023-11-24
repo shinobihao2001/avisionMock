@@ -23,6 +23,9 @@ require("dotenv").config();
     await connectDB();
     // //console.log("Connected to the database");
 
+    // await contentService.checkAll();
+    // console.log("All check done");
+
     // //Step 2: Crawling the URLs
     // await linkService.crawAllUrl();
     // // //await delay(5000);
@@ -56,3 +59,5 @@ require("dotenv").config();
 //   //Step 5: Demo: go to a link and replace it with Vietnamese and give it back to fe
 //   pageService.getTranslatePage(process.env.ORIGIN_URL);
 // })();
+
+//CHECK ALL THE translate word:
