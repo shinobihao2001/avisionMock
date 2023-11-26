@@ -3,6 +3,7 @@ const Cheerio = require("cheerio");
 const fs = require("fs");
 const contentService = require("./contentService");
 const path = require("path");
+require("dotenv").config();
 
 const crawler = new Crawler({
   maxConnections: 1,
@@ -20,17 +21,19 @@ function modifyHTML(urls, crawler) {
                 console.log(error);
               } else {
                 const newDoc = res.body;
-                const $ = Cheerio.load(newDoc);
+                const $$ = Cheerio.load(newDoc);
+                // const $ = res.$;
+                //$("script, style").remove();
 
                 //replace the old link with VNLink
-                $("a").each((index, element) => {
-                  const href = $(element).attr("href");
+                $$("a").each((index, element) => {
+                  const href = $$(element).attr("href");
                   if (
                     href &&
                     href.startsWith("https://www.avision.com") &&
                     !href.endsWith("png")
                   ) {
-                    $(element).attr(
+                    $$(element).attr(
                       "href",
                       href.replace(
                         "https://www.avision.com/en",
@@ -42,8 +45,10 @@ function modifyHTML(urls, crawler) {
                 });
 
                 //replace old text with translate text
-                var doc = $(".elementor-widget-container");
+                var doc = $$(process.env.SELECT_TAGS).not("style, script");
+                console.log(doc.length);
                 for (let index = 0; index < doc.length; index++) {
+                  console.log(index);
                   let element = doc.eq(index);
                   let content = element.text().trim();
 
@@ -52,12 +57,16 @@ function modifyHTML(urls, crawler) {
                       let newText = await contentService.findTranslatedWord(
                         element.text().replace(/\s+/g, " ")
                       );
-                      element.text(newText);
+                      $$(element).text(newText);
                     } else {
-                      const children = element.find("*");
-                      for (let index = 0; index < children.length; index++) {
-                        let childNode = children.eq(index);
-                        let node = $(childNode);
+                      const children = element.find("*").not("style, script");
+                      for (
+                        let childIndex = 0;
+                        childIndex < children.length;
+                        childIndex++
+                      ) {
+                        let childNode = children.eq(childIndex);
+                        let node = $$(childNode);
                         if (
                           node.children(":not(br)").length == 0 &&
                           node.text().trim()
@@ -73,11 +82,20 @@ function modifyHTML(urls, crawler) {
                 }
 
                 //remove popmade
-                $("#popmake-2659").remove();
-                $("#popmake-11307").remove();
+                $$("#popmake-2659").remove();
+                $$("#popmake-11307").remove();
+
+                //remove compare button
+                $$(".compare.button").remove();
+
+                //remove compare area
+                $$(".widget.yith-woocompare-widget").remove();
+
+                //remove copmare count
+                $$(".yith-woocompare-count").remove();
 
                 // Save the modified HTML to a file
-                const modifiedHtml = $.html();
+                const modifiedHtml = $$.html();
 
                 // fs.writeFileSync(
                 //   url
@@ -152,6 +170,7 @@ module.exports = {
     for (let url of urls) {
       console.log(url);
       let html = await this.translatePage(url);
+      console.log(html);
       let filename = this.getLocalName(url);
       let results = await this.saveHtmlLocal(html, filename);
     }

@@ -41,4 +41,20 @@ module.exports = {
       console.log(error);
     }
   },
+
+  async translateHtmlGoogle(html) {
+    try {
+      let [translations] = await translateClient.translate(html, "vi");
+      // translations = Array.isArray(translations)
+      //   ? translations
+      //   : [translations];
+      // console.log(typeof translations);
+      console.log(translations);
+      //console.log("Translations:");
+      //==console.log(`Tiếng Việt :  ${translations}`);
+      return translations;
+    } catch (error) {
+      console.log(error);
+    }
+  },
 };

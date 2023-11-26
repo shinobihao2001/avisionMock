@@ -824,7 +824,19 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel="stylesheet" id="oceanwp-woo-quick-view-css" href="https://www.avision.com/en/wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min.css?ver=6.3.2" media="all">
 <link rel="stylesheet" id="chld_thm_cfg_child-css" href="https://www.avision.com/en/wp-content/themes/oceanwp-child/style.css?ver=3.0.5.1644388334" media="all">
 <link rel="stylesheet" id="hfe-widgets-style-css" href="https://www.avision.com/en/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.17" media="all">
-<link rel="stylesheet" id="popup-maker-site-css" href="//www.avision.com/en/wp-content/uploads/pum/pum-site-styles-1.css?generated=1700745011&amp;ver=1.18.2" media="all">
+<link rel="stylesheet" id="popup-maker-site-css" href="https://www.avision.com/en/wp-content/plugins/popup-maker/assets/css/pum-site.css?ver=1.18.2" media="all">
+<style id="popup-maker-site-inline-css">
+/* Popup Theme 7761: Default */
+.pum-theme-7761, .pum-theme-7761 { background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-7761 .pum-container, .pum-theme-7761 .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1.00 ) } 
+.pum-theme-7761 .pum-title, .pum-theme-7761 .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; line-height: 36px } 
+.pum-theme-7761 .pum-content, .pum-theme-7761 .pum-content { color: #8c8c8c; font-family: inherit; font-weight: 400 } 
+.pum-theme-7761 .pum-content + .pum-close, .pum-theme-7761 .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: 400; font-size: 12px; line-height: 36px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1.00 ) } 
+
+#pum-2659 {z-index: 1999999999}
+#pum-11307 {z-index: 1999999999}
+
+</style>
 <link rel="stylesheet" id="um_crop-css" href="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/css/um-crop.css?ver=2.7.0" media="all">
 <link rel="stylesheet" id="um_modal-css" href="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/css/um-modal.css?ver=2.7.0" media="all">
 <link rel="stylesheet" id="um_ui-css" href="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/jquery-ui.css?ver=1.12.1" media="all">
@@ -870,7 +882,7 @@ var log_object = {"ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-aja
 <script src="https://www.avision.com/en/wp-content/plugins/download-manager/assets/bootstrap/js/bootstrap.min.js?ver=6.3.2" id="wpdm-frontend-js-js"></script>
 <script id="wpdm-frontjs-js-extra">
 var wpdm_url = {"home":"https:\/\/www.avision.com\/en\/","site":"https:\/\/www.avision.com\/en\/","ajax":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php"};
-var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>","client_id":"73a061dcc504fb7b97dc732e8cdba4b9"};
+var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>","client_id":"0a554a8be485bc75781e949ae971b7eb"};
 var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click following button to start download.","start_dl":"Start Download"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/download-manager/assets/js/front.js?ver=3.2.81" id="wpdm-frontjs-js"></script>
@@ -1071,7 +1083,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	
 	<div id="outer-wrap" class="site clr">
 
-		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+		<a class="skip-link screen-reader-text" href="#main">Chuy&#x1EC3;n &#x111;&#x1EBF;n n&#x1ED9;i dung</a>
 
 		
 		<div id="wrap" class="clr">
@@ -1247,7 +1259,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-446a22e8 elementor-widget elementor-widget-text-editor" data-id="446a22e8" data-element_type="widget" data-settings="{&quot;motion_fx_motion_fx_scrolling&quot;:&quot;yes&quot;,&quot;motion_fx_devices&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;]}" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><strong>S&#x1ED1; h&#xF3;a t&#x1ED1;c &#x111;&#x1ED9; cao</strong></p><p>B&#x1EA1;n &#x111;ang c&#x1EA3;m th&#x1EA5;y m&#x1EC7;t m&#x1ECF;i v&#xEC; &#x111;&#x1ED1;ng gi&#x1EA5;y t&#x1EDD; ch&#x1EA5;t &#x111;&#x1ED1;ng xung quanh v&#x103;n ph&#xF2;ng? H&#xE3;y &#x111;&#x1EC3; Avision x&#x1EED; l&#xFD; t&#x1EA5;t c&#x1EA3; c&#xE1;c nhu c&#x1EA7;u v&#x1EC1; t&#xE0;i li&#x1EC7;u c&#x1EE7;a b&#x1EA1;n v&#xE0; lo&#x1EA1;i b&#x1ECF; t&#x1EA5;t c&#x1EA3; gi&#x1EA5;y t&#x1EDD; &#x111;&#xF3; ngay l&#x1EAD;p t&#x1EE9;c! M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u t&#x1ED1;c &#x111;&#x1ED9; cao c&#x1EE7;a Avision &#x111;&#x1B0;&#x1EE3;c thi&#x1EBF;t k&#x1EBF; cho nh&#x1EEF;ng ng&#x1B0;&#x1EDD;i d&#xF9;ng &#x111;ang t&#xEC;m ki&#x1EBF;m gi&#x1EA3;i ph&#xE1;p ch&#x1EE5;p &#x1EA3;nh t&#xE0;i li&#x1EC7;u ch&#x1EA5;t l&#x1B0;&#x1EE3;ng cao v&#x1EDB;i ng&#xE2;n s&#xE1;ch h&#x1EA1;n h&#x1EB9;p.</p><p>Tr&#x1EA3;i nghi&#x1EC7;m s&#x1EE9;c m&#x1EA1;nh c&#x1EE7;a m&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u t&#x1ED1;c &#x111;&#x1ED9; cao c&#x1EE7;a Avision, v&#x1EDB;i B&#x1ED9; n&#x1EA1;p t&#xE0;i li&#x1EC7;u t&#x1EF1; &#x111;&#x1ED9;ng (ADF) t&#xED;ch h&#x1EE3;p ch&#x1EE9;a t&#x1EDB;i 500 trang v&#xE0; t&#x1ED1;c &#x111;&#x1ED9; qu&#xE9;t l&#xEA;n t&#x1EDB;i 120 trang m&#x1ED7;i ph&#xFA;t (ch&#x1EBF; &#x111;&#x1ED9; &#x111;&#x1A1;n gi&#x1EA3;n) ho&#x1EB7;c 240 h&#xEC;nh &#x1EA3;nh m&#x1ED7;i ph&#xFA;t (ch&#x1EBF; &#x111;&#x1ED9; song c&#xF4;ng) &#x1EDF; &#x111;&#x1ED9; ph&#xE2;n gi&#x1EA3;i 200 dpi.</p><p>Th&#x1EF1;c hi&#x1EC7;n c&#xE1;c c&#xF4;ng vi&#x1EC7;c qu&#xE9;t ph&#x1EE9;c t&#x1EA1;p m&#x1ED9;t c&#xE1;ch d&#x1EC5; d&#xE0;ng ch&#x1EC9; b&#x1EB1;ng m&#x1ED9;t n&#xFA;t nh&#x1EA5;n &#x111;&#x1A1;n gi&#x1EA3;n v&#x1EDB;i ph&#x1EA7;n m&#x1EC1;m Tr&#xEC;nh qu&#x1EA3;n l&#xFD; n&#xFA;t Avision &#x111;&#x1ED9;c quy&#x1EC1;n c&#x1EE7;a ch&#xFA;ng t&#xF4;i. T&#x1EF1; &#x111;&#x1ED9;ng g&#x1EED;i h&#xEC;nh &#x1EA3;nh &#x111;&#x1B0;&#x1EE3;c qu&#xE9;t c&#x1EE7;a b&#x1EA1;n t&#x1EDB;i e-mail, m&#xE1;y in ho&#x1EB7;c c&#xE1;c &#x1EE9;ng d&#x1EE5;ng ch&#x1EC9;nh s&#x1EED;a h&#xEC;nh &#x1EA3;nh kh&#xE1;c &#x111;&#x1EC3; c&#xF3; &#x111;&#x1B0;&#x1EE3;c t&#xED;nh linh ho&#x1EA1;t v&#xE0; hi&#x1EC7;u qu&#x1EA3; tuy&#x1EC7;t v&#x1EDD;i.</p>						</div>
+							<p><strong>S&#x1ED1; h&#xF3;a t&#x1ED1;c &#x111;&#x1ED9; cao</strong></p><p>B&#x1EA1;n &#x111;ang c&#x1EA3;m th&#x1EA5;y m&#x1EC7;t m&#x1ECF;i v&#xEC; &#x111;&#x1ED1;ng gi&#x1EA5;y t&#x1EDD; ch&#x1EA5;t &#x111;&#x1ED1;ng xung quanh v&#x103;n ph&#xF2;ng? H&#xE3;y &#x111;&#x1EC3; Avision x&#x1EED; l&#xFD; t&#x1EA5;t c&#x1EA3; c&#xE1;c nhu c&#x1EA7;u v&#x1EC1; t&#xE0;i li&#x1EC7;u c&#x1EE7;a b&#x1EA1;n v&#xE0; lo&#x1EA1;i b&#x1ECF; t&#x1EA5;t c&#x1EA3; gi&#x1EA5;y t&#x1EDD; &#x111;&#xF3; ngay l&#x1EAD;p t&#x1EE9;c! M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u t&#x1ED1;c &#x111;&#x1ED9; cao c&#x1EE7;a Avision &#x111;&#x1B0;&#x1EE3;c thi&#x1EBF;t k&#x1EBF; cho nh&#x1EEF;ng ng&#x1B0;&#x1EDD;i d&#xF9;ng &#x111;ang t&#xEC;m ki&#x1EBF;m gi&#x1EA3;i ph&#xE1;p ch&#x1EE5;p &#x1EA3;nh t&#xE0;i li&#x1EC7;u ch&#x1EA5;t l&#x1B0;&#x1EE3;ng cao v&#x1EDB;i ng&#xE2;n s&#xE1;ch h&#x1EA1;n ch&#x1EBF;.</p><p>Tr&#x1EA3;i nghi&#x1EC7;m s&#x1EE9;c m&#x1EA1;nh c&#x1EE7;a m&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u t&#x1ED1;c &#x111;&#x1ED9; cao c&#x1EE7;a Avision, v&#x1EDB;i B&#x1ED9; n&#x1EA1;p t&#xE0;i li&#x1EC7;u t&#x1EF1; &#x111;&#x1ED9;ng (ADF) t&#xED;ch h&#x1EE3;p ch&#x1EE9;a t&#x1EDB;i 500 trang v&#xE0; t&#x1ED1;c &#x111;&#x1ED9; qu&#xE9;t l&#xEA;n t&#x1EDB;i 120 trang m&#x1ED7;i ph&#xFA;t (ch&#x1EBF; &#x111;&#x1ED9; &#x111;&#x1A1;n gi&#x1EA3;n) ho&#x1EB7;c 240 h&#xEC;nh &#x1EA3;nh m&#x1ED7;i ph&#xFA;t (ch&#x1EBF; &#x111;&#x1ED9; song c&#xF4;ng) &#x1EDF; &#x111;&#x1ED9; ph&#xE2;n gi&#x1EA3;i 200 dpi.</p><p>Th&#x1EF1;c hi&#x1EC7;n c&#xE1;c c&#xF4;ng vi&#x1EC7;c qu&#xE9;t ph&#x1EE9;c t&#x1EA1;p m&#x1ED9;t c&#xE1;ch d&#x1EC5; d&#xE0;ng ch&#x1EC9; b&#x1EB1;ng m&#x1ED9;t n&#xFA;t nh&#x1EA5;n &#x111;&#x1A1;n gi&#x1EA3;n v&#x1EDB;i ph&#x1EA7;n m&#x1EC1;m Tr&#xEC;nh qu&#x1EA3;n l&#xFD; n&#xFA;t Avision &#x111;&#x1ED9;c quy&#x1EC1;n c&#x1EE7;a ch&#xFA;ng t&#xF4;i. T&#x1EF1; &#x111;&#x1ED9;ng g&#x1EED;i h&#xEC;nh &#x1EA3;nh &#x111;&#x1B0;&#x1EE3;c qu&#xE9;t c&#x1EE7;a b&#x1EA1;n t&#x1EDB;i e-mail, m&#xE1;y in ho&#x1EB7;c c&#xE1;c &#x1EE9;ng d&#x1EE5;ng ch&#x1EC9;nh s&#x1EED;a h&#xEC;nh &#x1EA3;nh kh&#xE1;c &#x111;&#x1EC3; c&#xF3; &#x111;&#x1B0;&#x1EE3;c t&#xED;nh linh ho&#x1EA1;t v&#xE0; hi&#x1EC7;u qu&#x1EA3; tuy&#x1EC7;t v&#x1EDD;i.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -1274,7 +1286,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 							<span class="yith-woocompare-icon">
 					<img src="https://www.avision.com/en/wp-content/plugins/yith-woocommerce-compare-premium/assets/images/compare-icon.png">
 				</span>
-						<span class="yith-woocompare-count"> 0 s&#x1EA3;n ph&#x1EA9;m so s&#xE1;nh</span>
+						
 		</span>
 	</a>
 </div>
@@ -1307,183 +1319,89 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		<div id="block-3" class="sidebar-box widget_block clr">
 <div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
 <div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
-<h2> &#x258D;<strong>Product categories</strong></h2>
+<h2> &#x258D;<strong>Danh m&#x1EE5;c s&#x1EA3;n ph&#x1EA9;m</strong></h2>
 
 
 <div data-block-name="woocommerce/product-categories" data-is-dropdown="true" class="wp-block-woocommerce-product-categories wc-block-product-categories is-dropdown " style>
 			<div class="wc-block-product-categories__dropdown">
-				<label class="screen-reader-text" for="product-categories-655f4f33bdd0a-select">
+				<label class="screen-reader-text" for="product-categories-65622342c961c-select">
 					Select a category
 				</label>
-				<select aria-label="List of categories with their product counts" id="product-categories-655f4f33bdd0a-select">
-					<option value="false" hidden>
-						Select a category
-					</option>
+				<select aria-label="List of categories with their product counts" id="product-categories-65622342c961c-select">
+					<option value="false" hidden> Ch&#x1ECD;n m&#x1ED9;t danh m&#x1EE5;c</option>
 					
-				<option value="https://www.avision.com/en/product-category/document-scanner/">
-					
-					DocumentScanner
-					(61)
-				</option>
+				<option value="https://www.avision.com/en/product-category/document-scanner/"> M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u (61)</option>
 				
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad120-series/">
-					&#x2212;
-					AD120 series
-					(2)
-				</option>
+				<option value="https://www.avision.com/en/product-category/document-scanner/ad120-series/"> &#x2212; D&#xF2;ng AD120 (2)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad130-series/">
-					&#x2212;
-					AD130 series
-					(1)
-				</option>
+				<option value="https://www.avision.com/en/product-category/document-scanner/ad130-series/"> &#x2212; D&#xF2;ng AD130 (1)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad225-series/">
-					&#x2212;
-					AD225 Series
-					(3)
-				</option>
+				<option value="https://www.avision.com/en/product-category/document-scanner/ad225-series/"> &#x2212; D&#xF2;ng AD225 (3)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad230-series/">
-					&#x2212;
-					AD230 Series
-					(1)
-				</option>
+				<option value="https://www.avision.com/en/product-category/document-scanner/ad230-series/"> &#x2212; D&#xF2;ng AD230 (1)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad240-series/">
-					&#x2212;
-					AD240 Series
-					(2)
-				</option>
+				<option value="https://www.avision.com/en/product-category/document-scanner/ad240-series/"> &#x2212; D&#xF2;ng AD240 (2)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad340g-series/">
-					&#x2212;
-					AD340G(F) Series
-					(6)
-				</option>
+				<option value="https://www.avision.com/en/product-category/document-scanner/ad340g-series/"> &#x2212; D&#xF2;ng AD340G(F) (6)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad345g-series/">
-					&#x2212;
-					AD345G(F) Series
-					(7)
-				</option>
+				<option value="https://www.avision.com/en/product-category/document-scanner/ad345g-series/"> &#x2212; D&#xF2;ng AD345G(F) (7)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad350-series/">
-					&#x2212;
-					AD350 Series
-					(3)
-				</option>
+				<option value="https://www.avision.com/en/product-category/document-scanner/ad350-series/"> &#x2212; D&#xF2;ng AD350 (3)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad360-series/">
-					&#x2212;
-					AD360G(F) Series
-					(5)
-				</option>
+				<option value="https://www.avision.com/en/product-category/document-scanner/ad360-series/"> &#x2212; D&#xF2;ng AD360G(F) (5)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad370-series/">
-					&#x2212;
-					AD370(F) Series
-					(7)
-				</option>
+				<option value="https://www.avision.com/en/product-category/document-scanner/ad370-series/"> &#x2212; D&#xF2;ng AD370(F) (7)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad380-series/">
-					&#x2212;
-					AD380(F) Series
-					(6)
-				</option>
+				<option value="https://www.avision.com/en/product-category/document-scanner/ad380-series/"> &#x2212; D&#xF2;ng AD380(F) (6)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad3100-series/">
-					&#x2212;
-					AD3100(F) Series
-					(5)
-				</option>
+				<option value="https://www.avision.com/en/product-category/document-scanner/ad3100-series/"> &#x2212; D&#xF2;ng AD3100(F) (5)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad6090-series/">
-					&#x2212;
-					AD6090 Series
-					(2)
-				</option>
+				<option value="https://www.avision.com/en/product-category/document-scanner/ad6090-series/"> &#x2212; D&#xF2;ng AD6090 (2)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad8100-series/">
-					&#x2212;
-					AD8000 Series
-					(5)
-				</option>
+				<option value="https://www.avision.com/en/product-category/document-scanner/ad8100-series/"> &#x2212; D&#xF2;ng AD8000 (5)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/document-scanner/av332-series/">
-					&#x2212;
-					AV332(F) Series
-					(3)
-				</option>
+				<option value="https://www.avision.com/en/product-category/document-scanner/av332-series/"> &#x2212; D&#xF2;ng AV332(F) (3)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/document-scanner/av5000-series/">
-					&#x2212;
-					AV5000 Series
-					(2)
-				</option>
+				<option value="https://www.avision.com/en/product-category/document-scanner/av5000-series/"> &#x2212; D&#xF2;ng AV5000 (2)</option>
 				
 			
 			
-				<option value="https://www.avision.com/en/product-category/flatbed-scanner/">
-					
-					Flatbed Scanner
-					(8)
-				</option>
+				<option value="https://www.avision.com/en/product-category/flatbed-scanner/"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng (8)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/network-scanner/">
-					
-					Network Scanner
-					(9)
-				</option>
+				<option value="https://www.avision.com/en/product-category/network-scanner/"> M&#xE1;y qu&#xE9;t m&#x1EA1;ng (9)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/mobile-scanner/">
-					
-					Mobile Scanner
-					(2)
-				</option>
+				<option value="https://www.avision.com/en/product-category/mobile-scanner/"> M&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng (2)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/paperair-series/">
-					
-					PaperAir Series
-					(4)
-				</option>
+				<option value="https://www.avision.com/en/product-category/paperair-series/"> D&#xF2;ng PaperAir (4)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/printer-mfp/">
-					
-					Printer / MFP
-					(9)
-				</option>
+				<option value="https://www.avision.com/en/product-category/printer-mfp/"> M&#xE1;y in / MFP (9)</option>
 				
 			
-				<option value="https://www.avision.com/en/product-category/medical/">
-					
-					Medical Device
-					(1)
-				</option>
+				<option value="https://www.avision.com/en/product-category/medical/"> Thi&#x1EBF;t b&#x1ECB; y t&#x1EBF; (1)</option>
 				
 			
 				</select>
 			</div>
-			<button type="button" class="wc-block-product-categories__button" aria-label="Go to category" onclick="const url = document.getElementById( &apos;product-categories-655f4f33bdd0a-select&apos; ).value; if ( &apos;false&apos; !== url ) document.location.href = url;">
+			<button type="button" class="wc-block-product-categories__button" aria-label="Go to category" onclick="const url = document.getElementById( &apos;product-categories-65622342c961c-select&apos; ).value; if ( &apos;false&apos; !== url ) document.location.href = url;">
 				<svg aria-hidden="true" role="img" focusable="false" class="dashicon dashicons-arrow-right-alt2" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewbox="0 0 20 20">
 					<path d="M6 15l5-5-5-5 1-2 7 7-7 7z"/>
 				</svg>
@@ -1492,7 +1410,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </div></div>
 </div><div id="block-4" class="sidebar-box widget_block clr">
 <div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
-<h2>&#x258D; Product selection </h2>
+<h2>&#x258D; L&#x1EF1;a ch&#x1ECD;n s&#x1EA3;n ph&#x1EA9;m</h2>
 
 
 
@@ -1502,11 +1420,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container"><p></p>
 </div></div>
 </div><div id="block-11" class="sidebar-box widget_block clr">
-<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container"><div class="widget yith-woocompare-widget"><h2 class="widgettitle">&#x258D;Product Compare</h2>
-<div class="yith-woocompare-widget-content" data-lang>
-			<span class="list_empty">No products to compare</span>
-	</div>
-</div></div></div>
+<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container"></div></div>
 </div>
 	</div><!-- #sidebar-inner -->
 
@@ -1529,74 +1443,74 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<li class="view-title">View:</li>
 	<li><a class="view-first active" href="http://localhost:3000/product-category/document-scanner/?products-per-page=24">24</a></li>
 	<li><a class="view-second" href="http://localhost:3000/product-category/document-scanner/?products-per-page=48">48</a></li>
-	<li><a class="view-all" href="http://localhost:3000/product-category/document-scanner/?products-per-page=all">All</a></li>
+	<li><a class="view-all" href="http://localhost:3000/product-category/document-scanner/?products-per-page=all">T&#x1EA5;t c&#x1EA3;</a></li>
 </ul>
 </div>
 <ul class="products oceanwp-row clr grid infinite-scroll-wrap">
 <li class="product-category product first col span_1_of_3">
 	<a aria-label="Visit product category AD120 series" href="http://localhost:3000/product-category/document-scanner/ad120-series/"><div class="product-inner clr"><div class="woo-entry-image clr"><a href="http://localhost:3000/product-category/document-scanner/ad120-series/"><img src="https://www.avision.com/en/wp-content/uploads/2021/09/AD120-300x300.jpg" alt="AD120 series" width="300" height="300" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/AD120-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/AD120-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/AD120-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/09/AD120-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/09/AD120-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/09/AD120-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/09/AD120.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a></div><div class="woo-entry-inner clr"><a href="http://localhost:3000/product-category/document-scanner/ad120-series/">		<h2 class="woocommerce-loop-category__title">
 			AD120 series <mark class="count">(2)</mark>		</h2>
-		</a><div class="woo-desc"><div class="description">AD120 series&#xFF1A;AD120,AD120S,AD125S</div></div></div></div></a></li>
+		</a><div class="woo-desc"><div class="description">D&#xF2;ng AD120:AD120,AD120S,AD125S</div></div></div></div></a></li>
 <li class="product-category product col span_1_of_3">
 	<a aria-label="Visit product category AD130 series" href="http://localhost:3000/product-category/document-scanner/ad130-series/"><div class="product-inner clr"><div class="woo-entry-image clr"><a href="http://localhost:3000/product-category/document-scanner/ad130-series/"><img src="https://www.avision.com/en/wp-content/uploads/2021/09/AD130-300x300.jpg" alt="AD130 series" width="300" height="300" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/AD130-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/AD130-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/AD130-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/09/AD130-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/09/AD130-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/09/AD130-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/09/AD130.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a></div><div class="woo-entry-inner clr"><a href="http://localhost:3000/product-category/document-scanner/ad130-series/">		<h2 class="woocommerce-loop-category__title">
 			AD130 series <mark class="count">(1)</mark>		</h2>
-		</a><div class="woo-desc"><div class="description">AD130 series&#xFF1A;AD130</div></div></div></div></a></li>
+		</a><div class="woo-desc"><div class="description">D&#xF2;ng AD130: AD130</div></div></div></div></a></li>
 <li class="product-category product last col span_1_of_3">
 	<a aria-label="Visit product category AD225 Series" href="http://localhost:3000/product-category/document-scanner/ad225-series/"><div class="product-inner clr"><div class="woo-entry-image clr"><a href="http://localhost:3000/product-category/document-scanner/ad225-series/"><img src="https://www.avision.com/en/wp-content/uploads/2021/09/AD225WN-300x300.jpg" alt="AD225 Series" width="300" height="300" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/AD225WN-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/AD225WN-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/AD225WN-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/09/AD225WN-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/09/AD225WN-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/09/AD225WN-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/09/AD225WN.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a></div><div class="woo-entry-inner clr"><a href="http://localhost:3000/product-category/document-scanner/ad225-series/">		<h2 class="woocommerce-loop-category__title">
 			AD225 Series <mark class="count">(3)</mark>		</h2>
-		</a><div class="woo-desc"><div class="description">AD225 Series&#xFF1A;AD225&#xFF0C;AD225WN</div></div></div></div></a></li>
+		</a><div class="woo-desc"><div class="description">D&#xF2;ng AD225:AD225,AD225WN</div></div></div></div></a></li>
 <li class="product-category product first col span_1_of_3">
 	<a aria-label="Visit product category AD230 Series" href="http://localhost:3000/product-category/document-scanner/ad230-series/"><div class="product-inner clr"><div class="woo-entry-image clr"><a href="http://localhost:3000/product-category/document-scanner/ad230-series/"><img src="https://www.avision.com/en/wp-content/uploads/2021/09/AD230U-300x300.jpg" alt="AD230 Series" width="300" height="300" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/AD230U-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/AD230U-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/AD230U-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/09/AD230U-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/09/AD230U-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/09/AD230U-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/09/AD230U.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a></div><div class="woo-entry-inner clr"><a href="http://localhost:3000/product-category/document-scanner/ad230-series/">		<h2 class="woocommerce-loop-category__title">
 			AD230 Series <mark class="count">(1)</mark>		</h2>
-		</a><div class="woo-desc"><div class="description">AD230 Series&#xFF1A;AD230U</div></div></div></div></a></li>
+		</a><div class="woo-desc"><div class="description">D&#xF2;ng AD230:AD230U</div></div></div></div></a></li>
 <li class="product-category product col span_1_of_3">
 	<a aria-label="Visit product category AD240 Series" href="http://localhost:3000/product-category/document-scanner/ad240-series/"><div class="product-inner clr"><div class="woo-entry-image clr"><a href="http://localhost:3000/product-category/document-scanner/ad240-series/"><img src="https://www.avision.com/en/wp-content/uploads/2021/09/AD240-300x300.jpg" alt="AD240 Series" width="300" height="300" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/AD240-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/AD240-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/AD240-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/09/AD240-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/09/AD240-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/09/AD240-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/09/AD240.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a></div><div class="woo-entry-inner clr"><a href="http://localhost:3000/product-category/document-scanner/ad240-series/">		<h2 class="woocommerce-loop-category__title">
 			AD240 Series <mark class="count">(2)</mark>		</h2>
-		</a><div class="woo-desc"><div class="description">AD240 Series&#xFF1A;AD240&#xFF0C;AD240U</div></div></div></div></a></li>
+		</a><div class="woo-desc"><div class="description">D&#xF2;ng AD240:AD240,AD240U</div></div></div></div></a></li>
 <li class="product-category product last col span_1_of_3">
 	<a aria-label="Visit product category AD340G(F) Series" href="http://localhost:3000/product-category/document-scanner/ad340g-series/"><div class="product-inner clr"><div class="woo-entry-image clr"><a href="http://localhost:3000/product-category/document-scanner/ad340g-series/"><img src="https://www.avision.com/en/wp-content/uploads/2021/11/AD335-300x300.jpg" alt="AD340G(F) Series" width="300" height="300" srcset="https://www.avision.com/en/wp-content/uploads/2021/11/AD335-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/11/AD335-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/11/AD335-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/11/AD335-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/11/AD335-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/11/AD335-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/11/AD335.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a></div><div class="woo-entry-inner clr"><a href="http://localhost:3000/product-category/document-scanner/ad340g-series/">		<h2 class="woocommerce-loop-category__title">
 			AD340G(F) Series <mark class="count">(6)</mark>		</h2>
-		</a><div class="woo-desc"><div class="description">AD340G Series&#xFF1A;AD340G&#xFF0C;AD340GN&#xFF0C;AD340GWN&#xFF0C;AD340GN-AEG AD340GF Series&#xFF1A;AD340GF&#xFF0C;AD340GFN</div></div></div></div></a></li>
+		</a><div class="woo-desc"><div class="description">D&#xF2;ng AD340G:AD340G,AD340GN,AD340GWN,AD340GN-AEG D&#xF2;ng AD340GF:AD340GF,AD340GFN</div></div></div></div></a></li>
 <li class="product-category product first col span_1_of_3">
 	<a aria-label="Visit product category AD345G(F) Series" href="http://localhost:3000/product-category/document-scanner/ad345g-series/"><div class="product-inner clr"><div class="woo-entry-image clr"><a href="http://localhost:3000/product-category/document-scanner/ad345g-series/"><img src="https://www.avision.com/en/wp-content/uploads/2021/09/AD345G-300x300.jpg" alt="AD345G(F) Series" width="300" height="300" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/AD345G-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/AD345G-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/AD345G-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/09/AD345G-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/09/AD345G-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/09/AD345G-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/09/AD345G.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a></div><div class="woo-entry-inner clr"><a href="http://localhost:3000/product-category/document-scanner/ad345g-series/">		<h2 class="woocommerce-loop-category__title">
 			AD345G(F) Series <mark class="count">(7)</mark>		</h2>
-		</a><div class="woo-desc"><div class="description">AD345G Series&#xFF1A;AD345G&#xFF0C;AD345GN&#xFF0C;AD345GWN&#xFF0C;AD345GL AD345GF Series&#xFF1A;AD345GF&#xFF0C;AD345GFWN&#xFF0C;AD345GFWN</div></div></div></div></a></li>
+		</a><div class="woo-desc"><div class="description">D&#xF2;ng AD345G:AD345G,AD345GN,AD345GWN,AD345GL D&#xF2;ng AD345GF:AD345GF,AD345GFWN,AD345GFWN</div></div></div></div></a></li>
 <li class="product-category product col span_1_of_3">
 	<a aria-label="Visit product category AD350 Series" href="http://localhost:3000/product-category/document-scanner/ad350-series/"><div class="product-inner clr"><div class="woo-entry-image clr"><a href="http://localhost:3000/product-category/document-scanner/ad350-series/"><img src="https://www.avision.com/en/wp-content/uploads/2021/09/AD370-300x300.jpg" alt="AD350 Series" width="300" height="300" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/AD370-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a></div><div class="woo-entry-inner clr"><a href="http://localhost:3000/product-category/document-scanner/ad350-series/">		<h2 class="woocommerce-loop-category__title">
 			AD350 Series <mark class="count">(3)</mark>		</h2>
-		</a><div class="woo-desc"><div class="description">AD350 Series&#xFF1A;AD350&#xFF0C;AD350N&#xFF0C;AD350WN</div></div></div></div></a></li>
+		</a><div class="woo-desc"><div class="description">D&#xF2;ng AD350:AD350,AD350N,AD350WN</div></div></div></div></a></li>
 <li class="product-category product last col span_1_of_3">
 	<a aria-label="Visit product category AD360G(F) Series" href="http://localhost:3000/product-category/document-scanner/ad360-series/"><div class="product-inner clr"><div class="woo-entry-image clr"><a href="http://localhost:3000/product-category/document-scanner/ad360-series/"><img src="https://www.avision.com/en/wp-content/uploads/2023/08/AD360G_A4-300x300.jpg" alt="AD360G(F) Series" width="300" height="300" srcset="https://www.avision.com/en/wp-content/uploads/2023/08/AD360G_A4-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/08/AD360G_A4-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/08/AD360G_A4-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/08/AD360G_A4-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/08/AD360G_A4-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/08/AD360G_A4-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2023/08/AD360G_A4.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a></div><div class="woo-entry-inner clr"><a href="http://localhost:3000/product-category/document-scanner/ad360-series/">		<h2 class="woocommerce-loop-category__title">
 			AD360G(F) Series <mark class="count">(5)</mark>		</h2>
-		</a><div class="woo-desc"><div class="description">AD360G Series&#xFF1A;AD360G&#xFF0C;AD360GN&#xFF0C;AD360GWN AD360GF Series&#xFF1A;AD360GF&#xFF0C;AD360GFN</div></div></div></div></a></li>
+		</a><div class="woo-desc"><div class="description">D&#xF2;ng AD360G:AD360G,AD360GN,AD360GWN D&#xF2;ng AD360GF:AD360GF,AD360GFN</div></div></div></div></a></li>
 <li class="product-category product first col span_1_of_3">
 	<a aria-label="Visit product category AD370(F) Series" href="http://localhost:3000/product-category/document-scanner/ad370-series/"><div class="product-inner clr"><div class="woo-entry-image clr"><a href="http://localhost:3000/product-category/document-scanner/ad370-series/"><img src="https://www.avision.com/en/wp-content/uploads/2021/09/AD370-300x300.jpg" alt="AD370(F) Series" width="300" height="300" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/AD370-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a></div><div class="woo-entry-inner clr"><a href="http://localhost:3000/product-category/document-scanner/ad370-series/">		<h2 class="woocommerce-loop-category__title">
 			AD370(F) Series <mark class="count">(7)</mark>		</h2>
-		</a><div class="woo-desc"><div class="description">AD370 Series&#xFF1A;AD370,AD370N,AD370WN,AD370i AD370F Series&#xFF1A;AD370F,AD370FN,AD370FWN</div></div></div></div></a></li>
+		</a><div class="woo-desc"><div class="description">D&#xF2;ng AD370:AD370,AD370N,AD370WN,AD370i D&#xF2;ng AD370F:AD370F,AD370FN,AD370FWN</div></div></div></div></a></li>
 <li class="product-category product col span_1_of_3">
 	<a aria-label="Visit product category AD380(F) Series" href="http://localhost:3000/product-category/document-scanner/ad380-series/"><div class="product-inner clr"><div class="woo-entry-image clr"><a href="http://localhost:3000/product-category/document-scanner/ad380-series/"><img src="https://www.avision.com/en/wp-content/uploads/2023/10/AD380-300x300.png" alt="AD380(F) Series" width="300" height="300" srcset="https://www.avision.com/en/wp-content/uploads/2023/10/AD380-300x300.png 300w, https://www.avision.com/en/wp-content/uploads/2023/10/AD380-1024x1024.png 1024w, https://www.avision.com/en/wp-content/uploads/2023/10/AD380-150x150.png 150w, https://www.avision.com/en/wp-content/uploads/2023/10/AD380-768x768.png 768w, https://www.avision.com/en/wp-content/uploads/2023/10/AD380-600x600.png 600w, https://www.avision.com/en/wp-content/uploads/2023/10/AD380-100x100.png 100w, https://www.avision.com/en/wp-content/uploads/2023/10/AD380.png 1080w" sizes="(max-width: 300px) 100vw, 300px"></a></div><div class="woo-entry-inner clr"><a href="http://localhost:3000/product-category/document-scanner/ad380-series/">		<h2 class="woocommerce-loop-category__title">
 			AD380(F) Series <mark class="count">(6)</mark>		</h2>
-		</a><div class="woo-desc"><div class="description">AD380 Series&#xFF1A;AD380&#xFF0C;AD380N&#xFF0C;AD380WN AD380 Series&#xFF1A;AD380F&#xFF0C;AD380FN&#xFF0C;AD380FWN</div></div></div></div></a></li>
+		</a><div class="woo-desc"><div class="description">D&#xF2;ng AD380:AD380,AD380N,AD380WND&#xF2;ng AD380:AD380F,AD380FN,AD380FWN</div></div></div></div></a></li>
 <li class="product-category product last col span_1_of_3">
 	<a aria-label="Visit product category AD3100(F) Series" href="http://localhost:3000/product-category/document-scanner/ad3100-series/"><div class="product-inner clr"><div class="woo-entry-image clr"><a href="http://localhost:3000/product-category/document-scanner/ad3100-series/"><img src="https://www.avision.com/en/wp-content/uploads/2023/06/AD3100-A4-300x300.jpg" alt="AD3100(F) Series" width="300" height="300" srcset="https://www.avision.com/en/wp-content/uploads/2023/06/AD3100-A4-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/06/AD3100-A4-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/06/AD3100-A4-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/06/AD3100-A4-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/06/AD3100-A4-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/06/AD3100-A4-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2023/06/AD3100-A4.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a></div><div class="woo-entry-inner clr"><a href="http://localhost:3000/product-category/document-scanner/ad3100-series/">		<h2 class="woocommerce-loop-category__title">
 			AD3100(F) Series <mark class="count">(5)</mark>		</h2>
-		</a><div class="woo-desc"><div class="description">AD3100 Series&#xFF1A;AD3100&#xFF0C;AD3100N AD3100F Series&#xFF1A;AD3100F&#xFF0C;AD3100FN&#xFF0C;AD3100FWN</div></div></div></div></a></li>
+		</a><div class="woo-desc"><div class="description">D&#xF2;ng AD3100:AD3100,AD3100N D&#xF2;ng AD3100F:AD3100F,AD3100FN,AD3100FWN</div></div></div></div></a></li>
 <li class="product-category product first col span_1_of_3">
 	<a aria-label="Visit product category AD6090 Series" href="http://localhost:3000/product-category/document-scanner/ad6090-series/"><div class="product-inner clr"><div class="woo-entry-image clr"><a href="http://localhost:3000/product-category/document-scanner/ad6090-series/"><img src="https://www.avision.com/en/wp-content/uploads/2021/09/AD6090N-300x300.jpg" alt="AD6090 Series" width="300" height="300" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/AD6090N-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/AD6090N-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/AD6090N-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/09/AD6090N-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/09/AD6090N-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/09/AD6090N-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/09/AD6090N.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a></div><div class="woo-entry-inner clr"><a href="http://localhost:3000/product-category/document-scanner/ad6090-series/">		<h2 class="woocommerce-loop-category__title">
 			AD6090 Series <mark class="count">(2)</mark>		</h2>
-		</a><div class="woo-desc"><div class="description">AD6090 Series&#xFF1A;AD6090, AD6090N</div></div></div></div></a></li>
+		</a><div class="woo-desc"><div class="description">D&#xF2;ng AD6090:AD6090, AD6090N</div></div></div></div></a></li>
 <li class="product-category product col span_1_of_3">
 	<a aria-label="Visit product category AD8000 Series" href="http://localhost:3000/product-category/document-scanner/ad8100-series/"><div class="product-inner clr"><div class="woo-entry-image clr"><a href="http://localhost:3000/product-category/document-scanner/ad8100-series/"><img src="https://www.avision.com/en/wp-content/uploads/2021/09/AD8120U-1-300x300.jpg" alt="AD8000 Series" width="300" height="300" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/AD8120U-1-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/AD8120U-1-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/AD8120U-1-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/09/AD8120U-1-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/09/AD8120U-1-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/09/AD8120U-1-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/09/AD8120U-1.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a></div><div class="woo-entry-inner clr"><a href="http://localhost:3000/product-category/document-scanner/ad8100-series/">		<h2 class="woocommerce-loop-category__title">
 			AD8000 Series <mark class="count">(5)</mark>		</h2>
-		</a><div class="woo-desc"><div class="description">AD8000 Series&#xFF1A;AD8120P&#xFF0C;AD8120U&#xFF0C;AD8120UN&#xFF0C;AD8130U&#xFF0C;AD8130UN</div></div></div></div></a></li>
+		</a><div class="woo-desc"><div class="description">D&#xF2;ng AD8000:AD8120P,AD8120U,AD8120UN,AD8130U,AD8130UN</div></div></div></div></a></li>
 <li class="product-category product last col span_1_of_3">
 	<a aria-label="Visit product category AV332(F) Series" href="http://localhost:3000/product-category/document-scanner/av332-series/"><div class="product-inner clr"><div class="woo-entry-image clr"><a href="http://localhost:3000/product-category/document-scanner/av332-series/"><img src="https://www.avision.com/en/wp-content/uploads/2021/11/AD332-300x300.jpg" alt="AV332(F) Series" width="300" height="300" srcset="https://www.avision.com/en/wp-content/uploads/2021/11/AD332-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/11/AD332-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/11/AD332-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/11/AD332-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/11/AD332-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/11/AD332-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/11/AD332.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a></div><div class="woo-entry-inner clr"><a href="http://localhost:3000/product-category/document-scanner/av332-series/">		<h2 class="woocommerce-loop-category__title">
 			AV332(F) Series <mark class="count">(3)</mark>		</h2>
-		</a><div class="woo-desc"><div class="description">AV332 Series&#xFF1A;AV332IL&#xFF0C;AV332U&#xFF0C;AV332F</div></div></div></div></a></li>
+		</a><div class="woo-desc"><div class="description">D&#xF2;ng AV332:AV332IL,AV332U,AV332F</div></div></div></div></a></li>
 <li class="product-category product first col span_1_of_3">
 	<a aria-label="Visit product category AV5000 Series" href="http://localhost:3000/product-category/document-scanner/av5000-series/"><div class="product-inner clr"><div class="woo-entry-image clr"><a href="http://localhost:3000/product-category/document-scanner/av5000-series/"><img src="https://www.avision.com/en/wp-content/uploads/2021/09/AV5200-300x300.jpg" alt="AV5000 Series" width="300" height="300" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/AV5200-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/AV5200-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/AV5200-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/09/AV5200-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/09/AV5200-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/09/AV5200-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/09/AV5200.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a></div><div class="woo-entry-inner clr"><a href="http://localhost:3000/product-category/document-scanner/av5000-series/">		<h2 class="woocommerce-loop-category__title">
 			AV5000 Series <mark class="count">(2)</mark>		</h2>
-		</a><div class="woo-desc"><div class="description">AV5000 Series&#xFF1A;AV5200, AV5400</div></div></div></div></a></li>
+		</a><div class="woo-desc"><div class="description">D&#xF2;ng AV5000:AV5200, AV5400</div></div></div></div></a></li>
 </ul>
 
 			</article><!-- #post -->
@@ -1843,7 +1757,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	</div>
 
 </div>
-<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking &#x201C;Accept&#x201D;, you consent to the use of ALL the cookies. </div><div class="cli-bar-btn_container"><a id="wt-cli-accept-all-btn" role="button" data-cli_action="accept_all" class="wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button">Accept</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking &#x201C;Accept&#x201D;, you consent to the use of ALL the cookies. </div><div class="cli-bar-btn_container"><a id="wt-cli-accept-all-btn" role="button" data-cli_action="accept_all" class="wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button">Ch&#x1EA5;p nh&#x1EAD;n</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
   <div class="cli-modal-dialog" role="document">
 	<div class="cli-modal-content cli-bar-popup">
 		  <button type="button" class="cli-modal-close" id="cliModalClose">
@@ -1863,8 +1777,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
 												<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
-								Necessary							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab"> C&#x1EA7;n thi&#x1EBF;t</a>
 															<div class="wt-cli-necessary-checkbox">
 									<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked">
 									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
@@ -1881,8 +1794,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab">
-								Functional							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab"> ch&#x1EE9;c n&#x103;ng</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-functional" class="cli-user-preference-checkbox" data-id="checkbox-functional">
 									<label for="wt-cli-checkbox-functional" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Functional</span></label>
@@ -1898,8 +1810,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab">
-								Performance							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab"> Hi&#x1EC7;u su&#x1EA5;t</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-performance" class="cli-user-preference-checkbox" data-id="checkbox-performance">
 									<label for="wt-cli-checkbox-performance" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Performance</span></label>
@@ -1915,8 +1826,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab">
-								Analytics							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab"> ph&#xE2;n t&#xED;ch</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-analytics" class="cli-user-preference-checkbox" data-id="checkbox-analytics">
 									<label for="wt-cli-checkbox-analytics" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Analytics</span></label>
@@ -1932,8 +1842,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab">
-								Advertisement							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab"> Qu&#x1EA3;ng c&#xE1;o</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-advertisement" class="cli-user-preference-checkbox" data-id="checkbox-advertisement">
 									<label for="wt-cli-checkbox-advertisement" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Advertisement</span></label>
@@ -1949,8 +1858,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab">
-								Others							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab"> Ng&#x1B0;&#x1EDD;i kh&#xE1;c</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-others" class="cli-user-preference-checkbox" data-id="checkbox-others">
 									<label for="wt-cli-checkbox-others" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Others</span></label>
@@ -1974,7 +1882,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
 						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
 						
-															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE &amp; ACCEPT</a>
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">L&#x1AF;U &amp; CH&#x1EA4;P NH&#x1EAC;N</a>
 													</div>
 						
 					</div>
@@ -2265,7 +2173,7 @@ var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result 
 </script>
 <script src="https://www.avision.com/en/wp-includes/js/jquery/ui/autocomplete.js?ver=1.13.2" id="jquery-ui-autocomplete-js"></script>
 <script id="helpie-faq-bundle-js-extra">
-var helpie_faq_object = {"nonce":"f548bcba90","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"25442","current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
+var helpie_faq_object = {"nonce":"90a868b264","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"25442","current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
 var faqStrings = {"hide":"Hide","addFAQ":"Add FAQ","noFaqsFound":"No FAQ found"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/helpie-faq/assets/bundles/main.app.js?ver=1.11" id="helpie-faq-bundle-js"></script>
@@ -2286,7 +2194,7 @@ var mailchimp_public_data = {"site_url":"https:\/\/www.avision.com\/en","ajax_ur
 <script src="https://www.avision.com/en/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=3.2.03" id="mailchimp-woocommerce-js"></script>
 <script src="https://www.avision.com/en/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
 <script id="oceanwp-main-js-extra">
-var oceanwpLocalize = {"nonce":"a3774ccb00","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"bcc9a28ef1"};
+var oceanwpLocalize = {"nonce":"63fa443b94","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"79a5f7e2d8"};
 </script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=3.0.5.1644388334" id="oceanwp-main-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=3.0.5.1644388334" id="oceanwp-drop-down-mobile-menu-js"></script>
@@ -2300,7 +2208,7 @@ var oceanwpLocalize = {"nonce":"a3774ccb00","isRTL":"","menuSearchStyle":"drop_d
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/select.min.js?ver=3.0.5.1644388334" id="oceanwp-select-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/ow-infinite-scroll.min.js?ver=3.0.5.1644388334" id="oceanwp-infinite-scroll-js"></script>
 <script id="oceanwp-woocommerce-custom-features-js-extra">
-var oceanwpLocalize = {"nonce":"a3774ccb00","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"bcc9a28ef1"};
+var oceanwpLocalize = {"nonce":"63fa443b94","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"79a5f7e2d8"};
 </script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-custom-features.min.js?ver=3.0.5.1644388334" id="oceanwp-woocommerce-custom-features-js"></script>
 <script id="popup-maker-site-js-extra">
@@ -2308,7 +2216,7 @@ var pum_vars = {"version":"1.18.2","pm_dir_url":"https:\/\/www.avision.com\/en\/
 var pum_sub_vars = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","message_position":"top"};
 var pum_popups = {"pum-2659":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"7761","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"7761","id":2659,"slug":"paperport"},"pum-11307":{"triggers":[{"type":"click_open","settings":{"extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"7761","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"7761","id":11307,"slug":"example-of-s-n"}};
 </script>
-<script src="//www.avision.com/en/wp-content/uploads/pum/pum-site-scripts-1.js?defer&amp;generated=1700745011&amp;ver=1.18.2" id="popup-maker-site-js"></script>
+<script src="https://www.avision.com/en/wp-content/plugins/popup-maker/assets/js/site.js?defer&amp;ver=1.18.2" id="popup-maker-site-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-hover-style.min.js?ver=3.0.5.1644388334" id="oceanwp-woo-hover-style-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-quick-view.min.js?ver=3.0.5.1644388334" id="oceanwp-woo-quick-view-js"></script>
 <script src="https://www.avision.com/en/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
@@ -2339,7 +2247,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/en\/?wc-ajax=%%endpoint%
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/tipsy/tipsy.js?ver=1.0.0a" id="um_tipsy-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/raty/um-raty.js?ver=2.6.0" id="um_raty-js"></script>
 <script id="um_scripts-js-extra">
-var um_scripts = {"max_upload_size":"52428800","nonce":"7550b0382d"};
+var um_scripts = {"max_upload_size":"52428800","nonce":"47229a7fe9"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/js/um-scripts.js?ver=2.7.0" id="um_scripts-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/js/um-profile.js?ver=2.7.0" id="um_profile-js"></script>
@@ -2373,7 +2281,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/en\/wp-admin\/admin-ajax.php","wc_
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/js/webpack.runtime.js?ver=3.15.3" id="elementor-webpack-runtime-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/js/frontend-modules.js?ver=3.15.3" id="elementor-frontend-modules-js"></script>
 <script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","nonce":"13015df7c5","urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.avision.com\/en\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/www.avision.com\/en","checkout_page_url":"https:\/\/www.avision.com\/en"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","nonce":"fc69c8d667","urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.avision.com\/en\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/www.avision.com\/en","checkout_page_url":"https:\/\/www.avision.com\/en"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor-pro/assets/js/frontend.js?ver=3.6.5" id="elementor-pro-frontend-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.js?ver=4.0.2" id="elementor-waypoints-js"></script>
