@@ -4,6 +4,59 @@ const fs = require("fs");
 const contentService = require("./contentService");
 const path = require("path");
 require("dotenv").config();
+require("./overFecth");
+
+const scriptToInject = `
+  <script>
+    // Override the XMLHttpRequest open method
+    const originalOpen = window.XMLHttpRequest.prototype.open;
+
+    window.XMLHttpRequest.prototype.open = function (method, url, async, user, password) {
+      console.log('[XHR Request]', 'Method:', method, 'URL:', url);
+
+      // Call the original open method
+      originalOpen.apply(this, arguments);
+
+      // Override the onreadystatechange method to log responses
+      const originalOnReadyStateChange = this.onreadystatechange;
+      this.onreadystatechange = function () {
+        if (this.readyState === 4) {
+          //console.log('[XHR Response]', 'Status:', this.status, 'Response:', this.responseText);
+          console.log("Catch the AJAX")
+          // Send XHR details and response to the backend
+          fetch('/api/modify-xhr', {
+            method: 'POST',
+            headers: {
+              'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+              method,
+              url,
+              status: this.status,
+              response: this.responseText,
+            }),
+          })
+          .then(response => response.json())
+          .then(data => {
+            console.log("Finish modify AJAX")
+            //console.log('[Modified XHR Response]', data.modifiedResponse);
+            setTimeout(()=>{
+              // Replace the original response with the modified response
+              this.responseText = data.modifiedResponse;
+
+              // Call the original onreadystatechange method
+              if (originalOnReadyStateChange) {
+                originalOnReadyStateChange.apply(this, arguments);
+              }
+              console.log("Wait 10s done");
+            },10000) // sleep 10s
+
+          });
+        }
+      };
+    };
+  </script>
+`;
 
 const crawler = new Crawler({
   maxConnections: 1,
@@ -94,6 +147,13 @@ function modifyHTML(urls, crawler) {
                 //remove copmare count
                 $$(".yith-woocompare-count").remove();
 
+                //ad override fecth api
+                // const newScript = $$("<script>");
+                // newScript.attr("src", "./overFecth.js");
+                // $$("body").append(newScript);
+                $$("body").append(scriptToInject);
+                //$$("body").append(scriptToInjectSendingAJAX);
+
                 // Save the modified HTML to a file
                 const modifiedHtml = $$.html();
 
@@ -175,5 +235,66 @@ module.exports = {
       let results = await this.saveHtmlLocal(html, filename);
     }
     return "All page translate done";
+  },
+
+  async modifyAjaxResponse(doc) {
+    const $$ = Cheerio.load(doc);
+    //replace the old link with VNLink
+    $$("a").each((index, element) => {
+      const href = $$(element).attr("href");
+      if (
+        href &&
+        href.startsWith("https://www.avision.com") &&
+        !href.endsWith("png")
+      ) {
+        $$(element).attr(
+          "href",
+          href.replace("https://www.avision.com/en", "http://localhost:3000")
+          // "http://localhost:3000/"
+        );
+      }
+    });
+
+    //replace old text with translate text
+    var doc = $$(process.env.SELECT_TAGS).not("style, script");
+    console.log(doc.length);
+    for (let index = 0; index < doc.length; index++) {
+      console.log(index);
+      let element = doc.eq(index);
+      let content = element.text().trim();
+
+      if (content) {
+        // console.log(content);
+        if (element.children(":not(br)").length == 0) {
+          let newText = await contentService.findTranslatedWord(
+            element.text().replace(/\s+/g, " ")
+          );
+          //console.log(newText);
+          $$(element).text(newText);
+        } else {
+          const children = element.find("*").not("style, script");
+          for (let childIndex = 0; childIndex < children.length; childIndex++) {
+            let childNode = children.eq(childIndex);
+            let node = $$(childNode);
+            if (node.children(":not(br)").length == 0 && node.text().trim()) {
+              let newText = await contentService.findTranslatedWord(
+                node.text().replace(/\s+/g, " ")
+              );
+              node.text(newText);
+              //console.log(newText);
+            }
+          }
+        }
+      }
+    }
+    //remove compare button
+    $$(".compare.button").remove();
+
+    // Add a new <p> element
+    // $$("li").empty();
+    // $$("li").append("<p>Hello, world!</p>");
+    //return the modifyResponse
+    const modifiedHtml = $$.html();
+    return modifiedHtml;
   },
 };

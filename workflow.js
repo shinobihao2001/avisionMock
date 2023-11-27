@@ -27,17 +27,17 @@ require("dotenv").config();
     // await contentService.checkAll();
     // console.log("All check done");
 
-    // //Step 2: Crawling the URLs
+    //Step 2: Crawling the URLs
     // await linkService.crawAllUrl();
-    // // //await delay(5000);
-    // console.log("URL crawling completed successfully");
+    // //await delay(5000);
+    console.log("URL crawling completed successfully");
 
     // //Step 3: Crawling all the pages English word in to db
-    // const links = [
-    //   "https://www.avision.com/en/product-category/flatbed-scanner/",
-    //   //process.env.ORIGIN_URL,
-    // ];
-    let links = await linkService.getLinksNeedToCrawl();
+    const links = [
+      "https://www.avision.com/en/product-category/flatbed-scanner/",
+      //   //process.env.ORIGIN_URL,
+    ];
+    //let links = await linkService.getLinksNeedToCrawl();
     console.log(links);
     let mess = await contentService.crawlingAllPage(links);
     console.log("Crawling all words");
