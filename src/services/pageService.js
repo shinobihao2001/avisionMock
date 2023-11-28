@@ -156,8 +156,13 @@ function modifyHTML(urls, crawler) {
                 //remove entry button
                 $$(".woo-entry-buttons").remove();
 
+                //remove sreach icion
+                $$(".fas.fa-search").remove();
                 //remove fillter zone
                 $$("aside").empty();
+
+                //remove floating bar ontop
+                $$(".owp-floating-bar").remove();
 
                 // Replace the content with an image tag
                 for (let i = 0; i < 5; i++) {

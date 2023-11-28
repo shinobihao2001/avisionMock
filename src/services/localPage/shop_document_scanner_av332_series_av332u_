@@ -1155,7 +1155,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					<form class="hfe-search-button-wrapper" role="search" action="https://www.avision.com/en" method="get">
 						<div class="hfe-search-icon-toggle">
 				<input placeholder class="hfe-search-form__input" type="search" name="s" title="Search" value>
-				<i class="fas fa-search" aria-hidden="true"></i>
+				
 			</div>
 					</form>
 				</div>
@@ -1291,20 +1291,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 
 
 			
-			<div class="owp-floating-bar">
-				<div class="container clr">
-					<div class="left">
-						<p class="selected">&#x110;&#xE3; ch&#x1ECD;n:</p>
-						<h2 class="entry-title" itemprop="name">AV332U</h2>
-					</div>
-											<div class="right">
-							<div class="product_price">
-								<p class="price"></p>
-							</div>
-																			<button type="submit" class="button top">Select Options</button>
-													</div>
-										</div>
-			</div>
+			
 
 			
 			<main id="main" class="site-main clr" role="main">

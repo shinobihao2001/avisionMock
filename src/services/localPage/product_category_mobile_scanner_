@@ -1106,7 +1106,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					<form class="hfe-search-button-wrapper" role="search" action="https://www.avision.com/en" method="get">
 						<div class="hfe-search-icon-toggle">
 				<input placeholder class="hfe-search-form__input" type="search" name="s" title="Search" value>
-				<i class="fas fa-search" aria-hidden="true"></i>
+				
 			</div>
 					</form>
 				</div>
@@ -1339,7 +1339,39 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 
 </div>
 <ul class="products oceanwp-row clr grid infinite-scroll-wrap">
-<li class="entry has-media has-product-nav col span_1_of_3 owp-content-center item-entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal product type-product post-25671 status-publish first instock product_cat-mobile-scanner has-post-thumbnail shipping-taxable product-type-simple">
+<li class="entry has-media has-product-nav col span_1_of_3 owp-content-center item-entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal product type-product post-26394 status-publish first instock product_cat-mobile-scanner has-post-thumbnail shipping-taxable product-type-simple">
+	<div class="product-inner clr"><ul class="woo-entry-inner clr"><li class="image-wrap">
+	<div class="woo-entry-image clr">
+		<a href="http://localhost:3000/shop/mobile-scanner/scanq-iii/" class="woocommerce-LoopProduct-link"><img width="1080" height="1080" src="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01.jpg" class="woo-entry-image-main" alt="ScanQ-III" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01.jpg 1080w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-100x100.jpg 100w" sizes="(max-width: 1080px) 100vw, 1080px"></a>	</div><!-- .woo-entry-image -->
+
+	<a href="http://localhost:3000/shop/mobile-scanner/scanq-iii/" data-quantity="1" class="button product_type_simple" data-product_id="26394" data-product_sku aria-label="Read more about &#x201C;ScanQ-III&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/mobile-scanner/" rel="tag">M&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng</a></li><li class="title"><h2><a href="http://localhost:3000/shop/mobile-scanner/scanq-iii/">Qu&#xE9;tQ-III</a></h2></li><li class="price-wrap">
+</li><li class="rating"></li><li class="woo-desc">M&#x1ED9;t m&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng qu&#xE9;t m&#x1ECD;i n&#x1A1;i, m&#x1ECD;i l&#xFA;c ScanQ-III v&#x1B0;&#x1EE3;t qua c&#xE1;c gi&#x1EDB;i h&#x1EA1;n v&#x1EC1; k&#xED;ch th&#x1B0;&#x1EDB;c v&#xE0; tr&#x1ECD;ng l&#x1B0;&#x1EE3;ng &#x111;&#x1EC3; c&#xF3; t&#xED;nh di &#x111;&#x1ED9;ng cao &#x111;&#x1ED3;ng th&#x1EDD;i mang l&#x1EA1;i kh&#x1EA3; n&#x103;ng qu&#xE9;t t&#xE0;i li&#x1EC7;u to&#xE0;n trang m&#x1B0;&#x1EE3;t m&#xE0;. &#x110;&#x1B0;&#x1EE3;c c&#x1EA5;p ngu&#x1ED3;n b&#x1EB1;ng m&#xE1;y t&#xED;nh th&#xF4;ng qua c&#xE1;p USB, ScanQ-III &#x111;&#x1EE7; nh&#x1ECF; &#x111;&#x1EC3; c&#xF3; th&#x1EC3; mang theo m&#xE1;y t&#xED;nh x&#xE1;ch tay c&#x1EE7;a b&#x1EA1;n v&#xE0; chia s&#x1EBB; t&#xE0;i li&#x1EC7;u c&#x1EE7;a b&#x1EA1;n t&#x1EEB; m&#x1ECD;i n&#x1A1;i, m&#x1ECD;i l&#xFA;c.</li></ul>
+<ul class="woo-product-gallery">
+
+	
+	
+		<li class="active">
+			<a href="http://localhost:3000/wp-content/uploads/2023/11/ScanQ-III01.jpg" class="woo-product-gallery-link no-lightbox">
+				<img width="150" height="150" src="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="ScanQ-III" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01.jpg 1080w" sizes="(max-width: 150px) 100vw, 150px">			</a>
+		</li>
+
+		
+					<li>
+						<a href="http://localhost:3000/wp-content/uploads/2023/11/ScanQ-III02.jpg" class="woo-product-gallery-link no-lightbox">
+							<img width="150" height="150" src="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III02-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="ScanQ-III" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III02-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III02-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III02-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III02-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III02-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III02-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III02.jpg 1080w" sizes="(max-width: 150px) 100vw, 150px">						</a>
+					</li>
+
+					
+					<li>
+						<a href="http://localhost:3000/wp-content/uploads/2023/11/ScanQ-III03.jpg" class="woo-product-gallery-link no-lightbox">
+							<img width="150" height="150" src="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III03-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="ScanQ-III" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III03-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III03-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III03-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III03-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III03-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III03-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III03.jpg 1080w" sizes="(max-width: 150px) 100vw, 150px">						</a>
+					</li>
+
+					
+	
+</ul>
+</ul></div><!-- .product-inner .clr --></li>
+<li class="entry has-media has-product-nav col span_1_of_3 owp-content-center item-entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal product type-product post-25671 status-publish instock product_cat-mobile-scanner has-post-thumbnail shipping-taxable product-type-simple">
 	<div class="product-inner clr"><ul class="woo-entry-inner clr"><li class="image-wrap">
 	<div class="woo-entry-image clr">
 		<a href="http://localhost:3000/shop/mobile-scanner/scanq-sw/" class="woocommerce-LoopProduct-link"><img width="1080" height="1080" src="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-SW_3.jpg" class="woo-entry-image-main" alt="ScanQ-SW" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-SW_3.jpg 1080w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-SW_3-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-SW_3-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-SW_3-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-SW_3-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-SW_3-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-SW_3-100x100.jpg 100w" sizes="(max-width: 1080px) 100vw, 1080px"></a>	</div><!-- .woo-entry-image -->
@@ -1371,7 +1403,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	
 </ul>
 </ul></div><!-- .product-inner .clr --></li>
-<li class="entry has-media has-product-nav col span_1_of_3 owp-content-center item-entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal product type-product post-25660 status-publish instock product_cat-mobile-scanner has-post-thumbnail shipping-taxable product-type-simple">
+<li class="entry has-media has-product-nav col span_1_of_3 owp-content-center item-entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal product type-product post-25660 status-publish last instock product_cat-mobile-scanner has-post-thumbnail shipping-taxable product-type-simple">
 	<div class="product-inner clr"><ul class="woo-entry-inner clr"><li class="image-wrap">
 	<div class="woo-entry-image clr">
 		<a href="http://localhost:3000/shop/mobile-scanner/scanq-dw/" class="woocommerce-LoopProduct-link"><img width="1080" height="1080" src="https://www.avision.com/en/wp-content/uploads/2023/11/SCAN-DW.jpg" class="woo-entry-image-main" alt="ScanQ-DW" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2023/11/SCAN-DW.jpg 1080w, https://www.avision.com/en/wp-content/uploads/2023/11/SCAN-DW-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/11/SCAN-DW-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/11/SCAN-DW-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/11/SCAN-DW-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/11/SCAN-DW-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/11/SCAN-DW-100x100.jpg 100w" sizes="(max-width: 1080px) 100vw, 1080px"></a>	</div><!-- .woo-entry-image -->
@@ -2017,7 +2049,7 @@ var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result 
 </script>
 <script src="https://www.avision.com/en/wp-includes/js/jquery/ui/autocomplete.js?ver=1.13.2" id="jquery-ui-autocomplete-js"></script>
 <script id="helpie-faq-bundle-js-extra">
-var helpie_faq_object = {"nonce":"44c8c15ec3","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"25671","current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
+var helpie_faq_object = {"nonce":"44c8c15ec3","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"26394","current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
 var faqStrings = {"hide":"Hide","addFAQ":"Add FAQ","noFaqsFound":"No FAQ found"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/helpie-faq/assets/bundles/main.app.js?ver=1.11" id="helpie-faq-bundle-js"></script>
