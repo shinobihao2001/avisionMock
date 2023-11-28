@@ -47,19 +47,22 @@ function getPageAsync(urls, crawler) {
                 //const $ = Cheerio.load(res.body);
 
                 //fs.writeFileSync("fileHtml.html", $.html());
-                var doc = $(process.env.SELECT_TAGS).not("style, script");
+                var doc = $(process.env.SELECT_TAGS).not("script");
                 for (let index = 0; index < doc.length; index++) {
                   console.log(doc.length);
                   let element = doc.eq(index);
                   let content = element.text().trim();
                   if (content) {
-                    if (element.children(":not(br)").length == 0) {
+                    if (
+                      element.children(":not(br):not(strong):not(span)")
+                        .length == 0
+                    ) {
                       let node = $(element);
                       // await createContent(node, res.options.uri);
                       words.add(node.text().replace(/\s+/g, " "));
                     }
 
-                    let children = element.find("*").not("style, script");
+                    let children = element.find("*").not("script");
                     for (
                       let childIndex = 0;
                       childIndex < children.length;
@@ -67,7 +70,10 @@ function getPageAsync(urls, crawler) {
                     ) {
                       let childNode = children.eq(childIndex);
                       let node = $(childNode);
-                      if (node.children(":not(br)").length == 0)
+                      if (
+                        node.children(":not(br):not(strong):not(span)")
+                          .length == 0
+                      )
                         if (node.text().trim()) {
                           //await createContent(node, res.options.uri);
                           words.add(node.text().replace(/\s+/g, " "));

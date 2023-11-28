@@ -34,7 +34,7 @@ require("dotenv").config();
 
     // //Step 3: Crawling all the pages English word in to db
     const links = [
-      "https://www.avision.com/en/product-category/flatbed-scanner/",
+      "https://www.avision.com/en/shop/printer-mfp/am40/",
       //   //process.env.ORIGIN_URL,
     ];
     //let links = await linkService.getLinksNeedToCrawl();

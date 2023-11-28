@@ -927,7 +927,7 @@ var log_object = {"ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-aja
 <script src="https://www.avision.com/en/wp-content/plugins/download-manager/assets/bootstrap/js/bootstrap.min.js?ver=6.3.2" id="wpdm-frontend-js-js"></script>
 <script id="wpdm-frontjs-js-extra">
 var wpdm_url = {"home":"https:\/\/www.avision.com\/en\/","site":"https:\/\/www.avision.com\/en\/","ajax":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php"};
-var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>","client_id":"622cef671fa864bd3d51ca10b0b2dc48"};
+var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>","client_id":"6510233bd52c15c22c50a7d525073223"};
 var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click following button to start download.","start_dl":"Start Download"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/download-manager/assets/js/front.js?ver=3.2.81" id="wpdm-frontjs-js"></script>
@@ -1231,7 +1231,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055"><a href="http://localhost:3000/login/" class="elementor-item">&#x110;&#x103;ng nh&#x1EAD;p</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055">
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://localhost:3000/registration/" class="elementor-sub-item">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
@@ -1273,7 +1273,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item" tabindex="-1">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055"><a href="http://localhost:3000/login/" class="elementor-item" tabindex="-1">&#x110;&#x103;ng nh&#x1EAD;p</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055">
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://localhost:3000/registration/" class="elementor-sub-item" tabindex="-1">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
@@ -1294,7 +1294,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="owp-floating-bar">
 				<div class="container clr">
 					<div class="left">
-						<p class="selected">Selected:</p>
+						<p class="selected">&#x110;&#xE3; ch&#x1ECD;n:</p>
 						<h2 class="entry-title" itemprop="name">AM40</h2>
 					</div>
 											<div class="right">
@@ -1360,7 +1360,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-element elementor-element-632c2e2b elementor-widget elementor-widget-woocommerce-product-short-description" data-id="632c2e2b" data-element_type="widget" data-widget_type="woocommerce-product-short-description.default">
 				<div class="elementor-widget-container">
 			<div class="woocommerce-product-details__short-description">
-	<h3><span style="color: #0e3a65;">In, sao ch&#xE9;p, g&#x1EED;i email v&#xE0; qu&#xE9;t b&#x1EB1;ng Avision AM40 MFP</span></h3>
+	<h3>In, sao ch&#xE9;p, g&#x1EED;i email v&#xE0; qu&#xE9;t b&#x1EB1;ng Avision AM40 MFP</h3>
 <p>Ch&#xFA;ng t&#xF4;i &#x111;&#xE3; s&#x1EED; d&#x1EE5;ng c&#xE1;c t&#xED;nh n&#x103;ng quan tr&#x1ECD;ng d&#xE0;nh cho v&#x103;n ph&#xF2;ng c&#x1EE7;a m&#xE1;y in &#x111;a ch&#x1EE9;c n&#x103;ng d&#xE0;nh cho ph&#xF2;ng ban c&#x1EE7;a m&#xEC;nh v&#xE0; &#x111;&#x1B0;a ch&#xFA;ng v&#xE0;o m&#xE1;y in c&#xF3; k&#xED;ch th&#x1B0;&#x1EDB;c PH&#xC1;P L&#xDD; c&#x1EF1;c k&#x1EF3; hi&#x1EC7;u qu&#x1EA3; n&#xE0;y. N&#xF3; t&#xED;ch h&#x1EE3;p li&#x1EC1;n m&#x1EA1;ch c&#xE1;c ch&#x1EE9;c n&#x103;ng in, qu&#xE9;t, e-mail v&#xE0; sao ch&#xE9;p. Ngo&#xE0;i ra, s&#x1EA3;n ph&#x1EA9;m c&#xF3; th&#x1EC3; &#x111;&#x1B0;&#x1EE3;c k&#x1EBF;t n&#x1ED1;i v&#x1EDB;i m&#xE1;y t&#xED;nh th&#xF4;ng qua m&#x1EA1;ng c&#xF3; d&#xE2;y ho&#x1EB7;c kh&#xF4;ng d&#xE2;y. T&#x1EA5;t c&#x1EA3; c&#xE1;c t&#xED;nh n&#x103;ng n&#xE0;y &#x111;&#x1B0;&#x1EE3;c v&#x1EAD;n h&#xE0;nh th&#xF4;ng qua m&#xE0;n h&#xEC;nh LCD l&#x1EDB;n v&#xE0; r&#xF5; r&#xE0;ng &#x111;&#x1EC3; &#x111;&#x1A1;n gi&#x1EA3;n h&#xF3;a c&#xF4;ng vi&#x1EC7;c cho c&#xE1;c v&#x103;n ph&#xF2;ng b&#x1EAD;n r&#x1ED9;n v&#x1EDB;i kh&#x1ED1;i l&#x1B0;&#x1EE3;ng ph&#xE2;n ph&#x1ED1;i t&#xE0;i li&#x1EC7;u l&#x1EDB;n.</p>
 </div>
 		</div>
@@ -1380,16 +1380,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-element elementor-element-5542f48 elementor-widget elementor-widget-shortcode" data-id="5542f48" data-element_type="widget" data-widget_type="shortcode.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-shortcode">
-<div class="yith-woocompare-counter" data-type="text" data-text_o="{{count}} products in compare">
-	<a class="yith-woocompare-open" href="http://localhost:3000?action=yith-woocompare-view-table&amp;iframe=yes">
-		<span class="yith-woocompare-counter">
-							<span class="yith-woocompare-icon">
-					<img src="https://www.avision.com/en/wp-content/plugins/yith-woocommerce-compare-premium/assets/images/compare-icon.png">
-				</span>
-						
-		</span>
-	</a>
-</div>
+
 </div>
 				</div>
 				</div>
@@ -1434,15 +1425,15 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <td style="background-color: #fff;" valign="middle" width="50%"><img decoding="async" loading="lazy" class="alignleft" src=" https://www.avision.com/en/wp-content/uploads/2023/11/AM40_p3.png" alt="AM40A_S1" width="388" height="340"></td>
 <td style="background-color: #fff;" valign="middle">
 <h3></h3>
-<h3><span style="color: #0e3a65;">&#x258D;In v&#xE0; sao ch&#xE9;p nhanh, ch&#x1EA5;t l&#x1B0;&#x1EE3;ng cao</span></h3>
-<p><span style="font-family: inherit; font-size: inherit;">T&#x1EA1;o ra b&#x1EA3;n in &#x111;en tr&#x1EAF;ng chuy&#xEA;n nghi&#x1EC7;p v&#x1EDB;i t&#x1ED1;c &#x111;&#x1ED9; sao ch&#xE9;p &#x1EA5;n t&#x1B0;&#x1EE3;ng l&#xEA;n t&#x1EDB;i 40 trang m&#x1ED7;i ph&#xFA;t. V&#xE0; in t&#x1EDB;i 40 trang m&#x1ED7;i ph&#xFA;t.</span></p>
-<h3><span style="color: #0e3a65;">&#x258D;In trang &#x111;&#x1EA7;u ti&#xEA;n trong 5,9 gi&#xE2;y</span></h3>
+<h3>&#x258D;In v&#xE0; sao ch&#xE9;p nhanh, ch&#x1EA5;t l&#x1B0;&#x1EE3;ng cao</h3>
+<p>T&#x1EA1;o ra b&#x1EA3;n in &#x111;en tr&#x1EAF;ng chuy&#xEA;n nghi&#x1EC7;p v&#x1EDB;i t&#x1ED1;c &#x111;&#x1ED9; sao ch&#xE9;p &#x1EA5;n t&#x1B0;&#x1EE3;ng l&#xEA;n t&#x1EDB;i 40 trang m&#x1ED7;i ph&#xFA;t. V&#xE0; in t&#x1EDB;i 40 trang m&#x1ED7;i ph&#xFA;t.</p>
+<h3>&#x258D;In trang &#x111;&#x1EA7;u ti&#xEA;n trong 5,9 gi&#xE2;y</h3>
 <p>Ho&#xE0;n th&#xE0;nh c&#xF4;ng vi&#x1EC7;c c&#x1EE7;a b&#x1EA1;n trong th&#x1EDD;i gian ng&#x1EAF;n h&#x1A1;n v&#x1EDB;i m&#xE1;y in c&#x1EF1;c nhanh v&#xE0; hi&#x1EC7;u qu&#x1EA3; n&#xE0;y, c&#xF3; th&#x1EC3; in trang &#x111;&#x1EA7;u ti&#xEA;n ch&#x1EC9; trong 5,9 gi&#xE2;y.</p></td>
 </tr>
 <tr>
 <td colspan="2">
 <h3></h3>
-<h3><span style="color: #0e3a65;">&#x258D;M&#xE0;n h&#xEC;nh LCD r&#xF5; r&#xE0;ng v&#xE0; d&#x1EC5; s&#x1EED; d&#x1EE5;ng</span></h3>
+<h3>&#x258D;M&#xE0;n h&#xEC;nh LCD r&#xF5; r&#xE0;ng v&#xE0; d&#x1EC5; s&#x1EED; d&#x1EE5;ng</h3>
 <p>D&#x1EC5; &#x111;&#x1ECD;c v&#xE0; &#x111;i&#x1EC1;u h&#x1B0;&#x1EDB;ng, m&#xE0;n h&#xEC;nh LCD m&#xE0;u s&#xE1;ng, 1,7 inch s&#x1EBD; h&#x1B0;&#x1EDB;ng d&#x1EAB;n b&#x1EA1;n th&#x1EF1;c hi&#x1EC7;n ngay c&#x1EA3; nh&#x1EEF;ng thao t&#xE1;c ph&#x1EE9;c t&#x1EA1;p nh&#x1EA5;t. Ch&#x1EC9; c&#x1EA7;n th&#x1EF1;c hi&#x1EC7;n v&#xE0;i l&#x1EA7;n nh&#x1EA5;n tr&#xEA;n b&#x1EA3;ng &#x111;i&#x1EC1;u khi&#x1EC3;n, t&#xE0;i li&#x1EC7;u c&#x1EE7;a b&#x1EA1;n c&#xF3; th&#x1EC3; &#x111;&#x1B0;&#x1EE3;c s&#x1ED1; h&#xF3;a v&#xE0; ph&#xE2;n ph&#x1ED1;i trong v&#xF2;ng v&#xE0;i gi&#xE2;y.</p>
 <p>&#xA0;</p></td>
 <td colspan="2"></td>
@@ -1450,7 +1441,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <tr>
 <td style="background-color: #fff;" valign="middle">
 <h3></h3>
-<h3><span style="color: #0e3a65;">&#x258D;B&#x1ED9; n&#x1EA1;p t&#xE0;i li&#x1EC7;u t&#x1EF1; &#x111;&#x1ED9;ng 75 t&#x1EDD;</span></h3>
+<h3>&#x258D;B&#x1ED9; n&#x1EA1;p t&#xE0;i li&#x1EC7;u t&#x1EF1; &#x111;&#x1ED9;ng 75 t&#x1EDD;</h3>
 <p>V&#x1EDB;i khay n&#x1EA1;p t&#xE0;i li&#x1EC7;u t&#x1EF1; &#x111;&#x1ED9;ng 75 trang, s&#x1EA3;n ph&#x1EA9;m s&#x1EBD; ch&#x1EE5;p c&#xE1;c t&#xE0;i li&#x1EC7;u m&#x1ED9;t m&#x1EB7;t trong m&#x1ED9;t l&#x1EA7;n v&#x1EDB;i t&#x1ED1;c &#x111;&#x1ED9; l&#xEA;n t&#x1EDB;i 36 trang/ph&#xFA;t, khi&#x1EBF;n s&#x1EA3;n ph&#x1EA9;m tr&#x1EDF; n&#xEA;n ho&#xE0;n h&#x1EA3;o cho vi&#x1EC7;c qu&#xE9;t v&#xE0; sao ch&#xE9;p c&#xE1;c t&#xE0;i li&#x1EC7;u kinh doanh nhi&#x1EC1;u trang, m&#x1ED9;t m&#x1EB7;t.</p></td>
 <td style="background-color: #fff;" valign="middle">
 <h3><img decoding="async" loading="lazy" class="aligncenter" src="https://www.avision.com/en/wp-content/uploads/2023/11/AM40_p2.png" alt="AM40A_S1" width="388" height="340"></h3>
@@ -1462,14 +1453,14 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </td>
 <td>
 <h3></h3>
-<h3><span style="color: #0e3a65;">&#x258D;Kh&#x1EA3; n&#x103;ng qu&#xE9;t n&#xE2;ng cao</span></h3>
+<h3>&#x258D;Kh&#x1EA3; n&#x103;ng qu&#xE9;t n&#xE2;ng cao</h3>
 <p>S&#x1EA3;n ph&#x1EA9;m cho ph&#xE9;p b&#x1EA1;n qu&#xE9;t c&#xE1;c t&#xE0;i li&#x1EC7;u tr&#xEA;n gi&#x1EA5;y v&#x1EDB;i &#x111;&#x1EA7;y &#x111;&#x1EE7; m&#xE0;u s&#x1EAF;c &#x1EDF; &#x111;&#x1ECB;nh d&#x1EA1;ng t&#x1EC7;p PDF, JPEG ho&#x1EB7;c TIFF v&#xE0; g&#x1EED;i ch&#xFA;ng &#x111;&#x1EBF;n nhi&#x1EC1;u &#x111;i&#x1EC3;m &#x111;&#x1EBF;n kh&#xE1;c nhau nh&#x1B0; E-mail, FTP, USB v&#xE0; th&#x1B0; m&#x1EE5;c m&#x1EA1;ng (SMB).</p>
 <p>&#xA0;</p></td>
 </tr>
 <tr>
 <td style="background-color: #fff;" valign="middle">
 <h3></h3>
-<h3><span style="color: #0e3a65;">&#x258D;In di &#x111;&#x1ED9;ng thu&#x1EAD;n ti&#x1EC7;n</span></h3>
+<h3>&#x258D;In di &#x111;&#x1ED9;ng thu&#x1EAD;n ti&#x1EC7;n</h3>
 <p>S&#x1EA3;n ph&#x1EA9;m c&#xF3; th&#x1EC3; k&#x1EBF;t n&#x1ED1;i kh&#xF4;ng d&#xE2;y v&#x1EDB;i thi&#x1EBF;t b&#x1ECB; di &#x111;&#x1ED9;ng c&#x1EE7;a b&#x1EA1;n v&#xE0; h&#x1ED7; tr&#x1EE3; Android Mopria ho&#x1EB7;c iOS AirPrint. Ch&#x1EC9; c&#x1EA7;n t&#x1EA3;i xu&#x1ED1;ng &#x1EE9;ng d&#x1EE5;ng t&#x1B0;&#x1A1;ng &#x1EE9;ng, b&#x1EA1;n c&#xF3; th&#x1EC3; ho&#xE0;n t&#x1EA5;t vi&#x1EC7;c in qua thi&#x1EBF;t b&#x1ECB; di &#x111;&#x1ED9;ng c&#x1EE7;a m&#xEC;nh v&#xE0; t&#x1EAD;n h&#x1B0;&#x1EDF;ng s&#x1EF1; ti&#x1EC7;n l&#x1EE3;i c&#x169;ng nh&#x1B0; l&#x1EE3;i &#xED;ch c&#x1EE7;a vi&#x1EC7;c truy&#x1EC1;n kh&#xF4;ng d&#xE2;y!</p>
 <p>&#xA0;</p></td>
 <td style="background-color: #fff;" valign="middle">
@@ -1481,14 +1472,14 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <p><img decoding="async" class src="https://www.avision.com/en/wp-content/uploads/2023/11/AM76_S8.png" alt="AM40A_S5" width="500px"></p></td>
 <td style="background-color: #fff;" valign="middle">
 <h3></h3>
-<h3><span style="color: #0e3a65;">&#x258D;Qu&#x1EA3;n l&#xFD; thi&#x1EBF;t b&#x1ECB; t&#x1EEB; xa th&#xF4;ng qua trang web nh&#xFA;ng</span></h3>
+<h3>&#x258D;Qu&#x1EA3;n l&#xFD; thi&#x1EBF;t b&#x1ECB; t&#x1EEB; xa th&#xF4;ng qua trang web nh&#xFA;ng</h3>
 <p>S&#x1EA3;n ph&#x1EA9;m cung c&#x1EA5;p m&#x1ED9;t c&#xE1;ch thu&#x1EAD;n ti&#x1EC7;n &#x111;&#x1EC3; xem tr&#x1EA1;ng th&#xE1;i ngu&#x1ED3;n cung c&#x1EA5;p c&#x1EE7;a h&#x1ED9;p m&#x1EF1;c m&#xE1;y in, s&#x1ED1; l&#x1EA7;n qu&#xE9;t v&#xE0; s&#x1ED1; l&#x1B0;&#x1EE3;ng b&#x1EA3;n sao &#x111;&#x1EC3; gi&#xFA;p b&#x1EA1;n b&#x1EA3;o tr&#xEC; s&#x1EA3;n ph&#x1EA9;m t&#x1ED1;t. Ch&#x1EC9; c&#x1EA7;n nh&#x1EAD;p &#x111;&#x1ECB;a ch&#x1EC9; IP c&#x1EE7;a m&#xE1;y v&#xE0;o tr&#x1B0;&#x1EDD;ng URL c&#x1EE7;a tr&#xEC;nh duy&#x1EC7;t, trang web nh&#xFA;ng c&#x1EE7;a s&#x1EA3;n ph&#x1EA9;m s&#x1EBD; &#x111;&#x1B0;&#x1EE3;c nh&#x1EAF;c.</p>
 <p>&#xA0;</p></td>
 </tr>
 </tbody>
 </table>
 <h3></h3>
-<h3><span style="color: #0e3a65;">&#x258D;T&#xED;nh n&#x103;ng</span></h3>
+<h3>&#x258D;T&#xED;nh n&#x103;ng</h3>
 <ul>
 <li>T&#xED;nh linh ho&#x1EA1;t hai m&#x1EB7;t: In v&#xE0; sao ch&#xE9;p hai m&#x1EB7;t</li>
 <li>In v&#xE0; sao ch&#xE9;p v&#x1EDB;i t&#x1ED1;c &#x111;&#x1ED9; l&#xEA;n t&#x1EDB;i 40 cpm (A4LEF) &#x1EDF; ch&#x1EBF; &#x111;&#x1ED9; &#x111;en tr&#x1EAF;ng</li>
@@ -1510,7 +1501,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 
 <table class="woocommerce-product-attributes shop_attributes">
 			<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_g01">
-							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center"><span style="color:#ffffff;"><strong>&#x110;&#x1EB7;c &#x111;i&#x1EC3;m k&#x1EF9; thu&#x1EAD;t chung</strong></span></td>
+							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center">&#x110;&#x1EB7;c &#x111;i&#x1EC3;m k&#x1EF9; thu&#x1EAD;t chung</td>
 						</tr><tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_compare_s07">
 							<th class="woocommerce-product-attributes-item__label">Ch&#x1EE9;c n&#x103;ng</th>
 				<td class="woocommerce-product-attributes-item__value"><p>Sao ch&#xE9;p, In, Qu&#xE9;t, M&#x1EA1;ng</p>
@@ -1591,18 +1582,8 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<td class="woocommerce-product-attributes-item__value"><p>B&#x1ED9; n&#x1EA1;p t&#xE0;i li&#x1EC7;u t&#x1EF1; &#x111;&#x1ED9;ng, M&#xE1;y ch&#x1EE7; USB, Ti&#x1EC7;n &#xED;ch web</p>
 </td>
 		</tr>
-						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p070">
-							<th class="woocommerce-product-attributes-item__label">S&#x1ED1; l&#x1B0;&#x1EE3;ng in h&#xE0;ng th&#xE1;ng &#x111;&#x1B0;&#x1EE3;c &#x111;&#x1EC1; xu&#x1EA5;t</th>
-				<td class="woocommerce-product-attributes-item__value"><p>4.500 trang</p>
-</td>
-		</tr>
-						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p071">
-							<th class="woocommerce-product-attributes-item__label">Chu k&#x1EF3; in t&#x1ED1;i &#x111;a h&#xE0;ng th&#xE1;ng</th>
-				<td class="woocommerce-product-attributes-item__value"><p>60.000 trang</p>
-</td>
-		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_g08">
-							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center"><span style="color:#ffffff;"><strong>Khay ch&#xED;nh</strong></span></td>
+							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center">Khay ch&#xED;nh</td>
 						</tr><tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p009">
 							<th class="woocommerce-product-attributes-item__label">Dung l&#x1B0;&#x1EE3;ng gi&#x1EA5;y</th>
 				<td class="woocommerce-product-attributes-item__value"><p>250 trang (gi&#x1EA5;y th&#x1B0;&#x1EDD;ng 70 g/m2)</p>
@@ -1619,7 +1600,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_g07">
-							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center"><span style="color:#ffffff;"><strong>Khay th&#x1EE7; c&#xF4;ng</strong></span></td>
+							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center">Khay th&#x1EE7; c&#xF4;ng</td>
 						</tr><tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p006">
 							<th class="woocommerce-product-attributes-item__label">Dung l&#x1B0;&#x1EE3;ng gi&#x1EA5;y</th>
 				<td class="woocommerce-product-attributes-item__value"><p>10 t&#x1EDD; &#xFF08;gi&#x1EA5;y th&#x1B0;&#x1EDD;ng 70 g/m2)</p>
@@ -1635,20 +1616,8 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<td class="woocommerce-product-attributes-item__value"><p>1 trang : 60~200g/m2, 10 trang : 60~163 g/m2</p>
 </td>
 		</tr>
-						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_g12">
-							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center"><span style="color:#ffffff;"><strong>V&#x1EAD;t t&#x1B0; ti&#xEA;u hao (t&#xF9;y ch&#x1ECD;n)</strong></span></td>
-						</tr><tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p065">
-							<th class="woocommerce-product-attributes-item__label">H&#x1ED9;p m&#x1EF1;c</th>
-				<td class="woocommerce-product-attributes-item__value"><p>6.000 trang, 9.000 trang, 3000 trang</p>
-</td>
-		</tr>
-						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p066">
-							<th class="woocommerce-product-attributes-item__label">B&#x1ED9; tr&#x1ED1;ng</th>
-				<td class="woocommerce-product-attributes-item__value"><p>30.000 trang</p>
-</td>
-		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_g03">
-							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center"><span style="color:#ffffff;"><strong>Ch&#x1EE9;c n&#x103;ng qu&#xE9;t</strong></span></td>
+							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center">Ch&#x1EE9;c n&#x103;ng qu&#xE9;t</td>
 						</tr><tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_001">
 							<th class="woocommerce-product-attributes-item__label">C&#xF4;ng ngh&#x1EC7;</th>
 				<td class="woocommerce-product-attributes-item__value"><p>C&#x1EA3;m bi&#x1EBF;n h&#xEC;nh &#x1EA3;nh li&#xEA;n h&#x1EC7; (CIS)</p>
@@ -1730,7 +1699,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_g10">
-							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center"><span style="color:#ffffff;"><strong>Ch&#x1EE9;c n&#x103;ng in</strong></span></td>
+							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center">Ch&#x1EE9;c n&#x103;ng in</td>
 						</tr><tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_compare_s08">
 							<th class="woocommerce-product-attributes-item__label">T&#x1ED1;c &#x111;&#x1ED9; in</th>
 				<td class="woocommerce-product-attributes-item__value"><p>40 trang/ph&#xFA;t (A4), 42 trang/ph&#xFA;t (Th&#x1B0;)</p>
@@ -1787,7 +1756,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_g09">
-							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center"><span style="color:#ffffff;"><strong>Ch&#x1EE9;c n&#x103;ng sao ch&#xE9;p</strong></span></td>
+							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center">Ch&#x1EE9;c n&#x103;ng sao ch&#xE9;p</td>
 						</tr><tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p090">
 							<th class="woocommerce-product-attributes-item__label">Sao ch&#xE9;p k&#xED;ch th&#x1B0;&#x1EDB;c</th>
 				<td class="woocommerce-product-attributes-item__value"><p>Ph&#xE1;p L&#xFD;, Th&#x1B0;, A4, A5</p>
@@ -1833,13 +1802,35 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<td class="woocommerce-product-attributes-item__value"><p><a href="http://localhost:3000/spec_p126/duplex-copy-collate-toner-save-mode-id-copy/" rel="tag">Sao ch&#xE9;p hai m&#x1EB7;t / &#x110;&#x1ED1;i chi&#x1EBF;u / Ch&#x1EBF; &#x111;&#x1ED9; ti&#x1EBF;t ki&#x1EC7;m m&#x1EF1;c / Sao ch&#xE9;p ID</a></p>
 </td>
 		</tr>
+						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_g12">
+							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center">V&#x1EAD;t t&#x1B0; ti&#xEA;u hao (t&#xF9;y ch&#x1ECD;n)</td>
+						</tr><tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p065">
+							<th class="woocommerce-product-attributes-item__label">H&#x1ED9;p m&#x1EF1;c</th>
+				<td class="woocommerce-product-attributes-item__value"><p>6.000 trang, 9.000 trang, 3000 trang</p>
+</td>
+		</tr>
+						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p066">
+							<th class="woocommerce-product-attributes-item__label">B&#x1ED9; tr&#x1ED1;ng</th>
+				<td class="woocommerce-product-attributes-item__value"><p>30.000 trang</p>
+</td>
+		</tr>
+						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p070">
+							<th class="woocommerce-product-attributes-item__label">S&#x1ED1; l&#x1B0;&#x1EE3;ng in h&#xE0;ng th&#xE1;ng &#x111;&#x1B0;&#x1EE3;c &#x111;&#x1EC1; xu&#x1EA5;t</th>
+				<td class="woocommerce-product-attributes-item__value"><p>4.500 trang</p>
+</td>
+		</tr>
+						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p071">
+							<th class="woocommerce-product-attributes-item__label">Chu k&#x1EF3; in t&#x1ED1;i &#x111;a h&#xE0;ng th&#xE1;ng</th>
+				<td class="woocommerce-product-attributes-item__value"><p>60.000 trang</p>
+</td>
+		</tr>
 				</table>
 	<font size="2"><p align="right"><font color="#0e3a65">* C&#xE1;c th&#xF4;ng s&#x1ED1; k&#x1EF9; thu&#x1EAD;t tr&#xEA;n c&#xF3; th&#x1EC3; thay &#x111;&#x1ED5;i t&#xF9;y theo hi&#x1EC7;u su&#x1EA5;t m&#xE1;y t&#xED;nh v&#xE0; khu v&#x1EF1;c b&#xE1;n h&#xE0;ng. &#x110;&#x1EC3; bi&#x1EBF;t th&#xEA;m chi ti&#x1EBF;t, vui l&#xF2;ng tham kh&#x1EA3;o nh&#xE0; ph&#xE2;n ph&#x1ED1;i &#x111;&#x1ECB;a ph&#x1B0;&#x1A1;ng c&#x1EE7;a b&#x1EA1;n.</font></p></font>
 				</div>
 					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--Downloads panel entry-content wc-tab" id="tab-Downloads" role="tabpanel" aria-labelledby="tab-title-Downloads">
 				<div><h2 class="elementor-heading-title elementor-size-default">&#x258E;H&#xEC;nh &#x1EA3;nh s&#x1EA3;n ph&#x1EA9;m</h2></div><div><table><tbody><tr><td rowspan="4" bgcolor="#fff"><img src="https://www.avision.com/en/wp-content/uploads/download-manager-files/AM40-Medium.jpg" alt="200" width="200"></td></tr><tr><th> &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i cao</th><th> &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i trung b&#xEC;nh</th><th> &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i th&#x1EA5;p</th></tr><tr><td>23,72 MB</td><td>1,06 MB</td><td>377,34 KB</td></tr><tr><td bgcolor="#fff"><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><font color="#555555"><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AM40-High.tif" download>T&#x1EA3;i xu&#x1ED1;ng</a></font></td><td bgcolor="#fff"><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AM40-Medium.jpg" download>T&#x1EA3;i xu&#x1ED1;ng</a></td><td bgcolor="#fff"><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AM40-Low.jpg" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;H&#x1B0;&#x1EDB;ng d&#x1EAB;n s&#x1EED; d&#x1EE5;ng</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>AM40</td><td>Ti&#x1EBF;ng Trung gi&#x1EA3;n th&#x1EC3;</td><td>8,18 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/manual_cs_250-1282-E_AM40_V100.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40</td><td>truy&#x1EC1;n th&#x1ED1;ng Trung Qu&#x1ED1;c</td><td>12,64 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/manual_ct_250-1282-E_AM40_V100.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40</td><td>ti&#x1EBF;ng &#x110;&#x1EE9;c</td><td>8,52 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/manual_de_250-1282-E_AM40_V100.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40</td><td>Ti&#x1EBF;ng Anh</td><td>12,10 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/manual_en_250-1282-E_AM40_V100.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40</td><td>ng&#x1B0;&#x1EDD;i T&#xE2;y Ban Nha</td><td>8,40MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/manual_es_250-1282-E_AM40_V100.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40</td><td>ng&#x1B0;&#x1EDD;i Ph&#xE1;p</td><td>8,16MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/manual_fr_250-1282-E_AM40_V100.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40</td><td>ng&#x1B0;&#x1EDD;i &#xDD;</td><td>8,10 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/manual_it_250-1282-E_AM40_V100.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40</td><td>ti&#x1EBF;ng B&#x1ED3; &#x110;&#xE0;o Nha</td><td>14,75 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/manual_pt_250-1282-E_AM40_V100.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40</td><td>ti&#x1EBF;ng Nga</td><td>8,48 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/manual_ru_250-1282-E_AM40_V100.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;T&#xE0;i li&#x1EC7;u gi&#x1EDB;i thi&#x1EC7;u</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>AM40</td><td>truy&#x1EC1;n th&#x1ED1;ng Trung Qu&#x1ED1;c</td><td>1,94 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AM40_DM_ZH_V100_20230915.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40</td><td>Ti&#x1EBF;ng Anh</td><td>1,79 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AM40_DM_EN_V100_20230915.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40</td><td>Ti&#x1EBF;ng Trung gi&#x1EA3;n th&#x1EC3;</td><td>1,95 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AM40_DM_CH_V100_20230915.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;H&#x1B0;&#x1EDB;ng d&#x1EAB;n nhanh</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>AM33 / AM40 / AM40A ( M&#x1EA1;ng )</td><td>&#x110;a ng&#xF4;n ng&#x1EEF;</td><td>1,25 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/Quick Network Guide_all_251-1545-0_V100.pdf" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM33 / AM40 / AM40A</td><td>&#x110;a ng&#xF4;n ng&#x1EEF;</td><td>5,58MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/Quick Guide_all_251-1543-0_V200.pdf" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM33 / AM40 / AM40A ( M&#x1EA1;ng )</td><td>Ti&#x1EBF;ng Trung gi&#x1EA3;n th&#x1EC3;</td><td>1,25 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/Quick Network Guide_cs_251-1588-0_V100.pdf" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM33 / AM40 / AM40A</td><td>Ti&#x1EBF;ng Trung gi&#x1EA3;n th&#x1EC3;</td><td>5,69 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/Quick Guide_cs_251-1587-0_V100.pdf" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;Tr&#xEC;nh &#x111;i&#x1EC1;u khi&#x1EC3;n</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>H&#x1ED7; tr&#x1EE3; h&#x1EC7; &#x111;i&#x1EC1;u h&#xE0;nh</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>D&#xF2;ng A4M</td><td>V5.70</td><td>95,06 MB</td><td>Th&#x1EAF;ng 7, th&#x1EAF;ng 8, th&#x1EAF;ng 10, th&#x1EAF;ng 11</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/A4M Series_V570_20231025.zip" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div>			</div>
 					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--desc_tab panel entry-content wc-tab" id="tab-desc_tab" role="tabpanel" aria-labelledby="tab-title-desc_tab">
-				<style>li.desc_tab_tab{ display:none !important; }</style>			</div>
+				<style>li.desc_tab_tab{ display:none !quan trọng; }</style>			</div>
 		
 			</div>
 
@@ -1868,7 +1859,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<div class="woo-entry-image clr">
 		<a href="http://localhost:3000/shop/printer-mfp/am40a/" class="woocommerce-LoopProduct-link"><img width="1080" height="1080" src="https://www.avision.com/en/wp-content/uploads/2023/10/AM40A_A4.jpg" class="woo-entry-image-main" alt="AM40A" loading="lazy"></a>	</div><!-- .woo-entry-image -->
 
-	<a href="http://localhost:3000/shop/printer-mfp/am40a/" data-quantity="1" class="button product_type_simple" data-product_id="24770" data-product_sku aria-label="Read more about &#x201C;AM40A&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a><ul class="woo-entry-buttons"><li class="woo-quickview-btn"><a href="#" class="owp-quick-view" id="product_id_24770" data-product_id="24770"><i class=" icon-eye" aria-hidden="true" role="img"></i></a></li></ul></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/printer-mfp/" rel="tag">M&#xE1;y in / MFP</a></li><li class="title"><h2><a href="http://localhost:3000/shop/printer-mfp/am40a/">AM40A</a></h2></li><li class="price-wrap">
+	<a href="http://localhost:3000/shop/printer-mfp/am40a/" data-quantity="1" class="button product_type_simple" data-product_id="24770" data-product_sku aria-label="Read more about &#x201C;AM40A&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/printer-mfp/" rel="tag">M&#xE1;y in / MFP</a></li><li class="title"><h2><a href="http://localhost:3000/shop/printer-mfp/am40a/">AM40A</a></h2></li><li class="price-wrap">
 </li><li class="rating"></li></ul>
 <ul class="woo-product-gallery">
 
@@ -1902,7 +1893,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<div class="woo-entry-image clr">
 		<a href="http://localhost:3000/shop/printer-mfp/am40q/" class="woocommerce-LoopProduct-link"><img width="1080" height="1080" src="https://www.avision.com/en/wp-content/uploads/2023/10/AM40Q_A4.jpg" class="woo-entry-image-main" alt="AM40Q" loading="lazy"></a>	</div><!-- .woo-entry-image -->
 
-	<a href="http://localhost:3000/shop/printer-mfp/am40q/" data-quantity="1" class="button product_type_simple" data-product_id="24756" data-product_sku aria-label="Read more about &#x201C;AM40Q&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a><ul class="woo-entry-buttons"><li class="woo-quickview-btn"><a href="#" class="owp-quick-view" id="product_id_24756" data-product_id="24756"><i class=" icon-eye" aria-hidden="true" role="img"></i></a></li></ul></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/printer-mfp/" rel="tag">M&#xE1;y in / MFP</a></li><li class="title"><h2><a href="http://localhost:3000/shop/printer-mfp/am40q/">AM40Q</a></h2></li><li class="price-wrap">
+	<a href="http://localhost:3000/shop/printer-mfp/am40q/" data-quantity="1" class="button product_type_simple" data-product_id="24756" data-product_sku aria-label="Read more about &#x201C;AM40Q&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/printer-mfp/" rel="tag">M&#xE1;y in / MFP</a></li><li class="title"><h2><a href="http://localhost:3000/shop/printer-mfp/am40q/">AM40Q</a></h2></li><li class="price-wrap">
 </li><li class="rating"></li></ul>
 <ul class="woo-product-gallery">
 
@@ -1972,30 +1963,16 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/why-avision/">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-check"></i>						</span>
-										<span class="elementor-icon-list-text">T&#x1EA1;i sao Avision</span>
-											</a>
+											<a href="http://localhost:3000/why-avision/"> T&#x1EA1;i sao Avision</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/corporate-profile/">
-
-											<span class="elementor-icon-list-text">H&#x1ED3; s&#x1A1; c&#xF4;ng ty</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/corporate-profile/"> H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/news/">
-
-											<span class="elementor-icon-list-text">Tin t&#x1EE9;c</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/news/"> Tin t&#x1EE9;c</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/crs/">
-
-											<span class="elementor-icon-list-text">CSR</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/crs/"> CSR</a>
 									</li>
 						</ul>
 				</div>
@@ -2012,34 +1989,19 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/document-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</span>
-											</a>
+											<a href="http://localhost:3000/product-category/document-scanner/"> M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/flatbed-scanner/">
-
-											<span class="elementor-icon-list-text"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/flatbed-scanner/"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/"> M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/network-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/network-scanner/"> M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/paperair-series/">
-
-											<span class="elementor-icon-list-text">D&#xF2;ng PaperAir</span>
-											</a>
+											<a href="http://localhost:3000/product-category/paperair-series/"> D&#xF2;ng PaperAir</a>
 									</li>
 						</ul>
 				</div>
@@ -2068,22 +2030,13 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/download/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</span>
-											</a>
+											<a href="http://localhost:3000/download/"> Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/helpcenter/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/helpcenter/"> Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/product-registration/">
-
-											<span class="elementor-icon-list-text">&#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/product-registration/"> &#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</a>
 									</li>
 						</ul>
 				</div>
@@ -2102,18 +2055,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-5852473a elementor-shape-circle e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="5852473a" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-social-icons-wrapper elementor-grid">
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-9758c9c" href="https://www.facebook.com/AvisionHQ/" target="_blank">
-						<span class="elementor-screen-only">Facebook-f</span>
-						<i class="fab fa-facebook-f"></i>					</a>
-				</span>
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-d550229" href="https://www.youtube.com/user/AvisionHQ" target="_blank">
-						<span class="elementor-screen-only">Youtube</span>
-						<i class="fab fa-youtube"></i>					</a>
-				</span>
-					</div>
+					<div class="elementor-social-icons-wrapper elementor-grid"> Facebook-f Youtube</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-ae800e8 elementor-widget elementor-widget-image" data-id="ae800e8" data-element_type="widget" data-widget_type="image.default">
@@ -2132,9 +2074,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-1398caa elementor-widget elementor-widget-copyright" data-id="1398caa" data-element_type="widget" data-widget_type="copyright.default">
 				<div class="elementor-widget-container">
-					<div class="hfe-copyright-wrapper">
-							<span>Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</span>
-					</div>
+					<div class="hfe-copyright-wrapper"> Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</div>
 				</div>
 				</div>
 					</div>
@@ -2348,7 +2288,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	</div>
 	<div class="owp-qv-overlay"></div>
 </div>
-<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Cart</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Xe &#x111;&#x1EA9;y</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
 								<section class="elementor-section elementor-top-section elementor-element elementor-element-45284f83 elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle elementor-section-height-default elementor-section-items-middle" data-id="45284f83" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
@@ -2362,9 +2302,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<i aria-hidden="true" class="fas fa-globe-americas"></i>				</span>
 			</div>
 						<div class="elementor-icon-box-content">
-				<h2 class="elementor-icon-box-title">
-					<span> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</span>
-				</h2>
+				<h2 class="elementor-icon-box-title"> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</h2>
 							</div>
 		</div>
 				</div>
@@ -2505,9 +2443,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 								<div class="elementor-element elementor-element-32f58706 elementor-icon-list--layout-inline elementor-align-right elementor-widget__width-auto elementor-tablet-align-center elementor-mobile-align-center elementor-widget-tablet__width-inherit elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="32f58706" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items elementor-inline-items">
-							<li class="elementor-icon-list-item elementor-inline-item">
-										<span class="elementor-icon-list-text">Ng&#xF4;n ng&#x1EEF;</span>
-									</li>
+							<li class="elementor-icon-list-item elementor-inline-item"> Ng&#xF4;n ng&#x1EEF;</li>
 						</ul>
 				</div>
 				</div>
@@ -2609,7 +2545,7 @@ var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result 
 </script>
 <script src="https://www.avision.com/en/wp-includes/js/jquery/ui/autocomplete.js?ver=1.13.2" id="jquery-ui-autocomplete-js"></script>
 <script id="helpie-faq-bundle-js-extra">
-var helpie_faq_object = {"nonce":"5741d5999d","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"24762","current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
+var helpie_faq_object = {"nonce":"44c8c15ec3","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"24762","current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
 var faqStrings = {"hide":"Hide","addFAQ":"Add FAQ","noFaqsFound":"No FAQ found"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/helpie-faq/assets/bundles/main.app.js?ver=1.11" id="helpie-faq-bundle-js"></script>
@@ -2638,7 +2574,7 @@ var mailchimp_public_data = {"site_url":"https:\/\/www.avision.com\/en","ajax_ur
 <script src="https://www.avision.com/en/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=3.2.03" id="mailchimp-woocommerce-js"></script>
 <script src="https://www.avision.com/en/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
 <script id="oceanwp-main-js-extra">
-var oceanwpLocalize = {"nonce":"bf25d4a8fc","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"97a7e3f28b"};
+var oceanwpLocalize = {"nonce":"4cd3f37f81","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"130e0abfae"};
 </script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=3.0.5.1644388334" id="oceanwp-main-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=3.0.5.1644388334" id="oceanwp-drop-down-mobile-menu-js"></script>
@@ -2652,7 +2588,7 @@ var oceanwpLocalize = {"nonce":"bf25d4a8fc","isRTL":"","menuSearchStyle":"drop_d
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/select.min.js?ver=3.0.5.1644388334" id="oceanwp-select-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/ow-infinite-scroll.min.js?ver=3.0.5.1644388334" id="oceanwp-infinite-scroll-js"></script>
 <script id="oceanwp-woocommerce-custom-features-js-extra">
-var oceanwpLocalize = {"nonce":"bf25d4a8fc","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"97a7e3f28b"};
+var oceanwpLocalize = {"nonce":"4cd3f37f81","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"130e0abfae"};
 </script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-custom-features.min.js?ver=3.0.5.1644388334" id="oceanwp-woocommerce-custom-features-js"></script>
 <script id="popup-maker-site-js-extra">
@@ -2691,7 +2627,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/en\/?wc-ajax=%%endpoint%
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/tipsy/tipsy.js?ver=1.0.0a" id="um_tipsy-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/raty/um-raty.js?ver=2.6.0" id="um_raty-js"></script>
 <script id="um_scripts-js-extra">
-var um_scripts = {"max_upload_size":"52428800","nonce":"86be79f25f"};
+var um_scripts = {"max_upload_size":"52428800","nonce":"9d3a550f4c"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/js/um-scripts.js?ver=2.7.0" id="um_scripts-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/js/um-profile.js?ver=2.7.0" id="um_profile-js"></script>
@@ -2725,7 +2661,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/en\/wp-admin\/admin-ajax.php","wc_
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/js/webpack.runtime.js?ver=3.15.3" id="elementor-webpack-runtime-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/js/frontend-modules.js?ver=3.15.3" id="elementor-frontend-modules-js"></script>
 <script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","nonce":"2d92ad8507","urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.avision.com\/en\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/www.avision.com\/en","checkout_page_url":"https:\/\/www.avision.com\/en"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","nonce":"82ec843f0c","urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.avision.com\/en\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/www.avision.com\/en","checkout_page_url":"https:\/\/www.avision.com\/en"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor-pro/assets/js/frontend.js?ver=3.6.5" id="elementor-pro-frontend-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.js?ver=4.0.2" id="elementor-waypoints-js"></script>

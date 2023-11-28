@@ -75,56 +75,56 @@ app.get("*", async (req, res) => {
   res.send(html.toString());
 });
 
-app.post("/api/modify-xhr", async (req, res) => {
-  let { method, url, status, response } = req.body;
+// app.post("/api/modify-xhr", async (req, res) => {
+//   let { method, url, status, response } = req.body;
 
-  // Perform modifications on the response as needed
-  let modifiedResponse = response;
-  if (response[0] != "<") {
-    try {
-      response = JSON.parse(response);
-      modifiedResponse = response;
-    } catch (error) {
-      console.log(error);
-    }
+//   // Perform modifications on the response as needed
+//   let modifiedResponse = response;
+//   if (response[0] != "<") {
+//     try {
+//       response = JSON.parse(response);
+//       modifiedResponse = response;
+//     } catch (error) {
+//       console.log(error);
+//     }
 
-    //console.log(typeof response);
-    // console.log(response);
-    for (const key in response) {
-      console.log(key);
-    }
-    //console.log(typeof response.data.productHtml);
-    //console.log(response.data);
-    // Send the modified response back to the front end
-    modifiedResponse.data.productHtml = (
-      await pageService.modifyAjaxResponse(response.data.productHtml)
-    ).toString();
-    //console.log("File chỉnh sửa : ");
-    //console.log(modifiedResponse.data.productHtml);
-  }
+//     //console.log(typeof response);
+//     // console.log(response);
+//     for (const key in response) {
+//       console.log(key);
+//     }
+//     //console.log(typeof response.data.productHtml);
+//     //console.log(response.data);
+//     // Send the modified response back to the front end
+//     modifiedResponse.data.productHtml = (
+//       await pageService.modifyAjaxResponse(response.data.productHtml)
+//     ).toString();
+//     //console.log("File chỉnh sửa : ");
+//     //console.log(modifiedResponse.data.productHtml);
+//   }
 
-  res.json({
-    method,
-    url,
-    status,
-    modifiedResponse: JSON.stringify(modifiedResponse),
-  });
-});
+//   res.json({
+//     method,
+//     url,
+//     status,
+//     modifiedResponse: JSON.stringify(modifiedResponse),
+//   });
+// });
 
-app.post("/api/capture-xhr", async (req, res) => {
-  let { method, url } = req.body;
+// app.post("/api/capture-xhr", async (req, res) => {
+//   let { method, url } = req.body;
 
-  // Log the captured XHR details
-  console.log("[Captured XHR Request]", "Method:", method, "URL:", url);
+//   // Log the captured XHR details
+//   console.log("[Captured XHR Request]", "Method:", method, "URL:", url);
 
-  // You can add additional logic here to process or store the captured details
+//   // You can add additional logic here to process or store the captured details
 
-  res.json({
-    method,
-    url,
-    message: "XHR request captured successfully",
-  });
-});
+//   res.json({
+//     method,
+//     url,
+//     message: "XHR request captured successfully",
+//   });
+// });
 
 app.listen(port, () => {
   console.log(`Server is run on http://localhost:${port}/`);

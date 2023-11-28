@@ -927,7 +927,7 @@ var log_object = {"ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-aja
 <script src="https://www.avision.com/en/wp-content/plugins/download-manager/assets/bootstrap/js/bootstrap.min.js?ver=6.3.2" id="wpdm-frontend-js-js"></script>
 <script id="wpdm-frontjs-js-extra">
 var wpdm_url = {"home":"https:\/\/www.avision.com\/en\/","site":"https:\/\/www.avision.com\/en\/","ajax":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php"};
-var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>","client_id":"622cef671fa864bd3d51ca10b0b2dc48"};
+var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>","client_id":"6510233bd52c15c22c50a7d525073223"};
 var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click following button to start download.","start_dl":"Start Download"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/download-manager/assets/js/front.js?ver=3.2.81" id="wpdm-frontjs-js"></script>
@@ -1231,7 +1231,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055"><a href="http://localhost:3000/login/" class="elementor-item">&#x110;&#x103;ng nh&#x1EAD;p</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055">
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://localhost:3000/registration/" class="elementor-sub-item">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
@@ -1273,7 +1273,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item" tabindex="-1">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055"><a href="http://localhost:3000/login/" class="elementor-item" tabindex="-1">&#x110;&#x103;ng nh&#x1EAD;p</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055">
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://localhost:3000/registration/" class="elementor-sub-item" tabindex="-1">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
@@ -1360,7 +1360,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-element elementor-element-632c2e2b elementor-widget elementor-widget-woocommerce-product-short-description" data-id="632c2e2b" data-element_type="widget" data-widget_type="woocommerce-product-short-description.default">
 				<div class="elementor-widget-container">
 			<div class="woocommerce-product-details__short-description">
-	<h3><span style="color: #0e3a65">In, sao ch&#xE9;p, g&#x1EED;i email v&#xE0; qu&#xE9;t b&#x1EB1;ng MFP Avision AM40A Plus</span></h3>
+	<h3><span style="color: #0e3a65;">In, sao ch&#xE9;p, g&#x1EED;i email v&#xE0; qu&#xE9;t b&#x1EB1;ng MFP Avision AM40A Plus</span></h3>
 <p>Ch&#xFA;ng t&#xF4;i &#x111;&#xE3; s&#x1EED; d&#x1EE5;ng c&#xE1;c t&#xED;nh n&#x103;ng quan tr&#x1ECD;ng d&#xE0;nh cho v&#x103;n ph&#xF2;ng c&#x1EE7;a m&#xE1;y in &#x111;a ch&#x1EE9;c n&#x103;ng d&#xE0;nh cho ph&#xF2;ng ban c&#x1EE7;a m&#xEC;nh v&#xE0; &#x111;&#x1B0;a ch&#xFA;ng v&#xE0;o m&#xE1;y in c&#xF3; k&#xED;ch th&#x1B0;&#x1EDB;c PH&#xC1;P L&#xDD; c&#x1EF1;c k&#x1EF3; hi&#x1EC7;u qu&#x1EA3; n&#xE0;y. N&#xF3; t&#xED;ch h&#x1EE3;p li&#x1EC1;n m&#x1EA1;ch c&#xE1;c ch&#x1EE9;c n&#x103;ng in, qu&#xE9;t, e-mail v&#xE0; sao ch&#xE9;p. Ngo&#xE0;i ra, s&#x1EA3;n ph&#x1EA9;m c&#xF3; th&#x1EC3; &#x111;&#x1B0;&#x1EE3;c k&#x1EBF;t n&#x1ED1;i v&#x1EDB;i m&#xE1;y t&#xED;nh th&#xF4;ng qua m&#x1EA1;ng c&#xF3; d&#xE2;y ho&#x1EB7;c kh&#xF4;ng d&#xE2;y. T&#x1EA5;t c&#x1EA3; c&#xE1;c t&#xED;nh n&#x103;ng n&#xE0;y &#x111;&#x1B0;&#x1EE3;c v&#x1EAD;n h&#xE0;nh th&#xF4;ng qua m&#xE0;n h&#xEC;nh LCD l&#x1EDB;n v&#xE0; r&#xF5; r&#xE0;ng &#x111;&#x1EC3; &#x111;&#x1A1;n gi&#x1EA3;n h&#xF3;a c&#xF4;ng vi&#x1EC7;c cho c&#xE1;c v&#x103;n ph&#xF2;ng b&#x1EAD;n r&#x1ED9;n v&#x1EDB;i kh&#x1ED1;i l&#x1B0;&#x1EE3;ng ph&#xE2;n ph&#x1ED1;i t&#xE0;i li&#x1EC7;u l&#x1EDB;n.</p>
 </div>
 		</div>
@@ -1380,16 +1380,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-element elementor-element-5542f48 elementor-widget elementor-widget-shortcode" data-id="5542f48" data-element_type="widget" data-widget_type="shortcode.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-shortcode">
-<div class="yith-woocompare-counter" data-type="text" data-text_o="{{count}} products in compare">
-	<a class="yith-woocompare-open" href="http://localhost:3000?action=yith-woocompare-view-table&amp;iframe=yes">
-		<span class="yith-woocompare-counter">
-							<span class="yith-woocompare-icon">
-					<img src="https://www.avision.com/en/wp-content/plugins/yith-woocommerce-compare-premium/assets/images/compare-icon.png">
-				</span>
-						
-		</span>
-	</a>
-</div>
+
 </div>
 				</div>
 				</div>
@@ -1430,88 +1421,88 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <table class="AM76">
 <tbody>
 <tr>
-<td style="background-color: #fff" valign="middle" width="50%">
+<td style="background-color: #fff;" valign="middle" width="50%">
 <h3></h3>
-<h3><span style="color: #0e3a65">&#x258D;AM40A Plus c&#x1EE7;a Avision mang &#x111;&#x1EBF;n gi&#x1EA3;i ph&#xE1;p t&#x1ED1;i &#x1B0;u cho nhu c&#x1EA7;u c&#x1EE7;a b&#x1EA1;n</span></h3>
+<h3><span style="color: #0e3a65;">&#x258D;AM40A Plus c&#x1EE7;a Avision mang &#x111;&#x1EBF;n gi&#x1EA3;i ph&#xE1;p t&#x1ED1;i &#x1B0;u cho nhu c&#x1EA7;u c&#x1EE7;a b&#x1EA1;n</span></h3>
 <p>C&#xF4;ng ngh&#x1EC7; x&#x1EED; l&#xFD; h&#xEC;nh &#x1EA3;nh AI c&#x1EE7;a Avision cung c&#x1EA5;p m&#x1ED9;t lo&#x1EA1;t t&#xED;nh n&#x103;ng m&#x1EA1;nh m&#x1EBD;, bao g&#x1ED3;m x&#xF3;a trang tr&#x1ED1;ng, xoay t&#x1EF1; &#x111;&#x1ED9;ng, ch&#x1EC9;nh s&#x1EED;a h&#xEC;nh &#x1EA3;nh v&#xE0; c&#x1EAF;t x&#xE9;n ch&#xED;nh x&#xE1;c. V&#x1EDB;i l&#x1EE3;i &#xED;ch b&#x1ED5; sung c&#x1EE7;a t&#xED;nh n&#x103;ng &#x111;&#x1ECB;nh h&#x1B0;&#x1EDB;ng t&#x1EF1; &#x111;&#x1ED9;ng, nh&#x1EEF;ng kh&#x1EA3; n&#x103;ng n&#xE2;ng cao n&#xE0;y gi&#x1EA3;i quy&#x1EBF;t hi&#x1EC7;u qu&#x1EA3; nh&#x1EEF;ng th&#xE1;ch th&#x1EE9;c th&#x1B0;&#x1EDD;ng g&#x1EB7;p trong qu&#xE1; tr&#xEC;nh sao ch&#xE9;p. B&#x1EB1;ng c&#xE1;ch t&#x1EAD;n d&#x1EE5;ng c&#xF4;ng ngh&#x1EC7; c&#x1EE7;a Avision, ng&#x1B0;&#x1EDD;i d&#xF9;ng c&#xF3; th&#x1EC3; n&#xE2;ng cao &#x111;&#xE1;ng k&#x1EC3; hi&#x1EC7;u qu&#x1EA3; ho&#x1EA1;t &#x111;&#x1ED9;ng v&#xE0; n&#x103;ng su&#x1EA5;t c&#x1EE7;a m&#xEC;nh, &#x111;&#x1EA3;m b&#x1EA3;o qu&#x1EA3;n l&#xFD; v&#xE0; sao ch&#xE9;p t&#xE0;i li&#x1EC7;u li&#x1EC1;n m&#x1EA1;ch.</p>
 <p>&#xA0;</p></td>
-<td style="background-color: #fff" valign="middle"><img decoding="async" loading="lazy" class src="https://www.avision.com/en/wp-content/uploads/2023/11/AM40A_info.png" alt="AM40A_S1" width="388" height="340"></td>
+<td style="background-color: #fff;" valign="middle"><img decoding="async" loading="lazy" class src="https://www.avision.com/en/wp-content/uploads/2023/11/AM40A_info.png" alt="AM40A_S1" width="388" height="340"></td>
 </tr>
 <tr>
-<td style="background-color: #fff" valign="middle"><img decoding="async" loading="lazy" class src="https://www.avision.com/en/wp-content/uploads/2023/11/AM40A_p5_P5.png" alt="AM40A_S2" width="378" height="378"></td>
-<td style="background-color: #fff" valign="middle">
+<td style="background-color: #fff;" valign="middle"><img decoding="async" loading="lazy" class src="https://www.avision.com/en/wp-content/uploads/2023/11/AM40A_p5_P5.png" alt="AM40A_S2" width="378" height="378"></td>
+<td style="background-color: #fff;" valign="middle">
 <h3></h3>
-<h3><span style="color: #0e3a65">&#x258D;&#x110;&#x1EB7;t t&#xE0;i li&#x1EC7;u c&#x1EE7;a b&#x1EA1;n m&#x1ED9;t c&#xE1;ch t&#xEC;nh c&#x1EDD; - T&#x1EF1; &#x111;&#x1ED9;ng c&#x1EAF;t v&#xE0; l&#xE0;m th&#x1EB3;ng h&#xEC;nh &#x1EA3;nh</span></h3>
+<h3><span style="color: #0e3a65;">&#x258D;&#x110;&#x1EB7;t t&#xE0;i li&#x1EC7;u c&#x1EE7;a b&#x1EA1;n m&#x1ED9;t c&#xE1;ch t&#xEC;nh c&#x1EDD; - T&#x1EF1; &#x111;&#x1ED9;ng c&#x1EAF;t v&#xE0; l&#xE0;m th&#x1EB3;ng h&#xEC;nh &#x1EA3;nh</span></h3>
 <p>V&#x1EDB;i ch&#x1EE9;c n&#x103;ng t&#x1EF1; &#x111;&#x1ED9;ng c&#x1EAF;t v&#xE0; l&#xE0;m th&#x1EB3;ng n&#xE2;ng cao, ng&#x1B0;&#x1EDD;i d&#xF9;ng kh&#xF4;ng c&#xF2;n c&#x1EA7;n ph&#x1EA3;i c&#x1EA9;n th&#x1EAD;n &#x111;&#x1EB7;t t&#xE0;i li&#x1EC7;u v&#xE0;o m&#xE9;p c&#x1EE7;a thanh d&#x1EAB;n gi&#x1EA5;y. Ngay c&#x1EA3; khi t&#xE0;i li&#x1EC7;u &#x111;&#x1B0;&#x1EE3;c &#x111;&#x1EB7;t &#x1EDF; m&#x1ED9;t g&#xF3;c nh&#x1ECF; trong khay n&#x1EA1;p ho&#x1EB7;c tr&#xEA;n t&#x1EA5;m k&#xED;nh, h&#xEC;nh &#x1EA3;nh tr&#x1B0;&#x1EDB;c ti&#xEA;n c&#xF3; th&#x1EC3; &#x111;&#x1B0;&#x1EE3;c qu&#xE9;t, c&#x1EAF;t x&#xE9;n v&#xE0; sau &#x111;&#xF3; l&#xE0;m th&#x1EB3;ng t&#x1EF1; &#x111;&#x1ED9;ng.</p></td>
 </tr>
 <tr>
 <td colspan="2">
 <h3></h3>
-<h3><span style="color: #0e3a65">&#x258D;T&#x1EF1; &#x111;&#x1ED9;ng ph&#xE1;t hi&#x1EC7;n m&#x1EB7;t v&#x103;n b&#x1EA3;n &#x2013; Kh&#xF4;ng c&#xF2;n lo l&#x1EAF;ng khi &#x111;&#x1EB7;t t&#xE0;i li&#x1EC7;u &#xFA;p l&#xEA;n ho&#x1EB7;c &#xFA;p xu&#x1ED1;ng</span></h3>
+<h3><span style="color: #0e3a65;">&#x258D;T&#x1EF1; &#x111;&#x1ED9;ng ph&#xE1;t hi&#x1EC7;n m&#x1EB7;t v&#x103;n b&#x1EA3;n &#x2013; Kh&#xF4;ng c&#xF2;n lo l&#x1EAF;ng khi &#x111;&#x1EB7;t t&#xE0;i li&#x1EC7;u &#xFA;p l&#xEA;n ho&#x1EB7;c &#xFA;p xu&#x1ED1;ng</span></h3>
 <p>V&#x1EDB;i b&#x1ED9; x&#x1EED; l&#xFD; ti&#xEA;n ti&#x1EBF;n do Avision ph&#xE1;t tri&#x1EC3;n, m&#x1EB7;t tr&#x1B0;&#x1EDB;c v&#xE0; m&#x1EB7;t sau c&#x1EE7;a t&#xE0;i li&#x1EC7;u c&#xF3; th&#x1EC3; &#x111;&#x1B0;&#x1EE3;c qu&#xE9;t &#x111;&#x1ED3;ng th&#x1EDD;i v&#xE0; m&#x1EB7;t v&#x103;n b&#x1EA3;n s&#x1EBD; &#x111;&#x1B0;&#x1EE3;c t&#x1EF1; &#x111;&#x1ED9;ng ph&#xE1;t hi&#x1EC7;n v&#xE0; sao ch&#xE9;p.</p>
 <p>&#xA0;</p></td>
 <td colspan="2"></td>
 </tr>
 <tr>
-<td style="background-color: #fff" valign="middle">
+<td style="background-color: #fff;" valign="middle">
 <h3></h3>
-<h3><span style="color: #0e3a65">&#x258D;D&#x1EC5; s&#x1EED; d&#x1EE5;ng th&#xF4;ng qua giao di&#x1EC7;n ng&#x1B0;&#x1EDD;i d&#xF9;ng &#x111;&#x1A1;n gi&#x1EA3;n</span></h3>
+<h3><span style="color: #0e3a65;">&#x258D;D&#x1EC5; s&#x1EED; d&#x1EE5;ng th&#xF4;ng qua giao di&#x1EC7;n ng&#x1B0;&#x1EDD;i d&#xF9;ng &#x111;&#x1A1;n gi&#x1EA3;n</span></h3>
 <p>Easy to read and navigate, the large 10-inch, bright color touch screen guides you through even the most complex operations. Simply make a few touches on the touch screen, your document can be digitized and distribute within seconds.<br>
-<span style="color: #0e3a65">Xem tr&#x1B0;&#x1EDB;c k&#x1EBF;t qu&#x1EA3; sao ch&#xE9;p c&#x1EE7;a b&#x1EA1;n tr&#xEA;n m&#xE0;n h&#xEC;nh</span> Lets you verify your result and choose which side you want to copy.</p></td>
-<td style="background-color: #fff" valign="middle">&#xA0;<p></p>
+<span style="color: #0e3a65;">Xem tr&#x1B0;&#x1EDB;c k&#x1EBF;t qu&#x1EA3; sao ch&#xE9;p c&#x1EE7;a b&#x1EA1;n tr&#xEA;n m&#xE0;n h&#xEC;nh</span> Lets you verify your result and choose which side you want to copy.</p></td>
+<td style="background-color: #fff;" valign="middle">&#xA0;<p></p>
 <p><img decoding="async" loading="lazy" class src="https://www.avision.com/en/wp-content/uploads/2023/11/AM40A_p1.png" alt="AM40A_S3" width="442" height="252"></p></td>
 </tr>
 <tr>
-<td style="background-color: #fff" valign="middle"><img decoding="async" loading="lazy" class src="https://www.avision.com/en/wp-content/uploads/2023/11/AM40A-Plus_P3.png" alt="AM40A_S4 width=" width="428" height="299"></td>
-<td style="background-color: #fff" valign="middle">
+<td style="background-color: #fff;" valign="middle"><img decoding="async" loading="lazy" class src="https://www.avision.com/en/wp-content/uploads/2023/11/AM40A-Plus_P3.png" alt="AM40A_S4 width=" width="428" height="299"></td>
+<td style="background-color: #fff;" valign="middle">
 <h3></h3>
-<h3><span style="color: #0e3a65">&#x258D;Kh&#x1EA3; n&#x103;ng qu&#xE9;t n&#xE2;ng cao</span></h3>
+<h3><span style="color: #0e3a65;">&#x258D;Kh&#x1EA3; n&#x103;ng qu&#xE9;t n&#xE2;ng cao</span></h3>
 <p>S&#x1EA3;n ph&#x1EA9;m cho ph&#xE9;p b&#x1EA1;n qu&#xE9;t c&#xE1;c t&#xE0;i li&#x1EC7;u tr&#xEA;n gi&#x1EA5;y v&#x1EDB;i &#x111;&#x1EA7;y &#x111;&#x1EE7; m&#xE0;u s&#x1EAF;c &#x1EDF; &#x111;&#x1ECB;nh d&#x1EA1;ng t&#x1EC7;p PDF, JPEG ho&#x1EB7;c TIFF v&#xE0; g&#x1EED;i ch&#xFA;ng &#x111;&#x1EBF;n nhi&#x1EC1;u &#x111;i&#x1EC3;m &#x111;&#x1EBF;n kh&#xE1;c nhau nh&#x1B0; E-mail, FTP, USB v&#xE0; th&#x1B0; m&#x1EE5;c m&#x1EA1;ng (SMB).</p>
 <p>&#xA0;</p></td>
 </tr>
 <tr>
-<td style="background-color: #fff" valign="middle">
+<td style="background-color: #fff;" valign="middle">
 <h3></h3>
 <h3></h3>
-<h3><span style="color: #0e3a65">&#x258D;In v&#xE0; sao ch&#xE9;p nhanh, ch&#x1EA5;t l&#x1B0;&#x1EE3;ng cao</span></h3>
+<h3><span style="color: #0e3a65;">&#x258D;In v&#xE0; sao ch&#xE9;p nhanh, ch&#x1EA5;t l&#x1B0;&#x1EE3;ng cao</span></h3>
 <p>S&#x1EA3;n ph&#x1EA9;m c&#xF3; th&#x1EC3; k&#x1EBF;t n&#x1ED1;i kh&#xF4;ng d&#xE2;y v&#x1EDB;i thi&#x1EBF;t b&#x1ECB; di &#x111;&#x1ED9;ng c&#x1EE7;a b&#x1EA1;n v&#xE0; h&#x1ED7; tr&#x1EE3; Android Mopria ho&#x1EB7;c iOS AirPrint. Ch&#x1EC9; c&#x1EA7;n t&#x1EA3;i xu&#x1ED1;ng &#x1EE9;ng d&#x1EE5;ng t&#x1B0;&#x1A1;ng &#x1EE9;ng, b&#x1EA1;n c&#xF3; th&#x1EC3; ho&#xE0;n t&#x1EA5;t vi&#x1EC7;c in qua thi&#x1EBF;t b&#x1ECB; di &#x111;&#x1ED9;ng c&#x1EE7;a m&#xEC;nh v&#xE0; t&#x1EAD;n h&#x1B0;&#x1EDF;ng s&#x1EF1; ti&#x1EC7;n l&#x1EE3;i c&#x169;ng nh&#x1B0; l&#x1EE3;i &#xED;ch c&#x1EE7;a vi&#x1EC7;c truy&#x1EC1;n kh&#xF4;ng d&#xE2;y!</p>
-<h3><span style="color: #0e3a65">&#x258D;In trang &#x111;&#x1EA7;u ti&#xEA;n trong 5,9 gi&#xE2;y</span></h3>
+<h3><span style="color: #0e3a65;">&#x258D;In trang &#x111;&#x1EA7;u ti&#xEA;n trong 5,9 gi&#xE2;y</span></h3>
 <p>Ho&#xE0;n th&#xE0;nh c&#xF4;ng vi&#x1EC7;c c&#x1EE7;a b&#x1EA1;n trong th&#x1EDD;i gian ng&#x1EAF;n h&#x1A1;n v&#x1EDB;i m&#xE1;y in c&#x1EF1;c nhanh v&#xE0; hi&#x1EC7;u qu&#x1EA3; n&#xE0;y, c&#xF3; th&#x1EC3; in trang &#x111;&#x1EA7;u ti&#xEA;n ch&#x1EC9; trong 5,9 gi&#xE2;y.</p>
 <p>&#xA0;</p></td>
-<td style="background-color: #fff" valign="middle"><img decoding="async" class src="https://www.avision.com/en/wp-content/uploads/2023/11/AM40A-Plus_P1.png" alt="AM40A_S3" width="500px"></td>
+<td style="background-color: #fff;" valign="middle"><img decoding="async" class src="https://www.avision.com/en/wp-content/uploads/2023/11/AM40A-Plus_P1.png" alt="AM40A_S3" width="500px"></td>
 </tr>
 <tr>
-<td style="background-color: #fff" valign="middle">
-<h3><img decoding="async" class style="font-size: 16px;font-weight: 400" src="https://www.avision.com/en/wp-content/uploads/2023/11/AM40A-Plus_P6.png" alt="AM40A_S4" width="500px"></h3>
+<td style="background-color: #fff;" valign="middle">
+<h3><img decoding="async" class style="font-size: 16px; font-weight: 400;" src="https://www.avision.com/en/wp-content/uploads/2023/11/AM40APlus_p4.jpg" alt="AM40A_S4" width="500px"></h3>
 </td>
-<td style="background-color: #fff" valign="middle">
+<td style="background-color: #fff;" valign="middle">
 <h3></h3>
-<h3><span style="color: #0e3a65">&#x258D;In v&#xE0; qu&#xE9;t di &#x111;&#x1ED9;ng thu&#x1EAD;n ti&#x1EC7;n</span></h3>
+<h3><span style="color: #0e3a65;">&#x258D;In v&#xE0; qu&#xE9;t di &#x111;&#x1ED9;ng thu&#x1EAD;n ti&#x1EC7;n</span></h3>
 <p>In ho&#x1EB7;c qu&#xE9;t kh&#xF4;ng d&#xE2;y t&#x1EEB; thi&#x1EBF;t b&#x1ECB; di &#x111;&#x1ED9;ng c&#x1EE7;a b&#x1EA1;n th&#xF4;ng qua &#x1EE9;ng d&#x1EE5;ng c&#x1EE7;a Avision d&#xE0;nh cho MFP.</p></td>
 </tr>
 <tr>
-<td style="background-color: #fff" valign="middle">
+<td style="background-color: #fff;" valign="middle">
 <h3></h3>
 <h3></h3>
-<h3><span style="color: #0e3a65">&#x258D;Khay gi&#x1EA5;y dung l&#x1B0;&#x1EE3;ng cao</span></h3>
+<h3><span style="color: #0e3a65;">&#x258D;Khay gi&#x1EA5;y dung l&#x1B0;&#x1EE3;ng cao</span></h3>
 <p>V&#x1EDB;i s&#x1EE9;c ch&#x1EE9;a ch&#xED;nh 550 t&#x1EDD;, H&#xE3;y t&#x1EA1;m bi&#x1EC7;t vi&#x1EC7;c ph&#x1EA3;i n&#x1EA1;p gi&#x1EA5;y th&#x1B0;&#x1EDD;ng xuy&#xEA;n, &#x111;&#x1EA3;m b&#x1EA3;o quy tr&#xEC;nh l&#xE0;m vi&#x1EC7;c li&#x1EC1;n m&#x1EA1;ch v&#xE0; t&#x103;ng hi&#x1EC7;u qu&#x1EA3;.</p>
 <p>&#xA0;</p></td>
-<td style="background-color: #fff" valign="middle">
+<td style="background-color: #fff;" valign="middle">
 <h3><img decoding="async" class src="https://www.avision.com/en/wp-content/uploads/2023/11/AM40A-Plus_P2.png" alt="AM40A_S4" width="500px"></h3>
 </td>
 </tr>
 <tr>
-<td style="background-color: #fff" valign="middle">&#xA0;<p></p>
+<td style="background-color: #fff;" valign="middle">&#xA0;<p></p>
 <p><img decoding="async" class src="https://www.avision.com/en/wp-content/uploads/2023/11/AM76_S8.png" alt="AM40A_S5" width="500px"></p></td>
-<td style="background-color: #fff" valign="middle">
+<td style="background-color: #fff;" valign="middle">
 <h3></h3>
-<h3><span style="color: #0e3a65">&#x258D;Qu&#x1EA3;n l&#xFD; thi&#x1EBF;t b&#x1ECB; t&#x1EEB; xa th&#xF4;ng qua trang web nh&#xFA;ng</span></h3>
+<h3><span style="color: #0e3a65;">&#x258D;Qu&#x1EA3;n l&#xFD; thi&#x1EBF;t b&#x1ECB; t&#x1EEB; xa th&#xF4;ng qua trang web nh&#xFA;ng</span></h3>
 <p>S&#x1EA3;n ph&#x1EA9;m cung c&#x1EA5;p m&#x1ED9;t c&#xE1;ch thu&#x1EAD;n ti&#x1EC7;n &#x111;&#x1EC3; xem tr&#x1EA1;ng th&#xE1;i ngu&#x1ED3;n cung c&#x1EA5;p c&#x1EE7;a h&#x1ED9;p m&#x1EF1;c m&#xE1;y in, s&#x1ED1; l&#x1EA7;n qu&#xE9;t v&#xE0; s&#x1ED1; l&#x1B0;&#x1EE3;ng b&#x1EA3;n sao &#x111;&#x1EC3; gi&#xFA;p b&#x1EA1;n b&#x1EA3;o tr&#xEC; s&#x1EA3;n ph&#x1EA9;m t&#x1ED1;t. Ch&#x1EC9; c&#x1EA7;n nh&#x1EAD;p &#x111;&#x1ECB;a ch&#x1EC9; IP c&#x1EE7;a m&#xE1;y v&#xE0;o tr&#x1B0;&#x1EDD;ng URL c&#x1EE7;a tr&#xEC;nh duy&#x1EC7;t, trang web nh&#xFA;ng c&#x1EE7;a s&#x1EA3;n ph&#x1EA9;m s&#x1EBD; &#x111;&#x1B0;&#x1EE3;c nh&#x1EAF;c.</p></td>
 </tr>
 </tbody>
 </table>
 <p>&#xA0;</p>
-<h3><span style="color: #0e3a65">&#x258D;T&#xED;nh n&#x103;ng</span></h3>
+<h3><span style="color: #0e3a65;">&#x258D;T&#xED;nh n&#x103;ng</span></h3>
 <ul>
 <li>T&#xED;nh linh ho&#x1EA1;t hai m&#x1EB7;t: In v&#xE0; sao ch&#xE9;p hai m&#x1EB7;t</li>
 <li>In v&#xE0; sao ch&#xE9;p v&#x1EDB;i t&#x1ED1;c &#x111;&#x1ED9; l&#xEA;n t&#x1EDB;i 40 cpm (A4LEF) &#x1EDF; ch&#x1EBF; &#x111;&#x1ED9; &#x111;en tr&#x1EAF;ng</li>
@@ -1614,16 +1605,6 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<td class="woocommerce-product-attributes-item__value"><p>B&#x1ED9; n&#x1EA1;p t&#xE0;i li&#x1EC7;u t&#x1EF1; &#x111;&#x1ED9;ng, M&#xE1;y ch&#x1EE7; USB, Ti&#x1EC7;n &#xED;ch web</p>
 </td>
 		</tr>
-						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p070">
-							<th class="woocommerce-product-attributes-item__label">S&#x1ED1; l&#x1B0;&#x1EE3;ng in h&#xE0;ng th&#xE1;ng &#x111;&#x1B0;&#x1EE3;c &#x111;&#x1EC1; xu&#x1EA5;t</th>
-				<td class="woocommerce-product-attributes-item__value"><p>4.500 trang</p>
-</td>
-		</tr>
-						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p071">
-							<th class="woocommerce-product-attributes-item__label">Chu k&#x1EF3; in t&#x1ED1;i &#x111;a h&#xE0;ng th&#xE1;ng</th>
-				<td class="woocommerce-product-attributes-item__value"><p>60.000 trang</p>
-</td>
-		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_g08">
 							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center"><span style="color:#ffffff;"><strong>Khay ch&#xED;nh</strong></span></td>
 						</tr><tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p009">
@@ -1656,18 +1637,6 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p120">
 							<th class="woocommerce-product-attributes-item__label">Tr&#x1ECD;ng l&#x1B0;&#x1EE3;ng gi&#x1EA5;y</th>
 				<td class="woocommerce-product-attributes-item__value"><p>1 trang : 60~200g/m2, 10 trang : 60~163 g/m2</p>
-</td>
-		</tr>
-						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_g12">
-							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center"><span style="color:#ffffff;"><strong>V&#x1EAD;t t&#x1B0; ti&#xEA;u hao (t&#xF9;y ch&#x1ECD;n)</strong></span></td>
-						</tr><tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p065">
-							<th class="woocommerce-product-attributes-item__label">H&#x1ED9;p m&#x1EF1;c</th>
-				<td class="woocommerce-product-attributes-item__value"><p>6.000 trang, 9.000 trang, 3000 trang</p>
-</td>
-		</tr>
-						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p066">
-							<th class="woocommerce-product-attributes-item__label">B&#x1ED9; tr&#x1ED1;ng</th>
-				<td class="woocommerce-product-attributes-item__value"><p>30.000 trang</p>
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_g03">
@@ -1856,13 +1825,35 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<td class="woocommerce-product-attributes-item__value"><p><a href="http://localhost:3000/spec_p126/duplex-copy-collate-toner-save-mode-id-copy/" rel="tag">Sao ch&#xE9;p hai m&#x1EB7;t / &#x110;&#x1ED1;i chi&#x1EBF;u / Ch&#x1EBF; &#x111;&#x1ED9; ti&#x1EBF;t ki&#x1EC7;m m&#x1EF1;c / Sao ch&#xE9;p ID</a></p>
 </td>
 		</tr>
+						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_g12">
+							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center"><span style="color:#ffffff;"><strong>V&#x1EAD;t t&#x1B0; ti&#xEA;u hao (t&#xF9;y ch&#x1ECD;n)</strong></span></td>
+						</tr><tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p065">
+							<th class="woocommerce-product-attributes-item__label">H&#x1ED9;p m&#x1EF1;c</th>
+				<td class="woocommerce-product-attributes-item__value"><p>6.000 trang, 9.000 trang, 3000 trang</p>
+</td>
+		</tr>
+						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p066">
+							<th class="woocommerce-product-attributes-item__label">B&#x1ED9; tr&#x1ED1;ng</th>
+				<td class="woocommerce-product-attributes-item__value"><p>30.000 trang</p>
+</td>
+		</tr>
+						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p070">
+							<th class="woocommerce-product-attributes-item__label">S&#x1ED1; l&#x1B0;&#x1EE3;ng in h&#xE0;ng th&#xE1;ng &#x111;&#x1B0;&#x1EE3;c &#x111;&#x1EC1; xu&#x1EA5;t</th>
+				<td class="woocommerce-product-attributes-item__value"><p>4.500 trang</p>
+</td>
+		</tr>
+						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_p071">
+							<th class="woocommerce-product-attributes-item__label">Chu k&#x1EF3; in t&#x1ED1;i &#x111;a h&#xE0;ng th&#xE1;ng</th>
+				<td class="woocommerce-product-attributes-item__value"><p>60.000 trang</p>
+</td>
+		</tr>
 				</table>
 	<font size="2"><p align="right"><font color="#0e3a65">* C&#xE1;c th&#xF4;ng s&#x1ED1; k&#x1EF9; thu&#x1EAD;t tr&#xEA;n c&#xF3; th&#x1EC3; thay &#x111;&#x1ED5;i t&#xF9;y theo hi&#x1EC7;u su&#x1EA5;t m&#xE1;y t&#xED;nh v&#xE0; khu v&#x1EF1;c b&#xE1;n h&#xE0;ng. &#x110;&#x1EC3; bi&#x1EBF;t th&#xEA;m chi ti&#x1EBF;t, vui l&#xF2;ng tham kh&#x1EA3;o nh&#xE0; ph&#xE2;n ph&#x1ED1;i &#x111;&#x1ECB;a ph&#x1B0;&#x1A1;ng c&#x1EE7;a b&#x1EA1;n.</font></p></font>
 				</div>
 					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--Downloads panel entry-content wc-tab" id="tab-Downloads" role="tabpanel" aria-labelledby="tab-title-Downloads">
 				<div><h2 class="elementor-heading-title elementor-size-default">&#x258E;H&#xEC;nh &#x1EA3;nh s&#x1EA3;n ph&#x1EA9;m</h2></div><div><table><tbody><tr><td rowspan="4" bgcolor="#fff"><img src="https://www.avision.com/en/wp-content/uploads/download-manager-files/AM40APlus-Medium.jpg" alt="200" width="200"></td></tr><tr><th> &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i cao</th><th> &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i trung b&#xEC;nh</th><th> &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i th&#x1EA5;p</th></tr><tr><td>23,41 MB</td><td>1,02 MB</td><td>340,57 KB</td></tr><tr><td bgcolor="#fff"><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><font color="#555555"><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AM40APlus-High.tif" download>T&#x1EA3;i xu&#x1ED1;ng</a></font></td><td bgcolor="#fff"><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AM40APlus-Medium.jpg" download>T&#x1EA3;i xu&#x1ED1;ng</a></td><td bgcolor="#fff"><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AM40APlus-Low.jpg" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;H&#x1B0;&#x1EDB;ng d&#x1EAB;n s&#x1EED; d&#x1EE5;ng</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>AM40A Plus</td><td>Ti&#x1EBF;ng Trung gi&#x1EA3;n th&#x1EC3;</td><td>32,33 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/manual_cs_250-1283-E_AM40APlus_V200.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40A Plus</td><td>truy&#x1EC1;n th&#x1ED1;ng Trung Qu&#x1ED1;c</td><td>15,02 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/manual_ct_250-1283-E_AM40APlus_V200a.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40A Plus</td><td>ti&#x1EBF;ng &#x110;&#x1EE9;c</td><td>13,65MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/manual_de_250-1283-E_AM40APlus_V200.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40A Plus</td><td>Ti&#x1EBF;ng Anh</td><td>14,23 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/manual_en_250-1283-E_AM40APlus_V200.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40A Plus</td><td>ng&#x1B0;&#x1EDD;i T&#xE2;y Ban Nha</td><td>14,41 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/manual_es_250-1283-E_AM40APlus_V200.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40A Plus</td><td>ng&#x1B0;&#x1EDD;i Ph&#xE1;p</td><td>13,80 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/manual_fr_250-1283-E_AM40APlus_V200.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40A Plus</td><td>ng&#x1B0;&#x1EDD;i &#xDD;</td><td>14,68 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/manual_it_250-1283-E_AM40APlus_V200.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40A Plus</td><td>ti&#x1EBF;ng B&#x1ED3; &#x110;&#xE0;o Nha</td><td>32,41 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/manual_pt_250-1283-E_AM40APlus_V200.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40A Plus</td><td>ti&#x1EBF;ng Nga</td><td>14,32MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/manual_ru_250-1283-E_AM40APlus_V200.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;T&#xE0;i li&#x1EC7;u gi&#x1EDB;i thi&#x1EC7;u</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>AM40A Plus</td><td>truy&#x1EC1;n th&#x1ED1;ng Trung Qu&#x1ED1;c</td><td>2,08 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AM40A Plus_ZH_DM_V100_20230915.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40A Plus</td><td>Ti&#x1EBF;ng Anh</td><td>1,91 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AM40A Plus_EN_DM_V100_20230915.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40A Plus</td><td>Ti&#x1EBF;ng Trung gi&#x1EA3;n th&#x1EC3;</td><td>2,10MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AM40A Plus_CH_DM_V100_20230915.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;H&#x1B0;&#x1EDB;ng d&#x1EAB;n nhanh</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>AM40A Plus (M&#x1EA1;ng)</td><td>Ti&#x1EBF;ng Trung gi&#x1EA3;n th&#x1EC3;</td><td>2,48 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/Quick Network Guide_cs_251-1582-0_V100.pdf" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AM40A Plus</td><td>Ti&#x1EBF;ng Trung gi&#x1EA3;n th&#x1EC3;</td><td>5,81 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/Quick Guide_cs_251-1581-0_V100.pdf" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;Tr&#xEC;nh &#x111;i&#x1EC1;u khi&#x1EC3;n</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>H&#x1ED7; tr&#x1EE3; h&#x1EC7; &#x111;i&#x1EC1;u h&#xE0;nh</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>D&#xF2;ng A4M</td><td>V5.70</td><td>95,06 MB</td><td>Th&#x1EAF;ng 7, th&#x1EAF;ng 8, th&#x1EAF;ng 10, th&#x1EAF;ng 11</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/A4M Series_V570_20231025.zip" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div>			</div>
 					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--desc_tab panel entry-content wc-tab" id="tab-desc_tab" role="tabpanel" aria-labelledby="tab-title-desc_tab">
-				<style>li.desc_tab_tab{ display:none !important; }</style>			</div>
+				<style>li.desc_tab_tab{ display:none !quan trọng; }</style>			</div>
 		
 			</div>
 
@@ -1891,7 +1882,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<div class="woo-entry-image clr">
 		<a href="http://localhost:3000/shop/printer-mfp/am40/" class="woocommerce-LoopProduct-link"><img width="1080" height="1080" src="https://www.avision.com/en/wp-content/uploads/2023/10/AM40_A4.jpg" class="woo-entry-image-main" alt="AM40" loading="lazy"></a>	</div><!-- .woo-entry-image -->
 
-	<a href="http://localhost:3000/shop/printer-mfp/am40/" data-quantity="1" class="button product_type_simple" data-product_id="24762" data-product_sku aria-label="Read more about &#x201C;AM40&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a><ul class="woo-entry-buttons"><li class="woo-quickview-btn"><a href="#" class="owp-quick-view" id="product_id_24762" data-product_id="24762"><i class=" icon-eye" aria-hidden="true" role="img"></i></a></li></ul></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/printer-mfp/" rel="tag">M&#xE1;y in / MFP</a></li><li class="title"><h2><a href="http://localhost:3000/shop/printer-mfp/am40/">AM40</a></h2></li><li class="price-wrap">
+	<a href="http://localhost:3000/shop/printer-mfp/am40/" data-quantity="1" class="button product_type_simple" data-product_id="24762" data-product_sku aria-label="Read more about &#x201C;AM40&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/printer-mfp/" rel="tag">M&#xE1;y in / MFP</a></li><li class="title"><h2><a href="http://localhost:3000/shop/printer-mfp/am40/">AM40</a></h2></li><li class="price-wrap">
 </li><li class="rating"></li></ul>
 <ul class="woo-product-gallery">
 
@@ -1925,7 +1916,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<div class="woo-entry-image clr">
 		<a href="http://localhost:3000/shop/printer-mfp/am40q/" class="woocommerce-LoopProduct-link"><img width="1080" height="1080" src="https://www.avision.com/en/wp-content/uploads/2023/10/AM40Q_A4.jpg" class="woo-entry-image-main" alt="AM40Q" loading="lazy"></a>	</div><!-- .woo-entry-image -->
 
-	<a href="http://localhost:3000/shop/printer-mfp/am40q/" data-quantity="1" class="button product_type_simple" data-product_id="24756" data-product_sku aria-label="Read more about &#x201C;AM40Q&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a><ul class="woo-entry-buttons"><li class="woo-quickview-btn"><a href="#" class="owp-quick-view" id="product_id_24756" data-product_id="24756"><i class=" icon-eye" aria-hidden="true" role="img"></i></a></li></ul></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/printer-mfp/" rel="tag">M&#xE1;y in / MFP</a></li><li class="title"><h2><a href="http://localhost:3000/shop/printer-mfp/am40q/">AM40Q</a></h2></li><li class="price-wrap">
+	<a href="http://localhost:3000/shop/printer-mfp/am40q/" data-quantity="1" class="button product_type_simple" data-product_id="24756" data-product_sku aria-label="Read more about &#x201C;AM40Q&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/printer-mfp/" rel="tag">M&#xE1;y in / MFP</a></li><li class="title"><h2><a href="http://localhost:3000/shop/printer-mfp/am40q/">AM40Q</a></h2></li><li class="price-wrap">
 </li><li class="rating"></li></ul>
 <ul class="woo-product-gallery">
 
@@ -2632,7 +2623,7 @@ var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result 
 </script>
 <script src="https://www.avision.com/en/wp-includes/js/jquery/ui/autocomplete.js?ver=1.13.2" id="jquery-ui-autocomplete-js"></script>
 <script id="helpie-faq-bundle-js-extra">
-var helpie_faq_object = {"nonce":"5741d5999d","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"24776","current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
+var helpie_faq_object = {"nonce":"44c8c15ec3","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"24776","current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
 var faqStrings = {"hide":"Hide","addFAQ":"Add FAQ","noFaqsFound":"No FAQ found"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/helpie-faq/assets/bundles/main.app.js?ver=1.11" id="helpie-faq-bundle-js"></script>
@@ -2661,7 +2652,7 @@ var mailchimp_public_data = {"site_url":"https:\/\/www.avision.com\/en","ajax_ur
 <script src="https://www.avision.com/en/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=3.2.03" id="mailchimp-woocommerce-js"></script>
 <script src="https://www.avision.com/en/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
 <script id="oceanwp-main-js-extra">
-var oceanwpLocalize = {"nonce":"bf25d4a8fc","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"97a7e3f28b"};
+var oceanwpLocalize = {"nonce":"4cd3f37f81","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"130e0abfae"};
 </script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=3.0.5.1644388334" id="oceanwp-main-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=3.0.5.1644388334" id="oceanwp-drop-down-mobile-menu-js"></script>
@@ -2675,7 +2666,7 @@ var oceanwpLocalize = {"nonce":"bf25d4a8fc","isRTL":"","menuSearchStyle":"drop_d
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/select.min.js?ver=3.0.5.1644388334" id="oceanwp-select-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/ow-infinite-scroll.min.js?ver=3.0.5.1644388334" id="oceanwp-infinite-scroll-js"></script>
 <script id="oceanwp-woocommerce-custom-features-js-extra">
-var oceanwpLocalize = {"nonce":"bf25d4a8fc","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"97a7e3f28b"};
+var oceanwpLocalize = {"nonce":"4cd3f37f81","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"130e0abfae"};
 </script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-custom-features.min.js?ver=3.0.5.1644388334" id="oceanwp-woocommerce-custom-features-js"></script>
 <script id="popup-maker-site-js-extra">
@@ -2714,7 +2705,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/en\/?wc-ajax=%%endpoint%
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/tipsy/tipsy.js?ver=1.0.0a" id="um_tipsy-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/raty/um-raty.js?ver=2.6.0" id="um_raty-js"></script>
 <script id="um_scripts-js-extra">
-var um_scripts = {"max_upload_size":"52428800","nonce":"86be79f25f"};
+var um_scripts = {"max_upload_size":"52428800","nonce":"9d3a550f4c"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/js/um-scripts.js?ver=2.7.0" id="um_scripts-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/js/um-profile.js?ver=2.7.0" id="um_profile-js"></script>
@@ -2748,12 +2739,12 @@ var wc_cart_fragments_params = {"ajax_url":"\/en\/wp-admin\/admin-ajax.php","wc_
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/js/webpack.runtime.js?ver=3.15.3" id="elementor-webpack-runtime-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/js/frontend-modules.js?ver=3.15.3" id="elementor-frontend-modules-js"></script>
 <script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","nonce":"2d92ad8507","urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.avision.com\/en\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/www.avision.com\/en","checkout_page_url":"https:\/\/www.avision.com\/en"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","nonce":"82ec843f0c","urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.avision.com\/en\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/www.avision.com\/en","checkout_page_url":"https:\/\/www.avision.com\/en"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor-pro/assets/js/frontend.js?ver=3.6.5" id="elementor-pro-frontend-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.js?ver=4.0.2" id="elementor-waypoints-js"></script>
 <script id="elementor-frontend-js-before">
-var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":true},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.15.3","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"landing-pages":true,"page-transitions":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[]},"post":{"id":24776,"title":"AM40A%20Plus%20%E2%80%93%20Avision%20EN","excerpt":"<h3><span style=\"color: #0e3a65\">Print, Copy, E-mail, and Scan with the Avision AM40A Plus MFP<\/span><\/h3>\r\nWe\u2019ve taken the office-critical features of our departmental MFPs and packed them into this ultra-productive LEGAL-size printer. It seamlessly integrates print, scan, e-mail, and copy functionalities. Plus, the product can be connected to the computer through a wired or wireless network. All these features are operated through a clear and large LCD screen to simplify work for busy offices with high-volume of document distribution.","featuredImage":"https:\/\/www.avision.com\/en\/wp-content\/uploads\/2023\/10\/AM40A-Plus_A4-1024x1024.jpg"}};
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":true},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","download":"Download","downloadImage":"Download image","fullscreen":"Fullscreen","zoom":"Zoom","share":"Share","playVideo":"Play Video","previous":"Previous","next":"Next","close":"Close","a11yCarouselWrapperAriaLabel":"Carousel | Horizontal scrolling: Arrow Left & Right","a11yCarouselPrevSlideMessage":"Previous slide","a11yCarouselNextSlideMessage":"Next slide","a11yCarouselFirstSlideMessage":"This is the first slide","a11yCarouselLastSlideMessage":"This is the last slide","a11yCarouselPaginationBulletMessage":"Go to slide"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"Mobile Portrait","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"Mobile Landscape","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"Tablet Portrait","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"Tablet Landscape","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"Laptop","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"Widescreen","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.15.3","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"e_optimized_css_loading":true,"additional_custom_breakpoints":true,"container":true,"theme_builder_v2":true,"landing-pages":true,"page-transitions":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description","woocommerce_notices_elements":[]},"post":{"id":24776,"title":"AM40A%20Plus%20%E2%80%93%20Avision%20EN","excerpt":"<h3><span style=\"color: #0e3a65;\">Print, Copy, E-mail, and Scan with the Avision AM40A Plus MFP<\/span><\/h3>\r\nWe\u2019ve taken the office-critical features of our departmental MFPs and packed them into this ultra-productive LEGAL-size printer. It seamlessly integrates print, scan, e-mail, and copy functionalities. Plus, the product can be connected to the computer through a wired or wireless network. All these features are operated through a clear and large LCD screen to simplify work for busy offices with high-volume of document distribution.","featuredImage":"https:\/\/www.avision.com\/en\/wp-content\/uploads\/2023\/10\/AM40A-Plus_A4-1024x1024.jpg"}};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/js/frontend.js?ver=3.15.3" id="elementor-frontend-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor-pro/assets/js/elements-handlers.js?ver=3.6.5" id="pro-elements-handlers-js"></script>
