@@ -1289,12 +1289,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p3">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="far fa-arrow-alt-circle-down"></i>						</span>
-										<span class="elementor-icon-list-text">T&#xEC;m hi&#x1EC3;u th&#xEA;m</span>
-											</a>
+											<a href="#p3"> T&#xEC;m hi&#x1EC3;u th&#xEA;m</a>
 									</li>
 						</ul>
 				</div>
@@ -1572,12 +1567,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p3">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p3"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -1604,18 +1594,13 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-2dc7cbf6 elementor-widget elementor-widget-text-editor" data-id="2dc7cbf6" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>T&#x1EF1; &#x111;&#x1ED9;ng qu&#xE9;t &#x1EA3;nh m&#xE0;u &#x111;&#x1ED1;i v&#x1EDB;i t&#xE0;i li&#x1EC7;u m&#xE0;u, qu&#xE9;t &#x1EA3;nh &#x111;en tr&#x1EAF;ng &#x111;&#x1ED1;i v&#x1EDB;i t&#xE0;i li&#x1EC7;u &#x111;en tr&#x1EAF;ng. V&#x1EDB;i t&#xED;nh n&#x103;ng T&#x1EF1; &#x111;&#x1ED9;ng ph&#xE1;t hi&#x1EC7;n m&#xE0;u, m&#xE1;y qu&#xE9;t lo&#x1EA1;i b&#x1ECF; vi&#x1EC7;c s&#x1EAF;p x&#x1EBF;p tr&#x1B0;&#x1EDB;c c&#xE1;c t&#xE0;i li&#x1EC7;u theo l&#xF4; v&#xE0; ch&#xE8;n c&#xE1;c t&#x1EDD; ph&#xE2;n c&#xE1;ch c&#x1EA7;n thi&#x1EBF;t tr&#x1B0;&#x1EDB;c &#x111;&#xE2;y &#x111;&#x1EC3; ph&#xE2;n chia m&#xE0;u v&#xE0; t&#xE0;i li&#x1EC7;u tr&#x1EAF;ng v&#xE0; tr&#x1EAF;ng. V&#x1EDB;i t&#xED;nh n&#x103;ng n&#xE0;y, kh&#xF4;ng gian l&#x1B0;u tr&#x1EEF; c&#x1EE7;a b&#x1EA1;n s&#x1EBD; gi&#x1EA3;m &#x111;i &#x111;&#xE1;ng k&#x1EC3;.</p>						</div>
+							<p>T&#x1EF1; &#x111;&#x1ED9;ng qu&#xE9;t &#x1EA3;nh m&#xE0;u &#x111;&#x1ED1;i v&#x1EDB;i t&#xE0;i li&#x1EC7;u m&#xE0;u, qu&#xE9;t &#x1EA3;nh &#x111;en tr&#x1EAF;ng &#x111;&#x1ED1;i v&#x1EDB;i t&#xE0;i li&#x1EC7;u &#x111;en tr&#x1EAF;ng. V&#x1EDB;i t&#xED;nh n&#x103;ng T&#x1EF1; &#x111;&#x1ED9;ng ph&#xE1;t hi&#x1EC7;n m&#xE0;u, m&#xE1;y qu&#xE9;t lo&#x1EA1;i b&#x1ECF; vi&#x1EC7;c s&#x1EAF;p x&#x1EBF;p tr&#x1B0;&#x1EDB;c c&#xE1;c t&#xE0;i li&#x1EC7;u theo l&#xF4; v&#xE0; ch&#xE8;n c&#xE1;c t&#x1EDD; ph&#xE2;n c&#xE1;ch c&#x1EA7;n thi&#x1EBF;t tr&#x1B0;&#x1EDB;c &#x111;&#xE2;y &#x111;&#x1EC3; ph&#xE2;n chia m&#xE0;u v&#xE0; t&#xE0;i li&#x1EC7;u tr&#x1ED1;ng v&#xE0; tr&#x1EAF;ng. V&#x1EDB;i t&#xED;nh n&#x103;ng n&#xE0;y, kh&#xF4;ng gian l&#x1B0;u tr&#x1EEF; c&#x1EE7;a b&#x1EA1;n s&#x1EBD; gi&#x1EA3;m &#x111;i &#x111;&#xE1;ng k&#x1EC3;.</p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-d6a1964 elementor-align-right elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="d6a1964" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p3">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p3"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -1664,12 +1649,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p3">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p3"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -1702,12 +1682,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p3">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p3"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -1756,12 +1731,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p3">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p3"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -1794,12 +1764,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p3">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p3"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -1848,12 +1813,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p3">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p3"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -1886,12 +1846,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p3">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p3"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -1940,12 +1895,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p3">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p3"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -1978,12 +1928,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p3">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p3"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -2032,12 +1977,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p13">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p13"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -2070,12 +2010,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p13">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p13"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -2124,12 +2059,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p13">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p13"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -2162,12 +2092,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p13">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p13"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -2216,12 +2141,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p13">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p13"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -2254,12 +2174,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p13">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p13"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -2308,12 +2223,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p18">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p18"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -2346,12 +2256,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p18">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p18"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -2400,12 +2305,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p18">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p18"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -2438,12 +2338,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p18">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p18"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -2492,12 +2387,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p18">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p18"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -2530,12 +2420,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p21">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p21"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -2584,12 +2469,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="#p21">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-angle-double-up"></i>						</span>
-										<span class="elementor-icon-list-text">Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</span>
-											</a>
+											<a href="#p21"> Quay l&#x1EA1;i L&#xEA;n tr&#xEA;n</a>
 									</li>
 						</ul>
 				</div>
@@ -2638,30 +2518,16 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/why-avision/">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-check"></i>						</span>
-										<span class="elementor-icon-list-text">T&#x1EA1;i sao Avision</span>
-											</a>
+											<a href="http://localhost:3000/why-avision/"> T&#x1EA1;i sao Avision</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/corporate-profile/">
-
-											<span class="elementor-icon-list-text">H&#x1ED3; s&#x1A1; c&#xF4;ng ty</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/corporate-profile/"> H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/news/">
-
-											<span class="elementor-icon-list-text">Tin t&#x1EE9;c</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/news/"> Tin t&#x1EE9;c</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/crs/">
-
-											<span class="elementor-icon-list-text">CSR</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/crs/"> CSR</a>
 									</li>
 						</ul>
 				</div>
@@ -2678,34 +2544,19 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/document-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</span>
-											</a>
+											<a href="http://localhost:3000/product-category/document-scanner/"> M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/flatbed-scanner/">
-
-											<span class="elementor-icon-list-text"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/flatbed-scanner/"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/"> M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/network-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/network-scanner/"> M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/paperair-series/">
-
-											<span class="elementor-icon-list-text">D&#xF2;ng PaperAir</span>
-											</a>
+											<a href="http://localhost:3000/product-category/paperair-series/"> D&#xF2;ng PaperAir</a>
 									</li>
 						</ul>
 				</div>
@@ -2734,22 +2585,13 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/download/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</span>
-											</a>
+											<a href="http://localhost:3000/download/"> Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/helpcenter/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/helpcenter/"> Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/product-registration/">
-
-											<span class="elementor-icon-list-text">&#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/product-registration/"> &#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</a>
 									</li>
 						</ul>
 				</div>
@@ -2768,18 +2610,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-5852473a elementor-shape-circle e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="5852473a" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-social-icons-wrapper elementor-grid">
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-9758c9c" href="https://www.facebook.com/AvisionHQ/" target="_blank">
-						<span class="elementor-screen-only">Facebook-f</span>
-						<i class="fab fa-facebook-f"></i>					</a>
-				</span>
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-d550229" href="https://www.youtube.com/user/AvisionHQ" target="_blank">
-						<span class="elementor-screen-only">Youtube</span>
-						<i class="fab fa-youtube"></i>					</a>
-				</span>
-					</div>
+					<div class="elementor-social-icons-wrapper elementor-grid"> Facebook-f Youtube</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-ae800e8 elementor-widget elementor-widget-image" data-id="ae800e8" data-element_type="widget" data-widget_type="image.default">
@@ -2798,9 +2629,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-1398caa elementor-widget elementor-widget-copyright" data-id="1398caa" data-element_type="widget" data-widget_type="copyright.default">
 				<div class="elementor-widget-container">
-					<div class="hfe-copyright-wrapper">
-							<span>Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</span>
-					</div>
+					<div class="hfe-copyright-wrapper"> Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</div>
 				</div>
 				</div>
 					</div>
@@ -3014,7 +2843,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	</div>
 	<div class="owp-qv-overlay"></div>
 </div>
-<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Cart</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Xe &#x111;&#x1EA9;y</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
 								<section class="elementor-section elementor-top-section elementor-element elementor-element-45284f83 elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle elementor-section-height-default elementor-section-items-middle" data-id="45284f83" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
@@ -3028,9 +2857,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<i aria-hidden="true" class="fas fa-globe-americas"></i>				</span>
 			</div>
 						<div class="elementor-icon-box-content">
-				<h2 class="elementor-icon-box-title">
-					<span> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</span>
-				</h2>
+				<h2 class="elementor-icon-box-title"> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</h2>
 							</div>
 		</div>
 				</div>
@@ -3171,9 +2998,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 								<div class="elementor-element elementor-element-32f58706 elementor-icon-list--layout-inline elementor-align-right elementor-widget__width-auto elementor-tablet-align-center elementor-mobile-align-center elementor-widget-tablet__width-inherit elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="32f58706" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items elementor-inline-items">
-							<li class="elementor-icon-list-item elementor-inline-item">
-										<span class="elementor-icon-list-text">Ng&#xF4;n ng&#x1EEF;</span>
-									</li>
+							<li class="elementor-icon-list-item elementor-inline-item"> Ng&#xF4;n ng&#x1EEF;</li>
 						</ul>
 				</div>
 				</div>

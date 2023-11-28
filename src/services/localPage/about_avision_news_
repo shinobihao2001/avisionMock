@@ -1354,9 +1354,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		</h4>
 					<a class="elementor-post__read-more" href="http://localhost:3000/blog/exhibition/computex-taipei-2023/"> &#x110;&#x1ECD;c th&#xEA;m &quot;</a>
 				</div>
-				<div class="elementor-post__meta-data">
-					<span class="elementor-post-date"> Ng&#xE0;y 2 th&#xE1;ng 5 n&#x103;m 2023</span>
-				</div>
+				<div class="elementor-post__meta-data"> Ng&#xE0;y 2 th&#xE1;ng 5 n&#x103;m 2023</div>
 					</div>
 		</article>
 				<article class="elementor-post elementor-grid-item post-18090 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-medical entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
@@ -1369,9 +1367,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		</h4>
 					<a class="elementor-post__read-more" href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2022-healthcare-expo/"> &#x110;&#x1ECD;c th&#xEA;m &quot;</a>
 				</div>
-				<div class="elementor-post__meta-data">
-					<span class="elementor-post-date"> Ng&#xE0;y 4 th&#xE1;ng 11 n&#x103;m 2022</span>
-				</div>
+				<div class="elementor-post__meta-data"> Ng&#xE0;y 4 th&#xE1;ng 11 n&#x103;m 2022</div>
 					</div>
 		</article>
 				<article class="elementor-post elementor-grid-item post-15929 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-exhibition entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
@@ -1384,9 +1380,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		</h4>
 					<a class="elementor-post__read-more" href="http://localhost:3000/blog/exhibition/meet-us-at-cybersec-2022/"> &#x110;&#x1ECD;c th&#xEA;m &quot;</a>
 				</div>
-				<div class="elementor-post__meta-data">
-					<span class="elementor-post-date"> Ng&#xE0;y 5 th&#xE1;ng 9 n&#x103;m 2022</span>
-				</div>
+				<div class="elementor-post__meta-data"> Ng&#xE0;y 5 th&#xE1;ng 9 n&#x103;m 2022</div>
 					</div>
 		</article>
 				<article class="elementor-post elementor-grid-item post-15231 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-exhibition entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
@@ -1399,9 +1393,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		</h4>
 					<a class="elementor-post__read-more" href="http://localhost:3000/blog/exhibition/avision-to-attend-opto-taiwan-2021/"> &#x110;&#x1ECD;c th&#xEA;m &quot;</a>
 				</div>
-				<div class="elementor-post__meta-data">
-					<span class="elementor-post-date"> Ng&#xE0;y 14 th&#xE1;ng 12 n&#x103;m 2021</span>
-				</div>
+				<div class="elementor-post__meta-data"> Ng&#xE0;y 14 th&#xE1;ng 12 n&#x103;m 2021</div>
 					</div>
 		</article>
 				<article class="elementor-post elementor-grid-item post-7126 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-exhibition tag-medical entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
@@ -1414,9 +1406,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		</h4>
 					<a class="elementor-post__read-more" href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2020-healthcare-expo/"> &#x110;&#x1ECD;c th&#xEA;m &quot;</a>
 				</div>
-				<div class="elementor-post__meta-data">
-					<span class="elementor-post-date"> Ng&#xE0;y 17 th&#xE1;ng 11 n&#x103;m 2020</span>
-				</div>
+				<div class="elementor-post__meta-data"> Ng&#xE0;y 17 th&#xE1;ng 11 n&#x103;m 2020</div>
 					</div>
 		</article>
 				<article class="elementor-post elementor-grid-item post-7133 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-exhibition tag-medical entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
@@ -1429,9 +1419,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		</h4>
 					<a class="elementor-post__read-more" href="http://localhost:3000/blog/exhibition/meet-us-at-medical-taiwan-2020/"> &#x110;&#x1ECD;c th&#xEA;m &quot;</a>
 				</div>
-				<div class="elementor-post__meta-data">
-					<span class="elementor-post-date"> Ng&#xE0;y 13 th&#xE1;ng 10 n&#x103;m 2020</span>
-				</div>
+				<div class="elementor-post__meta-data"> Ng&#xE0;y 13 th&#xE1;ng 10 n&#x103;m 2020</div>
 					</div>
 		</article>
 				</div>
@@ -1503,30 +1491,16 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/why-avision/">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-check"></i>						</span>
-										<span class="elementor-icon-list-text">T&#x1EA1;i sao Avision</span>
-											</a>
+											<a href="http://localhost:3000/why-avision/"> T&#x1EA1;i sao Avision</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/corporate-profile/">
-
-											<span class="elementor-icon-list-text">H&#x1ED3; s&#x1A1; c&#xF4;ng ty</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/corporate-profile/"> H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/news/">
-
-											<span class="elementor-icon-list-text">Tin t&#x1EE9;c</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/news/"> Tin t&#x1EE9;c</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/crs/">
-
-											<span class="elementor-icon-list-text">CSR</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/crs/"> CSR</a>
 									</li>
 						</ul>
 				</div>
@@ -1543,34 +1517,19 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/document-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</span>
-											</a>
+											<a href="http://localhost:3000/product-category/document-scanner/"> M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/flatbed-scanner/">
-
-											<span class="elementor-icon-list-text"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/flatbed-scanner/"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/"> M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/network-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/network-scanner/"> M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/paperair-series/">
-
-											<span class="elementor-icon-list-text">D&#xF2;ng PaperAir</span>
-											</a>
+											<a href="http://localhost:3000/product-category/paperair-series/"> D&#xF2;ng PaperAir</a>
 									</li>
 						</ul>
 				</div>
@@ -1599,22 +1558,13 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/download/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</span>
-											</a>
+											<a href="http://localhost:3000/download/"> Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/helpcenter/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/helpcenter/"> Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/product-registration/">
-
-											<span class="elementor-icon-list-text">&#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/product-registration/"> &#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</a>
 									</li>
 						</ul>
 				</div>
@@ -1633,18 +1583,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-5852473a elementor-shape-circle e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="5852473a" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-social-icons-wrapper elementor-grid">
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-9758c9c" href="https://www.facebook.com/AvisionHQ/" target="_blank">
-						<span class="elementor-screen-only">Facebook-f</span>
-						<i class="fab fa-facebook-f"></i>					</a>
-				</span>
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-d550229" href="https://www.youtube.com/user/AvisionHQ" target="_blank">
-						<span class="elementor-screen-only">Youtube</span>
-						<i class="fab fa-youtube"></i>					</a>
-				</span>
-					</div>
+					<div class="elementor-social-icons-wrapper elementor-grid"> Facebook-f Youtube</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-ae800e8 elementor-widget elementor-widget-image" data-id="ae800e8" data-element_type="widget" data-widget_type="image.default">
@@ -1663,9 +1602,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-1398caa elementor-widget elementor-widget-copyright" data-id="1398caa" data-element_type="widget" data-widget_type="copyright.default">
 				<div class="elementor-widget-container">
-					<div class="hfe-copyright-wrapper">
-							<span>Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</span>
-					</div>
+					<div class="hfe-copyright-wrapper"> Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</div>
 				</div>
 				</div>
 					</div>
@@ -1879,7 +1816,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	</div>
 	<div class="owp-qv-overlay"></div>
 </div>
-<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Cart</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Xe &#x111;&#x1EA9;y</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
 								<section class="elementor-section elementor-top-section elementor-element elementor-element-45284f83 elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle elementor-section-height-default elementor-section-items-middle" data-id="45284f83" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
@@ -1893,9 +1830,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<i aria-hidden="true" class="fas fa-globe-americas"></i>				</span>
 			</div>
 						<div class="elementor-icon-box-content">
-				<h2 class="elementor-icon-box-title">
-					<span> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</span>
-				</h2>
+				<h2 class="elementor-icon-box-title"> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</h2>
 							</div>
 		</div>
 				</div>
@@ -2036,9 +1971,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 								<div class="elementor-element elementor-element-32f58706 elementor-icon-list--layout-inline elementor-align-right elementor-widget__width-auto elementor-tablet-align-center elementor-mobile-align-center elementor-widget-tablet__width-inherit elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="32f58706" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items elementor-inline-items">
-							<li class="elementor-icon-list-item elementor-inline-item">
-										<span class="elementor-icon-list-text">Ng&#xF4;n ng&#x1EEF;</span>
-									</li>
+							<li class="elementor-icon-list-item elementor-inline-item"> Ng&#xF4;n ng&#x1EEF;</li>
 						</ul>
 				</div>
 				</div>

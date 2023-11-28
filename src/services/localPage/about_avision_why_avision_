@@ -1328,13 +1328,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 								<div class="elementor-element elementor-element-357fd3a5 elementor-tablet-align-center elementor-align-left elementor-widget elementor-widget-button" data-id="357fd3a5" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-size-sm elementor-animation-float" role="button">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-icon elementor-align-icon-left">
-							</span>
-						<span class="elementor-button-text">Th&#xE0;nh t&#xED;ch c&#x1EE7;a Avision</span>
-		</span>
-					</a>
+			<a class="elementor-button elementor-size-sm elementor-animation-float" role="button"> Th&#xE0;nh t&#xED;ch c&#x1EE7;a Avision</a>
 		</div>
 				</div>
 				</div>
@@ -1493,26 +1487,10 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-element elementor-element-4a4ecba elementor-align-left elementor-mobile-align-left elementor-tablet-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4a4ecba" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-chevron-right"></i>						</span>
-										<span class="elementor-icon-list-text">H&#x1A1;n 30 n&#x103;m kinh nghi&#x1EC7;m s&#xE2;u r&#x1ED9;ng</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-chevron-right"></i>						</span>
-										<span class="elementor-icon-list-text">Ki&#x1EC3;m so&#xE1;t d&#xF2;ng s&#x1EA3;n ph&#x1EA9;m ho&#xE0;n ch&#x1EC9;nh</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-chevron-right"></i>						</span>
-										<span class="elementor-icon-list-text">&#x110;&#x1ED9;i ng&#x169; R&amp;D m&#x1EA1;nh</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-chevron-right"></i>						</span>
-										<span class="elementor-icon-list-text">H&#x1EC7; th&#x1ED1;ng qu&#x1EA3;n l&#xFD; ch&#x1EA5;t l&#x1B0;&#x1EE3;ng t&#x1ED1;t</span>
-									</li>
+							<li class="elementor-icon-list-item"> H&#x1A1;n 30 n&#x103;m kinh nghi&#x1EC7;m s&#xE2;u r&#x1ED9;ng</li>
+								<li class="elementor-icon-list-item"> Ki&#x1EC3;m so&#xE1;t d&#xF2;ng s&#x1EA3;n ph&#x1EA9;m ho&#xE0;n ch&#x1EC9;nh</li>
+								<li class="elementor-icon-list-item"> &#x110;&#x1ED9;i ng&#x169; R&amp;D m&#x1EA1;nh</li>
+								<li class="elementor-icon-list-item"> H&#x1EC7; th&#x1ED1;ng qu&#x1EA3;n l&#xFD; ch&#x1EA5;t l&#x1B0;&#x1EE3;ng t&#x1ED1;t</li>
 						</ul>
 				</div>
 				</div>
@@ -1584,46 +1562,25 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items elementor-inline-items">
 							<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="#Topic1">
-
-											<span class="elementor-icon-list-text">Thi&#x1EBF;t k&#x1EBF; s&#xE1;ng t&#x1EA1;o &#x111;&#x1EC3; ti&#x1EBF;t ki&#x1EC7;m kh&#xF4;ng gian c&#x1EE7;a b&#x1EA1;n</span>
-											</a>
+											<a href="#Topic1"> Thi&#x1EBF;t k&#x1EBF; s&#xE1;ng t&#x1EA1;o &#x111;&#x1EC3; ti&#x1EBF;t ki&#x1EC7;m kh&#xF4;ng gian c&#x1EE7;a b&#x1EA1;n</a>
 									</li>
 								<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="#Topic2">
-
-											<span class="elementor-icon-list-text">&#x110;&#x1B0;&#x1EDD;ng cong v&#xE0; &#x111;&#x1B0;&#x1EDD;ng th&#x1EB3;ng</span>
-											</a>
+											<a href="#Topic2"> &#x110;&#x1B0;&#x1EDD;ng cong v&#xE0; &#x111;&#x1B0;&#x1EDD;ng th&#x1EB3;ng</a>
 									</li>
 								<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="#Topic3">
-
-											<span class="elementor-icon-list-text">Qu&#xE9;t c&#xE1;c t&#xE0;i li&#x1EC7;u c&#xF3; k&#xED;ch th&#x1B0;&#x1EDB;c kh&#xE1;c nhau c&#xF9;ng m&#x1ED9;t l&#xFA;c</span>
-											</a>
+											<a href="#Topic3"> Qu&#xE9;t c&#xE1;c t&#xE0;i li&#x1EC7;u c&#xF3; k&#xED;ch th&#x1B0;&#x1EDB;c kh&#xE1;c nhau c&#xF9;ng m&#x1ED9;t l&#xFA;c</a>
 									</li>
 								<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="#Topic4">
-
-											<span class="elementor-icon-list-text">B&#x1EA3;o v&#x1EC7; gi&#x1EA5;y tuy&#x1EC7;t v&#x1EDD;i</span>
-											</a>
+											<a href="#Topic4"> B&#x1EA3;o v&#x1EC7; gi&#x1EA5;y tuy&#x1EC7;t v&#x1EDD;i</a>
 									</li>
 								<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="#Topic5">
-
-											<span class="elementor-icon-list-text">Ch&#x1EA5;t l&#x1B0;&#x1EE3;ng h&#xEC;nh &#x1EA3;nh &#x111;&#xE1;ng tin c&#x1EAD;y</span>
-											</a>
+											<a href="#Topic5"> Ch&#x1EA5;t l&#x1B0;&#x1EE3;ng h&#xEC;nh &#x1EA3;nh &#x111;&#xE1;ng tin c&#x1EAD;y</a>
 									</li>
 								<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="#Topic6">
-
-											<span class="elementor-icon-list-text">M&#xF4;-&#x111;un LPH t&#x1EF1; ph&#xE1;t tri&#x1EC3;n</span>
-											</a>
+											<a href="#Topic6"> M&#xF4;-&#x111;un LPH t&#x1EF1; ph&#xE1;t tri&#x1EC3;n</a>
 									</li>
 								<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="#Topic7">
-
-											<span class="elementor-icon-list-text">&#x1EE8;ng d&#x1EE5;ng ph&#x1EA7;n m&#x1EC1;m &#x111;i k&#xE8;m m&#x1EA1;nh m&#x1EBD;</span>
-											</a>
+											<a href="#Topic7"> &#x1EE8;ng d&#x1EE5;ng ph&#x1EA7;n m&#x1EC1;m &#x111;i k&#xE8;m m&#x1EA1;nh m&#x1EBD;</a>
 									</li>
 						</ul>
 				</div>
@@ -1812,7 +1769,40 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <html>
 <head>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<style> * {box-sizing: border-box;} .img-comp-container { vị trí: tương đối; chiều cao: 604px; /*phải có cùng chiều cao với hình ảnh*/ } .img-comp-img { location: tuyệt đối; chiều rộng: tự động; chiều cao: tự động; tràn:ẩn; } .img-comp-img img { display:block; căn dọc:giữa; } .img-comp-slider { vị trí: tuyệt đối; chỉ số z:9; con trỏ: ew-resize; /*đặt giao diện của thanh trượt:*/ width: 30px; chiều cao: 30px; màu nền: #2196F3; độ mờ: 0,7; bán kính đường viền: 50%; }</style>
+<style>
+* {box-sizing: border-box;}
+
+
+.img-comp-container {
+  position: relative;
+  height: 604px; /*should be the same height as the images*/
+
+}
+
+.img-comp-img {
+  position: absolute;
+  width: auto;
+  height: auto;
+  overflow:hidden;
+}
+
+.img-comp-img img {
+  display:block;
+  vertical-align:middle;
+}
+
+.img-comp-slider {
+  position: absolute;
+  z-index:9;
+  cursor: ew-resize;
+  /*set the appearance of the slider:*/
+  width: 30px;
+  height: 30px;
+  background-color: #2196F3;
+  opacity: 0.7;
+  border-radius: 50%;
+}
+</style>
 <script>
 function initComparisons() {
   var x, i;
@@ -1989,11 +1979,7 @@ initComparisons();
 				<div class="elementor-element elementor-element-44ac06a elementor-align-center elementor-invisible elementor-widget elementor-widget-button" data-id="44ac06a" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeIn&quot;}" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-hang" href="http://localhost:3000/why-avision/core-image-scanning-technology/" target="_blank">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">T&#xEC;m hi&#x1EC3;u th&#xEA;m</span>
-		</span>
-					</a>
+			<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-hang" href="http://localhost:3000/why-avision/core-image-scanning-technology/" target="_blank"> T&#xEC;m hi&#x1EC3;u th&#xEA;m</a>
 		</div>
 				</div>
 				</div>
@@ -2200,30 +2186,16 @@ initComparisons();
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/why-avision/">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-check"></i>						</span>
-										<span class="elementor-icon-list-text">T&#x1EA1;i sao Avision</span>
-											</a>
+											<a href="http://localhost:3000/why-avision/"> T&#x1EA1;i sao Avision</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/corporate-profile/">
-
-											<span class="elementor-icon-list-text">H&#x1ED3; s&#x1A1; c&#xF4;ng ty</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/corporate-profile/"> H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/news/">
-
-											<span class="elementor-icon-list-text">Tin t&#x1EE9;c</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/news/"> Tin t&#x1EE9;c</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/crs/">
-
-											<span class="elementor-icon-list-text">CSR</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/crs/"> CSR</a>
 									</li>
 						</ul>
 				</div>
@@ -2240,34 +2212,19 @@ initComparisons();
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/document-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</span>
-											</a>
+											<a href="http://localhost:3000/product-category/document-scanner/"> M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/flatbed-scanner/">
-
-											<span class="elementor-icon-list-text"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/flatbed-scanner/"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/"> M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/network-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/network-scanner/"> M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/paperair-series/">
-
-											<span class="elementor-icon-list-text">D&#xF2;ng PaperAir</span>
-											</a>
+											<a href="http://localhost:3000/product-category/paperair-series/"> D&#xF2;ng PaperAir</a>
 									</li>
 						</ul>
 				</div>
@@ -2296,22 +2253,13 @@ initComparisons();
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/download/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</span>
-											</a>
+											<a href="http://localhost:3000/download/"> Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/helpcenter/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/helpcenter/"> Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/product-registration/">
-
-											<span class="elementor-icon-list-text">&#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/product-registration/"> &#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</a>
 									</li>
 						</ul>
 				</div>
@@ -2330,18 +2278,7 @@ initComparisons();
 				</div>
 				<div class="elementor-element elementor-element-5852473a elementor-shape-circle e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="5852473a" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-social-icons-wrapper elementor-grid">
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-9758c9c" href="https://www.facebook.com/AvisionHQ/" target="_blank">
-						<span class="elementor-screen-only">Facebook-f</span>
-						<i class="fab fa-facebook-f"></i>					</a>
-				</span>
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-d550229" href="https://www.youtube.com/user/AvisionHQ" target="_blank">
-						<span class="elementor-screen-only">Youtube</span>
-						<i class="fab fa-youtube"></i>					</a>
-				</span>
-					</div>
+					<div class="elementor-social-icons-wrapper elementor-grid"> Facebook-f Youtube</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-ae800e8 elementor-widget elementor-widget-image" data-id="ae800e8" data-element_type="widget" data-widget_type="image.default">
@@ -2360,9 +2297,7 @@ initComparisons();
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-1398caa elementor-widget elementor-widget-copyright" data-id="1398caa" data-element_type="widget" data-widget_type="copyright.default">
 				<div class="elementor-widget-container">
-					<div class="hfe-copyright-wrapper">
-							<span>Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</span>
-					</div>
+					<div class="hfe-copyright-wrapper"> Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</div>
 				</div>
 				</div>
 					</div>
@@ -2576,7 +2511,7 @@ initComparisons();
 	</div>
 	<div class="owp-qv-overlay"></div>
 </div>
-<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Cart</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Xe &#x111;&#x1EA9;y</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
 								<section class="elementor-section elementor-top-section elementor-element elementor-element-45284f83 elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle elementor-section-height-default elementor-section-items-middle" data-id="45284f83" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
@@ -2590,9 +2525,7 @@ initComparisons();
 				<i aria-hidden="true" class="fas fa-globe-americas"></i>				</span>
 			</div>
 						<div class="elementor-icon-box-content">
-				<h2 class="elementor-icon-box-title">
-					<span> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</span>
-				</h2>
+				<h2 class="elementor-icon-box-title"> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</h2>
 							</div>
 		</div>
 				</div>
@@ -2733,9 +2666,7 @@ initComparisons();
 								<div class="elementor-element elementor-element-32f58706 elementor-icon-list--layout-inline elementor-align-right elementor-widget__width-auto elementor-tablet-align-center elementor-mobile-align-center elementor-widget-tablet__width-inherit elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="32f58706" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items elementor-inline-items">
-							<li class="elementor-icon-list-item elementor-inline-item">
-										<span class="elementor-icon-list-text">Ng&#xF4;n ng&#x1EEF;</span>
-									</li>
+							<li class="elementor-icon-list-item elementor-inline-item"> Ng&#xF4;n ng&#x1EEF;</li>
 						</ul>
 				</div>
 				</div>

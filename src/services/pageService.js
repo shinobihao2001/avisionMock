@@ -98,7 +98,7 @@ function modifyHTML(urls, crawler) {
                 });
 
                 //replace old text with translate text
-                var doc = $$(process.env.SELECT_TAGS).not("script");
+                var doc = $$(process.env.SELECT_TAGS).not("style, script");
                 console.log(doc.length);
                 for (let index = 0; index < doc.length; index++) {
                   console.log(index);
@@ -115,7 +115,7 @@ function modifyHTML(urls, crawler) {
                       );
                       $$(element).text(newText);
                     } else {
-                      const children = element.find("*").not("script");
+                      const children = element.find("*").not("style, script");
                       for (
                         let childIndex = 0;
                         childIndex < children.length;

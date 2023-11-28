@@ -47,7 +47,7 @@ function getPageAsync(urls, crawler) {
                 //const $ = Cheerio.load(res.body);
 
                 //fs.writeFileSync("fileHtml.html", $.html());
-                var doc = $(process.env.SELECT_TAGS).not("script");
+                var doc = $(process.env.SELECT_TAGS).not("style, script");
                 for (let index = 0; index < doc.length; index++) {
                   console.log(doc.length);
                   let element = doc.eq(index);
@@ -62,7 +62,7 @@ function getPageAsync(urls, crawler) {
                       words.add(node.text().replace(/\s+/g, " "));
                     }
 
-                    let children = element.find("*").not("script");
+                    let children = element.find("*").not("style, script");
                     for (
                       let childIndex = 0;
                       childIndex < children.length;

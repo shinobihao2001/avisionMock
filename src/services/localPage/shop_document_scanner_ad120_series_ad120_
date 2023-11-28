@@ -1294,7 +1294,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="owp-floating-bar">
 				<div class="container clr">
 					<div class="left">
-						<p class="selected">Selected:</p>
+						<p class="selected">&#x110;&#xE3; ch&#x1ECD;n:</p>
 						<h2 class="entry-title" itemprop="name">AD120</h2>
 					</div>
 											<div class="right">
@@ -1360,7 +1360,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-element elementor-element-632c2e2b elementor-widget elementor-widget-woocommerce-product-short-description" data-id="632c2e2b" data-element_type="widget" data-widget_type="woocommerce-product-short-description.default">
 				<div class="elementor-widget-container">
 			<div class="woocommerce-product-details__short-description">
-	<h3><span style="color: #0e3a65">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u nh&#x1ECF; g&#x1ECD;n v&#xE0; gi&#xE1; c&#x1EA3; ph&#x1EA3;i ch&#x103;ng</span></h3>
+	<h3>M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u nh&#x1ECF; g&#x1ECD;n v&#xE0; gi&#xE1; c&#x1EA3; ph&#x1EA3;i ch&#x103;ng</h3>
 <p>K&#x1EBF;t h&#x1EE3;p m&#xE1;y qu&#xE9;t h&#xEC;nh ph&#x1EB3;ng v&#x1EDB;i ADF l&#xEA;n t&#x1EDB;i 50 trang ti&#x1EC7;n l&#x1EE3;i (70 g/m2), Avision AD120 l&#xE0; gi&#x1EA3;i ph&#xE1;p qu&#xE9;t n&#x103;ng su&#x1EA5;t nh&#x1ECF; g&#x1ECD;n v&#xE0; gi&#xE1; c&#x1EA3; ph&#x1EA3;i ch&#x103;ng, cung c&#x1EA5;p 25 trang m&#x1ED7;i ph&#xFA;t &#x1EDF; 300 dpi.</p>
 </div>
 		</div>
@@ -1420,18 +1420,18 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <p><span style="vertical-align: inherit"><div class="su-spacer" style="height:25px"></div></span></p>
 <hr>
 <p><span style="vertical-align: inherit"><div class="su-spacer" style="height:25px"></div></span></p>
-<h3><span style="color: #0e3a65"><span style="vertical-align: inherit">&#x258D;Qu&#xE9;t n&#xFA;t d&#x1EC5; s&#x1EED; d&#x1EE5;ng</span></span></h3>
+<h3>&#x258D;Qu&#xE9;t n&#xFA;t d&#x1EC5; s&#x1EED; d&#x1EE5;ng</h3>
 <p>AD120 d&#x1EC5; s&#x1EED; d&#x1EE5;ng th&#xF4;ng qua m&#xE0;n h&#xEC;nh LCD v&#xE0; c&#xE1;c n&#xFA;t tr&#xEA;n b&#x1EA3;ng &#x111;i&#x1EC1;u khi&#x1EC3;n. B&#x1EB1;ng c&#xE1;ch ch&#x1ECD;n &#x111;&#xED;ch &#x111;&#x1EBF;n v&#xE0; nh&#x1EA5;n n&#xFA;t &#x201C;Qu&#xE9;t&#x201D;, b&#x1EA1;n c&#xF3; th&#x1EC3; qu&#xE9;t t&#xE0;i li&#x1EC7;u sang &#x111;&#x1ECB;nh d&#x1EA1;ng t&#x1EC7;p PDF, JPEG, BMP ho&#x1EB7;c GIF c&#xF3; th&#x1EC3; t&#xEC;m ki&#x1EBF;m v&#xE0; g&#x1EED;i h&#xEC;nh &#x1EA3;nh &#x111;&#xE3; qu&#xE9;t &#x111;&#x1EBF;n &#x111;&#xED;ch &#x111;&#x1B0;&#x1EE3;c l&#x1EAD;p tr&#xEC;nh s&#x1EB5;n nh&#x1B0; e-mail, m&#xE1;y in, &#x1EE9;ng d&#x1EE5;ng ph&#x1EA7;n m&#x1EC1;m ch&#x1EC9;nh s&#x1EED;a h&#xEC;nh &#x1EA3;nh ho&#x1EB7;c th&#x1EAD;m ch&#xED; l&#xE0; m&#xE1;y ch&#x1EE7; &#x111;&#xE1;m m&#xE2;y nh&#x1B0; Google Drive, Dropbox, Evernote ho&#x1EB7;c Microsoft SharePoint. Qu&#xE9;t ch&#x1EC9; &#x111;&#x1A1;n gi&#x1EA3;n l&#xE0; d&#x1EC5; d&#xE0;ng!</p>
-<h3><span style="color: #0e3a65"><span style="vertical-align: inherit">&#x258D;Thi&#x1EBF;t k&#x1EBF; nh&#x1ECF; g&#x1ECD;n v&#xE0; th&#xE2;n thi&#x1EC7;n v&#x1EDB;i tr&#xE1;i &#x111;&#x1EA5;t</span></span></h3>
+<h3>&#x258D;Thi&#x1EBF;t k&#x1EBF; nh&#x1ECF; g&#x1ECD;n v&#xE0; th&#xE2;n thi&#x1EC7;n v&#x1EDB;i tr&#xE1;i &#x111;&#x1EA5;t</h3>
 <p>AD120 c&#xF3; thi&#x1EBF;t k&#x1EBF; nh&#x1ECF; g&#x1ECD;n v&#xE0; th&#xE2;n thi&#x1EC7;n v&#x1EDB;i tr&#xE1;i &#x111;&#x1EA5;t v&#xEC; n&#xF3; s&#x1EED; d&#x1EE5;ng c&#xF4;ng ngh&#x1EC7; CIS (c&#x1EA3;m bi&#x1EBF;n h&#xEC;nh &#x1EA3;nh ti&#x1EBF;p x&#xFA;c) &#x111;&#xF2;i h&#x1ECF;i kh&#xF4;ng gian nh&#x1ECF; h&#x1A1;n v&#xE0; &#x111;&#xE8;n LED l&#xE0;m ngu&#x1ED3;n s&#xE1;ng. &#x110;&#xE8;n LED c&#xF3; m&#x1EE9;c ti&#xEA;u th&#x1EE5; &#x111;i&#x1EC7;n n&#x103;ng th&#x1EA5;p h&#x1A1;n v&#xE0; &#x111;&#x1B0;&#x1EE3;c thi&#x1EBF;t k&#x1EBF; &#x111;&#x1EC3; t&#x1ED3;n t&#x1EA1;i trong su&#x1ED1;t th&#x1EDD;i gian s&#x1EED; d&#x1EE5;ng c&#x1EE7;a m&#xE1;y qu&#xE9;t, &#x111;&#x1ED3;ng th&#x1EDD;i &#xE1;nh s&#xE1;ng r&#x1EF1;c r&#x1EE1; c&#x1EE7;a ch&#xFA;ng mang l&#x1EA1;i &#x111;&#x1ED9; s&#xE1;ng trung th&#x1EF1;c &#x111;&#x1EC3; cho ph&#xE9;p ch&#x1EE5;p &#x1EA3;nh m&#xE0;u ch&#xED;nh x&#xE1;c.</p>
-<h3><span style="color: #0e3a65"><span style="vertical-align: inherit">&#x258D;T&#x1EF1; &#x111;&#x1ED9;ng c&#x1EAF;t nhi&#x1EC1;u &#x1EA3;nh</span></span></h3>
+<h3>&#x258D;T&#x1EF1; &#x111;&#x1ED9;ng c&#x1EAF;t nhi&#x1EC1;u &#x1EA3;nh</h3>
 <p>Ngo&#xE0;i ra, m&#xE1;y qu&#xE9;t c&#xF2;n c&#xF3; t&#xED;nh n&#x103;ng ti&#x1EC7;n l&#x1EE3;i l&#xE0; c&#x1EAF;t x&#xE9;n nhi&#x1EC1;u h&#xEC;nh &#x1EA3;nh. V&#x1EDB;i t&#xED;nh n&#x103;ng n&#xE0;y, nhi&#x1EC1;u k&#xED;ch c&#x1EE1; t&#xE0;i li&#x1EC7;u kh&#xE1;c nhau nh&#x1B0; &#x1EA3;nh, Th&#x1EBB; ID ho&#x1EB7;c danh thi&#x1EBF;p c&#xF3; th&#x1EC3; &#x111;&#x1B0;&#x1EE3;c &#x111;&#x1EB7;t tr&#xEA;n m&#x1EB7;t ph&#x1EB3;ng v&#xE0; m&#xE1;y qu&#xE9;t c&#xF3; th&#x1EC3; c&#x1EAF;t v&#xE0; t&#x1EA1;o nhi&#x1EC1;u h&#xEC;nh &#x1EA3;nh theo k&#xED;ch th&#x1B0;&#x1EDB;c ban &#x111;&#x1EA7;u c&#x1EE7;a t&#xE0;i li&#x1EC7;u ch&#x1EC9; trong m&#x1ED9;t l&#x1EA7;n qu&#xE9;t.</p>
-<h3><span style="color: #0e3a65"><span style="vertical-align: inherit">&#x258D;C&#xE0;i &#x111;&#x1EB7;t n&#xE2;ng cao qua tr&#xEC;nh &#x111;i&#x1EC1;u khi&#x1EC3;n TWAIN</span></span></h3>
+<h3>&#x258D;C&#xE0;i &#x111;&#x1EB7;t n&#xE2;ng cao qua tr&#xEC;nh &#x111;i&#x1EC1;u khi&#x1EC3;n TWAIN</h3>
 <p>&#x110;&#x1ED1;i v&#x1EDB;i nh&#x1EEF;ng ng&#x1B0;&#x1EDD;i d&#xF9;ng n&#xE2;ng cao mu&#x1ED1;n ki&#x1EC3;m so&#xE1;t c&#xE0;i &#x111;&#x1EB7;t qu&#xE9;t v&#xE0; &#x111;&#x1EA1;t &#x111;&#x1B0;&#x1EE3;c ch&#x1EA5;t l&#x1B0;&#x1EE3;ng h&#xEC;nh &#x1EA3;nh t&#x1ED1;t nh&#x1EA5;t, AD120 c&#x1EE7;a Avision c&#xF3; th&#x1EC3; qu&#xE9;t qua giao di&#x1EC7;n ng&#x1B0;&#x1EDD;i d&#xF9;ng TWAIN n&#xE2;ng cao c&#x1EE7;a Avision t&#x1EEB; &#x1EE9;ng d&#x1EE5;ng ph&#x1EA7;n m&#x1EC1;m t&#x1B0;&#x1A1;ng th&#xED;ch TWAIN. Giao di&#x1EC7;n ng&#x1B0;&#x1EDD;i d&#xF9;ng TWAIN c&#x1EE7;a Avision cung c&#x1EA5;p nhi&#x1EC1;u t&#xED;nh n&#x103;ng h&#x1EEF;u &#xED;ch kh&#xE1;c nhau &#x111;&#x1EC3; n&#xE2;ng cao ch&#x1EA5;t l&#x1B0;&#x1EE3;ng h&#xEC;nh &#x1EA3;nh c&#x1EE7;a b&#x1EA1;n bao g&#x1ED3;m t&#x1EF1; &#x111;&#x1ED9;ng c&#x1EAF;t v&#xE0; l&#xE0;m m&#x1EDD;, t&#x1EF1; &#x111;&#x1ED9;ng ph&#xE1;t hi&#x1EC7;n m&#xE0;u, kh&#x1EDB;p m&#xE0;u, lo&#x1EA1;i b&#x1ECF; m&#xE0;u, v.v.</p>
-<h3><span style="color: #0e3a65"><span style="vertical-align: inherit">&#x258D;&#x1EE8;ng d&#x1EE5;ng ph&#x1EA7;n m&#x1EC1;m &#x111;i k&#xE8;m m&#x1EA1;nh m&#x1EBD;</span></span></h3>
+<h3>&#x258D;&#x1EE8;ng d&#x1EE5;ng ph&#x1EA7;n m&#x1EC1;m &#x111;i k&#xE8;m m&#x1EA1;nh m&#x1EBD;</h3>
 <p>Avision AD120 &#x111;i k&#xE8;m v&#x1EDB;i tr&#xEC;nh &#x111;i&#x1EC1;u khi&#x1EC3;n TWAIN v&#xE0; ISIS, &#x111;&#x1ED3;ng th&#x1EDD;i &#x111;&#x1B0;&#x1EE3;c t&#xED;ch h&#x1EE3;p m&#x1ED9;t b&#x1ED9; &#x1EE9;ng d&#x1EE5;ng ph&#x1EA7;n m&#x1EC1;m m&#x1EA1;nh m&#x1EBD; bao g&#x1ED3;m Tr&#xEC;nh qu&#x1EA3;n l&#xFD; n&#xFA;t Avision, AvScan v&#xE0; PaperPort. V&#x1EDB;i Tr&#xEC;nh qu&#x1EA3;n l&#xFD; n&#xFA;t, b&#x1EA1;n c&#xF3; th&#x1EC3; qu&#xE9;t sang &#x111;&#x1ECB;nh d&#x1EA1;ng t&#x1EC7;p PDF, JPEG, BMP ho&#x1EB7;c GIF c&#xF3; th&#x1EC3; t&#xEC;m ki&#x1EBF;m, g&#x1EED;i h&#xEC;nh &#x1EA3;nh &#x111;&#x1B0;&#x1EE3;c qu&#xE9;t &#x111;&#x1EBF;n m&#x1ED9;t &#x111;&#xED;ch &#x111;&#x1B0;&#x1EE3;c ch&#x1EC9; &#x111;&#x1ECB;nh nh&#x1B0; e-mail, m&#xE1;y in ho&#x1EB7;c &#x1EE9;ng d&#x1EE5;ng kh&#xE1;c ch&#x1EC9; b&#x1EB1;ng m&#x1ED9;t n&#xFA;t nh&#x1EA5;n. AVScan v&#xE0; PaperPort l&#xE0; ph&#x1EA7;n m&#x1EC1;m qu&#x1EA3;n l&#xFD; t&#xE0;i li&#x1EC7;u v&#xE0; x&#x1EED; l&#xFD; h&#xEC;nh &#x1EA3;nh hi&#x1EC7;u qu&#x1EA3; cao gi&#xFA;p b&#x1EA1;n s&#x1EAF;p x&#x1EBF;p c&#xF4;ng vi&#x1EC7;c c&#x1EE7;a m&#xEC;nh hi&#x1EC7;u qu&#x1EA3; h&#x1A1;n.</p>
 <p>&#xA0;</p>
-<h3><span style="color: #0e3a65"><span style="vertical-align: inherit">&#x258D;T&#xED;nh n&#x103;ng</span></span></h3>
+<h3>&#x258D;T&#xED;nh n&#x103;ng</h3>
 <ul>
 <li>T&#xE0;i li&#x1EC7;u m&#xE0;u hai m&#x1EB7;t c&#xF3; k&#xED;ch th&#x1B0;&#x1EDB;c h&#x1EE3;p ph&#xE1;p (8,5&#x201D; x 14&#x201D;)</li>
 <li>T&#x1ED1;c &#x111;&#x1ED9; qu&#xE9;t l&#xEA;n t&#x1EDB;i 25 trang/ph&#xFA;t / 50 h&#xEC;nh/ph&#xFA;t &#x1EDF; c&#x1EA3; ch&#x1EBF; &#x111;&#x1ED9; m&#xE0;u ho&#x1EB7;c &#x111;&#x1A1;n s&#x1EAF;c</li>
@@ -1447,8 +1447,8 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <p>&#xA0;</p>
 <hr>
 <h3></h3>
-<h3><span style="color: #0e3a65">&#x258E;</span><span style="color: #0e3a65"><strong>D&#x1EA5;u ch&#x1EE9;ng nh&#x1EAD;n</strong></span></h3>
-<div class="su-spoiler su-spoiler-style-default su-spoiler-icon-arrow-circle-1  su-spoiler-closed" data-scroll-offset="0" data-anchor-in-url="no"><div class="su-spoiler-title" tabindex="0" role="button"><span class="su-spoiler-icon"></span>Learn more</div><div class="su-spoiler-content su-u-clearfix su-u-trim">
+<h3>&#x258E;D&#x1EA5;u ch&#x1EE9;ng nh&#x1EAD;n</h3>
+<div class="su-spoiler su-spoiler-style-default su-spoiler-icon-arrow-circle-1  su-spoiler-closed" data-scroll-offset="0" data-anchor-in-url="no"><div class="su-spoiler-title" tabindex="0" role="button">T&#xEC;m hi&#x1EC3;u th&#xEA;m</div><div class="su-spoiler-content su-u-clearfix su-u-trim">
 <table id="tbl" border="1">
 <tbody>
 <tr>
@@ -1459,7 +1459,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </tbody>
 </table>
 <div class="su-lightbox-content su-u-trim " id="my-custom-popup" style="display:none;width:auto;min-width:none;max-width:600px;margin-top:40px;margin-bottom:40px;padding:40px;background:#FFFFFF;color:#333333;box-shadow:0px 0px 15px #333333;text-align:left">
-<h1><span style="color: #0e3a65">NG&#xD4;I SAO N&#x102;NG L&#x1AF;&#x1EE2;NG</span></h1>
+<h1>NG&#xD4;I SAO N&#x102;NG L&#x1AF;&#x1EE2;NG</h1>
 <p>&#xA0;</p>
 <h2>NG&#xD4;I SAO N&#x102;NG L&#x1AF;&#x1EE2;NG l&#xE0; g&#xEC;?</h2>
 <p><a href="https://www.energystar.gov/"><img decoding="async" loading="lazy" class="size-medium wp-image-11921 aligncenter" src="https://www.avision.com/en/wp-content/uploads/2021/09/energy_star-2-300x243.jpg" alt width="300" height="243" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/energy_star-2-300x243.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/energy_star-2.jpg 497w" sizes="(max-width: 300px) 100vw, 300px"></a></p>
@@ -1475,7 +1475,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 
 <table class="woocommerce-product-attributes shop_attributes">
 			<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_g01">
-							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center"><span style="color:#ffffff;"><strong>&#x110;&#x1EB7;c &#x111;i&#x1EC3;m k&#x1EF9; thu&#x1EAD;t chung</strong></span></td>
+							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center">&#x110;&#x1EB7;c &#x111;i&#x1EC3;m k&#x1EF9; thu&#x1EAD;t chung</td>
 						</tr><tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_001">
 							<th class="woocommerce-product-attributes-item__label">C&#xF4;ng ngh&#x1EC7;</th>
 				<td class="woocommerce-product-attributes-item__value"><p>C&#x1EA3;m bi&#x1EBF;n h&#xEC;nh &#x1EA3;nh li&#xEA;n h&#x1EC7; (CIS)</p>
@@ -1523,7 +1523,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_012">
 							<th class="woocommerce-product-attributes-item__label">K&#xED;ch th&#x1B0;&#x1EDB;c b&#x1ED9; nh&#x1EDB;</th>
-				<td class="woocommerce-product-attributes-item__value"><p>SDRAM 64 MB</p>
+				<td class="woocommerce-product-attributes-item__value"><p>SDRAM 64MB</p>
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_013">
@@ -1562,14 +1562,14 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_g02">
-							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center"><span style="color:#ffffff;"><strong>&#x110;&#x1EB7;c tr&#x1B0;ng</strong></span></td>
+							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center">&#x110;&#x1EB7;c tr&#x1B0;ng</td>
 						</tr><tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_028">
 							<th class="woocommerce-product-attributes-item__label">Ch&#x1EBF; &#x111;&#x1ED9; gi&#x1EA5;y d&#xE0;i</th>
 				<td class="woocommerce-product-attributes-item__value"><p>L&#xEA;n t&#x1EDB;i 118 in. ( 300 dpi @ color simplex )</p>
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_g04">
-							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center"><span style="color:#ffffff;"><strong>K&#xED;ch th&#x1B0;&#x1EDB;c qu&#xE9;t</strong></span></td>
+							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center">K&#xED;ch th&#x1B0;&#x1EDB;c qu&#xE9;t</td>
 						</tr><tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_031">
 							<th class="woocommerce-product-attributes-item__label">ADF t&#x1ED1;i thi&#x1EC3;u</th>
 				<td class="woocommerce-product-attributes-item__value"><p>76,2 x 148 mm ( 3 x 5,83 in. )</p>
@@ -1591,7 +1591,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_g05">
-							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center"><span style="color:#ffffff;"><strong>T&#x1ED1;c &#x111;&#x1ED9; qu&#xE9;t</strong></span></td>
+							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color:#0e3a65; text-align:center">T&#x1ED1;c &#x111;&#x1ED9; qu&#xE9;t</td>
 						</tr><tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_038">
 							<th class="woocommerce-product-attributes-item__label">&#x110;en tr&#x1EAF;ng @ 200dpi, A4</th>
 				<td class="woocommerce-product-attributes-item__value"><p>M&#x1ED9;t m&#x1EB7;t: 25 trang/ph&#xFA;t&#xFF1B;Hai m&#x1EB7;t: 50 h&#xEC;nh/ph&#xFA;t, M&#x1EB7;t ph&#x1EB3;ng: 4,5 gi&#xE2;y / 14,8 gi&#xE2;y (Bao g&#x1ED3;m Backhome)</p>
@@ -1616,9 +1616,9 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<font size="2"><p align="right"><font color="#0e3a65">* C&#xE1;c th&#xF4;ng s&#x1ED1; k&#x1EF9; thu&#x1EAD;t tr&#xEA;n c&#xF3; th&#x1EC3; thay &#x111;&#x1ED5;i t&#xF9;y theo hi&#x1EC7;u su&#x1EA5;t m&#xE1;y t&#xED;nh v&#xE0; khu v&#x1EF1;c b&#xE1;n h&#xE0;ng. &#x110;&#x1EC3; bi&#x1EBF;t th&#xEA;m chi ti&#x1EBF;t, vui l&#xF2;ng tham kh&#x1EA3;o nh&#xE0; ph&#xE2;n ph&#x1ED1;i &#x111;&#x1ECB;a ph&#x1B0;&#x1A1;ng c&#x1EE7;a b&#x1EA1;n.</font></p></font>
 				</div>
 					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--Downloads panel entry-content wc-tab" id="tab-Downloads" role="tabpanel" aria-labelledby="tab-title-Downloads">
-				<div><h2 class="elementor-heading-title elementor-size-default">&#x258E;H&#xEC;nh &#x1EA3;nh s&#x1EA3;n ph&#x1EA9;m</h2></div><div><table><tbody><tr><td rowspan="4" bgcolor="#fff"><img src="https://www.avision.com/en/wp-content/uploads/download-manager-files/AD120_AD120.jpg" alt="200" width="200"></td></tr><tr><th> &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i cao</th><th> &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i trung b&#xEC;nh</th><th> &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i th&#x1EA5;p</th></tr><tr><td>21,35MB</td><td>46,78 KB</td><td>46,78 KB</td></tr><tr><td bgcolor="#fff"><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><font color="#555555"><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_AD120.tif" download>T&#x1EA3;i xu&#x1ED1;ng</a></font></td><td bgcolor="#fff"><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_AD120.jpg" download>T&#x1EA3;i xu&#x1ED1;ng</a></td><td bgcolor="#fff"><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_AD120.jpg" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;H&#x1B0;&#x1EDB;ng d&#x1EAB;n s&#x1EED; d&#x1EE5;ng</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>AD120</td><td>ti&#x1EBF;ng Nga</td><td>4,31 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_ru.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>ti&#x1EBF;ng B&#x1ED3; &#x110;&#xE0;o Nha</td><td>3,96MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_pt.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>&#x110;&#xE1;nh b&#xF3;ng</td><td>4,07MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_pl.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>H&#xE0;n Qu&#x1ED1;c</td><td>4,08 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_kr.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>ti&#x1EBF;ng Nh&#x1EAD;t</td><td>4,23MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_jp.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>ng&#x1B0;&#x1EDD;i &#xDD;</td><td>3,88 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_it.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>ti&#x1EBF;ng Do Th&#xE1;i</td><td>5,09 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_he.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>ng&#x1B0;&#x1EDD;i Ph&#xE1;p</td><td>3,89 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_fr.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>ng&#x1B0;&#x1EDD;i T&#xE2;y Ban Nha</td><td>4,04 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_es.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>Ti&#x1EBF;ng Anh</td><td>4,01 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_en.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>ti&#x1EBF;ng &#x110;&#x1EE9;c</td><td>3,68 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_de.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>truy&#x1EC1;n th&#x1ED1;ng Trung Qu&#x1ED1;c</td><td>4,18 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_ct.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>Ti&#x1EBF;ng Trung gi&#x1EA3;n th&#x1EC3;</td><td>4,07MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_cs.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;T&#xE0;i li&#x1EC7;u gi&#x1EDB;i thi&#x1EC7;u</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>AD120</td><td>truy&#x1EC1;n th&#x1ED1;ng Trung Qu&#x1ED1;c</td><td>487,52 KB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_TWN_DM_262-0289-0_20230116.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>ng&#x1B0;&#x1EDD;i T&#xE2;y Ban Nha</td><td>281,02 KB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_AD120_ESP 262-0116-0_20180118.PDF " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>Ti&#x1EBF;ng Anh</td><td>266,70 KB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_ENG_DM_262-0288-0_20230116.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>Ti&#x1EBF;ng Trung gi&#x1EA3;n th&#x1EC3;</td><td>465,81 KB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_CHN_DM_262-0290-0_20230116.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;H&#x1B0;&#x1EDB;ng d&#x1EAB;n nhanh</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>AD120</td><td>Ti&#x1EBF;ng Trung gi&#x1EA3;n th&#x1EC3;</td><td>1,01 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/Quick Guide_cs_251-1171_AD120_V300.pdf" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>&#x110;a ng&#xF4;n ng&#x1EEF;</td><td>1,26 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/Quick Guide_all_251-1170_AD120_V300.pdf" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;Ph&#x1EA7;n m&#x1EC1;m</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>H&#x1ED7; tr&#x1EE3; h&#x1EC7; &#x111;i&#x1EC1;u h&#xE0;nh</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>c&#x1ED5;ng gi&#x1EA5;y</td><td>14</td><td>455,79MB</td><td>Th&#x1EAF;ng 7, th&#x1EAF;ng 8, th&#x1EAF;ng 10, th&#x1EAF;ng 11</td><td><span class="elementor-button-icon elementor-align-							icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><span class="popmake-2659">T&#x1EA3;i xu&#x1ED1;ng</span></td></tr><tr><td>&#x110;&#x1ED9;i th&#x1EBB; th&#x1EBF; gi&#x1EDB;i</td><td>V3.0.0.0(WCT)</td><td>235 MB</td><td>Th&#x1EAF;ng 7, th&#x1EAF;ng 8, th&#x1EAF;ng 10, th&#x1EAF;ng 11</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/BM2_WCT_20210209.zip" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>Tr&#xEC;nh qu&#x1EA3;n l&#xFD; n&#xFA;t V2</td><td>V3.0.0.0</td><td>595 MB</td><td>Th&#x1EAF;ng 7, th&#x1EAF;ng 8, th&#x1EAF;ng 10, th&#x1EAF;ng 11</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://avwebcdnpoint.azureedge.net/software/BM2_V3000_20210115.zip" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AVScan X</td><td>V1.2.1.1</td><td>549,70MB</td><td>Th&#x1EAF;ng 7, th&#x1EAF;ng 8, th&#x1EAF;ng 10, th&#x1EAF;ng 11</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://avwebcdnpoint.azureedge.net/software/AVScanX_V1211_20180831.zip" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;Tr&#xEC;nh &#x111;i&#x1EC1;u khi&#x1EC3;n</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>H&#x1ED7; tr&#x1EE3; h&#x1EC7; &#x111;i&#x1EC1;u h&#xE0;nh</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>AD120</td><td>VB.24</td><td>140,04MB</td><td>Win XP, Win Vista, Win 7, Win</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_AD120_VB24_20200715.zip" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div>			</div>
+				<div><h2 class="elementor-heading-title elementor-size-default">&#x258E;H&#xEC;nh &#x1EA3;nh s&#x1EA3;n ph&#x1EA9;m</h2></div><div><table><tbody><tr><td rowspan="4" bgcolor="#fff"><img src="https://www.avision.com/en/wp-content/uploads/download-manager-files/AD120_AD120.jpg" alt="200" width="200"></td></tr><tr><th> &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i cao</th><th> &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i trung b&#xEC;nh</th><th> &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i th&#x1EA5;p</th></tr><tr><td>21,35MB</td><td>46,78 KB</td><td>46,78 KB</td></tr><tr><td bgcolor="#fff"><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><font color="#555555"><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_AD120.tif" download>T&#x1EA3;i xu&#x1ED1;ng</a></font></td><td bgcolor="#fff"><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_AD120.jpg" download>T&#x1EA3;i xu&#x1ED1;ng</a></td><td bgcolor="#fff"><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_AD120.jpg" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;H&#x1B0;&#x1EDB;ng d&#x1EAB;n s&#x1EED; d&#x1EE5;ng</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>AD120</td><td>ti&#x1EBF;ng Nga</td><td>4,31 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_ru.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>ti&#x1EBF;ng B&#x1ED3; &#x110;&#xE0;o Nha</td><td>3,96MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_pt.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>&#x110;&#xE1;nh b&#xF3;ng</td><td>4,07 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_pl.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>H&#xE0;n Qu&#x1ED1;c</td><td>4,08 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_kr.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>ti&#x1EBF;ng Nh&#x1EAD;t</td><td>4,23MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_jp.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>ng&#x1B0;&#x1EDD;i &#xDD;</td><td>3,88 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_it.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>ti&#x1EBF;ng Do Th&#xE1;i</td><td>5,09 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_he.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>ng&#x1B0;&#x1EDD;i Ph&#xE1;p</td><td>3,89 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_fr.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>ng&#x1B0;&#x1EDD;i T&#xE2;y Ban Nha</td><td>4,04 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_es.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>Ti&#x1EBF;ng Anh</td><td>4,01 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_en.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>ti&#x1EBF;ng &#x110;&#x1EE9;c</td><td>3,68 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_de.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>truy&#x1EC1;n th&#x1ED1;ng Trung Qu&#x1ED1;c</td><td>4,18 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_ct.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>Ti&#x1EBF;ng Trung gi&#x1EA3;n th&#x1EC3;</td><td>4,07 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_manual_cs.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;T&#xE0;i li&#x1EC7;u gi&#x1EDB;i thi&#x1EC7;u</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>AD120</td><td>truy&#x1EC1;n th&#x1ED1;ng Trung Qu&#x1ED1;c</td><td>487,52 KB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_TWN_DM_262-0289-0_20230116.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>ng&#x1B0;&#x1EDD;i T&#xE2;y Ban Nha</td><td>281,02 KB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_AD120_ESP 262-0116-0_20180118.PDF " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>Ti&#x1EBF;ng Anh</td><td>266,70 KB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_ENG_DM_262-0288-0_20230116.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>Ti&#x1EBF;ng Trung gi&#x1EA3;n th&#x1EC3;</td><td>465,81 KB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_CHN_DM_262-0290-0_20230116.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;H&#x1B0;&#x1EDB;ng d&#x1EAB;n nhanh</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>AD120</td><td>Ti&#x1EBF;ng Trung gi&#x1EA3;n th&#x1EC3;</td><td>1,01 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/Quick Guide_cs_251-1171_AD120_V300.pdf" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AD120</td><td>&#x110;a ng&#xF4;n ng&#x1EEF;</td><td>1,26MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/Quick Guide_all_251-1170_AD120_V300.pdf" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;Ph&#x1EA7;n m&#x1EC1;m</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>H&#x1ED7; tr&#x1EE3; h&#x1EC7; &#x111;i&#x1EC1;u h&#xE0;nh</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>c&#x1ED5;ng gi&#x1EA5;y</td><td>14</td><td>455,79MB</td><td>Th&#x1EAF;ng 7, th&#x1EAF;ng 8, th&#x1EAF;ng 10, th&#x1EAF;ng 11</td><td>T&#x1EA3;i xu&#x1ED1;ng</td></tr><tr><td>&#x110;&#x1ED9;i th&#x1EBB; th&#x1EBF; gi&#x1EDB;i</td><td>V3.0.0.0(WCT)</td><td>235 MB</td><td>Th&#x1EAF;ng 7, th&#x1EAF;ng 8, th&#x1EAF;ng 10, th&#x1EAF;ng 11</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/BM2_WCT_20210209.zip" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>Tr&#xEC;nh qu&#x1EA3;n l&#xFD; n&#xFA;t V2</td><td>V3.0.0.0</td><td>595 MB</td><td>Th&#x1EAF;ng 7, th&#x1EAF;ng 8, th&#x1EAF;ng 10, th&#x1EAF;ng 11</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://avwebcdnpoint.azureedge.net/software/BM2_V3000_20210115.zip" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AVScan X</td><td>V1.2.1.1</td><td>549,70 MB</td><td>Th&#x1EAF;ng 7, th&#x1EAF;ng 8, th&#x1EAF;ng 10, th&#x1EAF;ng 11</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://avwebcdnpoint.azureedge.net/software/AVScanX_V1211_20180831.zip" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;Tr&#xEC;nh &#x111;i&#x1EC1;u khi&#x1EC3;n</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>H&#x1ED7; tr&#x1EE3; h&#x1EC7; &#x111;i&#x1EC1;u h&#xE0;nh</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>AD120</td><td>VB.24</td><td>140,04MB</td><td>Win XP, Win Vista, Win 7, Win</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/AD120_AD120_VB24_20200715.zip" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div>			</div>
 					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--desc_tab panel entry-content wc-tab" id="tab-desc_tab" role="tabpanel" aria-labelledby="tab-title-desc_tab">
-				<style>li.desc_tab_tab{ display:none !quan trọng; }</style>			</div>
+				<style>li.desc_tab_tab{ display:none !important; }</style>			</div>
 		
 			</div>
 
@@ -1667,30 +1667,16 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/why-avision/">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-check"></i>						</span>
-										<span class="elementor-icon-list-text">T&#x1EA1;i sao Avision</span>
-											</a>
+											<a href="http://localhost:3000/why-avision/"> T&#x1EA1;i sao Avision</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/corporate-profile/">
-
-											<span class="elementor-icon-list-text">H&#x1ED3; s&#x1A1; c&#xF4;ng ty</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/corporate-profile/"> H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/news/">
-
-											<span class="elementor-icon-list-text">Tin t&#x1EE9;c</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/news/"> Tin t&#x1EE9;c</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/crs/">
-
-											<span class="elementor-icon-list-text">CSR</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/crs/"> CSR</a>
 									</li>
 						</ul>
 				</div>
@@ -1707,34 +1693,19 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/document-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</span>
-											</a>
+											<a href="http://localhost:3000/product-category/document-scanner/"> M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/flatbed-scanner/">
-
-											<span class="elementor-icon-list-text"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/flatbed-scanner/"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/"> M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/network-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/network-scanner/"> M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/paperair-series/">
-
-											<span class="elementor-icon-list-text">D&#xF2;ng PaperAir</span>
-											</a>
+											<a href="http://localhost:3000/product-category/paperair-series/"> D&#xF2;ng PaperAir</a>
 									</li>
 						</ul>
 				</div>
@@ -1763,22 +1734,13 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/download/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</span>
-											</a>
+											<a href="http://localhost:3000/download/"> Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/helpcenter/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/helpcenter/"> Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/product-registration/">
-
-											<span class="elementor-icon-list-text">&#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/product-registration/"> &#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</a>
 									</li>
 						</ul>
 				</div>
@@ -1797,18 +1759,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-5852473a elementor-shape-circle e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="5852473a" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-social-icons-wrapper elementor-grid">
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-9758c9c" href="https://www.facebook.com/AvisionHQ/" target="_blank">
-						<span class="elementor-screen-only">Facebook-f</span>
-						<i class="fab fa-facebook-f"></i>					</a>
-				</span>
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-d550229" href="https://www.youtube.com/user/AvisionHQ" target="_blank">
-						<span class="elementor-screen-only">Youtube</span>
-						<i class="fab fa-youtube"></i>					</a>
-				</span>
-					</div>
+					<div class="elementor-social-icons-wrapper elementor-grid"> Facebook-f Youtube</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-ae800e8 elementor-widget elementor-widget-image" data-id="ae800e8" data-element_type="widget" data-widget_type="image.default">
@@ -1827,9 +1778,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-1398caa elementor-widget elementor-widget-copyright" data-id="1398caa" data-element_type="widget" data-widget_type="copyright.default">
 				<div class="elementor-widget-container">
-					<div class="hfe-copyright-wrapper">
-							<span>Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</span>
-					</div>
+					<div class="hfe-copyright-wrapper"> Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</div>
 				</div>
 				</div>
 					</div>
@@ -2043,7 +1992,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	</div>
 	<div class="owp-qv-overlay"></div>
 </div>
-<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Cart</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Xe &#x111;&#x1EA9;y</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
 								<section class="elementor-section elementor-top-section elementor-element elementor-element-45284f83 elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle elementor-section-height-default elementor-section-items-middle" data-id="45284f83" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
@@ -2057,9 +2006,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<i aria-hidden="true" class="fas fa-globe-americas"></i>				</span>
 			</div>
 						<div class="elementor-icon-box-content">
-				<h2 class="elementor-icon-box-title">
-					<span> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</span>
-				</h2>
+				<h2 class="elementor-icon-box-title"> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</h2>
 							</div>
 		</div>
 				</div>
@@ -2200,9 +2147,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 								<div class="elementor-element elementor-element-32f58706 elementor-icon-list--layout-inline elementor-align-right elementor-widget__width-auto elementor-tablet-align-center elementor-mobile-align-center elementor-widget-tablet__width-inherit elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="32f58706" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items elementor-inline-items">
-							<li class="elementor-icon-list-item elementor-inline-item">
-										<span class="elementor-icon-list-text">Ng&#xF4;n ng&#x1EEF;</span>
-									</li>
+							<li class="elementor-icon-list-item elementor-inline-item"> Ng&#xF4;n ng&#x1EEF;</li>
 						</ul>
 				</div>
 				</div>

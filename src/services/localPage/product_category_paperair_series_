@@ -1262,7 +1262,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-306248f elementor-widget elementor-widget-text-editor" data-id="306248f" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><strong>T&#xEC;m nhanh t&#xE0;i li&#x1EC7;u c&#x1EE7;a t&#xF4;i</strong></p><p align="justify">&#x110;&#x1B0;&#x1EE3;c thi&#x1EBF;t k&#x1EBF; &#x111;&#x1EC3; thu h&#xFA;t ng&#x1B0;&#x1EDD;i d&#xF9;ng trung b&#xEC;nh, PaperAir Manager c&#x1EE7;a Avision l&#xE0; &#x1EE9;ng d&#x1EE5;ng ph&#x1EA7;n m&#x1EC1;m qu&#x1EA3;n l&#xFD; t&#xE0;i li&#x1EC7;u c&#xF3; t&#xED;nh n&#x103;ng d&#x1EC5; c&#xE0;i &#x111;&#x1EB7;t, d&#x1EC5; s&#x1EED; d&#x1EE5;ng v&#xE0; d&#x1EC5; t&#xEC;m ki&#x1EBF;m. B&#x1EA1;n c&#xF3; th&#x1EC3; t&#xEC;m th&#x1EA5;y t&#xE0;i li&#x1EC7;u c&#x1EE7;a m&#xEC;nh m&#x1ED9;t c&#xE1;ch d&#x1EC5; d&#xE0;ng b&#x1EB1;ng c&#xE1;ch nh&#x1EAD;p nhi&#x1EC1;u t&#x1EEB; kh&#xF3;a ho&#x1EB7;c b&#x1EB1;ng c&#xE1;ch x&#xE1;c &#x111;&#x1ECB;nh th&#xF4;ng tin th&#x1EBB; c&#x1EE7;a b&#x1EA1;n. PaperAir Manager l&#xE0; gi&#x1EA3;i ph&#xE1;p l&#xFD; t&#x1B0;&#x1EDF;ng &#x111;&#x1EC3; s&#x1ED1; h&#xF3;a, l&#x1B0;u tr&#x1EEF; v&#xE0; t&#xEC;m ki&#x1EBF;m t&#xE0;i li&#x1EC7;u c&#x1EE7;a b&#x1EA1;n m&#x1ED9;t c&#xE1;ch hi&#x1EC7;u qu&#x1EA3; cho ng&#x1B0;&#x1EDD;i d&#xF9;ng gia &#x111;&#xEC;nh, v&#x103;n ph&#xF2;ng nh&#x1ECF; v&#xE0; doanh nghi&#x1EC7;p.</p>						</div>
+							<p>T&#xEC;m nhanh t&#xE0;i li&#x1EC7;u c&#x1EE7;a t&#xF4;i</p><p align="justify">&#x110;&#x1B0;&#x1EE3;c thi&#x1EBF;t k&#x1EBF; &#x111;&#x1EC3; thu h&#xFA;t ng&#x1B0;&#x1EDD;i d&#xF9;ng trung b&#xEC;nh, PaperAir Manager c&#x1EE7;a Avision l&#xE0; &#x1EE9;ng d&#x1EE5;ng ph&#x1EA7;n m&#x1EC1;m qu&#x1EA3;n l&#xFD; t&#xE0;i li&#x1EC7;u c&#xF3; t&#xED;nh n&#x103;ng d&#x1EC5; c&#xE0;i &#x111;&#x1EB7;t, d&#x1EC5; s&#x1EED; d&#x1EE5;ng v&#xE0; d&#x1EC5; t&#xEC;m ki&#x1EBF;m. B&#x1EA1;n c&#xF3; th&#x1EC3; t&#xEC;m th&#x1EA5;y t&#xE0;i li&#x1EC7;u c&#x1EE7;a m&#xEC;nh m&#x1ED9;t c&#xE1;ch d&#x1EC5; d&#xE0;ng b&#x1EB1;ng c&#xE1;ch nh&#x1EAD;p nhi&#x1EC1;u t&#x1EEB; kh&#xF3;a ho&#x1EB7;c b&#x1EB1;ng c&#xE1;ch x&#xE1;c &#x111;&#x1ECB;nh th&#xF4;ng tin th&#x1EBB; c&#x1EE7;a b&#x1EA1;n. PaperAir Manager l&#xE0; gi&#x1EA3;i ph&#xE1;p l&#xFD; t&#x1B0;&#x1EDF;ng &#x111;&#x1EC3; s&#x1ED1; h&#xF3;a, l&#x1B0;u tr&#x1EEF; v&#xE0; t&#xEC;m ki&#x1EBF;m t&#xE0;i li&#x1EC7;u c&#x1EE7;a b&#x1EA1;n m&#x1ED9;t c&#xE1;ch hi&#x1EC7;u qu&#x1EA3; cho ng&#x1B0;&#x1EDD;i d&#xF9;ng gia &#x111;&#xEC;nh, v&#x103;n ph&#xF2;ng nh&#x1ECF; v&#xE0; doanh nghi&#x1EC7;p.</p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-68e9c4e5 elementor-widget elementor-widget-spacer" data-id="68e9c4e5" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
@@ -1382,7 +1382,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		<a href="http://localhost:3000/shop/paperair-series/paperair-10/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="https://www.avision.com/en/wp-content/uploads/2021/09/PaperAir-10-300x300.jpg" class="woo-entry-image-main" alt="PaperAir 10" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/PaperAir-10-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/PaperAir-10-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/PaperAir-10-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/09/PaperAir-10-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/09/PaperAir-10-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/09/PaperAir-10-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/09/PaperAir-10.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a>	</div><!-- .woo-entry-image -->
 
 	<a href="http://localhost:3000/shop/paperair-series/paperair-10/" data-quantity="1" class="button product_type_simple" data-product_id="8355" data-product_sku aria-label="Read more about &#x201C;PaperAir 10&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/paperair-series/" rel="tag">D&#xF2;ng PaperAir</a></li><li class="title"><h2><a href="http://localhost:3000/shop/paperair-series/paperair-10/">Gi&#x1EA5;yAir 10</a></h2></li><li class="price-wrap">
-</li><li class="rating"></li><li class="woo-desc">PaperAir 10 &#x2013; M&#xE1;y qu&#xE9;t A4 ph&#x1EB3;ng m&#x1ECF;ng v&#xE0; d&#x1EC5; s&#x1EED; d&#x1EE5;ng Avision t&#x1EF1; h&#xE0;o gi&#x1EDB;i thi&#x1EC7;u d&#xF2;ng m&#xE1;y qu&#xE9;t m&#x1ECF;ng c&#x1EE7;a m&#xEC;nh. V&#x1EDB;i k&#xED;ch th&#x1B0;&#x1EDB;c qu&#xE9;t l&#xEA;n t&#x1EDB;i A4, Avision PaperAir 10 l&#xE0; c&#xF4;ng c&#x1EE5; l&#xFD; t&#x1B0;&#x1EDF;ng &#x111;&#x1EC3; s&#x1ED1; h&#xF3;a t&#xE0;i li&#x1EC7;u kinh doanh c&#x1EE7;a b&#x1EA1;n. D&#x1EF1;a tr&#xEA;n c&#xF4;ng ngh&#x1EC7; CIS (C&#x1EA3;m bi&#x1EBF;n h&#xEC;nh &#x1EA3;nh li&#xEA;n h&#x1EC7;) c&#x1EA3;i ti&#x1EBF;n, PaperAir 10 c&#xF3; chi&#x1EC1;u cao v&#xE0; tr&#x1ECD;ng l&#x1B0;&#x1EE3;ng ch&#x1EC9; 46mm (1,8 inch)&#x2026;</li></ul>
+</li><li class="rating"></li><li class="woo-desc">PaperAir 10 &#x2013; M&#xE1;y qu&#xE9;t A4 ph&#x1EB3;ng m&#x1ECF;ng v&#xE0; d&#x1EC5; s&#x1EED; d&#x1EE5;ng Avision t&#x1EF1; h&#xE0;o gi&#x1EDB;i thi&#x1EC7;u d&#xF2;ng m&#xE1;y qu&#xE9;t m&#x1ECF;ng c&#x1EE7;a m&#xEC;nh. V&#x1EDB;i k&#xED;ch th&#x1B0;&#x1EDB;c qu&#xE9;t l&#xEA;n t&#x1EDB;i A4, Avision PaperAir 10 l&#xE0; c&#xF4;ng c&#x1EE5; l&#xFD; t&#x1B0;&#x1EDF;ng &#x111;&#x1EC3; s&#x1ED1; h&#xF3;a t&#xE0;i li&#x1EC7;u kinh doanh c&#x1EE7;a b&#x1EA1;n. D&#x1EF1;a tr&#xEA;n c&#xF4;ng ngh&#x1EC7; CIS (C&#x1EA3;m bi&#x1EBF;n h&#xEC;nh &#x1EA3;nh li&#xEA;n h&#x1EC7;) c&#x1EA3;i ti&#x1EBF;n, PaperAir 10 ch&#x1EC9; c&#xF3; chi&#x1EC1;u cao v&#xE0; tr&#x1ECD;ng l&#x1B0;&#x1EE3;ng 46mm (1,8 inch)&#x2026;</li></ul>
 <ul class="woo-product-gallery">
 
 	
@@ -1508,30 +1508,16 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/why-avision/">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-check"></i>						</span>
-										<span class="elementor-icon-list-text">T&#x1EA1;i sao Avision</span>
-											</a>
+											<a href="http://localhost:3000/why-avision/"> T&#x1EA1;i sao Avision</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/corporate-profile/">
-
-											<span class="elementor-icon-list-text">H&#x1ED3; s&#x1A1; c&#xF4;ng ty</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/corporate-profile/"> H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/news/">
-
-											<span class="elementor-icon-list-text">Tin t&#x1EE9;c</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/news/"> Tin t&#x1EE9;c</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/crs/">
-
-											<span class="elementor-icon-list-text">CSR</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/crs/"> CSR</a>
 									</li>
 						</ul>
 				</div>
@@ -1548,34 +1534,19 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/document-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</span>
-											</a>
+											<a href="http://localhost:3000/product-category/document-scanner/"> M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/flatbed-scanner/">
-
-											<span class="elementor-icon-list-text"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/flatbed-scanner/"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/"> M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/network-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/network-scanner/"> M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/paperair-series/">
-
-											<span class="elementor-icon-list-text">D&#xF2;ng PaperAir</span>
-											</a>
+											<a href="http://localhost:3000/product-category/paperair-series/"> D&#xF2;ng PaperAir</a>
 									</li>
 						</ul>
 				</div>
@@ -1604,22 +1575,13 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/download/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</span>
-											</a>
+											<a href="http://localhost:3000/download/"> Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/helpcenter/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/helpcenter/"> Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/product-registration/">
-
-											<span class="elementor-icon-list-text">&#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/product-registration/"> &#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</a>
 									</li>
 						</ul>
 				</div>
@@ -1638,18 +1600,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-5852473a elementor-shape-circle e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="5852473a" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-social-icons-wrapper elementor-grid">
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-9758c9c" href="https://www.facebook.com/AvisionHQ/" target="_blank">
-						<span class="elementor-screen-only">Facebook-f</span>
-						<i class="fab fa-facebook-f"></i>					</a>
-				</span>
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-d550229" href="https://www.youtube.com/user/AvisionHQ" target="_blank">
-						<span class="elementor-screen-only">Youtube</span>
-						<i class="fab fa-youtube"></i>					</a>
-				</span>
-					</div>
+					<div class="elementor-social-icons-wrapper elementor-grid"> Facebook-f Youtube</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-ae800e8 elementor-widget elementor-widget-image" data-id="ae800e8" data-element_type="widget" data-widget_type="image.default">
@@ -1668,9 +1619,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-1398caa elementor-widget elementor-widget-copyright" data-id="1398caa" data-element_type="widget" data-widget_type="copyright.default">
 				<div class="elementor-widget-container">
-					<div class="hfe-copyright-wrapper">
-							<span>Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</span>
-					</div>
+					<div class="hfe-copyright-wrapper"> Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</div>
 				</div>
 				</div>
 					</div>
@@ -1884,7 +1833,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	</div>
 	<div class="owp-qv-overlay"></div>
 </div>
-<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Cart</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Xe &#x111;&#x1EA9;y</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
 								<section class="elementor-section elementor-top-section elementor-element elementor-element-45284f83 elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle elementor-section-height-default elementor-section-items-middle" data-id="45284f83" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
@@ -1898,9 +1847,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<i aria-hidden="true" class="fas fa-globe-americas"></i>				</span>
 			</div>
 						<div class="elementor-icon-box-content">
-				<h2 class="elementor-icon-box-title">
-					<span> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</span>
-				</h2>
+				<h2 class="elementor-icon-box-title"> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</h2>
 							</div>
 		</div>
 				</div>
@@ -2041,9 +1988,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 								<div class="elementor-element elementor-element-32f58706 elementor-icon-list--layout-inline elementor-align-right elementor-widget__width-auto elementor-tablet-align-center elementor-mobile-align-center elementor-widget-tablet__width-inherit elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="32f58706" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items elementor-inline-items">
-							<li class="elementor-icon-list-item elementor-inline-item">
-										<span class="elementor-icon-list-text">Ng&#xF4;n ng&#x1EEF;</span>
-									</li>
+							<li class="elementor-icon-list-item elementor-inline-item"> Ng&#xF4;n ng&#x1EEF;</li>
 						</ul>
 				</div>
 				</div>

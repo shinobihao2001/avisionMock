@@ -33,11 +33,11 @@ require("dotenv").config();
     console.log("URL crawling completed successfully");
 
     // //Step 3: Crawling all the pages English word in to db
-    const links = [
-      "https://www.avision.com/en/shop/printer-mfp/am40/",
-      //   //process.env.ORIGIN_URL,
-    ];
-    //let links = await linkService.getLinksNeedToCrawl();
+    // const links = [
+    //   "https://www.avision.com/en/shop/printer-mfp/am40/",
+    //   //   //process.env.ORIGIN_URL,
+    // ];
+    let links = await linkService.getLinksNeedToCrawl();
     console.log(links);
     let mess = await contentService.crawlingAllPage(links);
     console.log("Crawling all words");

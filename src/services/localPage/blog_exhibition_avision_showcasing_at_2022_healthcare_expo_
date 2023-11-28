@@ -1345,22 +1345,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		<div class="elementor-element elementor-element-9e8e4be e-flex e-con-boxed e-con" data-id="9e8e4be" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}">
 					<div class="e-con-inner">
 				<div class="elementor-element elementor-element-39cc07a elementor-widget elementor-widget-text-editor" data-id="39cc07a" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container">
-							<span style="color: #0174a0;"><strong>&#x258D;</strong><strong>Tri&#x1EC3;n l&#xE3;m</strong></span>
-<br>
-<strong>2022</strong><strong>H&#x1ED9;i ch&#x1EE3; tri&#x1EC3;n l&#xE3;m ch&#x103;m s&#xF3;c s&#x1EE9;c kh&#x1ECF;e+</strong>
-<br><br>
-<span style="color: #0174a0;"><strong>Ng&#xE0;y</strong></span>
-<br>
-12/01 (Thu.) &#x2013; 12/3 (Sat.) 10:00 &#x2013; 18:00
-<br>
-12/04 (Sun.) 10:00 &#x2013; 16:00
-<br><br>
-<span style="color: #0174a0;"><strong>V&#x1ECB; tr&#xED;</strong></span>
-<br>
-Taipei Nangang Exhibition Center, Hall 1, 4F
-<br>
-Avision Booth&#xFF1A;N705						</div>
+				<div class="elementor-widget-container"> &#x258D;Tri&#x1EC3;n l&#xE3;m 2022 Healthcare+ Expo Ng&#xE0;y 01/12 (Th&#x1EE9; N&#x103;m) &#x2013; 3/12 (Th&#x1EE9; B&#x1EA3;y) 10:00 &#x2013; 18:00 04/12 (Ch&#x1EE7; Nh&#x1EAD;t) 10:00 &#x2013; 16:00 &#x110;&#x1ECB;a &#x111;i&#x1EC3;m Trung t&#xE2;m Tri&#x1EC3;n l&#xE3;m Nangang &#x110;&#xE0;i B&#x1EAF;c, H&#x1ED9;i tr&#x1B0;&#x1EDD;ng 1 , Gian h&#xE0;ng t&#x1EA7;m nh&#xEC;n 4F: N705</div>
 				</div>
 					</div>
 				</div>
@@ -1387,7 +1372,7 @@ Avision Booth&#xFF1A;N705						</div>
 
 	<nav class="navigation post-navigation" aria-label="Read more articles">
 		<h2 class="screen-reader-text">&#x110;&#x1ECD;c th&#xEA;m b&#xE0;i vi&#x1EBF;t</h2>
-		<div class="nav-links"><div class="nav-previous"><a href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2020-healthcare-expo/" rel="prev"><span class="title"><i class=" fas fa-long-arrow-alt-left" aria-hidden="true" role="img"></i> Previous Post</span><span class="post-title">Tri&#x1EC3;n l&#xE3;m Avision t&#x1EA1;i 2020 Healthcare+ Expo</span></a></div></div>
+		<div class="nav-links"><div class="nav-previous"><a href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2020-healthcare-expo/" rel="prev"> B&#xE0;i tr&#x1B0;&#x1EDB;cTr&#x1B0;ng b&#xE0;y h&#xEC;nh &#x1EA3;nh t&#x1EA1;i 2020 Healthcare+ Expo</a></div></div>
 	</nav>
 
 	<section id="related-posts" class="clr">
@@ -1426,7 +1411,32 @@ Avision Booth&#xFF1A;N705						</div>
 				
 			
 				
-				<article class="related-post clr col span_1_of_3 col-2 post-21935 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-exhibition entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
+				<article class="related-post clr col span_1_of_3 col-2 post-7126 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-exhibition tag-medical entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
+
+					
+						<figure class="related-post-media clr">
+
+							<a href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2020-healthcare-expo/" class="related-thumb">
+
+								<img width="768" height="432" src="https://www.avision.com/en/wp-content/uploads/2021/09/MedicalTaiwan_post1-768x432.png" class="attachment-medium_large size-medium_large wp-post-image" alt="Read more about the article Avision Showcasing at 2020 Healthcare+ Expo" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/MedicalTaiwan_post1-768x432.png 768w, https://www.avision.com/en/wp-content/uploads/2021/09/MedicalTaiwan_post1-300x169.png 300w, https://www.avision.com/en/wp-content/uploads/2021/09/MedicalTaiwan_post1-1024x576.png 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/MedicalTaiwan_post1-1536x864.png 1536w, https://www.avision.com/en/wp-content/uploads/2021/09/MedicalTaiwan_post1-600x338.png 600w, https://www.avision.com/en/wp-content/uploads/2021/09/MedicalTaiwan_post1.png 1921w" sizes="(max-width: 768px) 100vw, 768px">							</a>
+
+						</figure>
+
+					
+					<h3 class="related-post-title">
+						<a href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2020-healthcare-expo/" rel="bookmark">Tri&#x1EC3;n l&#xE3;m Avision t&#x1EA1;i 2020 Healthcare+ Expo</a>
+					</h3><!-- .related-post-title -->
+
+								
+						<time class="published" datetime="2020-11-17T03:00:54+00:00"><i class=" icon-clock" aria-hidden="true" role="img"></i>November 17, 2020</time>
+						
+					
+				</article><!-- .related-post -->
+
+				
+			
+				
+				<article class="related-post clr col span_1_of_3 col-3 post-21935 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-exhibition entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
 
 					
 						<figure class="related-post-media clr">
@@ -1444,31 +1454,6 @@ Avision Booth&#xFF1A;N705						</div>
 
 								
 						<time class="published" datetime="2023-05-02T02:11:39+00:00"><i class=" icon-clock" aria-hidden="true" role="img"></i>May 2, 2023</time>
-						
-					
-				</article><!-- .related-post -->
-
-				
-			
-				
-				<article class="related-post clr col span_1_of_3 col-3 post-15231 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-exhibition entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
-
-					
-						<figure class="related-post-media clr">
-
-							<a href="http://localhost:3000/blog/exhibition/avision-to-attend-opto-taiwan-2021/" class="related-thumb">
-
-								<img width="768" height="432" src="https://www.avision.com/en/wp-content/uploads/2022/04/post-768x432.png" class="attachment-medium_large size-medium_large wp-post-image" alt="Read more about the article Avision to attend OPTO Taiwan 2021" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2022/04/post-768x432.png 768w, https://www.avision.com/en/wp-content/uploads/2022/04/post-300x169.png 300w, https://www.avision.com/en/wp-content/uploads/2022/04/post-600x338.png 600w, https://www.avision.com/en/wp-content/uploads/2022/04/post.png 800w" sizes="(max-width: 768px) 100vw, 768px">							</a>
-
-						</figure>
-
-					
-					<h3 class="related-post-title">
-						<a href="http://localhost:3000/blog/exhibition/avision-to-attend-opto-taiwan-2021/" rel="bookmark">T&#x1EA7;m nh&#xEC;n tham d&#x1EF1; OPTO &#x110;&#xE0;i Loan 2021</a>
-					</h3><!-- .related-post-title -->
-
-								
-						<time class="published" datetime="2021-12-14T09:00:01+00:00"><i class=" icon-clock" aria-hidden="true" role="img"></i>December 14, 2021</time>
 						
 					
 				</article><!-- .related-post -->
@@ -1517,30 +1502,16 @@ Avision Booth&#xFF1A;N705						</div>
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/why-avision/">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-check"></i>						</span>
-										<span class="elementor-icon-list-text">T&#x1EA1;i sao Avision</span>
-											</a>
+											<a href="http://localhost:3000/why-avision/"> T&#x1EA1;i sao Avision</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/corporate-profile/">
-
-											<span class="elementor-icon-list-text">H&#x1ED3; s&#x1A1; c&#xF4;ng ty</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/corporate-profile/"> H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/news/">
-
-											<span class="elementor-icon-list-text">Tin t&#x1EE9;c</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/news/"> Tin t&#x1EE9;c</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/crs/">
-
-											<span class="elementor-icon-list-text">CSR</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/crs/"> CSR</a>
 									</li>
 						</ul>
 				</div>
@@ -1557,34 +1528,19 @@ Avision Booth&#xFF1A;N705						</div>
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/document-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</span>
-											</a>
+											<a href="http://localhost:3000/product-category/document-scanner/"> M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/flatbed-scanner/">
-
-											<span class="elementor-icon-list-text"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/flatbed-scanner/"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/"> M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/network-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/network-scanner/"> M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/paperair-series/">
-
-											<span class="elementor-icon-list-text">D&#xF2;ng PaperAir</span>
-											</a>
+											<a href="http://localhost:3000/product-category/paperair-series/"> D&#xF2;ng PaperAir</a>
 									</li>
 						</ul>
 				</div>
@@ -1613,22 +1569,13 @@ Avision Booth&#xFF1A;N705						</div>
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/download/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</span>
-											</a>
+											<a href="http://localhost:3000/download/"> Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/helpcenter/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/helpcenter/"> Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/product-registration/">
-
-											<span class="elementor-icon-list-text">&#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/product-registration/"> &#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</a>
 									</li>
 						</ul>
 				</div>
@@ -1647,18 +1594,7 @@ Avision Booth&#xFF1A;N705						</div>
 				</div>
 				<div class="elementor-element elementor-element-5852473a elementor-shape-circle e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="5852473a" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-social-icons-wrapper elementor-grid">
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-9758c9c" href="https://www.facebook.com/AvisionHQ/" target="_blank">
-						<span class="elementor-screen-only">Facebook-f</span>
-						<i class="fab fa-facebook-f"></i>					</a>
-				</span>
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-d550229" href="https://www.youtube.com/user/AvisionHQ" target="_blank">
-						<span class="elementor-screen-only">Youtube</span>
-						<i class="fab fa-youtube"></i>					</a>
-				</span>
-					</div>
+					<div class="elementor-social-icons-wrapper elementor-grid"> Facebook-f Youtube</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-ae800e8 elementor-widget elementor-widget-image" data-id="ae800e8" data-element_type="widget" data-widget_type="image.default">
@@ -1677,9 +1613,7 @@ Avision Booth&#xFF1A;N705						</div>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-1398caa elementor-widget elementor-widget-copyright" data-id="1398caa" data-element_type="widget" data-widget_type="copyright.default">
 				<div class="elementor-widget-container">
-					<div class="hfe-copyright-wrapper">
-							<span>Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</span>
-					</div>
+					<div class="hfe-copyright-wrapper"> Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</div>
 				</div>
 				</div>
 					</div>
@@ -1893,7 +1827,7 @@ Avision Booth&#xFF1A;N705						</div>
 	</div>
 	<div class="owp-qv-overlay"></div>
 </div>
-<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Cart</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Xe &#x111;&#x1EA9;y</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
 								<section class="elementor-section elementor-top-section elementor-element elementor-element-45284f83 elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle elementor-section-height-default elementor-section-items-middle" data-id="45284f83" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
@@ -1907,9 +1841,7 @@ Avision Booth&#xFF1A;N705						</div>
 				<i aria-hidden="true" class="fas fa-globe-americas"></i>				</span>
 			</div>
 						<div class="elementor-icon-box-content">
-				<h2 class="elementor-icon-box-title">
-					<span> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</span>
-				</h2>
+				<h2 class="elementor-icon-box-title"> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</h2>
 							</div>
 		</div>
 				</div>
@@ -2050,9 +1982,7 @@ Avision Booth&#xFF1A;N705						</div>
 								<div class="elementor-element elementor-element-32f58706 elementor-icon-list--layout-inline elementor-align-right elementor-widget__width-auto elementor-tablet-align-center elementor-mobile-align-center elementor-widget-tablet__width-inherit elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="32f58706" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items elementor-inline-items">
-							<li class="elementor-icon-list-item elementor-inline-item">
-										<span class="elementor-icon-list-text">Ng&#xF4;n ng&#x1EEF;</span>
-									</li>
+							<li class="elementor-icon-list-item elementor-inline-item"> Ng&#xF4;n ng&#x1EEF;</li>
 						</ul>
 				</div>
 				</div>
