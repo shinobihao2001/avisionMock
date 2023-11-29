@@ -7,7 +7,7 @@ const fs = require("fs");
 const bodyParser = require("body-parser");
 
 connectDB();
-const port = 3000;
+const port = process.env.PORT || 3000;
 const app = express();
 
 app.use(bodyParser.json());
