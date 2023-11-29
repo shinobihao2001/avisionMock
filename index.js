@@ -67,12 +67,13 @@ app.use(bodyParser.json());
 // });
 
 app.get("*", async (req, res) => {
+  console.log("URL: " + req.url);
   let filename = (process.env.EN_DOMAIN + req.url).toString();
-  console.log(filename);
+  console.log("filename 1: " + filename);
   if (filename.startsWith("_")) {
     filename = filename.slice(1);
   }
-  console.log(filename);
+  console.log("filename 2: " + filename);
   let html = await pageService.getPage(filename);
   //let ren = fs.readFileSync("modified.html", "utf8");
   res.setHeader("Content-Type", "text/html");
