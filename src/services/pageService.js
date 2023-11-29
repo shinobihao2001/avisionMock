@@ -57,8 +57,10 @@ require("./overFecth");
 //     };
 //   </script>
 // `;
+const fontAwesome = `<script src="https://kit.fontawesome.com/1cbb170ff9.js" crossorigin="anonymous"></script>`;
+//const eicons = `<link rel="stylesheet" href="https://unpkg.com/elementor-icons/style.min.css">`;
 
-const crawler = new Crawler({
+crawler = new Crawler({
   maxConnections: 1,
 });
 
@@ -78,13 +80,14 @@ function modifyHTML(urls, crawler) {
                 // const $ = res.$;
                 //$("script, style").remove();
 
-                //replace the old link with VNLink
+                //replace the old link with VNLink and keep the dowload link
                 $$("a").each((index, element) => {
                   const href = $$(element).attr("href");
                   if (
                     href &&
                     href.startsWith("https://www.avision.com") &&
-                    !href.endsWith("png")
+                    !href.endsWith("png") &&
+                    !href.includes("download")
                   ) {
                     $$(element).attr(
                       "href",
@@ -181,6 +184,12 @@ function modifyHTML(urls, crawler) {
                 // $$("body").append(newScript);
                 //$$("body").append(scriptToInject);
                 //$$("body").append(scriptToInjectSendingAJAX);
+
+                //add font-awsone
+                $$("head").append(fontAwesome);
+
+                //add eicons`
+                //$$("head").append(eicons);
 
                 // Save the modified HTML to a file
                 const modifiedHtml = $$.html();

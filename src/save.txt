@@ -5,3 +5,8 @@ remove <div class="widget yith-woocompare-widget"><h2 class="widgettitle">▍Pro
 			<span class="list_empty">No products to compare</span>
 	</div>
 </div>
+
+TODO
+Fix the error of dowload button
+Cors error
+Translator meaning :V
