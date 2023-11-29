@@ -70,9 +70,6 @@ app.get("*", async (req, res) => {
   console.log("URL: " + req.url);
   let filename = (process.env.EN_DOMAIN + req.url).toString();
   console.log("filename 1: " + filename);
-  if (filename.startsWith("_")) {
-    filename = filename.slice(1);
-  }
   if (filename.includes("?")) {
     filename = filename.split("?")[0];
   }

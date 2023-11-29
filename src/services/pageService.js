@@ -248,6 +248,10 @@ module.exports = {
 
   async getPage(name) {
     let localname = this.getLocalName(name);
+    // TODO fix this later error cause by "/"
+    if (localname.startsWith("_")) {
+      localname = localname.slice(1);
+    }
     console.log("Local name: " + localname);
     folder = path.join(__dirname, "localPage");
     try {
