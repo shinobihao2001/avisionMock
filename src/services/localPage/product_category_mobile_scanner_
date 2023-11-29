@@ -748,7 +748,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 					.elementor-7601 .elementor-element.elementor-element-4c6eaf4d .elementor-nav-menu--dropdown a.highlighted,
 					.elementor-7601 .elementor-element.elementor-element-4c6eaf4d .elementor-menu-toggle:hover{color:#FFFFFF;}.elementor-7601 .elementor-element.elementor-element-4c6eaf4d .elementor-nav-menu--dropdown a:hover,
 					.elementor-7601 .elementor-element.elementor-element-4c6eaf4d .elementor-nav-menu--dropdown a.elementor-item-active,
-					.elementor-7601 .elementor-element.elementor-element-4c6eaf4d .elementor-nav-menu--dropdown a.highlighted{background-color:#0E3A65;}.elementor-7601 .elementor-element.elementor-element-4c6eaf4d .elementor-nav-menu--dropdown a.elementor-item-active{color:#82CEFF;}.elementor-7601 .elementor-element.elementor-element-4c6eaf4d .elementor-nav-menu--dropdown li:first-child a{border-top-left-radius:0px;border-top-right-radius:10px;}.elementor-7601 .elementor-element.elementor-element-4c6eaf4d .elementor-nav-menu--dropdown li:last-child a{border-bottom-right-radius:0px;border-bottom-left-radius:10px;}.elementor-7601 .elementor-element.elementor-element-4c6eaf4d .elementor-nav-menu--main .elementor-nav-menu--dropdown, .elementor-7601 .elementor-element.elementor-element-4c6eaf4d .elementor-nav-menu__container.elementor-nav-menu--dropdown{box-shadow:0px 0px 10px 0px rgba(185.25, 182.67261115364406, 182.67261115364406, 0.5);}.elementor-7601 .elementor-element.elementor-element-4c6eaf4d div.elementor-menu-toggle{color:#0E3A65;}.elementor-7601 .elementor-element.elementor-element-4c6eaf4d div.elementor-menu-toggle svg{fill:#0E3A65;}.elementor-7601 .elementor-element.elementor-element-4c6eaf4d div.elementor-menu-toggle:hover{color:#196C8F;}.elementor-7601 .elementor-element.elementor-element-4c6eaf4d div.elementor-menu-toggle:hover svg{fill:#196C8F;}.elementor-7601 .elementor-element.elementor-element-4c6eaf4d > .elementor-widget-container{margin:1px 1px 1px 1px;}.elementor-7601 .elementor-element.elementor-element-514f862c > .elementor-container{min-height:650px;}.elementor-7601 .elementor-element.elementor-element-514f862c:not(.elementor-motion-effects-element-type-background), .elementor-7601 .elementor-element.elementor-element-514f862c > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://www.avision.com/en/wp-content/uploads/2021/09/可攜式掃描-scaled.jpg");background-position:bottom right;background-repeat:no-repeat;background-size:cover;}.elementor-7601 .elementor-element.elementor-element-514f862c > .elementor-background-overlay{background-color:#30354073;opacity:0.5;mix-blend-mode:darken;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-7601 .elementor-element.elementor-element-514f862c:hover > .elementor-background-overlay{background-color:#131517A6;opacity:0.5;}.elementor-7601 .elementor-element.elementor-element-514f862c{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-7601 .elementor-element.elementor-element-514f862c > .elementor-shape-bottom svg{width:calc(300% + 1.3px);height:73px;}.elementor-7601 .elementor-element.elementor-element-6a37621e:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-7601 .elementor-element.elementor-element-6a37621e > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:transparent;background-image:linear-gradient(270deg, #160C0C99 0%, #8E9091C7 100%);}.elementor-7601 .elementor-element.elementor-element-6a37621e > .elementor-element-populated{box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0.34);transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:20px 20px 20px 20px;}.elementor-7601 .elementor-element.elementor-element-6a37621e > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-7601 .elementor-element.elementor-element-1d808108{--spacer-size:25px;}.elementor-7601 .elementor-element.elementor-element-30196b42 .elementor-heading-title{color:#FFFFFF;font-family:"Roboto", Sans-serif;font-size:30px;font-weight:600;}.elementor-7601 .elementor-element.elementor-element-7b38446d{--divider-border-style:solid;--divider-color:#FFFFFF;--divider-border-width:2px;}.elementor-7601 .elementor-element.elementor-element-7b38446d .elementor-divider-separator{width:30%;}.elementor-7601 .elementor-element.elementor-element-7b38446d .elementor-divider{padding-top:15px;padding-bottom:15px;}.elementor-7601 .elementor-element.elementor-element-5be5095{color:#FFFFFF;font-family:"Roboto", Sans-serif;font-size:16px;font-weight:400;}.elementor-7601 .elementor-element.elementor-element-5d564d1a{--spacer-size:25px;}.elementor-bc-flex-widget .elementor-7601 .elementor-element.elementor-element-9598275.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-7601 .elementor-element.elementor-element-9598275.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-7601 .elementor-element.elementor-element-9598275.elementor-column > .elementor-widget-wrap{justify-content:center;}@media(min-width:768px){.elementor-7601 .elementor-element.elementor-element-2ab7a43{width:50%;}.elementor-7601 .elementor-element.elementor-element-03a2712{width:30%;}.elementor-7601 .elementor-element.elementor-element-f39be6c{width:5%;}.elementor-7601 .elementor-element.elementor-element-36a619a{width:15%;}.elementor-7601 .elementor-element.elementor-element-70e17d36{width:15%;}.elementor-7601 .elementor-element.elementor-element-14076c51{width:85%;}.elementor-7601 .elementor-element.elementor-element-6a37621e{width:70%;}.elementor-7601 .elementor-element.elementor-element-60e8ed35{width:30%;}}@media(max-width:1024px) and (min-width:768px){.elementor-7601 .elementor-element.elementor-element-2ab7a43{width:60%;}.elementor-7601 .elementor-element.elementor-element-03a2712{width:10%;}.elementor-7601 .elementor-element.elementor-element-f39be6c{width:15%;}.elementor-7601 .elementor-element.elementor-element-36a619a{width:15%;}.elementor-7601 .elementor-element.elementor-element-70e17d36{width:20%;}.elementor-7601 .elementor-element.elementor-element-14076c51{width:80%;}}@media(min-width:1025px){.elementor-7601 .elementor-element.elementor-element-514f862c:not(.elementor-motion-effects-element-type-background), .elementor-7601 .elementor-element.elementor-element-514f862c > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-attachment:scroll;}}@media(max-width:1024px){.elementor-7601 .elementor-element.elementor-element-2ab7a43 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-7601 .elementor-element.elementor-element-03a2712 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-7601 .elementor-element.elementor-element-f39be6c > .elementor-element-populated{padding:0em 0.3em 0em 0em;}.elementor-7601 .elementor-element.elementor-element-1003e2e img{width:3.5vw;max-width:3.5vw;}.elementor-7601 .elementor-element.elementor-element-879d594 img{width:3.5vw;max-width:3.5vw;}.elementor-7601 .elementor-element.elementor-element-5a94169d{padding:20px 15px 20px 15px;}.elementor-7601 .elementor-element.elementor-element-70e17d36 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-7601 .elementor-element.elementor-element-494adfc img{max-width:80%;}.elementor-7601 .elementor-element.elementor-element-14076c51 > .elementor-element-populated{padding:0px 0px 0px 0px;}}@media(max-width:767px){.elementor-7601 .elementor-element.elementor-element-b806ee7{padding:0px 0px 0px 0px;}.elementor-7601 .elementor-element.elementor-element-2ab7a43{width:30%;}.elementor-7601 .elementor-element.elementor-element-03a2712{width:40%;}.elementor-7601 .elementor-element.elementor-element-03a2712 > .elementor-element-populated{padding:1px 0px 0.5px 0px;}.elementor-7601 .elementor-element.elementor-element-93496f7 > .elementor-widget-container{padding:5px 5px 5px 5px;}.elementor-7601 .elementor-element.elementor-element-f39be6c{width:15%;}.elementor-7601 .elementor-element.elementor-element-1003e2e img{width:6vw;max-width:7vw;}.elementor-7601 .elementor-element.elementor-element-36a619a{width:10%;}.elementor-7601 .elementor-element.elementor-element-36a619a > .elementor-element-populated{padding:0em 0em 0em 0em;}.elementor-7601 .elementor-element.elementor-element-879d594 img{width:6vw;max-width:7vw;}.elementor-7601 .elementor-element.elementor-element-70e17d36{width:40%;}.elementor-7601 .elementor-element.elementor-element-494adfc img{max-width:80%;}.elementor-7601 .elementor-element.elementor-element-14076c51{width:60%;}}/* Start custom CSS for image, class: .elementor-element-879d594 */::-webkit-scrollbar {
+					.elementor-7601 .elementor-element.elementor-element-4c6eaf4d .elementor-nav-menu--dropdown a.highlighted{background-color:#0E3A65;}.elementor-7601 .elementor-element.elementor-element-4c6eaf4d .elementor-nav-menu--dropdown a.elementor-item-active{color:#82CEFF;}.elementor-7601 .elementor-element.elementor-element-4c6eaf4d .elementor-nav-menu--dropdown li:first-child a{border-top-left-radius:0px;border-top-right-radius:10px;}.elementor-7601 .elementor-element.elementor-element-4c6eaf4d .elementor-nav-menu--dropdown li:last-child a{border-bottom-right-radius:0px;border-bottom-left-radius:10px;}.elementor-7601 .elementor-element.elementor-element-4c6eaf4d .elementor-nav-menu--main .elementor-nav-menu--dropdown, .elementor-7601 .elementor-element.elementor-element-4c6eaf4d .elementor-nav-menu__container.elementor-nav-menu--dropdown{box-shadow:0px 0px 10px 0px rgba(185.25, 182.67261115364406, 182.67261115364406, 0.5);}.elementor-7601 .elementor-element.elementor-element-4c6eaf4d div.elementor-menu-toggle{color:#0E3A65;}.elementor-7601 .elementor-element.elementor-element-4c6eaf4d div.elementor-menu-toggle svg{fill:#0E3A65;}.elementor-7601 .elementor-element.elementor-element-4c6eaf4d div.elementor-menu-toggle:hover{color:#196C8F;}.elementor-7601 .elementor-element.elementor-element-4c6eaf4d div.elementor-menu-toggle:hover svg{fill:#196C8F;}.elementor-7601 .elementor-element.elementor-element-4c6eaf4d > .elementor-widget-container{margin:1px 1px 1px 1px;}.elementor-7601 .elementor-element.elementor-element-514f862c > .elementor-container{min-height:650px;}.elementor-7601 .elementor-element.elementor-element-514f862c:not(.elementor-motion-effects-element-type-background), .elementor-7601 .elementor-element.elementor-element-514f862c > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-image:url("https://www.avision.com/en/wp-content/uploads/2021/09/mobile_banner.png");background-position:bottom right;background-repeat:no-repeat;background-size:cover;}.elementor-7601 .elementor-element.elementor-element-514f862c > .elementor-background-overlay{background-color:#30354073;opacity:0.5;mix-blend-mode:darken;transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-7601 .elementor-element.elementor-element-514f862c:hover > .elementor-background-overlay{background-color:#131517A6;opacity:0.5;}.elementor-7601 .elementor-element.elementor-element-514f862c{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;}.elementor-7601 .elementor-element.elementor-element-514f862c > .elementor-shape-bottom svg{width:calc(300% + 1.3px);height:73px;}.elementor-7601 .elementor-element.elementor-element-6a37621e:not(.elementor-motion-effects-element-type-background) > .elementor-widget-wrap, .elementor-7601 .elementor-element.elementor-element-6a37621e > .elementor-widget-wrap > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-color:transparent;background-image:linear-gradient(270deg, #160C0C99 0%, #8E9091C7 100%);}.elementor-7601 .elementor-element.elementor-element-6a37621e > .elementor-element-populated{box-shadow:0px 0px 10px 0px rgba(0, 0, 0, 0.34);transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:20px 20px 20px 20px;}.elementor-7601 .elementor-element.elementor-element-6a37621e > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-7601 .elementor-element.elementor-element-1d808108{--spacer-size:25px;}.elementor-7601 .elementor-element.elementor-element-30196b42 .elementor-heading-title{color:#FFFFFF;font-family:"Roboto", Sans-serif;font-size:30px;font-weight:600;}.elementor-7601 .elementor-element.elementor-element-7b38446d{--divider-border-style:solid;--divider-color:#FFFFFF;--divider-border-width:2px;}.elementor-7601 .elementor-element.elementor-element-7b38446d .elementor-divider-separator{width:30%;}.elementor-7601 .elementor-element.elementor-element-7b38446d .elementor-divider{padding-top:15px;padding-bottom:15px;}.elementor-7601 .elementor-element.elementor-element-5be5095{color:#FFFFFF;font-family:"Roboto", Sans-serif;font-size:16px;font-weight:400;}.elementor-7601 .elementor-element.elementor-element-5d564d1a{--spacer-size:25px;}.elementor-bc-flex-widget .elementor-7601 .elementor-element.elementor-element-9598275.elementor-column .elementor-widget-wrap{align-items:center;}.elementor-7601 .elementor-element.elementor-element-9598275.elementor-column.elementor-element[data-element_type="column"] > .elementor-widget-wrap.elementor-element-populated{align-content:center;align-items:center;}.elementor-7601 .elementor-element.elementor-element-9598275.elementor-column > .elementor-widget-wrap{justify-content:center;}@media(min-width:768px){.elementor-7601 .elementor-element.elementor-element-2ab7a43{width:50%;}.elementor-7601 .elementor-element.elementor-element-03a2712{width:30%;}.elementor-7601 .elementor-element.elementor-element-f39be6c{width:5%;}.elementor-7601 .elementor-element.elementor-element-36a619a{width:15%;}.elementor-7601 .elementor-element.elementor-element-70e17d36{width:15%;}.elementor-7601 .elementor-element.elementor-element-14076c51{width:85%;}.elementor-7601 .elementor-element.elementor-element-6a37621e{width:70%;}.elementor-7601 .elementor-element.elementor-element-60e8ed35{width:30%;}}@media(max-width:1024px) and (min-width:768px){.elementor-7601 .elementor-element.elementor-element-2ab7a43{width:60%;}.elementor-7601 .elementor-element.elementor-element-03a2712{width:10%;}.elementor-7601 .elementor-element.elementor-element-f39be6c{width:15%;}.elementor-7601 .elementor-element.elementor-element-36a619a{width:15%;}.elementor-7601 .elementor-element.elementor-element-70e17d36{width:20%;}.elementor-7601 .elementor-element.elementor-element-14076c51{width:80%;}}@media(min-width:1025px){.elementor-7601 .elementor-element.elementor-element-514f862c:not(.elementor-motion-effects-element-type-background), .elementor-7601 .elementor-element.elementor-element-514f862c > .elementor-motion-effects-container > .elementor-motion-effects-layer{background-attachment:scroll;}}@media(max-width:1024px){.elementor-7601 .elementor-element.elementor-element-2ab7a43 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-7601 .elementor-element.elementor-element-03a2712 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-7601 .elementor-element.elementor-element-f39be6c > .elementor-element-populated{padding:0em 0.3em 0em 0em;}.elementor-7601 .elementor-element.elementor-element-1003e2e img{width:3.5vw;max-width:3.5vw;}.elementor-7601 .elementor-element.elementor-element-879d594 img{width:3.5vw;max-width:3.5vw;}.elementor-7601 .elementor-element.elementor-element-5a94169d{padding:20px 15px 20px 15px;}.elementor-7601 .elementor-element.elementor-element-70e17d36 > .elementor-element-populated{padding:0px 0px 0px 0px;}.elementor-7601 .elementor-element.elementor-element-494adfc img{max-width:80%;}.elementor-7601 .elementor-element.elementor-element-14076c51 > .elementor-element-populated{padding:0px 0px 0px 0px;}}@media(max-width:767px){.elementor-7601 .elementor-element.elementor-element-b806ee7{padding:0px 0px 0px 0px;}.elementor-7601 .elementor-element.elementor-element-2ab7a43{width:30%;}.elementor-7601 .elementor-element.elementor-element-03a2712{width:40%;}.elementor-7601 .elementor-element.elementor-element-03a2712 > .elementor-element-populated{padding:1px 0px 0.5px 0px;}.elementor-7601 .elementor-element.elementor-element-93496f7 > .elementor-widget-container{padding:5px 5px 5px 5px;}.elementor-7601 .elementor-element.elementor-element-f39be6c{width:15%;}.elementor-7601 .elementor-element.elementor-element-1003e2e img{width:6vw;max-width:7vw;}.elementor-7601 .elementor-element.elementor-element-36a619a{width:10%;}.elementor-7601 .elementor-element.elementor-element-36a619a > .elementor-element-populated{padding:0em 0em 0em 0em;}.elementor-7601 .elementor-element.elementor-element-879d594 img{width:6vw;max-width:7vw;}.elementor-7601 .elementor-element.elementor-element-70e17d36{width:40%;}.elementor-7601 .elementor-element.elementor-element-494adfc img{max-width:80%;}.elementor-7601 .elementor-element.elementor-element-14076c51{width:60%;}}/* Start custom CSS for image, class: .elementor-element-879d594 */::-webkit-scrollbar {
 
       width: 7px;
 
@@ -824,7 +824,19 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel="stylesheet" id="oceanwp-woo-quick-view-css" href="https://www.avision.com/en/wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min.css?ver=6.3.2" media="all">
 <link rel="stylesheet" id="chld_thm_cfg_child-css" href="https://www.avision.com/en/wp-content/themes/oceanwp-child/style.css?ver=3.0.5.1644388334" media="all">
 <link rel="stylesheet" id="hfe-widgets-style-css" href="https://www.avision.com/en/wp-content/plugins/header-footer-elementor/inc/widgets-css/frontend.css?ver=1.6.17" media="all">
-<link rel="stylesheet" id="popup-maker-site-css" href="//www.avision.com/en/wp-content/uploads/pum/pum-site-styles-1.css?generated=1700726526&amp;ver=1.18.2" media="all">
+<link rel="stylesheet" id="popup-maker-site-css" href="https://www.avision.com/en/wp-content/plugins/popup-maker/assets/css/pum-site.css?ver=1.18.2" media="all">
+<style id="popup-maker-site-inline-css">
+/* Popup Theme 7761: Default */
+.pum-theme-7761, .pum-theme-7761 { background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-7761 .pum-container, .pum-theme-7761 .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1.00 ) } 
+.pum-theme-7761 .pum-title, .pum-theme-7761 .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; line-height: 36px } 
+.pum-theme-7761 .pum-content, .pum-theme-7761 .pum-content { color: #8c8c8c; font-family: inherit; font-weight: 400 } 
+.pum-theme-7761 .pum-content + .pum-close, .pum-theme-7761 .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: 400; font-size: 12px; line-height: 36px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1.00 ) } 
+
+#pum-2659 {z-index: 1999999999}
+#pum-11307 {z-index: 1999999999}
+
+</style>
 <link rel="stylesheet" id="um_crop-css" href="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/css/um-crop.css?ver=2.7.0" media="all">
 <link rel="stylesheet" id="um_modal-css" href="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/css/um-modal.css?ver=2.7.0" media="all">
 <link rel="stylesheet" id="um_ui-css" href="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/jquery-ui.css?ver=1.12.1" media="all">
@@ -1071,7 +1083,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	
 	<div id="outer-wrap" class="site clr">
 
-		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+		<a class="skip-link screen-reader-text" href="#main">Chuy&#x1EC3;n &#x111;&#x1EBF;n n&#x1ED9;i dung</a>
 
 		
 		<div id="wrap" class="clr">
@@ -1094,7 +1106,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					<form class="hfe-search-button-wrapper" role="search" action="https://www.avision.com/en" method="get">
 						<div class="hfe-search-icon-toggle">
 				<input placeholder class="hfe-search-form__input" type="search" name="s" title="Search" value>
-				<i class="fas fa-search" aria-hidden="true"></i>
+				
 			</div>
 					</form>
 				</div>
@@ -1170,7 +1182,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055"><a href="http://localhost:3000/login/" class="elementor-item">&#x110;&#x103;ng nh&#x1EAD;p</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055">
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://localhost:3000/registration/" class="elementor-sub-item">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
@@ -1212,7 +1224,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item" tabindex="-1">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055"><a href="http://localhost:3000/login/" class="elementor-item" tabindex="-1">&#x110;&#x103;ng nh&#x1EAD;p</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055">
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://localhost:3000/registration/" class="elementor-sub-item" tabindex="-1">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
@@ -1256,7 +1268,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-5be5095 elementor-widget elementor-widget-text-editor" data-id="5be5095" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><strong><span>Qu&#xE9;t m&#x1ECD;i n&#x1A1;i v&#xE0; m&#x1ECD;i l&#xFA;c</span></strong></p><p align="justify">B&#x1EA1;n ch&#x1B0;a tr&#x1EA3;i nghi&#x1EC7;m s&#x1EF1; ti&#x1EC7;n l&#x1EE3;i c&#x1EE7;a vi&#x1EC7;c qu&#xE9;t di &#x111;&#x1ED9;ng? Thi&#x1EBF;t b&#x1ECB; ph&#x1EA3;i c&#xF3; c&#x1EE7;a b&#x1EA1;n trong nh&#x1EEF;ng d&#x1ECB;p quan tr&#x1ECD;ng. &#x110;&#x1B0;&#x1EE3;c thi&#x1EBF;t k&#x1EBF; &#x111;&#x1EB7;c bi&#x1EC7;t d&#xE0;nh cho c&#xE1;c chuy&#xEA;n gia kinh doanh, m&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng c&#x1EE7;a Avision cho ph&#xE9;p b&#x1EA1;n s&#x1ED1; h&#xF3;a h&#x1EE3;p &#x111;&#x1ED3;ng, &#x111;&#x1A1;n &#x111;&#x1EB7;t h&#xE0;ng v&#xE0; th&#x1EBB; nh&#x1EF1;a v&#x1EDB;i kh&#x1EA3; n&#x103;ng n&#x1EA1;p li&#x1EC7;u &#x111;&#xE1;ng tin c&#x1EAD;y v&#xE0; kh&#xF4;ng c&#x1EA7;n m&#xE1;y t&#xED;nh! &#x110;&#x1B0;&#x1EE3;c c&#x1EA5;p ngu&#x1ED3;n b&#x1EB1;ng pin lithium, m&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng r&#x1EA5;t nh&#x1EB9; v&#xE0; d&#x1EC5; d&#xE0;ng mang theo. V&#x1EDB;i t&#xED;nh n&#x103;ng plug-and-play, b&#x1EA1;n c&#xF3; th&#x1EC3; b&#x1EAF;t &#x111;&#x1EA7;u qu&#xE9;t ngay l&#x1EAD;p t&#x1EE9;c m&#xE0; kh&#xF4;ng ph&#x1EA3;i ch&#x1EDD; &#x111;&#x1EE3;i!</p>						</div>
+							<p>Qu&#xE9;t m&#x1ECD;i n&#x1A1;i v&#xE0; m&#x1ECD;i l&#xFA;c</p><p align="justify">B&#x1EA1;n ch&#x1B0;a tr&#x1EA3;i nghi&#x1EC7;m s&#x1EF1; ti&#x1EC7;n l&#x1EE3;i c&#x1EE7;a vi&#x1EC7;c qu&#xE9;t di &#x111;&#x1ED9;ng? Thi&#x1EBF;t b&#x1ECB; ph&#x1EA3;i c&#xF3; c&#x1EE7;a b&#x1EA1;n trong nh&#x1EEF;ng d&#x1ECB;p quan tr&#x1ECD;ng. &#x110;&#x1B0;&#x1EE3;c thi&#x1EBF;t k&#x1EBF; &#x111;&#x1EB7;c bi&#x1EC7;t d&#xE0;nh cho c&#xE1;c chuy&#xEA;n gia kinh doanh, m&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng c&#x1EE7;a Avision cho ph&#xE9;p b&#x1EA1;n s&#x1ED1; h&#xF3;a h&#x1EE3;p &#x111;&#x1ED3;ng, &#x111;&#x1A1;n &#x111;&#x1EB7;t h&#xE0;ng v&#xE0; th&#x1EBB; nh&#x1EF1;a v&#x1EDB;i kh&#x1EA3; n&#x103;ng n&#x1EA1;p li&#x1EC7;u &#x111;&#xE1;ng tin c&#x1EAD;y v&#xE0; kh&#xF4;ng c&#x1EA7;n m&#xE1;y t&#xED;nh! &#x110;&#x1B0;&#x1EE3;c c&#x1EA5;p ngu&#x1ED3;n b&#x1EB1;ng pin lithium, m&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng r&#x1EA5;t nh&#x1EB9; v&#xE0; d&#x1EC5; d&#xE0;ng mang theo. V&#x1EDB;i t&#xED;nh n&#x103;ng plug-and-play, b&#x1EA1;n c&#xF3; th&#x1EC3; b&#x1EAF;t &#x111;&#x1EA7;u qu&#xE9;t ngay l&#x1EAD;p t&#x1EE9;c m&#xE0; kh&#xF4;ng ph&#x1EA3;i ch&#x1EDD; &#x111;&#x1EE3;i!</p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-5d564d1a elementor-widget elementor-widget-spacer" data-id="5d564d1a" data-element_type="widget" data-widget_type="spacer.default">
 				<div class="elementor-widget-container">
@@ -1288,16 +1300,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 								<div class="elementor-element elementor-element-9f977dc elementor-invisible elementor-widget elementor-widget-shortcode" data-id="9f977dc" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;fadeInUp&quot;}" data-widget_type="shortcode.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-shortcode">
-<div class="yith-woocompare-counter" data-type="text" data-text_o="{{count}} products in compare">
-	<a class="yith-woocompare-open" href="http://localhost:3000?action=yith-woocompare-view-table&amp;iframe=yes">
-		<span class="yith-woocompare-counter">
-							<span class="yith-woocompare-icon">
-					<img src="https://www.avision.com/en/wp-content/plugins/yith-woocommerce-compare-premium/assets/images/compare-icon.png">
-				</span>
-						<span class="yith-woocompare-count"> 0 s&#x1EA3;n ph&#x1EA9;m so s&#xE1;nh</span>
-		</span>
-	</a>
-</div>
+
 </div>
 				</div>
 				</div>
@@ -1319,228 +1322,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 
 	
 
-<aside id="right-sidebar" class="sidebar-container widget-area sidebar-primary" itemscope="itemscope" itemtype="https://schema.org/WPSideBar" role="complementary" aria-label="Primary Sidebar">
-
-	
-	<div id="right-sidebar-inner" class="clr">
-
-		<div id="block-3" class="sidebar-box widget_block clr">
-<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
-<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
-<h2> &#x258D;<strong>Product categories</strong></h2>
-
-
-<div data-block-name="woocommerce/product-categories" data-is-dropdown="true" class="wp-block-woocommerce-product-categories wc-block-product-categories is-dropdown " style>
-			<div class="wc-block-product-categories__dropdown">
-				<label class="screen-reader-text" for="product-categories-655f06ff656cc-select">
-					Select a category
-				</label>
-				<select aria-label="List of categories with their product counts" id="product-categories-655f06ff656cc-select">
-					<option value="false" hidden>
-						Select a category
-					</option>
-					
-				<option value="https://www.avision.com/en/product-category/document-scanner/">
-					
-					DocumentScanner
-					(61)
-				</option>
-				
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad120-series/">
-					&#x2212;
-					AD120 series
-					(2)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad130-series/">
-					&#x2212;
-					AD130 series
-					(1)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad225-series/">
-					&#x2212;
-					AD225 Series
-					(3)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad230-series/">
-					&#x2212;
-					AD230 Series
-					(1)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad240-series/">
-					&#x2212;
-					AD240 Series
-					(2)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad340g-series/">
-					&#x2212;
-					AD340G(F) Series
-					(6)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad345g-series/">
-					&#x2212;
-					AD345G(F) Series
-					(7)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad350-series/">
-					&#x2212;
-					AD350 Series
-					(3)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad360-series/">
-					&#x2212;
-					AD360G(F) Series
-					(5)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad370-series/">
-					&#x2212;
-					AD370(F) Series
-					(7)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad380-series/">
-					&#x2212;
-					AD380(F) Series
-					(6)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad3100-series/">
-					&#x2212;
-					AD3100(F) Series
-					(5)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad6090-series/">
-					&#x2212;
-					AD6090 Series
-					(2)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/document-scanner/ad8100-series/">
-					&#x2212;
-					AD8000 Series
-					(5)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/document-scanner/av332-series/">
-					&#x2212;
-					AV332(F) Series
-					(3)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/document-scanner/av5000-series/">
-					&#x2212;
-					AV5000 Series
-					(2)
-				</option>
-				
-			
-			
-				<option value="https://www.avision.com/en/product-category/flatbed-scanner/">
-					
-					Flatbed Scanner
-					(8)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/network-scanner/">
-					
-					Network Scanner
-					(9)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/mobile-scanner/">
-					
-					Mobile Scanner
-					(2)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/paperair-series/">
-					
-					PaperAir Series
-					(4)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/printer-mfp/">
-					
-					Printer / MFP
-					(9)
-				</option>
-				
-			
-				<option value="https://www.avision.com/en/product-category/medical/">
-					
-					Medical Device
-					(1)
-				</option>
-				
-			
-				</select>
-			</div>
-			<button type="button" class="wc-block-product-categories__button" aria-label="Go to category" onclick="const url = document.getElementById( &apos;product-categories-655f06ff656cc-select&apos; ).value; if ( &apos;false&apos; !== url ) document.location.href = url;">
-				<svg aria-hidden="true" role="img" focusable="false" class="dashicon dashicons-arrow-right-alt2" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewbox="0 0 20 20">
-					<path d="M6 15l5-5-5-5 1-2 7 7-7 7z"/>
-				</svg>
-			</button>
-		</div></div></div>
-</div></div>
-</div><div id="block-4" class="sidebar-box widget_block clr">
-<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container">
-<h2>&#x258D; Product selection </h2>
-
-
-
-<p></p>
-</div></div>
-</div><div id="block-8" class="sidebar-box widget_block clr">
-<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container"><p><style type="text/css" id="wpfCustomCss-1_684188">.wpfClearButton.wpfButton {
-    background-color:#196c8f;
-    color:#fff;
-    border-radius:10px;
-}
-.wpfClearButton.wpfButton:hover{
-    color:#196c8f;
-    background-color:#fff;
-    border:2px #196c8f solid;
-}#wpfMainWrapper-1_684188{position:relative;width:100%;}#wpfMainWrapper-1_684188 .wpfFilterWrapper {visibility:hidden; width:100%;}#wpfBlock_1 li[data-term-id="606"] {display:none;}#wpfBlock_1 li[data-term-id="823"] {display:none;}#wpfBlock_1 li[data-term-id="1323"] {display:none;}#wpfBlock_1 li[data-term-id="1667"] {display:none;}#wpfBlock_1 .wpfFilterVerScroll {max-height:200px;}#wpfBlock_1 {display:none;}#wpfBlock_2 li[data-term-id="355"] {display:none;}#wpfBlock_2 li[data-term-id="357"] {display:none;}#wpfBlock_2 li[data-term-id="358"] {display:none;}#wpfBlock_2 li[data-term-id="1602"] {display:none;}#wpfBlock_2 li[data-term-id="1606"] {display:none;}#wpfBlock_2 li[data-term-id="1607"] {display:none;}#wpfBlock_2 li[data-term-id="1608"] {display:none;}#wpfBlock_2 li[data-term-id="1921"] {display:none;}#wpfBlock_2 .wpfFilterVerScroll {max-height:200px;}#wpfBlock_3 li[data-term-id="359"] {display:none;}#wpfBlock_3 li[data-term-id="360"] {display:none;}#wpfBlock_3 li[data-term-id="361"] {display:none;}#wpfBlock_3 .wpfFilterVerScroll {max-height:200px;}#wpfBlock_3 {display:none;}#wpfBlock_4 li[data-term-id="368"] {display:none;}#wpfBlock_4 li[data-term-id="371"] {display:none;}#wpfBlock_4 li[data-term-id="369"] {display:none;}#wpfBlock_4 li[data-term-id="370"] {display:none;}#wpfBlock_4 .wpfFilterVerScroll {max-height:200px;}#wpfBlock_5 li[data-term-id="363"] {display:none;}#wpfBlock_5 .wpfFilterVerScroll {max-height:200px;}#wpfBlock_6 li[data-term-id="364"] {display:none;}#wpfBlock_6 li[data-term-id="367"] {display:none;}#wpfBlock_6 li[data-term-id="418"] {display:none;}#wpfBlock_6 li[data-term-id="596"] {display:none;}#wpfBlock_6 li[data-term-id="595"] {display:none;}#wpfBlock_6 li[data-term-id="1931"] {display:none;}#wpfBlock_6 li[data-term-id="1936"] {display:none;}#wpfBlock_6 li[data-term-id="1684"] {display:none;}#wpfBlock_6 li[data-term-id="365"] {display:none;}#wpfBlock_6 li[data-term-id="1942"] {display:none;}#wpfBlock_6 li[data-term-id="1950"] {display:none;}#wpfBlock_6 li[data-term-id="366"] {display:none;}#wpfBlock_6 li[data-term-id="1817"] {display:none;}#wpfBlock_6 .wpfFilterVerScroll {max-height:200px;}#wpfBlock_6 {display:none;}#wpfBlock_7 li[data-term-id="372"] {display:none;}#wpfBlock_7 li[data-term-id="373"] {display:none;}#wpfBlock_7 li[data-term-id="374"] {display:none;}#wpfBlock_7 li[data-term-id="419"] {display:none;}#wpfBlock_7 li[data-term-id="608"] {display:none;}#wpfBlock_7 li[data-term-id="609"] {display:none;}#wpfBlock_7 li[data-term-id="808"] {display:none;}#wpfBlock_7 li[data-term-id="1727"] {display:none;}#wpfBlock_7 .wpfFilterVerScroll {max-height:200px;}#wpfMainWrapper-1_684188 .wpfLoaderLayout {position:absolute;top:0;bottom:0;left:0;right:0;background-color: rgba(255, 255, 255, 0.9);z-index: 999;}#wpfMainWrapper-1_684188 .wpfLoaderLayout i {position:absolute;z-index:9;top:50%;left:50%;margin-top:-30px;margin-left:-30px;color:rgba(0,0,0,.9);}</style><div class="wpfMainWrapper" id="wpfMainWrapper-1_684188" data-viewid="1_684188" data-filter="1" data-force="1" data-settings="{&quot;posts_per_page&quot;:&quot;24&quot;,&quot;posts_per_row&quot;:&quot;&quot;,&quot;paged&quot;:0,&quot;base&quot;:&quot;https:\/\/www.avision.com\/en\/product-category\/mobile-scanner\/page\/%#%\/&quot;,&quot;format &quot;:&quot;&quot;,&quot;page_id&quot;:25671,&quot;paginate_base&quot;:&quot;page&quot;,&quot;paginate_type&quot;:&quot;url&quot;,&quot;product_category_id&quot;:331}" data-default-query data-filter-settings="{&quot;settings&quot;:{&quot;display_on_page&quot;:&quot;category&quot;,&quot;display_on_page_shortcode&quot;:&quot;0&quot;,&quot;display_for&quot;:&quot;both&quot;,&quot;force_show_current&quot;:&quot;1&quot;,&quot;desctop_mobile_breakpoint_switcher&quot;:&quot;0&quot;,&quot;desctop_mobile_breakpoint_width&quot;:&quot;0&quot;,&quot;hide_without_products&quot;:&quot;1&quot;,&quot;count_product_shop&quot;:&quot;0&quot;,&quot;columns_product_shop&quot;:&quot;0&quot;,&quot;enable_ajax&quot;:&quot;1&quot;,&quot;remove_actions&quot;:&quot;0&quot;,&quot;display_status_private&quot;:&quot;0&quot;,&quot;product_list_selector&quot;:&quot;&quot;,&quot;product_container_selector&quot;:&quot;&quot;,&quot;force_theme_templates&quot;:&quot;0&quot;,&quot;recalculate_filters&quot;:&quot;0&quot;,&quot;do_not_use_shortcut&quot;:&quot;1&quot;,&quot;show_filtering_button&quot;:&quot;0&quot;,&quot;filtering_button_word&quot;:&quot;Filter&quot;,&quot;auto_update_filter&quot;:&quot;0&quot;,&quot;show_clean_button&quot;:&quot;1&quot;,&quot;show_clean_button_word&quot;:&quot;Clear&quot;,&quot;reset_all_filters&quot;:&quot;1&quot;,&quot;main_buttons_position&quot;:&quot;bottom&quot;,&quot;main_buttons_order&quot;:&quot;left&quot;,&quot;all_products_filtering&quot;:&quot;0&quot;,&quot;show_clean_block&quot;:&quot;0&quot;,&quot;show_clean_block_word&quot;:&quot;clear&quot;,&quot;filter_recount&quot;:&quot;1&quot;,&quot;filter_recount_price&quot;:&quot;0&quot;,&quot;filter_null_disabled&quot;:&quot;1&quot;,&quot;sort_by_title&quot;:&quot;0&quot;,&quot;checked_items_top&quot;:&quot;0&quot;,&quot;checked_items_bold&quot;:&quot;0&quot;,&quot;text_no_products&quot;:&quot;No products found&quot;,&quot;filtering_by_variations&quot;:&quot;1&quot;,&quot;hide_filter_icon&quot;:&quot;1&quot;,&quot;use_title_as_slug&quot;:&quot;1&quot;,&quot;use_category_filtration&quot;:&quot;1&quot;,&quot;check_get_names&quot;:&quot;0&quot;,&quot;f_multi_logic&quot;:&quot;and&quot;,&quot;third_party_prefilter&quot;:&quot;0&quot;,&quot;filter_loader_icon_onload_enable&quot;:&quot;0&quot;,&quot;filter_loader_icon_color&quot;:&quot;#000000&quot;,&quot;filter_loader_icon_name&quot;:&quot;default&quot;,&quot;filter_loader_icon_number&quot;:&quot;0&quot;,&quot;enable_overlay&quot;:&quot;0&quot;,&quot;overlay_background&quot;:&quot;&quot;,&quot;enable_overlay_icon&quot;:&quot;0&quot;,&quot;enable_overlay_word&quot;:&quot;0&quot;,&quot;overlay_word&quot;:&quot;WooBeWoo&quot;,&quot;filter_width&quot;:&quot;100&quot;,&quot;filter_width_in&quot;:&quot;%&quot;,&quot;filter_width_mobile&quot;:&quot;100&quot;,&quot;filter_width_in_mobile&quot;:&quot;%&quot;,&quot;filter_block_width&quot;:&quot;100&quot;,&quot;filter_block_width_in&quot;:&quot;%&quot;,&quot;filter_block_width_mobile&quot;:&quot;100&quot;,&quot;filter_block_width_in_mobile&quot;:&quot;%&quot;,&quot;filter_block_height&quot;:&quot;&quot;,&quot;padding_child_list&quot;:&quot;&quot;,&quot;js_editor&quot;:&quot;&quot;,&quot;disable_plugin_styles&quot;:&quot;0&quot;,&quot;filters&quot;:{&quot;order&quot;:&quot;[{\&quot;id\&quot;:\&quot;wpfAttribute\&quot;,\&quot;uniqId\&quot;:\&quot;wpf_50yavqriq\&quot;,\&quot;name\&quot;:\&quot;wpf_filter_compare_s07\&quot;,\&quot;settings\&quot;:{\&quot;f_enable\&quot;:true,\&quot;f_title\&quot;:\&quot;Function\&quot;,\&quot;f_name\&quot;:\&quot;Attribute\&quot;,\&quot;f_list\&quot;:\&quot;78\&quot;,\&quot;f_enable_title\&quot;:\&quot;yes_open\&quot;,\&quot;f_enable_title_mobile\&quot;:\&quot;yes_open\&quot;,\&quot;f_frontend_type\&quot;:\&quot;list\&quot;,\&quot;f_custom_tags\&quot;:false,\&quot;f_custom_tags_settings[header]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_1]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_2]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_3]\&quot;:\&quot;0\&quot;,\&quot;f_dropdown_search\&quot;:false,\&quot;f_order_custom\&quot;:false,\&quot;f_hide_empty\&quot;:true,\&quot;f_hide_empty_active\&quot;:true,\&quot;f_show_count\&quot;:true,\&quot;f_mlist[]\&quot;:\&quot;\&quot;,\&quot;\&quot;:\&quot;Select Some Options\&quot;,\&quot;f_hidden_attributes\&quot;:false,\&quot;f_query_logic\&quot;:\&quot;or\&quot;,\&quot;f_sort_by\&quot;:\&quot;default\&quot;,\&quot;f_show_search_input\&quot;:false,\&quot;f_show_all_attributes\&quot;:false,\&quot;f_layout\&quot;:\&quot;ver\&quot;,\&quot;f_ver_columns\&quot;:\&quot;1\&quot;,\&quot;f_max_height\&quot;:\&quot;200\&quot;}},{\&quot;id\&quot;:\&quot;wpfAttribute\&quot;,\&quot;uniqId\&quot;:\&quot;wpf_an9unf0t4\&quot;,\&quot;name\&quot;:\&quot;wpf_filter_compare_s01\&quot;,\&quot;settings\&quot;:{\&quot;f_enable\&quot;:true,\&quot;f_title\&quot;:\&quot;Paper Size\&quot;,\&quot;f_name\&quot;:\&quot;Attribute\&quot;,\&quot;f_list\&quot;:\&quot;67\&quot;,\&quot;f_enable_title\&quot;:\&quot;yes_open\&quot;,\&quot;f_enable_title_mobile\&quot;:\&quot;yes_open\&quot;,\&quot;f_frontend_type\&quot;:\&quot;list\&quot;,\&quot;f_custom_tags\&quot;:false,\&quot;f_custom_tags_settings[header]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_1]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_2]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_3]\&quot;:\&quot;0\&quot;,\&quot;f_dropdown_search\&quot;:false,\&quot;f_order_custom\&quot;:false,\&quot;f_hide_empty\&quot;:true,\&quot;f_hide_empty_active\&quot;:true,\&quot;f_show_count\&quot;:true,\&quot;f_mlist[]\&quot;:\&quot;\&quot;,\&quot;\&quot;:\&quot;Select Some Options\&quot;,\&quot;f_hidden_attributes\&quot;:false,\&quot;f_query_logic\&quot;:\&quot;or\&quot;,\&quot;f_sort_by\&quot;:\&quot;default\&quot;,\&quot;f_show_search_input\&quot;:false,\&quot;f_show_all_attributes\&quot;:false,\&quot;f_layout\&quot;:\&quot;ver\&quot;,\&quot;f_ver_columns\&quot;:\&quot;1\&quot;,\&quot;f_max_height\&quot;:\&quot;200\&quot;}},{\&quot;id\&quot;:\&quot;wpfAttribute\&quot;,\&quot;uniqId\&quot;:\&quot;wpf_nr068fwq5\&quot;,\&quot;name\&quot;:\&quot;wpf_filter_compare_s02\&quot;,\&quot;settings\&quot;:{\&quot;f_enable\&quot;:true,\&quot;f_title\&quot;:\&quot;Scanner Type\&quot;,\&quot;f_name\&quot;:\&quot;Attribute\&quot;,\&quot;f_list\&quot;:\&quot;68\&quot;,\&quot;f_enable_title\&quot;:\&quot;yes_open\&quot;,\&quot;f_enable_title_mobile\&quot;:\&quot;yes_open\&quot;,\&quot;f_frontend_type\&quot;:\&quot;list\&quot;,\&quot;f_custom_tags\&quot;:false,\&quot;f_custom_tags_settings[header]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_1]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_2]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_3]\&quot;:\&quot;0\&quot;,\&quot;f_dropdown_search\&quot;:false,\&quot;f_order_custom\&quot;:false,\&quot;f_hide_empty\&quot;:true,\&quot;f_hide_empty_active\&quot;:true,\&quot;f_show_count\&quot;:true,\&quot;f_mlist[]\&quot;:\&quot;\&quot;,\&quot;\&quot;:\&quot;Select Some Options\&quot;,\&quot;f_hidden_attributes\&quot;:false,\&quot;f_query_logic\&quot;:\&quot;or\&quot;,\&quot;f_sort_by\&quot;:\&quot;default\&quot;,\&quot;f_show_search_input\&quot;:false,\&quot;f_show_all_attributes\&quot;:false,\&quot;f_layout\&quot;:\&quot;ver\&quot;,\&quot;f_ver_columns\&quot;:\&quot;1\&quot;,\&quot;f_max_height\&quot;:\&quot;200\&quot;}},{\&quot;id\&quot;:\&quot;wpfAttribute\&quot;,\&quot;uniqId\&quot;:\&quot;wpf_5wkgsp0y5\&quot;,\&quot;name\&quot;:\&quot;wpf_filter_compare_s03\&quot;,\&quot;settings\&quot;:{\&quot;f_enable\&quot;:true,\&quot;f_title\&quot;:\&quot;ADF capacity\&quot;,\&quot;f_name\&quot;:\&quot;Attribute\&quot;,\&quot;f_list\&quot;:\&quot;69\&quot;,\&quot;f_enable_title\&quot;:\&quot;yes_open\&quot;,\&quot;f_enable_title_mobile\&quot;:\&quot;yes_open\&quot;,\&quot;f_frontend_type\&quot;:\&quot;list\&quot;,\&quot;f_custom_tags\&quot;:false,\&quot;f_custom_tags_settings[header]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_1]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_2]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_3]\&quot;:\&quot;0\&quot;,\&quot;f_dropdown_search\&quot;:false,\&quot;f_order_custom\&quot;:false,\&quot;f_hide_empty\&quot;:true,\&quot;f_hide_empty_active\&quot;:true,\&quot;f_show_count\&quot;:true,\&quot;f_mlist[]\&quot;:\&quot;\&quot;,\&quot;\&quot;:\&quot;Select Some Options\&quot;,\&quot;f_hidden_attributes\&quot;:false,\&quot;f_query_logic\&quot;:\&quot;or\&quot;,\&quot;f_sort_by\&quot;:\&quot;default\&quot;,\&quot;f_show_search_input\&quot;:false,\&quot;f_show_all_attributes\&quot;:false,\&quot;f_layout\&quot;:\&quot;ver\&quot;,\&quot;f_ver_columns\&quot;:\&quot;1\&quot;,\&quot;f_max_height\&quot;:\&quot;200\&quot;}},{\&quot;id\&quot;:\&quot;wpfAttribute\&quot;,\&quot;uniqId\&quot;:\&quot;wpf_j9gdjr32o\&quot;,\&quot;name\&quot;:\&quot;wpf_filter_compare_s04\&quot;,\&quot;settings\&quot;:{\&quot;f_enable\&quot;:true,\&quot;f_title\&quot;:\&quot;Optical Resolution\&quot;,\&quot;f_name\&quot;:\&quot;Attribute\&quot;,\&quot;f_list\&quot;:\&quot;70\&quot;,\&quot;f_enable_title\&quot;:\&quot;yes_open\&quot;,\&quot;f_enable_title_mobile\&quot;:\&quot;yes_open\&quot;,\&quot;f_frontend_type\&quot;:\&quot;list\&quot;,\&quot;f_custom_tags\&quot;:false,\&quot;f_custom_tags_settings[header]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_1]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_2]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_3]\&quot;:\&quot;0\&quot;,\&quot;f_dropdown_search\&quot;:false,\&quot;f_order_custom\&quot;:false,\&quot;f_hide_empty\&quot;:true,\&quot;f_hide_empty_active\&quot;:true,\&quot;f_show_count\&quot;:true,\&quot;f_mlist[]\&quot;:\&quot;\&quot;,\&quot;\&quot;:\&quot;Select Some Options\&quot;,\&quot;f_hidden_attributes\&quot;:false,\&quot;f_query_logic\&quot;:\&quot;or\&quot;,\&quot;f_sort_by\&quot;:\&quot;default\&quot;,\&quot;f_show_search_input\&quot;:false,\&quot;f_show_all_attributes\&quot;:false,\&quot;f_layout\&quot;:\&quot;ver\&quot;,\&quot;f_ver_columns\&quot;:\&quot;1\&quot;,\&quot;f_max_height\&quot;:\&quot;200\&quot;}},{\&quot;id\&quot;:\&quot;wpfAttribute\&quot;,\&quot;uniqId\&quot;:\&quot;wpf_dvo0nesn9\&quot;,\&quot;name\&quot;:\&quot;wpf_filter_compare_s05\&quot;,\&quot;settings\&quot;:{\&quot;f_enable\&quot;:true,\&quot;f_title\&quot;:\&quot;Scanning Speed\&quot;,\&quot;f_name\&quot;:\&quot;Attribute\&quot;,\&quot;f_list\&quot;:\&quot;71\&quot;,\&quot;f_enable_title\&quot;:\&quot;yes_open\&quot;,\&quot;f_enable_title_mobile\&quot;:\&quot;yes_open\&quot;,\&quot;f_frontend_type\&quot;:\&quot;list\&quot;,\&quot;f_custom_tags\&quot;:false,\&quot;f_custom_tags_settings[header]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_1]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_2]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_3]\&quot;:\&quot;0\&quot;,\&quot;f_dropdown_search\&quot;:false,\&quot;f_order_custom\&quot;:false,\&quot;f_hide_empty\&quot;:true,\&quot;f_hide_empty_active\&quot;:true,\&quot;f_show_count\&quot;:true,\&quot;f_mlist[]\&quot;:\&quot;\&quot;,\&quot;\&quot;:\&quot;Select Some Options\&quot;,\&quot;f_hidden_attributes\&quot;:false,\&quot;f_query_logic\&quot;:\&quot;or\&quot;,\&quot;f_sort_by\&quot;:\&quot;default\&quot;,\&quot;f_show_search_input\&quot;:false,\&quot;f_show_all_attributes\&quot;:false,\&quot;f_layout\&quot;:\&quot;ver\&quot;,\&quot;f_ver_columns\&quot;:\&quot;1\&quot;,\&quot;f_max_height\&quot;:\&quot;200\&quot;}},{\&quot;id\&quot;:\&quot;wpfAttribute\&quot;,\&quot;uniqId\&quot;:\&quot;wpf_2gikjw9d5\&quot;,\&quot;name\&quot;:\&quot;wpf_filter_compare_s06\&quot;,\&quot;settings\&quot;:{\&quot;f_enable\&quot;:true,\&quot;f_title\&quot;:\&quot;Interface\&quot;,\&quot;f_name\&quot;:\&quot;Attribute\&quot;,\&quot;f_list\&quot;:\&quot;72\&quot;,\&quot;f_enable_title\&quot;:\&quot;yes_open\&quot;,\&quot;f_enable_title_mobile\&quot;:\&quot;yes_open\&quot;,\&quot;f_frontend_type\&quot;:\&quot;list\&quot;,\&quot;f_custom_tags\&quot;:false,\&quot;f_custom_tags_settings[header]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_1]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_2]\&quot;:\&quot;0\&quot;,\&quot;f_custom_tags_settings[title_3]\&quot;:\&quot;0\&quot;,\&quot;f_dropdown_search\&quot;:false,\&quot;f_order_custom\&quot;:false,\&quot;f_hide_empty\&quot;:true,\&quot;f_hide_empty_active\&quot;:true,\&quot;f_show_count\&quot;:true,\&quot;f_mlist[]\&quot;:\&quot;\&quot;,\&quot;\&quot;:\&quot;Select Some Options\&quot;,\&quot;f_hidden_attributes\&quot;:false,\&quot;f_query_logic\&quot;:\&quot;or\&quot;,\&quot;f_sort_by\&quot;:\&quot;default\&quot;,\&quot;f_show_search_input\&quot;:false,\&quot;f_show_all_attributes\&quot;:false,\&quot;f_layout\&quot;:\&quot;ver\&quot;,\&quot;f_ver_columns\&quot;:\&quot;1\&quot;,\&quot;f_max_height\&quot;:\&quot;200\&quot;}}]&quot;,&quot;preselect&quot;:&quot;&quot;}}}"><div class="wpfFilterWrapper wpfNotActive wpfShowCount" id="wpfBlock_1" data-order-key="0" data-filter-type="wpfAttribute" data-get-attribute="wpf_filter_compare_s07" data-display-type="list" data-content-type="taxonomy" data-slug="compare_s07" data-uniq-id="wpf_50yavqriq" data-query-logic="or" data-radio="0" data-taxonomy="pa_compare_s07" data-label="function" data-hide-active="1" data-show-all="0" data-hide-single="0" data-title="Function"><div class="wpfFilterTitle"><div class="wfpTitle wfpClickable">Function</div><i class="fa fa-minus wpfTitleToggle"></i></div><div class="wpfFilterContent"><div class="wpfCheckboxHier"><ul class="wpfFilterVerScroll"><li data-term-id="606" data-parent="0" data-term-slug="copy"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox60699283"><label aria-label="Copy" for="wpfTaxonomyInputCheckbox60699283"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">Copy</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="823" data-parent="0" data-term-slug="printer"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox82395013"><label aria-label="Print" for="wpfTaxonomyInputCheckbox82395013"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">Print</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="1323" data-parent="0" data-term-slug="scan"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox132345849"><label aria-label="Scan" for="wpfTaxonomyInputCheckbox132345849"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">Scan</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="1667" data-parent="0" data-term-slug="network"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox166739402"><label aria-label="Network" for="wpfTaxonomyInputCheckbox166739402"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">Network</div></span><span class="wpfCount">(0)</span></span></label></li></ul></div></div></div><div class="wpfFilterWrapper wpfNotActive wpfShowCount" id="wpfBlock_2" data-order-key="1" data-filter-type="wpfAttribute" data-get-attribute="wpf_filter_compare_s01" data-display-type="list" data-content-type="taxonomy" data-slug="compare_s01" data-uniq-id="wpf_an9unf0t4" data-query-logic="or" data-radio="0" data-taxonomy="pa_compare_s01" data-label="paper size" data-hide-active="1" data-show-all="0" data-hide-single="0" data-title="Paper Size"><div class="wpfFilterTitle"><div class="wfpTitle wfpClickable">Paper Size</div><i class="fa fa-minus wpfTitleToggle"></i></div><div class="wpfFilterContent"><div class="wpfCheckboxHier"><ul class="wpfFilterVerScroll"><li data-term-id="355" data-parent="0" data-term-slug="a3"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox35536625"><label aria-label="A3" for="wpfTaxonomyInputCheckbox35536625"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">A3</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="356" data-parent="0" data-term-slug="a4"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox35643429"><label aria-label="A4" for="wpfTaxonomyInputCheckbox35643429"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">A4</div></span><span class="wpfCount">(2)</span></span></label></li><li data-term-id="357" data-parent="0" data-term-slug="a5"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox35799473"><label aria-label="A5" for="wpfTaxonomyInputCheckbox35799473"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">A5</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="358" data-parent="0" data-term-slug="a6"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox35865862"><label aria-label="A6" for="wpfTaxonomyInputCheckbox35865862"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">A6</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="1602" data-parent="0" data-term-slug="letter"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox160283290"><label aria-label="Letter" for="wpfTaxonomyInputCheckbox160283290"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">Letter</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="1606" data-parent="0" data-term-slug="legal"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox160618247"><label aria-label="Legal" for="wpfTaxonomyInputCheckbox160618247"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">Legal</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="1607" data-parent="0" data-term-slug="b5"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox160743677"><label aria-label="B5" for="wpfTaxonomyInputCheckbox160743677"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">B5</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="1608" data-parent="0" data-term-slug="76-x-135-mm"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox160885455"><label aria-label="76 x 135 mm" for="wpfTaxonomyInputCheckbox160885455"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">76 x 135 mm</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="1921" data-parent="0" data-term-slug="76-x-152-mm"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox19213822"><label aria-label="76 x 152 mm" for="wpfTaxonomyInputCheckbox19213822"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">76 x 152 mm</div></span><span class="wpfCount">(0)</span></span></label></li></ul></div></div></div><div class="wpfFilterWrapper wpfNotActive wpfShowCount" id="wpfBlock_3" data-order-key="2" data-filter-type="wpfAttribute" data-get-attribute="wpf_filter_compare_s02" data-display-type="list" data-content-type="taxonomy" data-slug="compare_s02" data-uniq-id="wpf_nr068fwq5" data-query-logic="or" data-radio="0" data-taxonomy="pa_compare_s02" data-label="scanner type" data-hide-active="1" data-show-all="0" data-hide-single="0" data-title="Scanner Type"><div class="wpfFilterTitle"><div class="wfpTitle wfpClickable">Scanner Type</div><i class="fa fa-minus wpfTitleToggle"></i></div><div class="wpfFilterContent"><div class="wpfCheckboxHier"><ul class="wpfFilterVerScroll"><li data-term-id="359" data-parent="0" data-term-slug="sheetfed-scanner"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox35999530"><label aria-label="Sheetfed Scanner" for="wpfTaxonomyInputCheckbox35999530"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">Sheetfed Scanner</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="360" data-parent="0" data-term-slug="flatbed-scanner"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox3607637"><label aria-label="Flatbed Scanner" for="wpfTaxonomyInputCheckbox3607637"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">Flatbed Scanner</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="361" data-parent="0" data-term-slug="flatbed-with-adf"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox36126570"><label aria-label="Flatbed with ADF" for="wpfTaxonomyInputCheckbox36126570"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">Flatbed with ADF</div></span><span class="wpfCount">(0)</span></span></label></li></ul></div></div></div><div class="wpfFilterWrapper wpfNotActive wpfShowCount" id="wpfBlock_4" data-order-key="3" data-filter-type="wpfAttribute" data-get-attribute="wpf_filter_compare_s03" data-display-type="list" data-content-type="taxonomy" data-slug="compare_s03" data-uniq-id="wpf_5wkgsp0y5" data-query-logic="or" data-radio="0" data-taxonomy="pa_compare_s03" data-label="adf capacity" data-hide-active="1" data-show-all="0" data-hide-single="0" data-title="ADF capacity"><div class="wpfFilterTitle"><div class="wfpTitle wfpClickable">ADF capacity</div><i class="fa fa-minus wpfTitleToggle"></i></div><div class="wpfFilterContent"><div class="wpfCheckboxHier"><ul class="wpfFilterVerScroll"><li data-term-id="368" data-parent="0" data-term-slug="&#x2264;25"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox36819102"><label aria-label="&#x2264;25" for="wpfTaxonomyInputCheckbox36819102"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">&#x2264;25</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="371" data-parent="0" data-term-slug="&#x2265;150"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox37189395"><label aria-label="&#x2265;150" for="wpfTaxonomyInputCheckbox37189395"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">&#x2265;150</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="2010" data-parent="0" data-term-slug="1-page"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox201051166"><label aria-label="1 page" for="wpfTaxonomyInputCheckbox201051166"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">1 page</div></span><span class="wpfCount">(2)</span></span></label></li><li data-term-id="369" data-parent="0" data-term-slug="30-60"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox36924539"><label aria-label="30 - 60" for="wpfTaxonomyInputCheckbox36924539"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">30 - 60</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="370" data-parent="0" data-term-slug="75-100"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox3704633"><label aria-label="75 - 100" for="wpfTaxonomyInputCheckbox3704633"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">75 - 100</div></span><span class="wpfCount">(0)</span></span></label></li></ul></div></div></div><div class="wpfFilterWrapper wpfNotActive wpfShowCount" id="wpfBlock_5" data-order-key="4" data-filter-type="wpfAttribute" data-get-attribute="wpf_filter_compare_s04" data-display-type="list" data-content-type="taxonomy" data-slug="compare_s04" data-uniq-id="wpf_j9gdjr32o" data-query-logic="or" data-radio="0" data-taxonomy="pa_compare_s04" data-label="optical resolution" data-hide-active="1" data-show-all="0" data-hide-single="0" data-title="Optical Resolution"><div class="wpfFilterTitle"><div class="wfpTitle wfpClickable">Optical Resolution</div><i class="fa fa-minus wpfTitleToggle"></i></div><div class="wpfFilterContent"><div class="wpfCheckboxHier"><ul class="wpfFilterVerScroll"><li data-term-id="362" data-parent="0" data-term-slug="600-dpi"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox36213149"><label aria-label="600 dpi" for="wpfTaxonomyInputCheckbox36213149"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">600 dpi</div></span><span class="wpfCount">(2)</span></span></label></li><li data-term-id="363" data-parent="0" data-term-slug="1200-dpi"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox36383287"><label aria-label="1200 dpi" for="wpfTaxonomyInputCheckbox36383287"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">1200 dpi</div></span><span class="wpfCount">(0)</span></span></label></li></ul></div></div></div><div class="wpfFilterWrapper wpfNotActive wpfShowCount" id="wpfBlock_6" data-order-key="5" data-filter-type="wpfAttribute" data-get-attribute="wpf_filter_compare_s05" data-display-type="list" data-content-type="taxonomy" data-slug="compare_s05" data-uniq-id="wpf_dvo0nesn9" data-query-logic="or" data-radio="0" data-taxonomy="pa_compare_s05" data-label="scanning speed" data-hide-active="1" data-show-all="0" data-hide-single="0" data-title="Scanning Speed"><div class="wpfFilterTitle"><div class="wfpTitle wfpClickable">Scanning Speed</div><i class="fa fa-minus wpfTitleToggle"></i></div><div class="wpfFilterContent"><div class="wpfCheckboxHier"><ul class="wpfFilterVerScroll"><li data-term-id="364" data-parent="0" data-term-slug="&#x2264;25-ppm"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox36428437"><label aria-label="&#x2264;25 ppm" for="wpfTaxonomyInputCheckbox36428437"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">&#x2264;25 ppm</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="367" data-parent="0" data-term-slug="&#x2265;120-ppm"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox36756188"><label aria-label="&#x2265;120 ppm" for="wpfTaxonomyInputCheckbox36756188"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">&#x2265;120 ppm</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="418" data-parent="0" data-term-slug="&#x2264;3s"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox41884265"><label aria-label="&#x2264;3s" for="wpfTaxonomyInputCheckbox41884265"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">&#x2264;3s</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="596" data-parent="0" data-term-slug="&#x2265;6s"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox59611539"><label aria-label="&#x2265;6s" for="wpfTaxonomyInputCheckbox59611539"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">&#x2265;6s</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="595" data-parent="0" data-term-slug="3-5s-5s"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox59544565"><label aria-label="3.5s - 5s" for="wpfTaxonomyInputCheckbox59544565"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">3.5s - 5s</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="1931" data-parent="0" data-term-slug="10-ppm"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox193182192"><label aria-label="10 ppm" for="wpfTaxonomyInputCheckbox193182192"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">10 ppm</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="1936" data-parent="0" data-term-slug="20-ppm"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox193667270"><label aria-label="20 ppm" for="wpfTaxonomyInputCheckbox193667270"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">20 ppm</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="1684" data-parent="0" data-term-slug="25-ppm"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox168491821"><label aria-label="25 ppm" for="wpfTaxonomyInputCheckbox168491821"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">25 ppm</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="365" data-parent="0" data-term-slug="30-60-ppm"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox36574090"><label aria-label="30 - 60 ppm" for="wpfTaxonomyInputCheckbox36574090"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">30 - 60 ppm</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="1942" data-parent="0" data-term-slug="36-ppm"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox19422887"><label aria-label="36 ppm" for="wpfTaxonomyInputCheckbox19422887"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">36 ppm</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="1950" data-parent="0" data-term-slug="36-ppm-72-ipm"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox195018339"><label aria-label="36 ppm / 72 ipm" for="wpfTaxonomyInputCheckbox195018339"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">36 ppm / 72 ipm</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="366" data-parent="0" data-term-slug="70-90-ppm"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox36640678"><label aria-label="70 - 90 ppm" for="wpfTaxonomyInputCheckbox36640678"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">70 - 90 ppm</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="1817" data-parent="0" data-term-slug="100-ppm-200-ipm"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox181733534"><label aria-label="100 ppm / 200 ipm" for="wpfTaxonomyInputCheckbox181733534"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">100 ppm / 200 ipm</div></span><span class="wpfCount">(0)</span></span></label></li></ul></div></div></div><div class="wpfFilterWrapper wpfNotActive wpfShowCount" id="wpfBlock_7" data-order-key="6" data-filter-type="wpfAttribute" data-get-attribute="wpf_filter_compare_s06" data-display-type="list" data-content-type="taxonomy" data-slug="compare_s06" data-uniq-id="wpf_2gikjw9d5" data-query-logic="or" data-radio="0" data-taxonomy="pa_compare_s06" data-label="interface" data-hide-active="1" data-show-all="0" data-hide-single="0" data-title="Interface"><div class="wpfFilterTitle"><div class="wfpTitle wfpClickable">Interface</div><i class="fa fa-minus wpfTitleToggle"></i></div><div class="wpfFilterContent"><div class="wpfCheckboxHier"><ul class="wpfFilterVerScroll"><li data-term-id="372" data-parent="0" data-term-slug="lan"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox37268058"><label aria-label="LAN" for="wpfTaxonomyInputCheckbox37268058"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">LAN</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="373" data-parent="0" data-term-slug="wifi"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox37324286"><label aria-label="WiFi" for="wpfTaxonomyInputCheckbox37324286"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">WiFi</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="374" data-parent="0" data-term-slug="usb-3-0-or-newer"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox3743761"><label aria-label="USB 3.0 or newer" for="wpfTaxonomyInputCheckbox3743761"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">USB 3.0 or newer</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="419" data-parent="0" data-term-slug="usb2-0"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox4198434"><label aria-label="USB2.0" for="wpfTaxonomyInputCheckbox4198434"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">USB2.0</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="454" data-parent="0" data-term-slug="usb-2-0-micro-usb"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox45472037"><label aria-label="USB 2.0 (Micro USB)" for="wpfTaxonomyInputCheckbox45472037"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">USB 2.0 (Micro USB)</div></span><span class="wpfCount">(2)</span></span></label></li><li data-term-id="608" data-parent="0" data-term-slug="usblan"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox6087875"><label aria-label="USB+LAN" for="wpfTaxonomyInputCheckbox6087875"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">USB+LAN</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="609" data-parent="0" data-term-slug="usblanwifi"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox60928479"><label aria-label="USB+LAN+WiFi" for="wpfTaxonomyInputCheckbox60928479"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">USB+LAN+WiFi</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="808" data-parent="0" data-term-slug="usb-3-0-compatible"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox80877060"><label aria-label="USB 3.0 compatible" for="wpfTaxonomyInputCheckbox80877060"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">USB 3.0 compatible</div></span><span class="wpfCount">(0)</span></span></label></li><li data-term-id="1727" data-parent="0" data-term-slug="usb3-2-gen1x1"><label class="wpfLiLabel"><span class="wpfCheckbox"><input type="checkbox" id="wpfTaxonomyInputCheckbox172729045"><label aria-label="USB3.2 Gen1x1" for="wpfTaxonomyInputCheckbox172729045"></label></span><span class="wpfDisplay"><span class="wpfValue"><div class="wpfFilterTaxNameWrapper">USB3.2 Gen1x1</div></span><span class="wpfCount">(0)</span></span></label></li></ul></div></div></div><div class="wpfFilterButtons"><button class="wpfClearButton wpfButton">Clear</button></div><div class="wpfLoaderLayout"><i class="fa fa-spinner fa-pulse fa-3x fa-fw"></i></div></div></p>
-</div></div>
-</div><div id="block-11" class="sidebar-box widget_block clr">
-<div class="wp-block-group is-layout-flow wp-block-group-is-layout-flow"><div class="wp-block-group__inner-container"><div class="widget yith-woocompare-widget"><h2 class="widgettitle">&#x258D;Product Compare</h2>
-<div class="yith-woocompare-widget-content" data-lang>
-			<span class="list_empty">No products to compare</span>
-	</div>
-</div></div></div>
-</div>
-	</div><!-- #sidebar-inner -->
-
-	
-</aside><!-- #right-sidebar -->
+<aside id="right-sidebar" class="sidebar-container widget-area sidebar-primary" itemscope="itemscope" itemtype="https://schema.org/WPSideBar" role="complementary" aria-label="Primary Sidebar"><img style="padding-bottom: 100px; background-repeat: repeat-y" src="https://static3.khuetu.vn/img/m/21.jpg" alt="Your Image Alt Text"><img style="padding-bottom: 100px; background-repeat: repeat-y" src="https://static3.khuetu.vn/img/m/21.jpg" alt="Your Image Alt Text"><img style="padding-bottom: 100px; background-repeat: repeat-y" src="https://static3.khuetu.vn/img/m/21.jpg" alt="Your Image Alt Text"><img style="padding-bottom: 100px; background-repeat: repeat-y" src="https://static3.khuetu.vn/img/m/21.jpg" alt="Your Image Alt Text"><img style="padding-bottom: 100px; background-repeat: repeat-y" src="https://static3.khuetu.vn/img/m/21.jpg" alt="Your Image Alt Text"></aside><!-- #right-sidebar -->
 
 
 	<div id="primary" class="content-area clr">
@@ -1554,21 +1336,48 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	
 	</header>
 <div class="woocommerce-notices-wrapper"></div><div class="oceanwp-toolbar clr"><nav class="oceanwp-grid-list"><a href="#" id="oceanwp-grid" title="Grid view" class="active  grid-btn"><i class=" icon-grid" aria-hidden="true" role="img"></i></a><a href="#" id="oceanwp-list" title="List view" class=" list-btn"><i class=" icon-list" aria-hidden="true" role="img"></i></a></nav>
-<ul class="result-count">
-	<li class="view-title">View:</li>
-	<li><a class="view-first active" href="http://localhost:3000/product-category/mobile-scanner/?products-per-page=24">24</a></li>
-	<li><a class="view-second" href="http://localhost:3000/product-category/mobile-scanner/?products-per-page=48">48</a></li>
-	<li><a class="view-all" href="http://localhost:3000/product-category/mobile-scanner/?products-per-page=all">All</a></li>
-</ul>
+
 </div>
 <ul class="products oceanwp-row clr grid infinite-scroll-wrap">
-<li class="entry has-media has-product-nav col span_1_of_3 owp-content-center item-entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal product type-product post-25671 status-publish first instock product_cat-mobile-scanner has-post-thumbnail shipping-taxable product-type-simple">
+<li class="entry has-media has-product-nav col span_1_of_3 owp-content-center item-entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal product type-product post-26394 status-publish first instock product_cat-mobile-scanner has-post-thumbnail shipping-taxable product-type-simple">
+	<div class="product-inner clr"><ul class="woo-entry-inner clr"><li class="image-wrap">
+	<div class="woo-entry-image clr">
+		<a href="http://localhost:3000/shop/mobile-scanner/scanq-iii/" class="woocommerce-LoopProduct-link"><img width="1080" height="1080" src="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01.jpg" class="woo-entry-image-main" alt="ScanQ-III" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01.jpg 1080w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-100x100.jpg 100w" sizes="(max-width: 1080px) 100vw, 1080px"></a>	</div><!-- .woo-entry-image -->
+
+	<a href="http://localhost:3000/shop/mobile-scanner/scanq-iii/" data-quantity="1" class="button product_type_simple" data-product_id="26394" data-product_sku aria-label="Read more about &#x201C;ScanQ-III&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/mobile-scanner/" rel="tag">M&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng</a></li><li class="title"><h2><a href="http://localhost:3000/shop/mobile-scanner/scanq-iii/">Qu&#xE9;tQ-III</a></h2></li><li class="price-wrap">
+</li><li class="rating"></li><li class="woo-desc">M&#x1ED9;t m&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng qu&#xE9;t m&#x1ECD;i n&#x1A1;i, m&#x1ECD;i l&#xFA;c ScanQ-III v&#x1B0;&#x1EE3;t qua c&#xE1;c gi&#x1EDB;i h&#x1EA1;n v&#x1EC1; k&#xED;ch th&#x1B0;&#x1EDB;c v&#xE0; tr&#x1ECD;ng l&#x1B0;&#x1EE3;ng &#x111;&#x1EC3; c&#xF3; t&#xED;nh di &#x111;&#x1ED9;ng cao &#x111;&#x1ED3;ng th&#x1EDD;i mang l&#x1EA1;i kh&#x1EA3; n&#x103;ng qu&#xE9;t t&#xE0;i li&#x1EC7;u to&#xE0;n trang m&#x1B0;&#x1EE3;t m&#xE0;. &#x110;&#x1B0;&#x1EE3;c c&#x1EA5;p ngu&#x1ED3;n b&#x1EB1;ng m&#xE1;y t&#xED;nh th&#xF4;ng qua c&#xE1;p USB, ScanQ-III &#x111;&#x1EE7; nh&#x1ECF; &#x111;&#x1EC3; c&#xF3; th&#x1EC3; mang theo m&#xE1;y t&#xED;nh x&#xE1;ch tay c&#x1EE7;a b&#x1EA1;n v&#xE0; chia s&#x1EBB; t&#xE0;i li&#x1EC7;u c&#x1EE7;a b&#x1EA1;n t&#x1EEB; m&#x1ECD;i n&#x1A1;i, m&#x1ECD;i l&#xFA;c.</li></ul>
+<ul class="woo-product-gallery">
+
+	
+	
+		<li class="active">
+			<a href="http://localhost:3000/wp-content/uploads/2023/11/ScanQ-III01.jpg" class="woo-product-gallery-link no-lightbox">
+				<img width="150" height="150" src="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="ScanQ-III" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III01.jpg 1080w" sizes="(max-width: 150px) 100vw, 150px">			</a>
+		</li>
+
+		
+					<li>
+						<a href="http://localhost:3000/wp-content/uploads/2023/11/ScanQ-III02.jpg" class="woo-product-gallery-link no-lightbox">
+							<img width="150" height="150" src="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III02-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="ScanQ-III" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III02-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III02-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III02-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III02-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III02-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III02-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III02.jpg 1080w" sizes="(max-width: 150px) 100vw, 150px">						</a>
+					</li>
+
+					
+					<li>
+						<a href="http://localhost:3000/wp-content/uploads/2023/11/ScanQ-III03.jpg" class="woo-product-gallery-link no-lightbox">
+							<img width="150" height="150" src="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III03-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="ScanQ-III" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III03-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III03-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III03-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III03-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III03-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III03-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-III03.jpg 1080w" sizes="(max-width: 150px) 100vw, 150px">						</a>
+					</li>
+
+					
+	
+</ul>
+</ul></div><!-- .product-inner .clr --></li>
+<li class="entry has-media has-product-nav col span_1_of_3 owp-content-center item-entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal product type-product post-25671 status-publish instock product_cat-mobile-scanner has-post-thumbnail shipping-taxable product-type-simple">
 	<div class="product-inner clr"><ul class="woo-entry-inner clr"><li class="image-wrap">
 	<div class="woo-entry-image clr">
 		<a href="http://localhost:3000/shop/mobile-scanner/scanq-sw/" class="woocommerce-LoopProduct-link"><img width="1080" height="1080" src="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-SW_3.jpg" class="woo-entry-image-main" alt="ScanQ-SW" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-SW_3.jpg 1080w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-SW_3-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-SW_3-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-SW_3-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-SW_3-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-SW_3-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/11/ScanQ-SW_3-100x100.jpg 100w" sizes="(max-width: 1080px) 100vw, 1080px"></a>	</div><!-- .woo-entry-image -->
 
-	<a href="http://localhost:3000/shop/mobile-scanner/scanq-sw/" data-quantity="1" class="button product_type_simple" data-product_id="25671" data-product_sku aria-label="Read more about &#x201C;ScanQ-SW&#x201D;" aria-describedby rel="nofollow">Read more</a><ul class="woo-entry-buttons"><li class="woo-quickview-btn"><a href="#" class="owp-quick-view" id="product_id_25671" data-product_id="25671"><i class=" icon-eye" aria-hidden="true" role="img"></i></a></li></ul></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/mobile-scanner/" rel="tag">Mobile Scanner</a></li><li class="title"><h2><a href="http://localhost:3000/shop/mobile-scanner/scanq-sw/">ScanQ-SW</a></h2></li><li class="price-wrap">
-</li><li class="rating"></li><li class="woo-desc">The Avision ScanQ SW &#x2013;Duplex, Mobile Scanner A mobile scanner perfect for the mobile professional</li></ul>
+	<a href="http://localhost:3000/shop/mobile-scanner/scanq-sw/" data-quantity="1" class="button product_type_simple" data-product_id="25671" data-product_sku aria-label="Read more about &#x201C;ScanQ-SW&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/mobile-scanner/" rel="tag">M&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng</a></li><li class="title"><h2><a href="http://localhost:3000/shop/mobile-scanner/scanq-sw/">Qu&#xE9;tQ-SW</a></h2></li><li class="price-wrap">
+</li><li class="rating"></li><li class="woo-desc">Avision ScanQ SW &#x2013;M&#xE1;y qu&#xE9;t hai m&#x1EB7;t, di &#x111;&#x1ED9;ng M&#x1ED9;t m&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng ho&#xE0;n h&#x1EA3;o cho chuy&#xEA;n gia di &#x111;&#x1ED9;ng</li></ul>
 <ul class="woo-product-gallery">
 
 	
@@ -1593,14 +1402,14 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					
 	
 </ul>
-</ul></div><!-- .product-inner .clr --><a href="http://localhost:3000?action=yith-woocompare-add-product&amp;id=25671" class="compare button" data-product_id="25671" rel="nofollow" target="_self">Compare</a></li>
-<li class="entry has-media has-product-nav col span_1_of_3 owp-content-center item-entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal product type-product post-25660 status-publish instock product_cat-mobile-scanner has-post-thumbnail shipping-taxable product-type-simple">
+</ul></div><!-- .product-inner .clr --></li>
+<li class="entry has-media has-product-nav col span_1_of_3 owp-content-center item-entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal product type-product post-25660 status-publish last instock product_cat-mobile-scanner has-post-thumbnail shipping-taxable product-type-simple">
 	<div class="product-inner clr"><ul class="woo-entry-inner clr"><li class="image-wrap">
 	<div class="woo-entry-image clr">
 		<a href="http://localhost:3000/shop/mobile-scanner/scanq-dw/" class="woocommerce-LoopProduct-link"><img width="1080" height="1080" src="https://www.avision.com/en/wp-content/uploads/2023/11/SCAN-DW.jpg" class="woo-entry-image-main" alt="ScanQ-DW" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2023/11/SCAN-DW.jpg 1080w, https://www.avision.com/en/wp-content/uploads/2023/11/SCAN-DW-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/11/SCAN-DW-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/11/SCAN-DW-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/11/SCAN-DW-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/11/SCAN-DW-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/11/SCAN-DW-100x100.jpg 100w" sizes="(max-width: 1080px) 100vw, 1080px"></a>	</div><!-- .woo-entry-image -->
 
-	<a href="http://localhost:3000/shop/mobile-scanner/scanq-dw/" data-quantity="1" class="button product_type_simple" data-product_id="25660" data-product_sku aria-label="Read more about &#x201C;ScanQ-DW&#x201D;" aria-describedby rel="nofollow">Read more</a><ul class="woo-entry-buttons"><li class="woo-quickview-btn"><a href="#" class="owp-quick-view" id="product_id_25660" data-product_id="25660"><i class=" icon-eye" aria-hidden="true" role="img"></i></a></li></ul></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/mobile-scanner/" rel="tag">Mobile Scanner</a></li><li class="title"><h2><a href="http://localhost:3000/shop/mobile-scanner/scanq-dw/">ScanQ-DW</a></h2></li><li class="price-wrap">
-</li><li class="rating"></li><li class="woo-desc">The Avision ScanQ DW &#x2013;Duplex, Mobile Scanner A mobile scanner perfect for the mobile professional</li></ul>
+	<a href="http://localhost:3000/shop/mobile-scanner/scanq-dw/" data-quantity="1" class="button product_type_simple" data-product_id="25660" data-product_sku aria-label="Read more about &#x201C;ScanQ-DW&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/mobile-scanner/" rel="tag">M&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng</a></li><li class="title"><h2><a href="http://localhost:3000/shop/mobile-scanner/scanq-dw/">Qu&#xE9;tQ-DW</a></h2></li><li class="price-wrap">
+</li><li class="rating"></li><li class="woo-desc">Avision ScanQ DW &#x2013;Duplex, Mobile Scanner M&#x1ED9;t m&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng ho&#xE0;n h&#x1EA3;o d&#xE0;nh cho chuy&#xEA;n gia di &#x111;&#x1ED9;ng</li></ul>
 <ul class="woo-product-gallery">
 
 	
@@ -1625,7 +1434,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					
 	
 </ul>
-</ul></div><!-- .product-inner .clr --><a href="http://localhost:3000?action=yith-woocompare-add-product&amp;id=25660" class="compare button" data-product_id="25660" rel="nofollow" target="_self">Compare</a></li>
+</ul></div><!-- .product-inner .clr --></li>
 </ul>
 
 			</article><!-- #post -->
@@ -1662,30 +1471,16 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/why-avision/">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-check"></i>						</span>
-										<span class="elementor-icon-list-text">T&#x1EA1;i sao Avision</span>
-											</a>
+											<a href="http://localhost:3000/why-avision/"> T&#x1EA1;i sao Avision</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/corporate-profile/">
-
-											<span class="elementor-icon-list-text">H&#x1ED3; s&#x1A1; c&#xF4;ng ty</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/corporate-profile/"> H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/news/">
-
-											<span class="elementor-icon-list-text">Tin t&#x1EE9;c</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/news/"> Tin t&#x1EE9;c</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/crs/">
-
-											<span class="elementor-icon-list-text">CSR</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/crs/"> CSR</a>
 									</li>
 						</ul>
 				</div>
@@ -1702,34 +1497,19 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/document-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</span>
-											</a>
+											<a href="http://localhost:3000/product-category/document-scanner/"> M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/flatbed-scanner/">
-
-											<span class="elementor-icon-list-text"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/flatbed-scanner/"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/"> M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/network-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/network-scanner/"> M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/paperair-series/">
-
-											<span class="elementor-icon-list-text">D&#xF2;ng PaperAir</span>
-											</a>
+											<a href="http://localhost:3000/product-category/paperair-series/"> D&#xF2;ng PaperAir</a>
 									</li>
 						</ul>
 				</div>
@@ -1758,22 +1538,13 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/download/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</span>
-											</a>
+											<a href="http://localhost:3000/download/"> Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/helpcenter/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/helpcenter/"> Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/product-registration/">
-
-											<span class="elementor-icon-list-text">&#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/product-registration/"> &#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</a>
 									</li>
 						</ul>
 				</div>
@@ -1792,18 +1563,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-5852473a elementor-shape-circle e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="5852473a" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-social-icons-wrapper elementor-grid">
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-9758c9c" href="https://www.facebook.com/AvisionHQ/" target="_blank">
-						<span class="elementor-screen-only">Facebook-f</span>
-						<i class="fab fa-facebook-f"></i>					</a>
-				</span>
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-d550229" href="https://www.youtube.com/user/AvisionHQ" target="_blank">
-						<span class="elementor-screen-only">Youtube</span>
-						<i class="fab fa-youtube"></i>					</a>
-				</span>
-					</div>
+					<div class="elementor-social-icons-wrapper elementor-grid"> Facebook-f Youtube</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-ae800e8 elementor-widget elementor-widget-image" data-id="ae800e8" data-element_type="widget" data-widget_type="image.default">
@@ -1822,9 +1582,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-1398caa elementor-widget elementor-widget-copyright" data-id="1398caa" data-element_type="widget" data-widget_type="copyright.default">
 				<div class="elementor-widget-container">
-					<div class="hfe-copyright-wrapper">
-							<span>Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</span>
-					</div>
+					<div class="hfe-copyright-wrapper"> Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</div>
 				</div>
 				</div>
 					</div>
@@ -1872,7 +1630,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	</div>
 
 </div>
-<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking &#x201C;Accept&#x201D;, you consent to the use of ALL the cookies. </div><div class="cli-bar-btn_container"><a id="wt-cli-accept-all-btn" role="button" data-cli_action="accept_all" class="wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button">Accept</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking &#x201C;Accept&#x201D;, you consent to the use of ALL the cookies. </div><div class="cli-bar-btn_container"><a id="wt-cli-accept-all-btn" role="button" data-cli_action="accept_all" class="wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button">Ch&#x1EA5;p nh&#x1EAD;n</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
   <div class="cli-modal-dialog" role="document">
 	<div class="cli-modal-content cli-bar-popup">
 		  <button type="button" class="cli-modal-close" id="cliModalClose">
@@ -1892,8 +1650,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
 												<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
-								Necessary							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab"> C&#x1EA7;n thi&#x1EBF;t</a>
 															<div class="wt-cli-necessary-checkbox">
 									<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked">
 									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
@@ -1910,8 +1667,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab">
-								Functional							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab"> ch&#x1EE9;c n&#x103;ng</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-functional" class="cli-user-preference-checkbox" data-id="checkbox-functional">
 									<label for="wt-cli-checkbox-functional" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Functional</span></label>
@@ -1927,8 +1683,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab">
-								Performance							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab"> Hi&#x1EC7;u su&#x1EA5;t</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-performance" class="cli-user-preference-checkbox" data-id="checkbox-performance">
 									<label for="wt-cli-checkbox-performance" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Performance</span></label>
@@ -1944,8 +1699,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab">
-								Analytics							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab"> ph&#xE2;n t&#xED;ch</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-analytics" class="cli-user-preference-checkbox" data-id="checkbox-analytics">
 									<label for="wt-cli-checkbox-analytics" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Analytics</span></label>
@@ -1961,8 +1715,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab">
-								Advertisement							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab"> Qu&#x1EA3;ng c&#xE1;o</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-advertisement" class="cli-user-preference-checkbox" data-id="checkbox-advertisement">
 									<label for="wt-cli-checkbox-advertisement" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Advertisement</span></label>
@@ -1978,8 +1731,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab">
-								Others							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab"> Ng&#x1B0;&#x1EDD;i kh&#xE1;c</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-others" class="cli-user-preference-checkbox" data-id="checkbox-others">
 									<label for="wt-cli-checkbox-others" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Others</span></label>
@@ -2003,7 +1755,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
 						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
 						
-															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE &amp; ACCEPT</a>
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">L&#x1AF;U &amp; CH&#x1EA4;P NH&#x1EAC;N</a>
 													</div>
 						
 					</div>
@@ -2044,7 +1796,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	</div>
 	<div class="owp-qv-overlay"></div>
 </div>
-<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Cart</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Xe &#x111;&#x1EA9;y</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
 								<section class="elementor-section elementor-top-section elementor-element elementor-element-45284f83 elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle elementor-section-height-default elementor-section-items-middle" data-id="45284f83" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
@@ -2058,9 +1810,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<i aria-hidden="true" class="fas fa-globe-americas"></i>				</span>
 			</div>
 						<div class="elementor-icon-box-content">
-				<h2 class="elementor-icon-box-title">
-					<span> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</span>
-				</h2>
+				<h2 class="elementor-icon-box-title"> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</h2>
 							</div>
 		</div>
 				</div>
@@ -2201,9 +1951,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 								<div class="elementor-element elementor-element-32f58706 elementor-icon-list--layout-inline elementor-align-right elementor-widget__width-auto elementor-tablet-align-center elementor-mobile-align-center elementor-widget-tablet__width-inherit elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="32f58706" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items elementor-inline-items">
-							<li class="elementor-icon-list-item elementor-inline-item">
-										<span class="elementor-icon-list-text">Ng&#xF4;n ng&#x1EEF;</span>
-									</li>
+							<li class="elementor-icon-list-item elementor-inline-item"> Ng&#xF4;n ng&#x1EEF;</li>
 						</ul>
 				</div>
 				</div>
@@ -2301,7 +2049,7 @@ var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result 
 </script>
 <script src="https://www.avision.com/en/wp-includes/js/jquery/ui/autocomplete.js?ver=1.13.2" id="jquery-ui-autocomplete-js"></script>
 <script id="helpie-faq-bundle-js-extra">
-var helpie_faq_object = {"nonce":"a4b4b99b6d","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"25671","current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
+var helpie_faq_object = {"nonce":"44c8c15ec3","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"26394","current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
 var faqStrings = {"hide":"Hide","addFAQ":"Add FAQ","noFaqsFound":"No FAQ found"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/helpie-faq/assets/bundles/main.app.js?ver=1.11" id="helpie-faq-bundle-js"></script>
@@ -2322,7 +2070,7 @@ var mailchimp_public_data = {"site_url":"https:\/\/www.avision.com\/en","ajax_ur
 <script src="https://www.avision.com/en/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=3.2.03" id="mailchimp-woocommerce-js"></script>
 <script src="https://www.avision.com/en/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
 <script id="oceanwp-main-js-extra">
-var oceanwpLocalize = {"nonce":"63f837164f","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"d9a848d84b"};
+var oceanwpLocalize = {"nonce":"4cd3f37f81","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"130e0abfae"};
 </script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=3.0.5.1644388334" id="oceanwp-main-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=3.0.5.1644388334" id="oceanwp-drop-down-mobile-menu-js"></script>
@@ -2336,7 +2084,7 @@ var oceanwpLocalize = {"nonce":"63f837164f","isRTL":"","menuSearchStyle":"drop_d
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/select.min.js?ver=3.0.5.1644388334" id="oceanwp-select-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/ow-infinite-scroll.min.js?ver=3.0.5.1644388334" id="oceanwp-infinite-scroll-js"></script>
 <script id="oceanwp-woocommerce-custom-features-js-extra">
-var oceanwpLocalize = {"nonce":"63f837164f","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"d9a848d84b"};
+var oceanwpLocalize = {"nonce":"4cd3f37f81","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"130e0abfae"};
 </script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-custom-features.min.js?ver=3.0.5.1644388334" id="oceanwp-woocommerce-custom-features-js"></script>
 <script id="popup-maker-site-js-extra">
@@ -2344,7 +2092,7 @@ var pum_vars = {"version":"1.18.2","pm_dir_url":"https:\/\/www.avision.com\/en\/
 var pum_sub_vars = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","message_position":"top"};
 var pum_popups = {"pum-2659":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"7761","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"7761","id":2659,"slug":"paperport"},"pum-11307":{"triggers":[{"type":"click_open","settings":{"extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"7761","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"7761","id":11307,"slug":"example-of-s-n"}};
 </script>
-<script src="//www.avision.com/en/wp-content/uploads/pum/pum-site-scripts-1.js?defer&amp;generated=1700726526&amp;ver=1.18.2" id="popup-maker-site-js"></script>
+<script src="https://www.avision.com/en/wp-content/plugins/popup-maker/assets/js/site.js?defer&amp;ver=1.18.2" id="popup-maker-site-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-hover-style.min.js?ver=3.0.5.1644388334" id="oceanwp-woo-hover-style-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-quick-view.min.js?ver=3.0.5.1644388334" id="oceanwp-woo-quick-view-js"></script>
 <script src="https://www.avision.com/en/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
@@ -2375,7 +2123,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/en\/?wc-ajax=%%endpoint%
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/tipsy/tipsy.js?ver=1.0.0a" id="um_tipsy-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/raty/um-raty.js?ver=2.6.0" id="um_raty-js"></script>
 <script id="um_scripts-js-extra">
-var um_scripts = {"max_upload_size":"52428800","nonce":"ef3fa3427c"};
+var um_scripts = {"max_upload_size":"52428800","nonce":"9d3a550f4c"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/js/um-scripts.js?ver=2.7.0" id="um_scripts-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/js/um-profile.js?ver=2.7.0" id="um_profile-js"></script>
@@ -2421,7 +2169,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/en\/wp-admin\/admin-ajax.php","wc_
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/js/webpack.runtime.js?ver=3.15.3" id="elementor-webpack-runtime-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/js/frontend-modules.js?ver=3.15.3" id="elementor-frontend-modules-js"></script>
 <script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","nonce":"b3e39359fe","urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.avision.com\/en\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/www.avision.com\/en","checkout_page_url":"https:\/\/www.avision.com\/en"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","nonce":"82ec843f0c","urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.avision.com\/en\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/www.avision.com\/en","checkout_page_url":"https:\/\/www.avision.com\/en"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor-pro/assets/js/frontend.js?ver=3.6.5" id="elementor-pro-frontend-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.js?ver=4.0.2" id="elementor-waypoints-js"></script>

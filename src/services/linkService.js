@@ -54,7 +54,7 @@ function getPageAsync(urls, crawler) {
                     !href.includes("upload") &&
                     !href.includes("download")
                   ) {
-                    uniqueLinks.add(href.split("?")[0]);
+                    uniqueLinks.add(href);
                   }
                 });
 

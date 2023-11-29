@@ -824,7 +824,19 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel="stylesheet" id="oceanwp-woo-hover-style-css" href="https://www.avision.com/en/wp-content/themes/oceanwp/assets/css/woo/hover-style.min.css?ver=6.3.2" media="all">
 <link rel="stylesheet" id="oceanwp-woo-quick-view-css" href="https://www.avision.com/en/wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min.css?ver=6.3.2" media="all">
 <link rel="stylesheet" id="chld_thm_cfg_child-css" href="https://www.avision.com/en/wp-content/themes/oceanwp-child/style.css?ver=3.0.5.1644388334" media="all">
-<link rel="stylesheet" id="popup-maker-site-css" href="//www.avision.com/en/wp-content/uploads/pum/pum-site-styles-1.css?generated=1700726988&amp;ver=1.18.2" media="all">
+<link rel="stylesheet" id="popup-maker-site-css" href="https://www.avision.com/en/wp-content/plugins/popup-maker/assets/css/pum-site.css?ver=1.18.2" media="all">
+<style id="popup-maker-site-inline-css">
+/* Popup Theme 7761: Default */
+.pum-theme-7761, .pum-theme-7761 { background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-7761 .pum-container, .pum-theme-7761 .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1.00 ) } 
+.pum-theme-7761 .pum-title, .pum-theme-7761 .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; line-height: 36px } 
+.pum-theme-7761 .pum-content, .pum-theme-7761 .pum-content { color: #8c8c8c; font-family: inherit; font-weight: 400 } 
+.pum-theme-7761 .pum-content + .pum-close, .pum-theme-7761 .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: 400; font-size: 12px; line-height: 36px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1.00 ) } 
+
+#pum-2659 {z-index: 1999999999}
+#pum-11307 {z-index: 1999999999}
+
+</style>
 <link rel="stylesheet" id="um_crop-css" href="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/css/um-crop.css?ver=2.7.0" media="all">
 <link rel="stylesheet" id="um_modal-css" href="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/css/um-modal.css?ver=2.7.0" media="all">
 <link rel="stylesheet" id="um_ui-css" href="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/jquery-ui.css?ver=1.12.1" media="all">
@@ -1075,7 +1087,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	
 	<div id="outer-wrap" class="site clr">
 
-		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+		<a class="skip-link screen-reader-text" href="#main">Chuy&#x1EC3;n &#x111;&#x1EBF;n n&#x1ED9;i dung</a>
 
 		
 		<div id="wrap" class="clr">
@@ -1098,7 +1110,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					<form class="hfe-search-button-wrapper" role="search" action="https://www.avision.com/en" method="get">
 						<div class="hfe-search-icon-toggle">
 				<input placeholder class="hfe-search-form__input" type="search" name="s" title="Search" value>
-				<i class="fas fa-search" aria-hidden="true"></i>
+				
 			</div>
 					</form>
 				</div>
@@ -1174,7 +1186,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055"><a href="http://localhost:3000/login/" class="elementor-item">&#x110;&#x103;ng nh&#x1EAD;p</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055">
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://localhost:3000/registration/" class="elementor-sub-item">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
@@ -1216,7 +1228,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item" tabindex="-1">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055"><a href="http://localhost:3000/login/" class="elementor-item" tabindex="-1">&#x110;&#x103;ng nh&#x1EAD;p</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055">
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://localhost:3000/registration/" class="elementor-sub-item" tabindex="-1">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
@@ -1258,14 +1270,14 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 
 
 <header class="entry-header clr">
-	<h2 class="single-post-title entry-title" itemprop="headline">Meet Us at CYBERSEC 2022</h2><!-- .single-post-title -->
+	<h2 class="single-post-title entry-title" itemprop="headline">G&#x1EB7;p ch&#xFA;ng t&#xF4;i t&#x1EA1;i CYBERSEC 2022</h2><!-- .single-post-title -->
 </header><!-- .entry-header -->
 
 
 <ul class="meta ospm-none clr">
 
 	
-					<li class="meta-author" itemprop="name"><span class="screen-reader-text">Post author:</span><i class=" icon-user" aria-hidden="true" role="img"></i><a href="http://localhost:3000/blog/author/aviadmin/" title="Posts by aviadmin" rel="author" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">aviadmin</a></li>
+					<li class="meta-author" itemprop="name"><span class="screen-reader-text">Post author:</span><i class=" icon-user" aria-hidden="true" role="img"></i><a href="http://localhost:3000/blog/author/aviadmin/" title="Posts by aviadmin" rel="author" itemprop="author" itemscope="itemscope" itemtype="https://schema.org/Person">aviaadmin</a></li>
 		
 		
 		
@@ -1284,7 +1296,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		
 		
 		
-					<li class="meta-cat"><span class="screen-reader-text">Post category:</span><i class=" icon-folder" aria-hidden="true" role="img"></i><a href="http://localhost:3000/exhibition/" rel="category tag">Exhibition</a></li>
+					<li class="meta-cat"><span class="screen-reader-text">Post category:</span><i class=" icon-folder" aria-hidden="true" role="img"></i><a href="http://localhost:3000/exhibition/" rel="category tag">Tri&#x1EC3;n l&#xE3;m</a></li>
 		
 		
 		
@@ -1312,7 +1324,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-1af4c5d elementor-widget elementor-widget-text-editor" data-id="1af4c5d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>&#xA0;&#x3000;&#x3000;Avision sincerely invites you to join us at CYBERSEC 2022 from Sep 20<sup>th - translated </sup>, 2022 to Sep 22<sup>nd - translated </sup>, 2022 in Taipei Nangang Exhibition Center, Hall 2. Our booth will be located at F23 on the 4th floor. We&#x2019;re looking forward to seeing you there.</p>						</div>
+							<p>&#xA0;&#x3000;&#x3000;Avision sincerely invites you to join us at CYBERSEC 2022 from Sep 20<sup>qu&#x1EA7;n qu&#xE8;</sup>, 2022 to Sep 22<sup>th&#x1EE9;</sup>, 2022 in Taipei Nangang Exhibition Center, Hall 2. Our booth will be located at F23 on the 4th floor. We&#x2019;re looking forward to seeing you there.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -1324,15 +1336,15 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-969a0f7 elementor-widget elementor-widget-heading" data-id="969a0f7" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">AM7640i Cybersecurity Copier - translated </h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">M&#xE1;y photocopy an ninh m&#x1EA1;ng AM7640i</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-9c0db3d elementor-widget elementor-widget-text-editor" data-id="9c0db3d" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p> As the increasing of the demands of MFP cybersecurity, Avision has been dedicated to develop a series of cybersecurity products to meet market demand requirements. Avision designs, developed and manufacture a complete range of scanners, printers and MFPs. In terms of advantages, we take the full control of our system and provide the best ways to prevent backdoors attack. Once the forbidden words and specific patterns are printed or copied, the OCR server will recognized the forbidden content, and notify the administrators with the detailed information which includes users/time/location/image immediately by email and line. Protect your company from cybersecurity threats! - translated </p><p><strong>&#x25C6; Intelligent Copying Feature-&#x201C;Drop N Take&#x201D; - translated </strong></p><p>The intelligent &#x201C;Drop N Take&#x201D; feature allows you to simply load your document easily to the feeder or on the glass and then the next second your copy is automatically straightened. It is simply that easy! - translated </p><p><strong>&#x25C6; Enhanced Auto crop / Deskew and Blank page Removal Feature - translated </strong></p><p>The Avision&#x2019;s innovative intelligent copy allows you to insert your document easily to the feeder or on the glass platen, and then the next second a perfect copy can be done automatically. If a document is not inserted correctly, the image can be automatically cropped and straightened during scanning. Plus, with the blank page detection and removal feature, the blank page can be detected and deleted without being printed. All these features let you complete your copy efficiently and effectively. - translated </p><p><strong>&#x25C6; 8 inch LED Color Touch Screen - translated </strong></p><p>Easy to use and navigate the large 8-inch bright color touch screen and user interface. - translated </p><p><strong>&#x25C6; Control Access to MFPs by ID Card - translated </strong></p><p>The AM7640i provides a secure way to access the machine by ID cards. By scanning the ID card on the control panel, administrators can assign usage privileges quickly and easily. The solution is designed for companies with many different departments, all with individual needs and offices concerned with reducing waste and tightening security. - translated </p><p><strong>&#x25C6; Advanced Scanning Capabilities - translated </strong></p><p>The product lets you scan paper-based documents in full color in PDF, JPEG, or TIFF file format and send them to a variety of destinations such as E-mail, FTP, USB and network folder (SMB). - translated </p><p><strong>&#x25C6; Two Sides Reading Heads - translated </strong></p><p>Two reading heads save twice working time! - translated </p><p><strong>&#x25C6; Easy Customization Based on a Popular Tablet System - translated </strong></p><p>Avision takes the full control of our system and provides the best ways to prevent backdoors attack. Based on a popular tablet operating system, the Avision AM7640i provides convenience to customize your workflow and the OCR server detected content includes specific pattern and keywords to help protect your company from cybersecurity threats! - translated </p>						</div>
+							<p> Khi nhu c&#x1EA7;u v&#x1EC1; an ninh m&#x1EA1;ng MFP ng&#xE0;y c&#xE0;ng t&#x103;ng, Avision &#x111;&#xE3; chuy&#xEA;n t&#xE2;m ph&#xE1;t tri&#x1EC3;n m&#x1ED9;t lo&#x1EA1;t s&#x1EA3;n ph&#x1EA9;m an ninh m&#x1EA1;ng &#x111;&#x1EC3; &#x111;&#xE1;p &#x1EE9;ng y&#xEA;u c&#x1EA7;u c&#x1EE7;a th&#x1ECB; tr&#x1B0;&#x1EDD;ng. Avision thi&#x1EBF;t k&#x1EBF;, ph&#xE1;t tri&#x1EC3;n v&#xE0; s&#x1EA3;n xu&#x1EA5;t &#x111;&#x1EA7;y &#x111;&#x1EE7; c&#xE1;c lo&#x1EA1;i m&#xE1;y qu&#xE9;t, m&#xE1;y in v&#xE0; m&#xE1;y in &#x111;a ch&#x1EE9;c n&#x103;ng. V&#x1EC1; l&#x1EE3;i &#xED;ch, ch&#xFA;ng t&#xF4;i c&#xF3; to&#xE0;n quy&#x1EC1;n ki&#x1EC3;m so&#xE1;t h&#x1EC7; th&#x1ED1;ng c&#x1EE7;a m&#xEC;nh v&#xE0; cung c&#x1EA5;p nh&#x1EEF;ng c&#xE1;ch t&#x1ED1;t nh&#x1EA5;t &#x111;&#x1EC3; ng&#x103;n ch&#x1EB7;n cu&#x1ED9;c t&#x1EA5;n c&#xF4;ng b&#x1EB1;ng c&#x1EED;a h&#x1EAD;u. Sau khi c&#xE1;c t&#x1EEB; b&#x1ECB; c&#x1EA5;m v&#xE0; m&#x1EAB;u c&#x1EE5; th&#x1EC3; &#x111;&#x1B0;&#x1EE3;c in ho&#x1EB7;c sao ch&#xE9;p, m&#xE1;y ch&#x1EE7; OCR s&#x1EBD; nh&#x1EAD;n d&#x1EA1;ng n&#x1ED9;i dung b&#x1ECB; c&#x1EA5;m v&#xE0; th&#xF4;ng b&#xE1;o cho qu&#x1EA3;n tr&#x1ECB; vi&#xEA;n th&#xF4;ng tin chi ti&#x1EBF;t bao g&#x1ED3;m ng&#x1B0;&#x1EDD;i d&#xF9;ng/th&#x1EDD;i gian/&#x111;&#x1ECB;a &#x111;i&#x1EC3;m/h&#xEC;nh &#x1EA3;nh ngay l&#x1EAD;p t&#x1EE9;c qua email v&#xE0; &#x111;&#x1B0;&#x1EDD;ng d&#xE2;y. B&#x1EA3;o v&#x1EC7; c&#xF4;ng ty c&#x1EE7;a b&#x1EA1;n kh&#x1ECF;i c&#xE1;c m&#x1ED1;i &#x111;e d&#x1ECD;a an ninh m&#x1EA1;ng!</p><p>&#x25C6; T&#xED;nh n&#x103;ng sao ch&#xE9;p th&#xF4;ng minh-&#x201C;Th&#x1EA3; N L&#x1EA5;y&#x201D;</p><p>T&#xED;nh n&#x103;ng &#x201C;Drop N Take&#x201D; th&#xF4;ng minh cho ph&#xE9;p b&#x1EA1;n ch&#x1EC9; c&#x1EA7;n t&#x1EA3;i t&#xE0;i li&#x1EC7;u c&#x1EE7;a m&#xEC;nh m&#x1ED9;t c&#xE1;ch d&#x1EC5; d&#xE0;ng v&#xE0;o khay n&#x1EA1;p ho&#x1EB7;c tr&#xEA;n k&#xED;nh v&#xE0; sau &#x111;&#xF3; gi&#xE2;y ti&#x1EBF;p theo, b&#x1EA3;n sao c&#x1EE7;a b&#x1EA1;n s&#x1EBD; t&#x1EF1; &#x111;&#x1ED9;ng &#x111;&#x1B0;&#x1EE3;c l&#xE0;m th&#x1EB3;ng. N&#xF3; ch&#x1EC9; &#x111;&#x1A1;n gi&#x1EA3;n l&#xE0; d&#x1EC5; d&#xE0;ng!</p><p>&#x25C6; T&#xED;nh n&#x103;ng t&#x1EF1; &#x111;&#x1ED9;ng c&#x1EAF;t x&#xE9;n / nghi&#xEA;ng v&#xE0; lo&#x1EA1;i b&#x1ECF; trang tr&#x1ED1;ng n&#xE2;ng cao</p><p>B&#x1EA3;n sao th&#xF4;ng minh c&#x1EA3;i ti&#x1EBF;n c&#x1EE7;a Avision cho ph&#xE9;p b&#x1EA1;n d&#x1EC5; d&#xE0;ng ch&#xE8;n t&#xE0;i li&#x1EC7;u c&#x1EE7;a m&#xEC;nh v&#xE0;o khay n&#x1EA1;p ho&#x1EB7;c tr&#xEA;n t&#x1EA5;m k&#xED;nh, v&#xE0; sau &#x111;&#xF3; gi&#xE2;y ti&#x1EBF;p theo, m&#x1ED9;t b&#x1EA3;n sao ho&#xE0;n h&#x1EA3;o c&#xF3; th&#x1EC3; &#x111;&#x1B0;&#x1EE3;c th&#x1EF1;c hi&#x1EC7;n t&#x1EF1; &#x111;&#x1ED9;ng. N&#x1EBF;u t&#xE0;i li&#x1EC7;u kh&#xF4;ng &#x111;&#x1B0;&#x1EE3;c ch&#xE8;n ch&#xED;nh x&#xE1;c, h&#xEC;nh &#x1EA3;nh c&#xF3; th&#x1EC3; &#x111;&#x1B0;&#x1EE3;c t&#x1EF1; &#x111;&#x1ED9;ng c&#x1EAF;t v&#xE0; l&#xE0;m th&#x1EB3;ng trong qu&#xE1; tr&#xEC;nh qu&#xE9;t. Ngo&#xE0;i ra, v&#x1EDB;i t&#xED;nh n&#x103;ng ph&#xE1;t hi&#x1EC7;n v&#xE0; x&#xF3;a trang tr&#x1ED1;ng, trang tr&#x1ED1;ng c&#xF3; th&#x1EC3; &#x111;&#x1B0;&#x1EE3;c ph&#xE1;t hi&#x1EC7;n v&#xE0; x&#xF3;a m&#xE0; kh&#xF4;ng c&#x1EA7;n in. T&#x1EA5;t c&#x1EA3; c&#xE1;c t&#xED;nh n&#x103;ng n&#xE0;y cho ph&#xE9;p b&#x1EA1;n ho&#xE0;n th&#xE0;nh b&#x1EA3;n sao c&#x1EE7;a m&#xEC;nh m&#x1ED9;t c&#xE1;ch hi&#x1EC7;u qu&#x1EA3; v&#xE0; hi&#x1EC7;u qu&#x1EA3;.</p><p>&#x25C6; M&#xE0;n h&#xEC;nh c&#x1EA3;m &#x1EE9;ng m&#xE0;u LED 8 inch</p><p>D&#x1EC5; d&#xE0;ng s&#x1EED; d&#x1EE5;ng v&#xE0; &#x111;i&#x1EC1;u h&#x1B0;&#x1EDB;ng v&#x1EDB;i m&#xE0;n h&#xEC;nh c&#x1EA3;m &#x1EE9;ng l&#x1EDB;n 8 inch m&#xE0;u s&#xE1;ng v&#xE0; giao di&#x1EC7;n ng&#x1B0;&#x1EDD;i d&#xF9;ng.</p><p>&#x25C6; Ki&#x1EC3;m so&#xE1;t quy&#x1EC1;n truy c&#x1EAD;p v&#xE0;o MFP b&#x1EB1;ng th&#x1EBB; ID</p><p>AM7640i cung c&#x1EA5;p m&#x1ED9;t c&#xE1;ch an to&#xE0;n &#x111;&#x1EC3; truy c&#x1EAD;p v&#xE0;o m&#xE1;y b&#x1EB1;ng th&#x1EBB; ID. B&#x1EB1;ng c&#xE1;ch qu&#xE9;t th&#x1EBB; ID tr&#xEA;n b&#x1EA3;ng &#x111;i&#x1EC1;u khi&#x1EC3;n, qu&#x1EA3;n tr&#x1ECB; vi&#xEA;n c&#xF3; th&#x1EC3; ch&#x1EC9; &#x111;&#x1ECB;nh &#x111;&#x1EB7;c quy&#x1EC1;n s&#x1EED; d&#x1EE5;ng m&#x1ED9;t c&#xE1;ch nhanh ch&#xF3;ng v&#xE0; d&#x1EC5; d&#xE0;ng. Gi&#x1EA3;i ph&#xE1;p n&#xE0;y &#x111;&#x1B0;&#x1EE3;c thi&#x1EBF;t k&#x1EBF; cho c&#xE1;c c&#xF4;ng ty c&#xF3; nhi&#x1EC1;u ph&#xF2;ng ban kh&#xE1;c nhau, t&#x1EA5;t c&#x1EA3; &#x111;&#x1EC1;u c&#xF3; nhu c&#x1EA7;u c&#xE1; nh&#xE2;n v&#xE0; v&#x103;n ph&#xF2;ng quan t&#xE2;m &#x111;&#x1EBF;n vi&#x1EC7;c gi&#x1EA3;m l&#xE3;ng ph&#xED; v&#xE0; th&#x1EAF;t ch&#x1EB7;t an ninh.</p><p>&#x25C6; Kh&#x1EA3; n&#x103;ng qu&#xE9;t n&#xE2;ng cao</p><p>S&#x1EA3;n ph&#x1EA9;m cho ph&#xE9;p b&#x1EA1;n qu&#xE9;t c&#xE1;c t&#xE0;i li&#x1EC7;u tr&#xEA;n gi&#x1EA5;y v&#x1EDB;i &#x111;&#x1EA7;y &#x111;&#x1EE7; m&#xE0;u s&#x1EAF;c &#x1EDF; &#x111;&#x1ECB;nh d&#x1EA1;ng t&#x1EC7;p PDF, JPEG ho&#x1EB7;c TIFF v&#xE0; g&#x1EED;i ch&#xFA;ng &#x111;&#x1EBF;n nhi&#x1EC1;u &#x111;i&#x1EC3;m &#x111;&#x1EBF;n kh&#xE1;c nhau nh&#x1B0; E-mail, FTP, USB v&#xE0; th&#x1B0; m&#x1EE5;c m&#x1EA1;ng (SMB).</p><p>&#x25C6; &#x110;&#x1EA7;u &#x111;&#x1ECD;c hai m&#x1EB7;t</p><p>Hai &#x111;&#x1EA7;u &#x111;&#x1ECD;c ti&#x1EBF;t ki&#x1EC7;m g&#x1EA5;p &#x111;&#xF4;i th&#x1EDD;i gian l&#xE0;m vi&#x1EC7;c!</p><p>&#x25C6; T&#xF9;y ch&#x1EC9;nh d&#x1EC5; d&#xE0;ng d&#x1EF1;a tr&#xEA;n h&#x1EC7; th&#x1ED1;ng m&#xE1;y t&#xED;nh b&#x1EA3;ng ph&#x1ED5; bi&#x1EBF;n</p><p>Avision n&#x1EAF;m to&#xE0;n quy&#x1EC1;n ki&#x1EC3;m so&#xE1;t h&#x1EC7; th&#x1ED1;ng c&#x1EE7;a ch&#xFA;ng t&#xF4;i v&#xE0; cung c&#x1EA5;p nh&#x1EEF;ng c&#xE1;ch t&#x1ED1;t nh&#x1EA5;t &#x111;&#x1EC3; ng&#x103;n ch&#x1EB7;n cu&#x1ED9;c t&#x1EA5;n c&#xF4;ng b&#x1EB1;ng c&#x1EED;a sau. D&#x1EF1;a tr&#xEA;n h&#x1EC7; &#x111;i&#x1EC1;u h&#xE0;nh m&#xE1;y t&#xED;nh b&#x1EA3;ng ph&#x1ED5; bi&#x1EBF;n, Avision AM7640i mang &#x111;&#x1EBF;n s&#x1EF1; thu&#x1EAD;n ti&#x1EC7;n &#x111;&#x1EC3; t&#xF9;y ch&#x1EC9;nh quy tr&#xEC;nh l&#xE0;m vi&#x1EC7;c c&#x1EE7;a b&#x1EA1;n v&#xE0; n&#x1ED9;i dung &#x111;&#x1B0;&#x1EE3;c m&#xE1;y ch&#x1EE7; OCR ph&#xE1;t hi&#x1EC7;n bao g&#x1ED3;m m&#x1EAB;u v&#xE0; t&#x1EEB; kh&#xF3;a c&#x1EE5; th&#x1EC3; &#x111;&#x1EC3; gi&#xFA;p b&#x1EA3;o v&#x1EC7; c&#xF4;ng ty c&#x1EE7;a b&#x1EA1;n kh&#x1ECF;i c&#xE1;c m&#x1ED1;i &#x111;e d&#x1ECD;a an ninh m&#x1EA1;ng!</p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-a02ceb9 elementor-widget elementor-widget-heading" data-id="a02ceb9" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Global Pioneer- A1 Seires Printer - translated </h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Global Pioneer- M&#xE1;y in Seires A1</h2>		</div>
 				</div>
 				<section class="elementor-section elementor-inner-section elementor-element elementor-element-7b05a60 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7b05a60" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
@@ -1344,7 +1356,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-09a9ee3 elementor-widget elementor-widget-text-editor" data-id="09a9ee3" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p> Introducing Avision&#x2019;s latest A4 printer- A1 series, the new series is born to fulfill all your office needs. Exclusive from Avision, first in the world, Avision provides a leading-edge printer that integrates copy features innovatively into one single machine. Perfect for home offices or small businesses that need cost-efficiency, space-saving, and high performance in a compact and easy-to-use desktop printer. Plus, Avision A1 helps to save your operation time about 41% compared to the traditional MFPs and improve your work efficiency. The A1 offers auto crop and deskew feature to automatically crop and straighten your documents. Allow you to get perfect copies with hassle-free. Boost your work efficiency with A1 series ! Simply touch a single button to switch to duplex printing. You can always get another copy by press start button. Produce professional black and white output impressive copy speeds of up to 30 pages per minute, and print up to 30 pages per minute. Avision A1- your reliable office assistant! - translated </p>						</div>
+							<p> Gi&#x1EDB;i thi&#x1EC7;u d&#xF2;ng m&#xE1;y in A4-A1 m&#x1EDB;i nh&#x1EA5;t c&#x1EE7;a Avision, d&#xF2;ng m&#xE1;y m&#x1EDB;i ra &#x111;&#x1EDD;i nh&#x1EB1;m &#x111;&#xE1;p &#x1EE9;ng m&#x1ECD;i nhu c&#x1EA7;u v&#x103;n ph&#xF2;ng c&#x1EE7;a b&#x1EA1;n. &#x110;&#x1ED9;c quy&#x1EC1;n t&#x1EEB; Avision, l&#x1EA7;n &#x111;&#x1EA7;u ti&#xEA;n tr&#xEA;n th&#x1EBF; gi&#x1EDB;i, Avision cung c&#x1EA5;p m&#xE1;y in h&#xE0;ng &#x111;&#x1EA7;u t&#xED;ch h&#x1EE3;p c&#xE1;c t&#xED;nh n&#x103;ng sao ch&#xE9;p m&#x1ED9;t c&#xE1;ch s&#xE1;ng t&#x1EA1;o v&#xE0;o m&#x1ED9;t m&#xE1;y duy nh&#x1EA5;t. Ho&#xE0;n h&#x1EA3;o cho v&#x103;n ph&#xF2;ng t&#x1EA1;i nh&#xE0; ho&#x1EB7;c doanh nghi&#x1EC7;p nh&#x1ECF; c&#x1EA7;n hi&#x1EC7;u qu&#x1EA3; chi ph&#xED;, ti&#x1EBF;t ki&#x1EC7;m kh&#xF4;ng gian v&#xE0; hi&#x1EC7;u su&#x1EA5;t cao trong m&#x1ED9;t m&#xE1;y in &#x111;&#x1EC3; b&#xE0;n nh&#x1ECF; g&#x1ECD;n v&#xE0; d&#x1EC5; s&#x1EED; d&#x1EE5;ng. Ngo&#xE0;i ra, Avision A1 gi&#xFA;p b&#x1EA1;n ti&#x1EBF;t ki&#x1EC7;m th&#x1EDD;i gian v&#x1EAD;n h&#xE0;nh kho&#x1EA3;ng 41% so v&#x1EDB;i c&#xE1;c m&#xE1;y MFP truy&#x1EC1;n th&#x1ED1;ng v&#xE0; n&#xE2;ng cao hi&#x1EC7;u qu&#x1EA3; c&#xF4;ng vi&#x1EC7;c c&#x1EE7;a b&#x1EA1;n. A1 cung c&#x1EA5;p t&#xED;nh n&#x103;ng t&#x1EF1; &#x111;&#x1ED9;ng c&#x1EAF;t v&#xE0; ch&#x1EC9;nh &#x111;&#x1ED9; nghi&#xEA;ng &#x111;&#x1EC3; t&#x1EF1; &#x111;&#x1ED9;ng c&#x1EAF;t v&#xE0; l&#xE0;m th&#x1EB3;ng t&#xE0;i li&#x1EC7;u c&#x1EE7;a b&#x1EA1;n. Cho ph&#xE9;p b&#x1EA1;n c&#xF3; &#x111;&#x1B0;&#x1EE3;c b&#x1EA3;n sao ho&#xE0;n h&#x1EA3;o m&#xE0; kh&#xF4;ng g&#x1EB7;p r&#x1EAF;c r&#x1ED1;i. T&#x103;ng hi&#x1EC7;u qu&#x1EA3; c&#xF4;ng vi&#x1EC7;c c&#x1EE7;a b&#x1EA1;n v&#x1EDB;i d&#xF2;ng A1 ! Ch&#x1EC9; c&#x1EA7;n ch&#x1EA1;m v&#xE0;o m&#x1ED9;t n&#xFA;t duy nh&#x1EA5;t &#x111;&#x1EC3; chuy&#x1EC3;n sang in hai m&#x1EB7;t. B&#x1EA1;n lu&#xF4;n c&#xF3; th&#x1EC3; l&#x1EA5;y m&#x1ED9;t b&#x1EA3;n sao kh&#xE1;c b&#x1EB1;ng c&#xE1;ch nh&#x1EA5;n n&#xFA;t b&#x1EAF;t &#x111;&#x1EA7;u. T&#x1EA1;o ra b&#x1EA3;n in &#x111;en tr&#x1EAF;ng chuy&#xEA;n nghi&#x1EC7;p v&#x1EDB;i t&#x1ED1;c &#x111;&#x1ED9; sao ch&#xE9;p &#x1EA5;n t&#x1B0;&#x1EE3;ng l&#xEA;n t&#x1EDB;i 30 trang m&#x1ED7;i ph&#xFA;t v&#xE0; in l&#xEA;n t&#x1EDB;i 30 trang m&#x1ED7;i ph&#xFA;t. Avision A1- tr&#x1EE3; l&#xFD; v&#x103;n ph&#xF2;ng &#x111;&#xE1;ng tin c&#x1EAD;y c&#x1EE7;a b&#x1EA1;n!</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -1352,11 +1364,11 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		</section>
 				<div class="elementor-element elementor-element-8abcc5d elementor-widget elementor-widget-heading" data-id="8abcc5d" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">&#x258E;Exhibition Info - translated </h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">&#x258E;Th&#xF4;ng tin tri&#x1EC3;n l&#xE3;m</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-2053937 elementor-widget elementor-widget-text-editor" data-id="2053937" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><strong>CYBERSEC 2022 - translated </strong><br><strong>&#x258E; - translated </strong>Date<br>Sep. 20th &#x2013; Sep. 22nd, 2022<br><strong>&#x258E; - translated </strong>Location<br>Booth F23, Taipei Nangang Exhibition Center, Hall 2, 4F</p>						</div>
+							<p>CYBERSEC 2022&#x258E;Ng&#xE0;yTh&#xE1;ng 9 Ng&#xE0;y 20 &#x2013; ng&#xE0;y 22 th&#xE1;ng 9 n&#x103;m 2022&#x258E;&#x110;&#x1ECB;a &#x111;i&#x1EC3;mGian h&#xE0;ng F23, Trung t&#xE2;m Tri&#x1EC3;n l&#xE3;m Nam C&#x1EA3;ng &#x110;&#xE0;i B&#x1EAF;c, H&#x1ED9;i tr&#x1B0;&#x1EDD;ng 2, 4F</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -1367,13 +1379,13 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </div><!-- .entry -->
 
 <div class="post-tags clr">
-	<span class="owp-tag-text">Tags: </span><a href="http://localhost:3000/blog/tag/exhibition/" rel="tag">exhibition</a></div>
+	<span class="owp-tag-text">Tags: </span><a href="http://localhost:3000/blog/tag/exhibition/" rel="tag">tri&#x1EC3;n l&#xE3;m</a></div>
 
 
 
 	<nav class="navigation post-navigation" aria-label="Read more articles">
-		<h2 class="screen-reader-text">Read more articles</h2>
-		<div class="nav-links"><div class="nav-previous"><a href="http://localhost:3000/blog/exhibition/avision-to-attend-opto-taiwan-2021/" rel="prev"><span class="title"><i class=" fas fa-long-arrow-alt-left" aria-hidden="true" role="img"></i> Previous Post</span><span class="post-title">Avision to attend OPTO Taiwan 2021</span></a></div><div class="nav-next"><a href="http://localhost:3000/blog/exhibition/computex-taipei-2023/" rel="next"><span class="title"><i class=" fas fa-long-arrow-alt-right" aria-hidden="true" role="img"></i> Next Post</span><span class="post-title">Avision Invites You to Visit Computex Taipei 2023</span></a></div></div>
+		<h2 class="screen-reader-text">&#x110;&#x1ECD;c th&#xEA;m b&#xE0;i vi&#x1EBF;t</h2>
+		<div class="nav-links"><div class="nav-previous"><a href="http://localhost:3000/blog/exhibition/avision-to-attend-opto-taiwan-2021/" rel="prev"> B&#xE0;i vi&#x1EBF;t tr&#x1B0;&#x1EDB;cT&#x1EA7;m tham d&#x1EF1; OPTO &#x110;&#xE0;i Loan 2021</a></div><div class="nav-next"><a href="http://localhost:3000/blog/exhibition/computex-taipei-2023/" rel="next"> B&#xE0;i ti&#x1EBF;p theoAvision m&#x1EDD;i b&#x1EA1;n tham quan COMPUTEX Taipei 2023</a></div></div>
 	</nav>
 
 	<section id="related-posts" class="clr">
@@ -1387,7 +1399,32 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			
 			
 				
-				<article class="related-post clr col span_1_of_3 col-1 post-18090 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-medical entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
+				<article class="related-post clr col span_1_of_3 col-1 post-21935 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-exhibition entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
+
+					
+						<figure class="related-post-media clr">
+
+							<a href="http://localhost:3000/blog/exhibition/computex-taipei-2023/" class="related-thumb">
+
+								<img width="768" height="432" src="https://www.avision.com/en/wp-content/uploads/2023/04/PIC_Computex_EN-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Read more about the article Avision Invites You to Visit Computex Taipei 2023" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2023/04/PIC_Computex_EN-768x432.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/04/PIC_Computex_EN-300x169.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/04/PIC_Computex_EN-1024x576.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/04/PIC_Computex_EN-1536x864.jpg 1536w, https://www.avision.com/en/wp-content/uploads/2023/04/PIC_Computex_EN-1320x743.jpg 1320w, https://www.avision.com/en/wp-content/uploads/2023/04/PIC_Computex_EN-600x338.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/04/PIC_Computex_EN.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px">							</a>
+
+						</figure>
+
+					
+					<h3 class="related-post-title">
+						<a href="http://localhost:3000/blog/exhibition/computex-taipei-2023/" rel="bookmark">Avision M&#x1EDD;i B&#x1EA1;n Tham Quan COMPUTEX Taipei 2023</a>
+					</h3><!-- .related-post-title -->
+
+								
+						<time class="published" datetime="2023-05-02T02:11:39+00:00"><i class=" icon-clock" aria-hidden="true" role="img"></i>May 2, 2023</time>
+						
+					
+				</article><!-- .related-post -->
+
+				
+			
+				
+				<article class="related-post clr col span_1_of_3 col-2 post-18090 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-medical entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
 
 					
 						<figure class="related-post-media clr">
@@ -1400,7 +1437,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 
 					
 					<h3 class="related-post-title">
-						<a href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2022-healthcare-expo/" rel="bookmark">Avision Showcasing at 2022 Healthcare+ Expo</a>
+						<a href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2022-healthcare-expo/" rel="bookmark">Tri&#x1EC3;n l&#xE3;m Avision t&#x1EA1;i 2022 Healthcare+ Expo</a>
 					</h3><!-- .related-post-title -->
 
 								
@@ -1412,7 +1449,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				
 			
 				
-				<article class="related-post clr col span_1_of_3 col-2 post-7126 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-exhibition tag-medical entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
+				<article class="related-post clr col span_1_of_3 col-3 post-7126 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-exhibition tag-medical entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
 
 					
 						<figure class="related-post-media clr">
@@ -1425,36 +1462,11 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 
 					
 					<h3 class="related-post-title">
-						<a href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2020-healthcare-expo/" rel="bookmark">Avision Showcasing at 2020 Healthcare+ Expo</a>
+						<a href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2020-healthcare-expo/" rel="bookmark">Tri&#x1EC3;n l&#xE3;m Avision t&#x1EA1;i 2020 Healthcare+ Expo</a>
 					</h3><!-- .related-post-title -->
 
 								
 						<time class="published" datetime="2020-11-17T03:00:54+00:00"><i class=" icon-clock" aria-hidden="true" role="img"></i>November 17, 2020</time>
-						
-					
-				</article><!-- .related-post -->
-
-				
-			
-				
-				<article class="related-post clr col span_1_of_3 col-3 post-7133 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-exhibition tag-medical entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
-
-					
-						<figure class="related-post-media clr">
-
-							<a href="http://localhost:3000/blog/exhibition/meet-us-at-medical-taiwan-2020/" class="related-thumb">
-
-								<img width="768" height="432" src="https://www.avision.com/en/wp-content/uploads/2021/09/healthcare_en-768x432.png" class="attachment-medium_large size-medium_large wp-post-image" alt="Read more about the article Meet Us at Medical Taiwan 2020 !" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/healthcare_en-768x432.png 768w, https://www.avision.com/en/wp-content/uploads/2021/09/healthcare_en-300x169.png 300w, https://www.avision.com/en/wp-content/uploads/2021/09/healthcare_en-1024x576.png 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/healthcare_en-1536x864.png 1536w, https://www.avision.com/en/wp-content/uploads/2021/09/healthcare_en-1320x743.png 1320w, https://www.avision.com/en/wp-content/uploads/2021/09/healthcare_en-600x338.png 600w, https://www.avision.com/en/wp-content/uploads/2021/09/healthcare_en.png 1921w" sizes="(max-width: 768px) 100vw, 768px">							</a>
-
-						</figure>
-
-					
-					<h3 class="related-post-title">
-						<a href="http://localhost:3000/blog/exhibition/meet-us-at-medical-taiwan-2020/" rel="bookmark">Meet Us at Medical Taiwan 2020 !</a>
-					</h3><!-- .related-post-title -->
-
-								
-						<time class="published" datetime="2020-10-13T15:00:27+00:00"><i class=" icon-clock" aria-hidden="true" role="img"></i>October 13, 2020</time>
 						
 					
 				</article><!-- .related-post -->
@@ -1503,30 +1515,16 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/why-avision/">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-check"></i>						</span>
-										<span class="elementor-icon-list-text">T&#x1EA1;i sao Avision</span>
-											</a>
+											<a href="http://localhost:3000/why-avision/"> T&#x1EA1;i sao Avision</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/corporate-profile/">
-
-											<span class="elementor-icon-list-text">H&#x1ED3; s&#x1A1; c&#xF4;ng ty</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/corporate-profile/"> H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/news/">
-
-											<span class="elementor-icon-list-text">Tin t&#x1EE9;c</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/news/"> Tin t&#x1EE9;c</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/crs/">
-
-											<span class="elementor-icon-list-text">CSR</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/crs/"> CSR</a>
 									</li>
 						</ul>
 				</div>
@@ -1543,34 +1541,19 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/document-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</span>
-											</a>
+											<a href="http://localhost:3000/product-category/document-scanner/"> M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/flatbed-scanner/">
-
-											<span class="elementor-icon-list-text"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/flatbed-scanner/"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/"> M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/network-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/network-scanner/"> M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/paperair-series/">
-
-											<span class="elementor-icon-list-text">D&#xF2;ng PaperAir</span>
-											</a>
+											<a href="http://localhost:3000/product-category/paperair-series/"> D&#xF2;ng PaperAir</a>
 									</li>
 						</ul>
 				</div>
@@ -1599,22 +1582,13 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/download/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</span>
-											</a>
+											<a href="http://localhost:3000/download/"> Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/helpcenter/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/helpcenter/"> Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/product-registration/">
-
-											<span class="elementor-icon-list-text">&#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/product-registration/"> &#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</a>
 									</li>
 						</ul>
 				</div>
@@ -1633,18 +1607,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-5852473a elementor-shape-circle e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="5852473a" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-social-icons-wrapper elementor-grid">
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-9758c9c" href="https://www.facebook.com/AvisionHQ/" target="_blank">
-						<span class="elementor-screen-only">Facebook-f</span>
-						<i class="fab fa-facebook-f"></i>					</a>
-				</span>
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-d550229" href="https://www.youtube.com/user/AvisionHQ" target="_blank">
-						<span class="elementor-screen-only">Youtube</span>
-						<i class="fab fa-youtube"></i>					</a>
-				</span>
-					</div>
+					<div class="elementor-social-icons-wrapper elementor-grid"> Facebook-f Youtube</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-ae800e8 elementor-widget elementor-widget-image" data-id="ae800e8" data-element_type="widget" data-widget_type="image.default">
@@ -1663,9 +1626,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-1398caa elementor-widget elementor-widget-copyright" data-id="1398caa" data-element_type="widget" data-widget_type="copyright.default">
 				<div class="elementor-widget-container">
-					<div class="hfe-copyright-wrapper">
-							<span>Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</span>
-					</div>
+					<div class="hfe-copyright-wrapper"> Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</div>
 				</div>
 				</div>
 					</div>
@@ -1713,7 +1674,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	</div>
 
 </div>
-<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking &#x201C;Accept&#x201D;, you consent to the use of ALL the cookies. </div><div class="cli-bar-btn_container"><a id="wt-cli-accept-all-btn" role="button" data-cli_action="accept_all" class="wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button">Accept</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking &#x201C;Accept&#x201D;, you consent to the use of ALL the cookies. </div><div class="cli-bar-btn_container"><a id="wt-cli-accept-all-btn" role="button" data-cli_action="accept_all" class="wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button">Ch&#x1EA5;p nh&#x1EAD;n</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
   <div class="cli-modal-dialog" role="document">
 	<div class="cli-modal-content cli-bar-popup">
 		  <button type="button" class="cli-modal-close" id="cliModalClose">
@@ -1733,8 +1694,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
 												<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
-								Necessary							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab"> C&#x1EA7;n thi&#x1EBF;t</a>
 															<div class="wt-cli-necessary-checkbox">
 									<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked">
 									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
@@ -1751,8 +1711,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab">
-								Functional							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab"> ch&#x1EE9;c n&#x103;ng</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-functional" class="cli-user-preference-checkbox" data-id="checkbox-functional">
 									<label for="wt-cli-checkbox-functional" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Functional</span></label>
@@ -1768,8 +1727,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab">
-								Performance							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab"> Hi&#x1EC7;u su&#x1EA5;t</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-performance" class="cli-user-preference-checkbox" data-id="checkbox-performance">
 									<label for="wt-cli-checkbox-performance" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Performance</span></label>
@@ -1785,8 +1743,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab">
-								Analytics							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab"> ph&#xE2;n t&#xED;ch</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-analytics" class="cli-user-preference-checkbox" data-id="checkbox-analytics">
 									<label for="wt-cli-checkbox-analytics" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Analytics</span></label>
@@ -1802,8 +1759,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab">
-								Advertisement							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab"> Qu&#x1EA3;ng c&#xE1;o</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-advertisement" class="cli-user-preference-checkbox" data-id="checkbox-advertisement">
 									<label for="wt-cli-checkbox-advertisement" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Advertisement</span></label>
@@ -1819,8 +1775,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab">
-								Others							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab"> Ng&#x1B0;&#x1EDD;i kh&#xE1;c</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-others" class="cli-user-preference-checkbox" data-id="checkbox-others">
 									<label for="wt-cli-checkbox-others" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Others</span></label>
@@ -1844,7 +1799,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
 						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
 						
-															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE &amp; ACCEPT</a>
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">L&#x1AF;U &amp; CH&#x1EA4;P NH&#x1EAC;N</a>
 													</div>
 						
 					</div>
@@ -1885,7 +1840,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	</div>
 	<div class="owp-qv-overlay"></div>
 </div>
-<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Cart</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Xe &#x111;&#x1EA9;y</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
 								<section class="elementor-section elementor-top-section elementor-element elementor-element-45284f83 elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle elementor-section-height-default elementor-section-items-middle" data-id="45284f83" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
@@ -1899,9 +1854,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<i aria-hidden="true" class="fas fa-globe-americas"></i>				</span>
 			</div>
 						<div class="elementor-icon-box-content">
-				<h2 class="elementor-icon-box-title">
-					<span> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</span>
-				</h2>
+				<h2 class="elementor-icon-box-title"> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</h2>
 							</div>
 		</div>
 				</div>
@@ -2042,9 +1995,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 								<div class="elementor-element elementor-element-32f58706 elementor-icon-list--layout-inline elementor-align-right elementor-widget__width-auto elementor-tablet-align-center elementor-mobile-align-center elementor-widget-tablet__width-inherit elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="32f58706" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items elementor-inline-items">
-							<li class="elementor-icon-list-item elementor-inline-item">
-										<span class="elementor-icon-list-text">Ng&#xF4;n ng&#x1EEF;</span>
-									</li>
+							<li class="elementor-icon-list-item elementor-inline-item"> Ng&#xF4;n ng&#x1EEF;</li>
 						</ul>
 				</div>
 				</div>
@@ -2110,7 +2061,7 @@ var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result 
 </script>
 <script src="https://www.avision.com/en/wp-includes/js/jquery/ui/autocomplete.js?ver=1.13.2" id="jquery-ui-autocomplete-js"></script>
 <script id="helpie-faq-bundle-js-extra">
-var helpie_faq_object = {"nonce":"a4b4b99b6d","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"15929","current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
+var helpie_faq_object = {"nonce":"44c8c15ec3","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"15929","current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
 var faqStrings = {"hide":"Hide","addFAQ":"Add FAQ","noFaqsFound":"No FAQ found"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/helpie-faq/assets/bundles/main.app.js?ver=1.11" id="helpie-faq-bundle-js"></script>
@@ -2131,7 +2082,7 @@ var mailchimp_public_data = {"site_url":"https:\/\/www.avision.com\/en","ajax_ur
 <script src="https://www.avision.com/en/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=3.2.03" id="mailchimp-woocommerce-js"></script>
 <script src="https://www.avision.com/en/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
 <script id="oceanwp-main-js-extra">
-var oceanwpLocalize = {"nonce":"63f837164f","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"d9a848d84b"};
+var oceanwpLocalize = {"nonce":"4cd3f37f81","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"130e0abfae"};
 </script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=3.0.5.1644388334" id="oceanwp-main-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=3.0.5.1644388334" id="oceanwp-drop-down-mobile-menu-js"></script>
@@ -2145,7 +2096,7 @@ var oceanwpLocalize = {"nonce":"63f837164f","isRTL":"","menuSearchStyle":"drop_d
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/select.min.js?ver=3.0.5.1644388334" id="oceanwp-select-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/ow-infinite-scroll.min.js?ver=3.0.5.1644388334" id="oceanwp-infinite-scroll-js"></script>
 <script id="oceanwp-woocommerce-custom-features-js-extra">
-var oceanwpLocalize = {"nonce":"63f837164f","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"d9a848d84b"};
+var oceanwpLocalize = {"nonce":"4cd3f37f81","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"130e0abfae"};
 </script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-custom-features.min.js?ver=3.0.5.1644388334" id="oceanwp-woocommerce-custom-features-js"></script>
 <script id="popup-maker-site-js-extra">
@@ -2153,7 +2104,7 @@ var pum_vars = {"version":"1.18.2","pm_dir_url":"https:\/\/www.avision.com\/en\/
 var pum_sub_vars = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","message_position":"top"};
 var pum_popups = {"pum-2659":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"7761","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"7761","id":2659,"slug":"paperport"},"pum-11307":{"triggers":[{"type":"click_open","settings":{"extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"7761","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"7761","id":11307,"slug":"example-of-s-n"}};
 </script>
-<script src="//www.avision.com/en/wp-content/uploads/pum/pum-site-scripts-1.js?defer&amp;generated=1700726988&amp;ver=1.18.2" id="popup-maker-site-js"></script>
+<script src="https://www.avision.com/en/wp-content/plugins/popup-maker/assets/js/site.js?defer&amp;ver=1.18.2" id="popup-maker-site-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-hover-style.min.js?ver=3.0.5.1644388334" id="oceanwp-woo-hover-style-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-quick-view.min.js?ver=3.0.5.1644388334" id="oceanwp-woo-quick-view-js"></script>
 <script src="https://www.avision.com/en/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
@@ -2184,7 +2135,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/en\/?wc-ajax=%%endpoint%
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/tipsy/tipsy.js?ver=1.0.0a" id="um_tipsy-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/raty/um-raty.js?ver=2.6.0" id="um_raty-js"></script>
 <script id="um_scripts-js-extra">
-var um_scripts = {"max_upload_size":"52428800","nonce":"ef3fa3427c"};
+var um_scripts = {"max_upload_size":"52428800","nonce":"9d3a550f4c"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/js/um-scripts.js?ver=2.7.0" id="um_scripts-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/js/um-profile.js?ver=2.7.0" id="um_profile-js"></script>
@@ -2218,7 +2169,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/en\/wp-admin\/admin-ajax.php","wc_
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/js/webpack.runtime.js?ver=3.15.3" id="elementor-webpack-runtime-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/js/frontend-modules.js?ver=3.15.3" id="elementor-frontend-modules-js"></script>
 <script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","nonce":"b3e39359fe","urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.avision.com\/en\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/www.avision.com\/en","checkout_page_url":"https:\/\/www.avision.com\/en"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","nonce":"82ec843f0c","urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.avision.com\/en\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/www.avision.com\/en","checkout_page_url":"https:\/\/www.avision.com\/en"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor-pro/assets/js/frontend.js?ver=3.6.5" id="elementor-pro-frontend-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.js?ver=4.0.2" id="elementor-waypoints-js"></script>

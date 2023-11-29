@@ -825,7 +825,19 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <link rel="stylesheet" id="oceanwp-woo-hover-style-css" href="https://www.avision.com/en/wp-content/themes/oceanwp/assets/css/woo/hover-style.min.css?ver=6.3.2" media="all">
 <link rel="stylesheet" id="oceanwp-woo-quick-view-css" href="https://www.avision.com/en/wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min.css?ver=6.3.2" media="all">
 <link rel="stylesheet" id="chld_thm_cfg_child-css" href="https://www.avision.com/en/wp-content/themes/oceanwp-child/style.css?ver=3.0.5.1644388334" media="all">
-<link rel="stylesheet" id="popup-maker-site-css" href="//www.avision.com/en/wp-content/uploads/pum/pum-site-styles-1.css?generated=1700726651&amp;ver=1.18.2" media="all">
+<link rel="stylesheet" id="popup-maker-site-css" href="https://www.avision.com/en/wp-content/plugins/popup-maker/assets/css/pum-site.css?ver=1.18.2" media="all">
+<style id="popup-maker-site-inline-css">
+/* Popup Theme 7761: Default */
+.pum-theme-7761, .pum-theme-7761 { background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-7761 .pum-container, .pum-theme-7761 .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1.00 ) } 
+.pum-theme-7761 .pum-title, .pum-theme-7761 .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; line-height: 36px } 
+.pum-theme-7761 .pum-content, .pum-theme-7761 .pum-content { color: #8c8c8c; font-family: inherit; font-weight: 400 } 
+.pum-theme-7761 .pum-content + .pum-close, .pum-theme-7761 .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: 400; font-size: 12px; line-height: 36px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1.00 ) } 
+
+#pum-2659 {z-index: 1999999999}
+#pum-11307 {z-index: 1999999999}
+
+</style>
 <link rel="stylesheet" id="um_crop-css" href="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/css/um-crop.css?ver=2.7.0" media="all">
 <link rel="stylesheet" id="um_modal-css" href="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/css/um-modal.css?ver=2.7.0" media="all">
 <link rel="stylesheet" id="um_ui-css" href="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/jquery-ui/jquery-ui.css?ver=1.12.1" media="all">
@@ -1077,7 +1089,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	
 	<div id="outer-wrap" class="site clr">
 
-		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+		<a class="skip-link screen-reader-text" href="#main">Chuy&#x1EC3;n &#x111;&#x1EBF;n n&#x1ED9;i dung</a>
 
 		
 		<div id="wrap" class="clr">
@@ -1100,7 +1112,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					<form class="hfe-search-button-wrapper" role="search" action="https://www.avision.com/en" method="get">
 						<div class="hfe-search-icon-toggle">
 				<input placeholder class="hfe-search-form__input" type="search" name="s" title="Search" value>
-				<i class="fas fa-search" aria-hidden="true"></i>
+				
 			</div>
 					</form>
 				</div>
@@ -1176,7 +1188,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055"><a href="http://localhost:3000/login/" class="elementor-item">&#x110;&#x103;ng nh&#x1EAD;p</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055">
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://localhost:3000/registration/" class="elementor-sub-item">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
@@ -1218,7 +1230,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item" tabindex="-1">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055"><a href="http://localhost:3000/login/" class="elementor-item" tabindex="-1">&#x110;&#x103;ng nh&#x1EAD;p</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055">
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://localhost:3000/registration/" class="elementor-sub-item" tabindex="-1">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
@@ -1290,13 +1302,13 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 									<div id="elementor-tab-title-2112" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="2" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2112" aria-expanded="false">&#x110;&#xE0;i Loan</div>
 									<div id="elementor-tab-title-2113" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="3" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2113" aria-expanded="false">Trung Qu&#x1ED1;c</div>
 									<div id="elementor-tab-title-2114" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="4" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2114" aria-expanded="false">Ch&#xE2;u &#xC1;</div>
-									<div id="elementor-tab-title-2115" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="5" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2115" aria-expanded="false">South America - translated </div>
+									<div id="elementor-tab-title-2115" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="5" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2115" aria-expanded="false">Nam M&#x1EF9;</div>
 									<div id="elementor-tab-title-2116" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="6" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2116" aria-expanded="false">Ch&#xE2;u &#xC2;u</div>
-									<div id="elementor-tab-title-2117" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="7" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2117" aria-expanded="false">Turkey - translated </div>
-									<div id="elementor-tab-title-2118" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="8" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2118" aria-expanded="false">Australia / New Zealand - translated </div>
-									<div id="elementor-tab-title-2119" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="9" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2119" aria-expanded="false">Africa - translated </div>
-									<div id="elementor-tab-title-21110" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="10" role="tab" tabindex="-1" aria-controls="elementor-tab-content-21110" aria-expanded="false">Middle East - translated </div>
-									<div id="elementor-tab-title-21111" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="11" role="tab" tabindex="-1" aria-controls="elementor-tab-content-21111" aria-expanded="false">Other Country - translated </div>
+									<div id="elementor-tab-title-2117" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="7" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2117" aria-expanded="false">Th&#x1ED5; Nh&#x129; K&#x1EF3;</div>
+									<div id="elementor-tab-title-2118" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="8" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2118" aria-expanded="false">&#xDA;c / New Zealand</div>
+									<div id="elementor-tab-title-2119" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="9" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2119" aria-expanded="false">Ch&#xE2;u phi</div>
+									<div id="elementor-tab-title-21110" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="10" role="tab" tabindex="-1" aria-controls="elementor-tab-content-21110" aria-expanded="false">Trung &#x111;&#xF4;ng</div>
+									<div id="elementor-tab-title-21111" class="elementor-tab-title elementor-tab-desktop-title" aria-selected="false" data-tab="11" role="tab" tabindex="-1" aria-controls="elementor-tab-content-21111" aria-expanded="false">&#x110;&#x1EA5;t n&#x1B0;&#x1EDB;c kh&#xE1;c</div>
 							</div>
 			<div class="elementor-tabs-content-wrapper" role="tablist" aria-orientation="vertical">
 									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="true" data-tab="1" role="tab" tabindex="0" aria-controls="elementor-tab-content-2111" aria-expanded="false">B&#x1EAF;c M&#x1EF9;</div>
@@ -1304,25 +1316,25 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <tbody style="font-weight: inherit; font-style: inherit;">
 <tr style="font-weight: inherit; font-style: inherit;">
 <td style="font-weight: normal; font-style: inherit;">
-<h2 style="font-weight: 600; color: #3e3d3d;"><span style="font-weight: inherit; font-style: inherit; color: #207ebc;">Sales and Product Information - translated </span></h2>
+<h2 style="font-weight: 600; color: #3e3d3d;">Th&#xF4;ng tin b&#xE1;n h&#xE0;ng v&#xE0; s&#x1EA3;n ph&#x1EA9;m</h2>
 <p style="font-weight: inherit; font-style: inherit;">Avision Labs., Inc.<br>
     Address : 5694 Stewart Avenue, Fremont, CA 94538<br>
-E-mail :&#xA0;<a href="mailto:sales@avision-labs.com">sales@avision-labs.com - translated </a></p>
+E-mail :&#xA0;<a href="mailto:sales@avision-labs.com">sales@avision-labs.com</a></p>
 </td>
 <td style="font-weight: normal; font-style: inherit;">
-<h2 style="font-weight: 600; color: #3e3d3d;"><span style="font-weight: inherit; font-style: inherit; color: #207ebc;">Technical Support - translated </span></h2>
+<h2 style="font-weight: 600; color: #3e3d3d;">H&#x1ED7; tr&#x1EE3; k&#x1EF9; thu&#x1EAD;t</h2>
 <p style="font-weight: inherit; font-style: inherit;">Avision Labs., Inc.<br>
 Address : 5694 Stewart Avenue, Fremont, CA 94538<br>
-E-mail :&#xA0;<a href="mailto:support@avision-labs.com">support@avision-labs.com - translated </a></p>
+E-mail :&#xA0;<a href="mailto:support@avision-labs.com">support@avision-labs.com</a></p>
 </td>
 </tr>
 <tr style="font-weight: inherit; font-style: inherit;">
 <td style="font-weight: normal; font-style: inherit;">
-<h2 style="font-weight: 600; color: #3e3d3d;"><span style="font-weight: inherit; font-style: inherit; color: #207ebc;">Service &amp; Repairs - translated </span></h2>
+<h2 style="font-weight: 600; color: #3e3d3d;">D&#x1ECB;ch v&#x1EE5; &amp; S&#x1EED;a ch&#x1EEF;a</h2>
 <p style="font-weight: inherit; font-style: inherit;">Avision Labs., Inc.<br>
 Address : 5694 Stewart Avenue, Fremont, CA 94538<br>
-E-mail :&#xA0;<a href="mailto:support@avision-labs.com">support@avision-labs.com/ - translated </a><br>
-<a href="http://www.avision-labs.com/">http://www.avision-labs.com - translated </a></p>
+E-mail :&#xA0;<a href="mailto:support@avision-labs.com">support@avision-labs.com/</a><br>
+<a href="http://www.avision-labs.com/">http://www.avision-labs.com</a></p>
 </td>
 </tr>
 </tbody>
@@ -1332,27 +1344,27 @@ E-mail :&#xA0;<a href="mailto:support@avision-labs.com">support@avision-labs.com
 <tbody style="font-weight: inherit;font-style: inherit">
 <tr style="font-weight: inherit;font-style: inherit">
 <td style="font-weight: normal;font-style: inherit">
-<h2 style="font-weight: 600;color: #3e3d3d"><span style="font-weight: inherit;font-style: inherit;color: #207ebc">Sales - translated </span></h2>
-<p style="font-weight: inherit;font-style: inherit">Taiwan Avision Inc. - translated </p>
-<p style="font-weight: inherit;font-style: inherit">Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 308, Taiwan, R.O.C.<br>Fax : +886-3-577-7017<br>E-mail :&#xA0;<a href="mailto:sales@avision.com.tw">sales@avision.com.tw</a><br><a href="http://www.avision.com.tw/">http://www.avision.com.tw - translated </a></p>
+<h2 style="font-weight: 600;color: #3e3d3d">Vi&#x1EC7;c b&#xE1;n h&#xE0;ng</h2>
+<p style="font-weight: inherit;font-style: inherit">&#x110;&#xE0;i Loan Avision Inc.</p>
+<p style="font-weight: inherit;font-style: inherit">Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 308, Taiwan, R.O.C.<br>Fax : +886-3-577-7017<br>E-mail :&#xA0;<a href="mailto:sales@avision.com.tw">sales@avision.com.tw</a><br><a href="http://www.avision.com.tw/">http://www.avision.com.tw</a></p>
 </td>
 <td style="font-weight: normal;font-style: inherit">
-<h2 style="font-weight: 600;color: #3e3d3d"><span style="font-weight: inherit;font-style: inherit;color: #207ebc">Technical Support - translated </span></h2>
-<p style="font-weight: inherit;font-style: inherit">Taiwan<span style="color: #202020"> Avision Inc. - translated </span></p>
-<p><br>Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 308, Taiwan, R.O.C.<br>Fax : +886-3-577-7017<br><a href="http://www.avision.com.tw/">http://www.avision.com.tw - translated </a></p></td>
+<h2 style="font-weight: 600;color: #3e3d3d">H&#x1ED7; tr&#x1EE3; k&#x1EF9; thu&#x1EAD;t</h2>
+<p style="font-weight: inherit;font-style: inherit">&#x110;&#xE0;i Loan Avision Inc.</p>
+<p><br>Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 308, Taiwan, R.O.C.<br>Fax : +886-3-577-7017<br><a href="http://www.avision.com.tw/">http://www.avision.com.tw</a></p></td>
 </tr>
 <tr style="font-weight: inherit;font-style: inherit">
 <td style="font-weight: normal;font-style: inherit">
-<h2 style="font-weight: 600;color: #3e3d3d"><span style="font-weight: inherit;font-style: inherit;color: #207ebc">Service &amp; Repairs - translated </span></h2>
-<p style="font-weight: inherit;font-style: inherit">Taiwan Avision Inc. - translated </p>
+<h2 style="font-weight: 600;color: #3e3d3d">D&#x1ECB;ch v&#x1EE5; &amp; S&#x1EED;a ch&#x1EEF;a</h2>
+<p style="font-weight: inherit;font-style: inherit">&#x110;&#xE0;i Loan Avision Inc.</p>
 <p><br></p>
-<p style="font-weight: inherit;font-style: inherit">Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 308, Taiwan, R.O.C.<br>Fax : +886-3-577-7017<br>E-mail :&#xA0;<a href="mailto:sales@avision.com.tw">service@avision.com.tw - translated </a><br><a href="http://www.avision.com.tw/">http://www.avision.com.tw - translated </a></p>
+<p style="font-weight: inherit;font-style: inherit">Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 308, Taiwan, R.O.C.<br>Fax : +886-3-577-7017<br>E-mail :&#xA0;<a href="mailto:sales@avision.com.tw">service@avision.com.tw</a><br><a href="http://www.avision.com.tw/">http://www.avision.com.tw</a></p>
 </td>
 <td style="font-weight: normal;font-style: inherit">
-<h2 style="font-weight: 600;color: #3e3d3d"><span style="font-weight: inherit;font-style: inherit;color: #207ebc">Taiwan Distributor - translated </span></h2>
-<p style="font-weight: inherit;font-style: inherit">Taiwan Infoacer Inc. - translated </p>
+<h2 style="font-weight: 600;color: #3e3d3d">Nh&#xE0; ph&#xE2;n ph&#x1ED1;i &#x110;&#xE0;i Loan</h2>
+<p style="font-weight: inherit;font-style: inherit">&#x110;&#xE0;i Loan Infoacer Inc.</p>
 <p><br></p>
-<p style="font-weight: inherit;font-style: inherit">Taiwan Infoacer Inc.<br>Address : 19F., No.92, Sec. 1, Xintai 5th Rd., Xizhi Dist., New Taipei City 221, Taiwan, R.O.C.<br>Fax : +886-2-2696-3267<br>E-mail :<a href="mailto:sales@infoacer.com.tw">sales@infoacer.com.tw - translated </a><br><a href="http://www.infoacer.com/">http://www.infoacer.com/ - translated </a></p>
+<p style="font-weight: inherit;font-style: inherit">Taiwan Infoacer Inc.<br>Address : 19F., No.92, Sec. 1, Xintai 5th Rd., Xizhi Dist., New Taipei City 221, Taiwan, R.O.C.<br>Fax : +886-2-2696-3267<br>E-mail :<a href="mailto:sales@infoacer.com.tw">sales@infoacer.com.tw</a><br><a href="http://www.infoacer.com/">http://www.infoacer.com/</a></p>
 </td>
 </tr>
 </tbody>
@@ -1362,21 +1374,21 @@ E-mail :&#xA0;<a href="mailto:support@avision-labs.com">support@avision-labs.com
 <tbody style="font-weight: inherit;font-style: inherit">
 <tr style="font-weight: inherit;font-style: inherit">
 <td style="font-weight: normal;font-style: inherit">
-<h2 style="font-weight: 600;color: #3e3d3d"><span style="font-weight: inherit;font-style: inherit;color: #207ebc">Sales - translated </span></h2>
-<p style="font-weight: inherit;font-style: inherit">China Shanghai Sales and Service Center - translated </p>
-<p style="font-weight: inherit;font-style: inherit">Address :7A,No.1010,kaixuan Road,Shanghai 200052 P.R.C.<br>    Fax :+86-21-62818856<br>    E-mail :&#xA0;<a style="font-weight: inherit;font-style: inherit;color: #060606" href="mailto:sales@avision.net.cn">sales@avision.net.cn - translated </a><br>    <a style="font-weight: inherit;font-style: inherit;color: #3e3d3d" href="http://www.avision.com.cn">http://www.avision.com.cn - translated </a></p>
+<h2 style="font-weight: 600;color: #3e3d3d">Vi&#x1EC7;c b&#xE1;n h&#xE0;ng</h2>
+<p style="font-weight: inherit;font-style: inherit">Trung t&#xE2;m b&#xE1;n h&#xE0;ng v&#xE0; d&#x1ECB;ch v&#x1EE5; Th&#x1B0;&#x1EE3;ng H&#x1EA3;i Trung Qu&#x1ED1;c</p>
+<p style="font-weight: inherit;font-style: inherit">Address :7A,No.1010,kaixuan Road,Shanghai 200052 P.R.C.<br>    Fax :+86-21-62818856<br>    E-mail :&#xA0;<a style="font-weight: inherit;font-style: inherit;color: #060606" href="mailto:sales@avision.net.cn">sales@avision.net.cn</a><br>    <a style="font-weight: inherit;font-style: inherit;color: #3e3d3d" href="http://www.avision.com.cn">http://www.avision.com.cn</a></p>
 </td>
 <td style="font-weight: normal;font-style: inherit">
-<h2 style="font-weight: 600;color: #3e3d3d"><span style="font-weight: inherit;font-style: inherit;color: #207ebc">Technical Support - translated </span></h2>
-<p style="font-weight: inherit;font-style: inherit">China Shanghai Sales and Service Center - translated </p>
-<p style="font-weight: inherit;font-style: inherit">Address :7A,No.1010,kaixuan Road,Shanghai 200052 P.R.C.<br>    Fax :+86-21-62818856<br>    E-mail :&#xA0;<a style="font-weight: inherit;font-style: inherit;color: #060606" href="mailto:sales@avision.net.cn">sales@avision.net.cn - translated </a><br>    <a style="font-weight: inherit;font-style: inherit;color: #3e3d3d" href="http://www.avision.com.cn">http://www.avision.com.cn - translated </a></p>
+<h2 style="font-weight: 600;color: #3e3d3d">H&#x1ED7; tr&#x1EE3; k&#x1EF9; thu&#x1EAD;t</h2>
+<p style="font-weight: inherit;font-style: inherit">Trung t&#xE2;m b&#xE1;n h&#xE0;ng v&#xE0; d&#x1ECB;ch v&#x1EE5; Th&#x1B0;&#x1EE3;ng H&#x1EA3;i Trung Qu&#x1ED1;c</p>
+<p style="font-weight: inherit;font-style: inherit">Address :7A,No.1010,kaixuan Road,Shanghai 200052 P.R.C.<br>    Fax :+86-21-62818856<br>    E-mail :&#xA0;<a style="font-weight: inherit;font-style: inherit;color: #060606" href="mailto:sales@avision.net.cn">sales@avision.net.cn</a><br>    <a style="font-weight: inherit;font-style: inherit;color: #3e3d3d" href="http://www.avision.com.cn">http://www.avision.com.cn</a></p>
 </td>
 </tr>
 <tr style="font-weight: inherit;font-style: inherit">
 <td style="font-weight: normal;font-style: inherit">
-<h2 style="font-weight: 600;color: #3e3d3d"><span style="font-weight: inherit;font-style: inherit;color: #207ebc">Service &amp; Repairs - translated </span></h2>
-<p style="font-weight: inherit;font-style: inherit">China Shanghai Sales and Service Center - translated </p>
-<p style="font-weight: inherit;font-style: inherit">Address :7A,No.1010,kaixuan Road,Shanghai 200052 P.R.C.<br>    Fax :+86-21-62818856<br>    E-mail :&#xA0;<a style="font-weight: inherit;font-style: inherit;color: #060606" href="mailto:sales@avision.net.cn">sales@avision.net.cn - translated </a><br>    <a style="font-weight: inherit;font-style: inherit;color: #3e3d3d" href="http://www.avision.com.cn">http://www.avision.com.cn - translated </a></p>
+<h2 style="font-weight: 600;color: #3e3d3d">D&#x1ECB;ch v&#x1EE5; &amp; S&#x1EED;a ch&#x1EEF;a</h2>
+<p style="font-weight: inherit;font-style: inherit">Trung t&#xE2;m b&#xE1;n h&#xE0;ng v&#xE0; d&#x1ECB;ch v&#x1EE5; Th&#x1B0;&#x1EE3;ng H&#x1EA3;i Trung Qu&#x1ED1;c</p>
+<p style="font-weight: inherit;font-style: inherit">Address :7A,No.1010,kaixuan Road,Shanghai 200052 P.R.C.<br>    Fax :+86-21-62818856<br>    E-mail :&#xA0;<a style="font-weight: inherit;font-style: inherit;color: #060606" href="mailto:sales@avision.net.cn">sales@avision.net.cn</a><br>    <a style="font-weight: inherit;font-style: inherit;color: #3e3d3d" href="http://www.avision.com.cn">http://www.avision.com.cn</a></p>
 </td>
 <td style="font-weight: normal;font-style: inherit">
 <p style="font-weight: inherit;font-style: inherit">
@@ -1390,82 +1402,82 @@ E-mail :&#xA0;<a href="mailto:support@avision-labs.com">support@avision-labs.com
 <tbody>
 <tr>
 <td>
-<h2><font color="#207ebc">Sales Service - translated </font></h2>
+<h2><font color="#207ebc">D&#x1ECB;ch v&#x1EE5; b&#xE1;n h&#xE0;ng</font></h2>
     Taiwan&#x3000;Avision Inc.<br><br>
     Address :No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 30077, Taiwan, R.O.C.<br>
     Tel :+886-3-578-2388 #8934<br>
     Fax :+886-3-577-7017<br>
     E-mail :&#xA0;<a href="mailto:sales@avision.com.tw">sales@avision.com.tw</a><br>
-<a href="http://www.avision.com.tw/">http://www.avision.com.tw/ - translated </a></td>
+<a href="http://www.avision.com.tw/">http://www.avision.com.tw/</a></td>
 <td>
-    <h2><font color="#207ebc">Technical Support - translated </font></h2>
+    <h2><font color="#207ebc">H&#x1ED7; tr&#x1EE3; k&#x1EF9; thu&#x1EAD;t</font></h2>
         Taiwan&#x3000;Avision Inc.<br><br>
         Address :No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 30077, Taiwan, R.O.C.<br>
         Tel :+886-3-578-2388 #8929<br>
         Fax :+886-3-577-7017<br>
         E-mail :&#xA0;<a href="mailto:sales@avision.com.tw">sales@avision.com.tw</a><br>
-    <a href="http://www.avision.com.tw/">http://www.avision.com.tw/ - translated </a></td>
+    <a href="http://www.avision.com.tw/">http://www.avision.com.tw/</a></td>
 </tr>
 <tr>
     <td>
-        <h2><font color="#207ebc">Distributor &amp; Authorised Service Provide - translated </font></h2>   
+        <h2><font color="#207ebc">Nh&#xE0; ph&#xE2;n ph&#x1ED1;i &amp; Cung c&#x1EA5;p d&#x1ECB;ch v&#x1EE5; &#x1EE7;y quy&#x1EC1;n</font></h2>   
             India Fujisan Technologies Ltd.<br><br>
             Address :Jatia Chambers, 60, Dr. V B Gandhi Marg, Mumbai &#x2013; 400 001.<br>
             Maharashtra &#x2013; India<br>
             Sales Helpline:+91 99-8756-7002<br>
-            Email: <a href="mailto:sales@fujisan.co.in">sales@fujisan.co.in - translated </a><br>
+            Email: <a href="mailto:sales@fujisan.co.in">sales@fujisan.co.in</a><br>
             Sales Helpline:+91 99-8756-7004 <br>
-            Email: <a href="mailto:support.helpdesk@fujisan.co.in">support.helpdesk@fujisan.co.in - translated </a><br>
-        <a href="www.fujisan.co.in">www.fujisan.co.in - translated </a></td>
+            Email: <a href="mailto:support.helpdesk@fujisan.co.in">support.helpdesk@fujisan.co.in</a><br>
+        <a href="www.fujisan.co.in">www.fujisan.co.in</a></td>
     <td>
-    <h2><font color="#207ebc">Distributor &amp; Authorised Service Provide - translated </font></h2>   
+    <h2><font color="#207ebc">Nh&#xE0; ph&#xE2;n ph&#x1ED1;i &amp; Cung c&#x1EA5;p d&#x1ECB;ch v&#x1EE5; &#x1EE7;y quy&#x1EC1;n</font></h2>   
         AMA Systems Global LLP (India)<br><br>
         Address :272, Arjun Nagar, Safdarjung Enclave, New Delhi-110029 &#x2013; India.<br>
         Sales Helpline:+91-1149098165<br>
-        Email: <a href="mailto:sales@amasystems.co.in">sales@amasystems.co.in - translated </a><br>
+        Email: <a href="mailto:sales@amasystems.co.in">sales@amasystems.co.in</a><br>
         Support Helpline: +91 99711 65035 <br>
-        Email: <a href="mailto:support@amasystems.co.in">support@amasystems.co.in - translated </a><br>
-        Website: <a href="www.amasystems.co.in">www.amasystems.co.in - translated </a></td>
+        Email: <a href="mailto:support@amasystems.co.in">support@amasystems.co.in</a><br>
+        Website: <a href="www.amasystems.co.in">www.amasystems.co.in</a></td>
 </tr>
 <tr>
 <td>
-<h2><font color="#207ebc">Service &amp; Repairs - translated </font></h2>
+<h2><font color="#207ebc">D&#x1ECB;ch v&#x1EE5; &amp; S&#x1EED;a ch&#x1EEF;a</font></h2>
     Taiwan&#x3000;Avision Inc.<br><br>
     Address :No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 30077, Taiwan, R.O.C.<br>
     Tel :+886-3-578-2388 #8929<br>
     Fax :+886-3-577-7017<br>
     E-mail :&#xA0;<a href="mailto:sales@avision.com.tw">sales@avision.com.tw</a><br>
-<a href="http://www.avision.com.tw/">http://www.avision.com.tw/ - translated </a></td>
+<a href="http://www.avision.com.tw/">http://www.avision.com.tw/</a></td>
 <td>
-<h2><font color="#207ebc">Southeast Asia Distributor - translated </font></h2>
+<h2><font color="#207ebc">Nh&#xE0; ph&#xE2;n ph&#x1ED1;i &#x110;&#xF4;ng Nam &#xC1;</font></h2>
     Taiwan&#x3000;Infoacer Inc.<br><br>
     Address :2F., No. 221, Chongyang Rd., Nangang District, Taipei City 11573, Taiwan, R.O.C.<br>
     Tel :+886-2-2782-0577<br>
     Fax :+886-2-2782-0587<br>
-    E-mail :&#xA0;<a href="mailto:service@infoacer.com.tw">product_service@infoacer.com.tw - translated </a><br>
-<a href="http://www.infoacer.com.tw/">http://www.infoacer.com.tw/ - translated </a></td>
+    E-mail :&#xA0;<a href="mailto:service@infoacer.com.tw">s&#x1EA3;n ph&#x1EA9;m_service@infoacer.com.tw</a><br>
+<a href="http://www.infoacer.com.tw/">http://www.infoacer.com.tw/</a></td>
 </tr>
 <tr>
 <td>
-<h2><font color="#207ebc">Hong Kong - translated </font></h2>
+<h2><font color="#207ebc">Hong Kong</font></h2>
     Address :Workshop No. 2, 3rd Floor, Kowloon Plaza, No. 485 Castle Peak Road, Kowloon, Hong Kong<br>
     Tel: +852-3904-2777<br>
     Fax :+852-3904-2944<br>
-    E-mail :&#xA0;<a href="mailto:info@4simaging.com">info@4simaging.com - translated </a><br>
-<a href="http://www.4simaging.com/">http://www.4simaging.com - translated </a></td>
+    E-mail :&#xA0;<a href="mailto:info@4simaging.com">info@4saging.com</a><br>
+<a href="http://www.4simaging.com/">http://www.4saging.com</a></td>
 <td></td>
 </tr>
 <tr>
 <td>
-<h2><font color="#207ebc">Indonesia - translated </font></h2>
+<h2><font color="#207ebc">Indonesia</font></h2>
     Digitalsense <br> Contact Person: Djohan<br>
-    E-mail :&#xA0;<a href="mailto:Djohan@digitalsense.co.id">Djohan@digitalsense.co.id - translated </a>
+    E-mail :&#xA0;<a href="mailto:Djohan@digitalsense.co.id">Djohan@digitalsense.co.id</a>
 </td>
 <td></td>
 </tr>
 <tr>
 <td>
-<h2><font color="#207ebc">Thailand - translated </font></h2>
+<h2><font color="#207ebc">n&#x1B0;&#x1EDB;c Th&#xE1;i Lan</font></h2>
     Thailand<br>
     Address :756/151 Soi Pattanakarn 38,Pattanakarn Rd, Suanluang , Bangkok 10250<br>
     Tel :+66-2-0409900-1<br>
@@ -1474,7 +1486,7 @@ E-mail :&#xA0;<a href="mailto:support@avision-labs.com">support@avision-labs.com
 </tr>
 <tr>
 <td>
-<h2><font color="#207ebc">Philippines - translated </font></h2>
+<h2><font color="#207ebc">Philippin</font></h2>
     Philippines<br>
     Address :Pacific Office Machines Bldg., 28 EDSA, Greenhills, San Juan 1500, Philippines.<br>
     Tel :+63-2-7210405</td>
@@ -1482,158 +1494,158 @@ E-mail :&#xA0;<a href="mailto:support@avision-labs.com">support@avision-labs.com
 </tr>
 <tr>
 <td>
-<h2><font color="#207ebc">India - translated </font></h2>
-    <b>Avision India Sales Service - translated </b><br>Paresh Gathani<br>
+<h2><font color="#207ebc">&#x1EA4;n &#x110;&#x1ED9;</font></h2>
+    <b>D&#x1ECB;ch v&#x1EE5; b&#xE1;n h&#xE0;ng c&#x1EE7;a Avision &#x1EA4;n &#x110;&#x1ED9;</b><br>Paresh Gathani<br>
     Business Consultant &#x2013; INDIA.<br>AVISION Inc.<br>
-    E-mail :&#xA0;<a href="mailto:pareshgathani@in.avision-global.com">pareshgathani@in.avision-global.com - translated </a></td>
+    E-mail :&#xA0;<a href="mailto:pareshgathani@in.avision-global.com">pareshgathani@in.avision-global.com</a></td>
 <td>
-<h2><font color="#207ebc">India - translated </font></h2>
-<b>Avision India Service center - translated </b><br>Syepro Infratech<br>
-    Email :<a href="mailto:support@syeproinfotech.com">support@syeproinfotech.com - translated </a>
+<h2><font color="#207ebc">&#x1EA4;n &#x110;&#x1ED9;</font></h2>
+<b>Trung t&#xE2;m d&#x1ECB;ch v&#x1EE5; Avision &#x1EA4;n &#x110;&#x1ED9;</b><br>Syepro Infratech<br>
+    Email :<a href="mailto:support@syeproinfotech.com">support@syeproinfotech.com</a>
 </td>
 </tr>
 <tr>
     <td>
-    <h2><font color="#207ebc">India - translated </font></h2>
-        <b>Avision India Sales Service - translated </b><br>Moninder Sharma<br>
+    <h2><font color="#207ebc">&#x1EA4;n &#x110;&#x1ED9;</font></h2>
+        <b>D&#x1ECB;ch v&#x1EE5; b&#xE1;n h&#xE0;ng c&#x1EE7;a Avision &#x1EA4;n &#x110;&#x1ED9;</b><br>Moninder Sharma<br>
         Director<br>AMA Systems Global LLP<br>
-        E-mail :&#xA0;<a href="moninder@amasystems.co.in">moninder@amasystems.co.in - translated </a></td>
+        E-mail :&#xA0;<a href="moninder@amasystems.co.in">moninder@amasystems.co.in</a></td>
     <td>
-    <h2><font color="#207ebc">India - translated </font></h2>
-    <b>Avision India Service centre - translated </b><br>AMA Systems Global LLP<br>
-        Email :<a href="mailto:support@shiromantech.com">support@shiromantech.com - translated </a><br>
+    <h2><font color="#207ebc">&#x1EA4;n &#x110;&#x1ED9;</font></h2>
+    <b>Trung t&#xE2;m d&#x1ECB;ch v&#x1EE5; Avision &#x1EA4;n &#x110;&#x1ED9;</b><br>AMA Systems Global LLP<br>
+        Email :<a href="mailto:support@shiromantech.com">support@shiromantech.com</a><br>
         Support Helpline : +9199711 65035
     </td>
 </tr>
 <tr>
 <td>
-    <h2><font color="#207ebc">Vietnam - translated </font></h2>
+    <h2><font color="#207ebc">Vi&#x1EC7;t Nam</font></h2>
     Digital Solutions Global<br>
-    Email:<a href="mailto:nnhuy@dsg.com.vn">nnhuy@dsg.com.vn - translated </a> 
+    Email:<a href="mailto:nnhuy@dsg.com.vn">nnhuy@dsg.com.vn</a> 
 </td>
 <td></td>
 </tr></tbody>
 </table>
 </div></div>
-									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="5" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2115" aria-expanded="false">South America - translated </div>
+									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="5" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2115" aria-expanded="false">Nam M&#x1EF9;</div>
 					<div id="elementor-tab-content-2115" class="elementor-tab-content elementor-clearfix" data-tab="5" role="tabpanel" aria-labelledby="elementor-tab-title-2115" tabindex="0" hidden="hidden"><table style="font-weight: 500;color: #060606">
 <tbody style="font-weight: inherit;font-style: inherit">
 <tr style="font-weight: inherit;font-style: inherit">
 <td style="font-weight: normal;font-style: inherit">
-<h2 style="font-weight: 600;color: #3e3d3d"><span style="font-weight: inherit;font-style: inherit;color: #207ebc">Sales Service - translated </span></h2>
+<h2 style="font-weight: 600;color: #3e3d3d">D&#x1ECB;ch v&#x1EE5; b&#xE1;n h&#xE0;ng</h2>
 <p style="font-weight: inherit;font-style: inherit">SOUTH AMERICA&#x3000;Avision Brasil Ltda.<br>
 Address : Rua F&#xF3;rida, 1670 &#x2013; CJ 22 Berrini, S&#xE3;o Paulo Brasil<br>
-E-mail :&#xA0;<a href="mailto:mailto:vendas@avision.com.br">vendas@avision.com.br - translated </a><br>
-<a href="https://www.avision.com/br/">https://www.avision.com/br/ - translated </a></p>
+E-mail :&#xA0;<a href="mailto:mailto:vendas@avision.com.br">vendas@avision.com.br</a><br>
+<a href="https://www.avision.com/br/">https://www.avision.com/br/</a></p>
 </td>
 <td style="font-weight: normal;font-style: inherit">
-<h2 style="font-weight: 600;color: #3e3d3d"><span style="font-weight: inherit;font-style: inherit;color: #207ebc">Technical Support - translated </span></h2>
+<h2 style="font-weight: 600;color: #3e3d3d">H&#x1ED7; tr&#x1EE3; k&#x1EF9; thu&#x1EAD;t</h2>
 <p style="font-weight: inherit;font-style: inherit">SOUTH AMERICA&#x3000;Avision Brasil Ltda.<br>
 Address :Rua F&#xF3;rida, 1670 &#x2013; CJ 22 Berrini, S&#xE3;o Paulo Brasil<br>
-E-mail :&#xA0;<a href="mailto:suporte@avision.com.br">suporte@avision.com.br - translated </a></p>
+E-mail :&#xA0;<a href="mailto:suporte@avision.com.br">suporte@avision.com.br</a></p>
 </td>
 </tr>
 <tr style="font-weight: inherit;font-style: inherit">
 <td style="font-weight: normal;font-style: inherit">
-<h2 style="font-weight: 600;color: #3e3d3d"><span style="font-weight: inherit;font-style: inherit;color: #207ebc">Service &amp; Repairs - translated </span></h2>
+<h2 style="font-weight: 600;color: #3e3d3d">D&#x1ECB;ch v&#x1EE5; &amp; S&#x1EED;a ch&#x1EEF;a</h2>
 <p style="font-weight: inherit;font-style: inherit">SOUTH AMERICA Avision Brasil Ltda.<br>
 Address :Rua F&#xF3;rida, 1670 &#x2013; CJ 22 Berrini, S&#xE3;o Paulo Brasil<br>
-E-mail :<a href="mailto:suporte@avision.com.br">suporte@avision.com.br - translated </a></p>
+E-mail :<a href="mailto:suporte@avision.com.br">suporte@avision.com.br</a></p>
 </td>
 <td style="font-weight: normal;font-style: inherit"></td>
 </tr>
 </tbody>
 </table></div>
 									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="6" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2116" aria-expanded="false">Ch&#xE2;u &#xC2;u</div>
-					<div id="elementor-tab-content-2116" class="elementor-tab-content elementor-clearfix" data-tab="6" role="tabpanel" aria-labelledby="elementor-tab-title-2116" tabindex="0" hidden="hidden"><p>&#xA0;</p><table style="font-weight: 500;height: 580px" width="577"><tbody><tr><td><h2 style="color: #3e3d3d"><span style="color: #207ebc">Sales Service - translated </span></h2><p>Europe&#x3000;Avision Europe GmbH<br>Address : Siemensring 91<br>47877 Willich <br>Germany<br>Fax : +49 2154-88850-29 <br>E-mail :&#xA0;<a href="mailto:w.kuo@avision-europe.com">w.kuo@avision-europe.com - translated </a><br><a href="http://www.avision.de/">http://www.avision.de - translated </a></p></td><td><h2 style="color: #3e3d3d"><span style="color: #207ebc">Technical Support - translated </span></h2><p>Europe&#x3000;Avision Europe GmbH<br>Address : Siemensring 91<br>47877 Willich<br>Germany<br>E-mail :&#xA0;<a href="mailto:support@avision.de">support@avision.de - translated </a><br><a href="http://www.avision.de/">http://www.avision.de - translated </a></p></td></tr><tr><td><h2 style="color: #3e3d3d"><span style="color: #207ebc">Service &amp; Repairs - translated </span></h2><p>Europe&#x3000;Avision Europe GmbH<br>Address : Siemensring 91<br>47877 Willich<br>Germany<br>E-mail :&#xA0;<a href="mailto:support@avision.de">support@avision.de - translated </a><br><a href="http://www.avision.de/">http://www.avision.de - translated </a></p></td><td>&#xA0;</td></tr></tbody></table></div>
-									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="7" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2117" aria-expanded="false">Turkey - translated </div>
-					<div id="elementor-tab-content-2117" class="elementor-tab-content elementor-clearfix" data-tab="7" role="tabpanel" aria-labelledby="elementor-tab-title-2117" tabindex="0" hidden="hidden"><p>&#xA0;</p><table style="font-weight: 500;color: #060606;height: 580px" width="577"><tbody style="font-weight: inherit;font-style: inherit"><tr style="font-weight: inherit;font-style: inherit"><td style="font-weight: normal;font-style: inherit"><h2 style="font-weight: 600;color: #3e3d3d"><span style="font-weight: inherit;font-style: inherit;color: #207ebc">Sales Service - translated </span></h2><p style="font-weight: inherit;font-style: inherit">Turkiye Ekspres-Bim Bilgisayar Hizmetleri Sanayi ve Tic. A.&#x15E;.<br>Address : Maslak Mahallesi Akasya Sokak Eclipse Maslak<br>Business C Blok D 29/30 Sar&#x131;yer / &#x130;stanbul<br>Fax : +90 212 276 5914<br>E-mail :&#xA0;<a href="mailto:mailto:info@ekspresbim.com.tr">info@ekspresbim.com.tr - translated </a><br><a style="font-weight: inherit;font-style: inherit;color: #3e3d3d" href="http://www.ekspresbim.com.tr">http://www.ekspresbim.com.tr - translated </a></p></td><td style="font-weight: normal;font-style: inherit"><h2 style="font-weight: 600;color: #3e3d3d"><span style="font-weight: inherit;font-style: inherit;color: #207ebc">Technical Support - translated </span></h2><p style="font-weight: inherit;font-style: inherit">T&#xFC;rkiye Ekspres-Bim Bilgisayar Hizmetleri Sanayi ve Tic. A.&#x15E;.<br>Address : A&#x15F;a&#x11F;&#x131; Dikmen Mah. 576. Sk. No: 30 06450 &#xC7;ankaya/Ankara &#x2013; T&#xDC;RK&#x130;YE<br>Fax : +90 (312) 463 8889<br>E-mail :&#xA0;<a href="mailto:info@ekspresbim.com.tr">info@ekspresbim.com.tr  - translated </a><br><a href="http://www.ekspresbim.com.tr">http://www.ekspresbim.com.tr - translated </a></p></td></tr></tbody></table></div>
-									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="8" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2118" aria-expanded="false">Australia / New Zealand - translated </div>
+					<div id="elementor-tab-content-2116" class="elementor-tab-content elementor-clearfix" data-tab="6" role="tabpanel" aria-labelledby="elementor-tab-title-2116" tabindex="0" hidden="hidden"><p>&#xA0;</p><table style="font-weight: 500;height: 580px" width="577"><tbody><tr><td><h2 style="color: #3e3d3d">D&#x1ECB;ch v&#x1EE5; b&#xE1;n h&#xE0;ng</h2><p>Europe&#x3000;Avision Europe GmbH<br>Address : Siemensring 91<br>47877 Willich <br>Germany<br>Fax : +49 2154-88850-29 <br>E-mail :&#xA0;<a href="mailto:w.kuo@avision-europe.com">w.kuo@avision-europe.com</a><br><a href="http://www.avision.de/">http://www.avision.de</a></p></td><td><h2 style="color: #3e3d3d">H&#x1ED7; tr&#x1EE3; k&#x1EF9; thu&#x1EAD;t</h2><p>Europe&#x3000;Avision Europe GmbH<br>Address : Siemensring 91<br>47877 Willich<br>Germany<br>E-mail :&#xA0;<a href="mailto:support@avision.de">support@avision.de</a><br><a href="http://www.avision.de/">http://www.avision.de</a></p></td></tr><tr><td><h2 style="color: #3e3d3d">D&#x1ECB;ch v&#x1EE5; &amp; S&#x1EED;a ch&#x1EEF;a</h2><p>Europe&#x3000;Avision Europe GmbH<br>Address : Siemensring 91<br>47877 Willich<br>Germany<br>E-mail :&#xA0;<a href="mailto:support@avision.de">support@avision.de</a><br><a href="http://www.avision.de/">http://www.avision.de</a></p></td><td>&#xA0;</td></tr></tbody></table></div>
+									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="7" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2117" aria-expanded="false">Th&#x1ED5; Nh&#x129; K&#x1EF3;</div>
+					<div id="elementor-tab-content-2117" class="elementor-tab-content elementor-clearfix" data-tab="7" role="tabpanel" aria-labelledby="elementor-tab-title-2117" tabindex="0" hidden="hidden"><p>&#xA0;</p><table style="font-weight: 500;color: #060606;height: 580px" width="577"><tbody style="font-weight: inherit;font-style: inherit"><tr style="font-weight: inherit;font-style: inherit"><td style="font-weight: normal;font-style: inherit"><h2 style="font-weight: 600;color: #3e3d3d">D&#x1ECB;ch v&#x1EE5; b&#xE1;n h&#xE0;ng</h2><p style="font-weight: inherit;font-style: inherit">Turkiye Ekspres-Bim Bilgisayar Hizmetleri Sanayi ve Tic. A.&#x15E;.<br>Address : Maslak Mahallesi Akasya Sokak Eclipse Maslak<br>Business C Blok D 29/30 Sar&#x131;yer / &#x130;stanbul<br>Fax : +90 212 276 5914<br>E-mail :&#xA0;<a href="mailto:mailto:info@ekspresbim.com.tr">info@ekspresbim.com.tr</a><br><a style="font-weight: inherit;font-style: inherit;color: #3e3d3d" href="http://www.ekspresbim.com.tr">http://www.ekspresbim.com.tr</a></p></td><td style="font-weight: normal;font-style: inherit"><h2 style="font-weight: 600;color: #3e3d3d">H&#x1ED7; tr&#x1EE3; k&#x1EF9; thu&#x1EAD;t</h2><p style="font-weight: inherit;font-style: inherit">T&#xFC;rkiye Ekspres-Bim Bilgisayar Hizmetleri Sanayi ve Tic. A.&#x15E;.<br>Address : A&#x15F;a&#x11F;&#x131; Dikmen Mah. 576. Sk. No: 30 06450 &#xC7;ankaya/Ankara &#x2013; T&#xDC;RK&#x130;YE<br>Fax : +90 (312) 463 8889<br>E-mail :&#xA0;<a href="mailto:info@ekspresbim.com.tr">info@ekspresbim.com.tr</a><br><a href="http://www.ekspresbim.com.tr">http://www.ekspresbim.com.tr</a></p></td></tr></tbody></table></div>
+									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="8" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2118" aria-expanded="false">&#xDA;c / New Zealand</div>
 					<div id="elementor-tab-content-2118" class="elementor-tab-content elementor-clearfix" data-tab="8" role="tabpanel" aria-labelledby="elementor-tab-title-2118" tabindex="0" hidden="hidden">                <table style="font-weight: 500; color: #060606;">
                     <tbody style="font-weight: inherit; font-style: inherit;">
                     <tr style="font-weight: inherit; font-style: inherit;">
                     <td style="font-weight: normal; font-style: inherit;">
-                    <h2 style="font-weight: 600; color: #3e3d3d;"><span style="font-weight: inherit; font-style: inherit; color: #207ebc;">Sales Service - translated </span></h2>
-                    <p style="font-weight: inherit; font-style: inherit;">Australia Alloys - translated </p>
+                    <h2 style="font-weight: 600; color: #3e3d3d;">D&#x1ECB;ch v&#x1EE5; b&#xE1;n h&#xE0;ng</h2>
+                    <p style="font-weight: inherit; font-style: inherit;">H&#x1EE3;p kim &#xDA;c</p>
                         Address : Alloys Australia Pty Ltd<br>
                         Tel : 1300 368 348<br>
-                        E-mail :&#xA0;<a href="hello@alloys.com.au">hello@alloys.com.au - translated </a><p></p>
+                        E-mail :&#xA0;<a href="hello@alloys.com.au">xin ch&#xE0;o@alloys.com.au</a><p></p>
                     </td>
                     <td style="font-weight: normal; font-style: inherit;">
-                    <h2 style="font-weight: 600; color: #3e3d3d;"><span style="font-weight: inherit; font-style: inherit; color: #207ebc;">Technical Support - translated </span></h2>
-                    <p style="font-weight: inherit; font-style: inherit;">Australia Alloys - translated </p>
+                    <h2 style="font-weight: 600; color: #3e3d3d;">H&#x1ED7; tr&#x1EE3; k&#x1EF9; thu&#x1EAD;t</h2>
+                    <p style="font-weight: inherit; font-style: inherit;">H&#x1EE3;p kim &#xDA;c</p>
                         Address : Alloys Australia Pty Ltd<br>
                         Tel : 1300 146 373<br>
-                        E-mail :&#xA0;<a href="mailto:hello@alloys.com.au">hello@alloys.com.au - translated </a><p></p>
+                        E-mail :&#xA0;<a href="mailto:hello@alloys.com.au">xin ch&#xE0;o@alloys.com.au</a><p></p>
                     </td>
                     </tr>
                     <tr style="font-weight: inherit; font-style: inherit;">
                     <td style="font-weight: normal; font-style: inherit;">
-                    <h2 style="font-weight: 600; color: #3e3d3d;"><span style="font-weight: inherit; font-style: inherit; color: #207ebc;">Sales Service - translated </span></h2>
-                    <p style="font-weight: inherit; font-style: inherit;">New Zealand Alloys - translated </p>
+                    <h2 style="font-weight: 600; color: #3e3d3d;">D&#x1ECB;ch v&#x1EE5; b&#xE1;n h&#xE0;ng</h2>
+                    <p style="font-weight: inherit; font-style: inherit;">H&#x1EE3;p kim New Zealand</p>
                         Address : Alloys NZ Limited<br>
                         Tel : 1300 368 348<br>
-                        E-mail :&#xA0;<a href="mailto:mailto:hello@alloys.com.au">hello@alloys.com.au - translated </a><p></p>
+                        E-mail :&#xA0;<a href="mailto:mailto:hello@alloys.com.au">xin ch&#xE0;o@alloys.com.au</a><p></p>
                     </td>
                     <td style="font-weight: normal; font-style: inherit;">
-                    <h2 style="font-weight: 600; color: #3e3d3d;"><span style="font-weight: inherit; font-style: inherit; color: #207ebc;">Technical Support - translated </span></h2>
-                    <p style="font-weight: inherit; font-style: inherit;">New Zealand Alloys - translated </p>
+                    <h2 style="font-weight: 600; color: #3e3d3d;">H&#x1ED7; tr&#x1EE3; k&#x1EF9; thu&#x1EAD;t</h2>
+                    <p style="font-weight: inherit; font-style: inherit;">H&#x1EE3;p kim New Zealand</p>
                         Address : Alloys NZ Limited<br>
                         Tel : 1300 146 373<br>
-                        E-mail :&#xA0;<a href="mailto:mailto:hello@alloys.com.au">hello@alloys.com.au - translated </a><p></p>
+                        E-mail :&#xA0;<a href="mailto:mailto:hello@alloys.com.au">xin ch&#xE0;o@alloys.com.au</a><p></p>
                     </td>
                     </tr>
                     </tbody>
                     </table></div>
-									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="9" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2119" aria-expanded="false">Africa - translated </div>
-					<div id="elementor-tab-content-2119" class="elementor-tab-content elementor-clearfix" data-tab="9" role="tabpanel" aria-labelledby="elementor-tab-title-2119" tabindex="0" hidden="hidden"><p><!-- Africa--></p><table style="font-weight: 500;color: #060606"><tbody style="font-weight: inherit;font-style: inherit"><tr style="font-weight: inherit;font-style: inherit"><td style="font-weight: normal;font-style: inherit"><h2 style="font-weight: 600;color: #3e3d3d"><span style="font-weight: inherit;font-style: inherit;color: #207ebc">Sales Service - translated </span></h2><p style="font-weight: inherit;font-style: inherit">Taiwan&#x3000;Avision Inc.<br>Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 30077, Taiwan, R.O.C.<br>Fax : +886-3-577-7017<br>E-mail :&#xA0;<a href="mailto:mailto:sales@avision.com.tw">sales@avision.com.tw</a></p></td><td style="font-weight: normal;font-style: inherit"><h2 style="font-weight: 600;color: #3e3d3d"><span style="font-weight: inherit;font-style: inherit;color: #207ebc">Technical Support - translated </span></h2><p style="font-weight: inherit;font-style: inherit">Taiwan&#x3000;Avision Inc.<br>Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 30077, Taiwan, R.O.C.<br>Fax : +886-3-577-7017<br>E-mail :&#xA0;<a href="mailto:mailto:service@avision.com.tw">service@avision.com.tw - translated </a></p></td></tr><tr style="font-weight: inherit;font-style: inherit"><td style="font-weight: normal;font-style: inherit"><h2 style="font-weight: 600;color: #3e3d3d"><span style="font-weight: inherit;font-style: inherit;color: #207ebc">Service &amp; Repairs - translated </span></h2><p style="font-weight: inherit;font-style: inherit">Taiwan&#x3000;Avision Inc.<br>Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 30077, Taiwan, R.O.C.<br>Fax : +886-3-577-7017<br>E-mail :&#xA0;<a href="mailto:service@avision.com.tw">service@avision.com.tw - translated </a></p></td><td style="font-weight: normal;font-style: inherit"><h2 style="font-weight: 600;color: #3e3d3d"><span style="font-weight: inherit;font-style: inherit;color: #207ebc">Africa Distributor - translated </span></h2><p style="font-weight: inherit;font-style: inherit">Africa&#x3000;Imaging Machines Ltd.<br>Address : 5 St. Georges House St., Georges Mall, Cape Town 8000, Afric.<br>Fax : +27-86-617-7946<br>E-mail :&#xA0;<a href="mailto:info@avision.africa">info@avision.africa - translated </a></p></td></tr></tbody></table></div>
-									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="10" role="tab" tabindex="-1" aria-controls="elementor-tab-content-21110" aria-expanded="false">Middle East - translated </div>
+									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="9" role="tab" tabindex="-1" aria-controls="elementor-tab-content-2119" aria-expanded="false">Ch&#xE2;u phi</div>
+					<div id="elementor-tab-content-2119" class="elementor-tab-content elementor-clearfix" data-tab="9" role="tabpanel" aria-labelledby="elementor-tab-title-2119" tabindex="0" hidden="hidden"><p><!-- Africa--></p><table style="font-weight: 500;color: #060606"><tbody style="font-weight: inherit;font-style: inherit"><tr style="font-weight: inherit;font-style: inherit"><td style="font-weight: normal;font-style: inherit"><h2 style="font-weight: 600;color: #3e3d3d">D&#x1ECB;ch v&#x1EE5; b&#xE1;n h&#xE0;ng</h2><p style="font-weight: inherit;font-style: inherit">Taiwan&#x3000;Avision Inc.<br>Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 30077, Taiwan, R.O.C.<br>Fax : +886-3-577-7017<br>E-mail :&#xA0;<a href="mailto:mailto:sales@avision.com.tw">sales@avision.com.tw</a></p></td><td style="font-weight: normal;font-style: inherit"><h2 style="font-weight: 600;color: #3e3d3d">H&#x1ED7; tr&#x1EE3; k&#x1EF9; thu&#x1EAD;t</h2><p style="font-weight: inherit;font-style: inherit">Taiwan&#x3000;Avision Inc.<br>Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 30077, Taiwan, R.O.C.<br>Fax : +886-3-577-7017<br>E-mail :&#xA0;<a href="mailto:mailto:service@avision.com.tw">service@avision.com.tw</a></p></td></tr><tr style="font-weight: inherit;font-style: inherit"><td style="font-weight: normal;font-style: inherit"><h2 style="font-weight: 600;color: #3e3d3d">D&#x1ECB;ch v&#x1EE5; &amp; S&#x1EED;a ch&#x1EEF;a</h2><p style="font-weight: inherit;font-style: inherit">Taiwan&#x3000;Avision Inc.<br>Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 30077, Taiwan, R.O.C.<br>Fax : +886-3-577-7017<br>E-mail :&#xA0;<a href="mailto:service@avision.com.tw">service@avision.com.tw</a></p></td><td style="font-weight: normal;font-style: inherit"><h2 style="font-weight: 600;color: #3e3d3d">Nh&#xE0; ph&#xE2;n ph&#x1ED1;i Ch&#xE2;u Phi</h2><p style="font-weight: inherit;font-style: inherit">Africa&#x3000;Imaging Machines Ltd.<br>Address : 5 St. Georges House St., Georges Mall, Cape Town 8000, Afric.<br>Fax : +27-86-617-7946<br>E-mail :&#xA0;<a href="mailto:info@avision.africa">info@avision.africa</a></p></td></tr></tbody></table></div>
+									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="10" role="tab" tabindex="-1" aria-controls="elementor-tab-content-21110" aria-expanded="false">Trung &#x111;&#xF4;ng</div>
 					<div id="elementor-tab-content-21110" class="elementor-tab-content elementor-clearfix" data-tab="10" role="tabpanel" aria-labelledby="elementor-tab-title-21110" tabindex="0" hidden="hidden"><table style="font-weight: 500; color: #060606;">
     <tbody style="font-weight: inherit; font-style: inherit;">
     <tr style="font-weight: inherit; font-style: inherit;">
     <td style="font-weight: normal; font-style: inherit;">
-    <h2 style="font-weight: 600; color: #3e3d3d;"><span style="font-weight: inherit; font-style: inherit; color: #207ebc;">Sales Service - translated </span></h2>
+    <h2 style="font-weight: 600; color: #3e3d3d;">D&#x1ECB;ch v&#x1EE5; b&#xE1;n h&#xE0;ng</h2>
     <p style="font-weight: inherit; font-style: inherit;">Taiwan&#x3000;Avision Inc.<br>
     Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 30077, Taiwan, R.O.C.<br>
     Tel : +886-3-578-2388 #8934<br>
     Fax : +886-3-577-7017<br>
     E-mail :&#xA0;<a href="mailto:sales@avision.com.tw">sales@avision.com.tw</a><br>
-    <a href="http://www.avision.com.tw/">http://www.avision.com.tw - translated </a></p>
+    <a href="http://www.avision.com.tw/">http://www.avision.com.tw</a></p>
     </td>
     <td style="font-weight: normal; font-style: inherit;">
-    <h2 style="font-weight: 600; color: #3e3d3d;"><span style="font-weight: inherit; font-style: inherit; color: #207ebc;">Technical Support - translated </span></h2>
+    <h2 style="font-weight: 600; color: #3e3d3d;">H&#x1ED7; tr&#x1EE3; k&#x1EF9; thu&#x1EAD;t</h2>
     <p style="font-weight: inherit; font-style: inherit;">Taiwan Avision Inc.<br>
     Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 30077, Taiwan, R.O.C.<br>
     Tel : +886-3-578-2388 #8929<br>
     Fax : +886-3-577-7017<br>
-    E-mail :&#xA0;<a href="mailto:service@avision.com.tw/">service@avision.com.tw - translated </a><br>
-    <a href="http://www.avision.com.tw/">http://www.avision.com.tw - translated </a></p>
+    E-mail :&#xA0;<a href="mailto:service@avision.com.tw/">service@avision.com.tw</a><br>
+    <a href="http://www.avision.com.tw/">http://www.avision.com.tw</a></p>
     </td>
     </tr>
     <tr style="font-weight: inherit; font-style: inherit;">
     <td style="font-weight: normal; font-style: inherit;">
-    <h2 style="font-weight: 600; color: #3e3d3d;"><span style="font-weight: inherit; font-style: inherit; color: #207ebc;">Service &amp; Repairs - translated </span></h2>
+    <h2 style="font-weight: 600; color: #3e3d3d;">D&#x1ECB;ch v&#x1EE5; &amp; S&#x1EED;a ch&#x1EEF;a</h2>
     <p style="font-weight: inherit; font-style: inherit;">Taiwan Avision Inc.<br>
     Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 30077, Taiwan, R.O.C.<br>
     Tel : +886-3-578-2388 #8929<br>
     Fax : +886-3-577-7017<br>
-    E-mail :&#xA0;<a href="mailto:service@avision.com.tw">service@avision.com.tw - translated </a><br>
-    <a href="http://www.avision.com.tw/">http://www.avision.com.tw - translated </a></p>
+    E-mail :&#xA0;<a href="mailto:service@avision.com.tw">service@avision.com.tw</a><br>
+    <a href="http://www.avision.com.tw/">http://www.avision.com.tw</a></p>
     </td>
     <td style="font-weight: normal; font-style: inherit;">
-    <h2 style="font-weight: 600; color: #3e3d3d;"><span style="font-weight: inherit; font-style: inherit; color: #207ebc;">Israel Distributor - translated </span></h2>
+    <h2 style="font-weight: 600; color: #3e3d3d;">Nh&#xE0; ph&#xE2;n ph&#x1ED1;i Israel</h2>
     <p style="font-weight: inherit; font-style: inherit;">Israel Sun Electronics Ltd.<br>
     Address : 5 Tel Giborim St., Tel Aviv 68105, Israel.<br>
     Tel : +972-3-518-7722<br>
     Fax : +972-3-518-7733<br>
-    E-mail : Sales Group :&#xA0;<a href="mailto:sales@sun.co.il/">sales@sun.co.il - translated </a><br>
-    Service &amp; Support :&#xA0;<a href="mailto:support@sun.co.il%20http://www.sun.co.il">support@sun.co.il - translated </a><br>
-    <a href="http://www.sun.co.il">http://www.sun.co.il - translated </a></p>
+    E-mail : Sales Group :&#xA0;<a href="mailto:sales@sun.co.il/">sales@sun.co.il</a><br>
+    Service &amp; Support :&#xA0;<a href="mailto:support@sun.co.il%20http://www.sun.co.il">support@sun.co.il</a><br>
+    <a href="http://www.sun.co.il">http://www.sun.co.il</a></p>
     </td>
     </tr>
     <tr style="font-weight: inherit; font-style: inherit;">
     <td style="font-weight: normal; font-style: inherit;">
-    <h2 style="font-weight: 600; color: #3e3d3d;"><span style="font-weight: inherit; font-style: inherit; color: #207ebc;">ME Countries Distributor - translated </span></h2>
+    <h2 style="font-weight: 600; color: #3e3d3d;">Nh&#xE0; ph&#xE2;n ph&#x1ED1;i n&#x1B0;&#x1EDB;c ME</h2>
     <p style="font-weight: inherit; font-style: inherit;">Dubai DOX Technologies LLC<br>
     Address : Office 3206,The Citadel Tower,Business Bay,Dubai,UAE P.O.Box 72891 Dubai<br>
     Tel 1 : +971-4-430 5577<br>
@@ -1641,21 +1653,21 @@ E-mail :<a href="mailto:suporte@avision.com.br">suporte@avision.com.br - transla
     Tel 3 : +971-4-430 7766<br>
     Cell : +971-56-170 4242<br>
     Fax : +971-4-430 5757<br>
-    E-mail :<a href="mailto:marketing@dox.ae">marketing@dox.ae - translated </a></p>
+    E-mail :<a href="mailto:marketing@dox.ae">marketing@dox.ae</a></p>
     </td>
 <td style="font-weight: normal; font-style: inherit;">
-<h2 style="font-weight: 600; color: #3e3d3d;"><span style="font-weight: inherit; font-style: inherit; color: #207ebc;">Forefront Technologies - translated </span></h2>
+<h2 style="font-weight: 600; color: #3e3d3d;">C&#xF4;ng ngh&#x1EC7; ti&#xEA;n phong</h2>
 Address : FD03 &amp; FD04, Street No. N503, Jebel Ali Free Zone &#x2013; Dubai, United Arab Emirates<br>
 Tel.: +971-4-8814440<br>
 Fax : +971-4-881 42 42<br>
-E-mail : <a href="mailto:sales@forefrontec.com">sales@forefrontec.com - translated </a><br>
-Website: <a href="www.forefontec.com">www.forefontec.com - translated </a>
+E-mail : <a href="mailto:sales@forefrontec.com">sales@forefrontec.com</a><br>
+Website: <a href="www.forefontec.com">www.forefontec.com</a>
 </td>
 </tr>
     </tbody>
     </table></div>
-									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="11" role="tab" tabindex="-1" aria-controls="elementor-tab-content-21111" aria-expanded="false">Other Country - translated </div>
-					<div id="elementor-tab-content-21111" class="elementor-tab-content elementor-clearfix" data-tab="11" role="tabpanel" aria-labelledby="elementor-tab-title-21111" tabindex="0" hidden="hidden"><p>&#xA0;</p><table><tbody style="font-weight: inherit;font-style: inherit"><tr style="font-weight: inherit;font-style: inherit"><td style="font-weight: normal;font-style: inherit"><h2 style="font-weight: 600;color: #3e3d3d"><span style="font-weight: inherit;font-style: inherit;color: #207ebc">Sales Service - translated </span></h2><p style="font-weight: inherit;font-style: inherit">Taiwan&#x3000;Avision Inc.<br>Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 30077, Taiwan, R.O.C.<br>Fax : +886-3-577-7017<br>E-mail :&#xA0;<a href="mailto:sales@avision.com.tw">sales@avision.com.tw</a></p></td><td style="font-weight: normal;font-style: inherit"><h2 style="font-weight: 600;color: #3e3d3d"><span style="font-weight: inherit;font-style: inherit;color: #207ebc">Technical Support - translated </span></h2><p style="font-weight: inherit;font-style: inherit">Taiwan&#x3000;Avision Inc.<br>Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 30077, Taiwan, R.O.C.<br>Fax : +886-3-577-7017<br>E-mail :&#xA0;<a href="mailto:service@avision.com.tw">service@avision.com.tw - translated </a></p></td></tr><tr style="font-weight: inherit;font-style: inherit"><td style="font-weight: normal;font-style: inherit"><h2 style="font-weight: 600;color: #3e3d3d"><span style="font-weight: inherit;font-style: inherit;color: #207ebc">Service &amp; Repairs - translated </span></h2><p style="font-weight: inherit;font-style: inherit">Taiwan&#x3000;Avision Inc.<br>Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 30077, Taiwan, R.O.C.<br>Fax : +886-3-577-7017<br>E-mail :&#xA0;<a href="mailto:service@avision.com.tw">service@avision.com.tw - translated </a></p></td></tr></tbody></table></div>
+									<div class="elementor-tab-title elementor-tab-mobile-title" aria-selected="false" data-tab="11" role="tab" tabindex="-1" aria-controls="elementor-tab-content-21111" aria-expanded="false">&#x110;&#x1EA5;t n&#x1B0;&#x1EDB;c kh&#xE1;c</div>
+					<div id="elementor-tab-content-21111" class="elementor-tab-content elementor-clearfix" data-tab="11" role="tabpanel" aria-labelledby="elementor-tab-title-21111" tabindex="0" hidden="hidden"><p>&#xA0;</p><table><tbody style="font-weight: inherit;font-style: inherit"><tr style="font-weight: inherit;font-style: inherit"><td style="font-weight: normal;font-style: inherit"><h2 style="font-weight: 600;color: #3e3d3d">D&#x1ECB;ch v&#x1EE5; b&#xE1;n h&#xE0;ng</h2><p style="font-weight: inherit;font-style: inherit">Taiwan&#x3000;Avision Inc.<br>Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 30077, Taiwan, R.O.C.<br>Fax : +886-3-577-7017<br>E-mail :&#xA0;<a href="mailto:sales@avision.com.tw">sales@avision.com.tw</a></p></td><td style="font-weight: normal;font-style: inherit"><h2 style="font-weight: 600;color: #3e3d3d">H&#x1ED7; tr&#x1EE3; k&#x1EF9; thu&#x1EAD;t</h2><p style="font-weight: inherit;font-style: inherit">Taiwan&#x3000;Avision Inc.<br>Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 30077, Taiwan, R.O.C.<br>Fax : +886-3-577-7017<br>E-mail :&#xA0;<a href="mailto:service@avision.com.tw">service@avision.com.tw</a></p></td></tr><tr style="font-weight: inherit;font-style: inherit"><td style="font-weight: normal;font-style: inherit"><h2 style="font-weight: 600;color: #3e3d3d">D&#x1ECB;ch v&#x1EE5; &amp; S&#x1EED;a ch&#x1EEF;a</h2><p style="font-weight: inherit;font-style: inherit">Taiwan&#x3000;Avision Inc.<br>Address : No. 20, Creation Rd 1, Hsinchu Science Park, Hsinchu 30077, Taiwan, R.O.C.<br>Fax : +886-3-577-7017<br>E-mail :&#xA0;<a href="mailto:service@avision.com.tw">service@avision.com.tw</a></p></td></tr></tbody></table></div>
 							</div>
 		</div>
 				</div>
@@ -1690,7 +1702,7 @@ Website: <a href="www.forefontec.com">www.forefontec.com - translated </a>
 									<i class="fas fa-print"></i>								</div>
 							</div>
 						
-													<h3 class="elementor-flip-box__layer__title"> Product Information Contact  - translated </h3>
+													<h3 class="elementor-flip-box__layer__title"> Th&#xF4;ng tin s&#x1EA3;n ph&#x1EA9;m Li&#xEA;n h&#x1EC7;</h3>
 						
 											</div>
 				</div>
@@ -1699,12 +1711,7 @@ Website: <a href="www.forefontec.com">www.forefontec.com - translated </a>
 			<div class="elementor-flip-box__layer__overlay">
 				<div class="elementor-flip-box__layer__inner">
 					
-											<div class="elementor-flip-box__layer__description">
-							<strong>Sales Team - translated </strong><br>
-Avision Inc.<br>
-TEL: 886-3-578-2388 ext 8934<br>
-FAX: 886-3-577-7017<br>
-Contact Avision Sales Team.<br>						</div>
+											<div class="elementor-flip-box__layer__description"> Nh&#xF3;m b&#xE1;n h&#xE0;ng Avision Inc. &#x110;T: 886-3-578-2388 m&#xE1;y l&#x1EBB; 8934 FAX: 886-3-577-7017 Li&#xEA;n h&#x1EC7; v&#x1EDB;i Nh&#xF3;m b&#xE1;n h&#xE0;ng Avision.</div>
 					
 								</div>
 		</div>
@@ -1727,7 +1734,7 @@ Contact Avision Sales Team.<br>						</div>
 									<i class="far fa-newspaper"></i>								</div>
 							</div>
 						
-													<h3 class="elementor-flip-box__layer__title"> Press Contact  - translated </h3>
+													<h3 class="elementor-flip-box__layer__title"> Nh&#x1EA5;n Li&#xEA;n h&#x1EC7;</h3>
 						
 											</div>
 				</div>
@@ -1736,14 +1743,9 @@ Contact Avision Sales Team.<br>						</div>
 			<div class="elementor-flip-box__layer__overlay">
 				<div class="elementor-flip-box__layer__inner">
 					
-											<div class="elementor-flip-box__layer__description">
-							<strong>Daniel Kuo - translated </strong><br>
-Avision Inc.<br>
-TEL: 886-3-578-2388 ext 8200<br>
-FAX: 886-3-577-7017<br>
-Contact Avision Sales Team.						</div>
+											<div class="elementor-flip-box__layer__description"> Daniel Kuo Avision Inc. &#x110;T: 886-3-578-2388 m&#xE1;y l&#x1EBB; 8200 FAX: 886-3-577-7017 Li&#xEA;n h&#x1EC7; v&#x1EDB;i Nh&#xF3;m B&#xE1;n h&#xE0;ng Avision.</div>
 					
-											<a class="elementor-flip-box__button elementor-button elementor-size-sm" href="http://localhost:3000/contact-us/email-form/"> Click Here  - translated </a>
+											<a class="elementor-flip-box__button elementor-button elementor-size-sm" href="http://localhost:3000/contact-us/email-form/"> B&#x1EA5;m v&#xE0;o &#x111;&#xE2;y</a>
 								</div>
 		</div>
 		</div>
@@ -1765,7 +1767,7 @@ Contact Avision Sales Team.						</div>
 									<i class="fab fa-internet-explorer"></i>								</div>
 							</div>
 						
-													<h3 class="elementor-flip-box__layer__title"> Web Adminstrator Contact  - translated </h3>
+													<h3 class="elementor-flip-box__layer__title"> Li&#xEA;n h&#x1EC7; qu&#x1EA3;n tr&#x1ECB; vi&#xEA;n web</h3>
 						
 											</div>
 				</div>
@@ -1775,7 +1777,7 @@ Contact Avision Sales Team.						</div>
 				<div class="elementor-flip-box__layer__inner">
 					
 					
-											<a class="elementor-flip-box__button elementor-button elementor-size-sm" href="http://localhost:3000/contact-us/email-form/"> Contact us  - translated </a>
+											<a class="elementor-flip-box__button elementor-button elementor-size-sm" href="http://localhost:3000/contact-us/email-form/"> Li&#xEA;n h&#x1EC7; ch&#xFA;ng t&#xF4;i</a>
 								</div>
 		</div>
 		</div>
@@ -1804,7 +1806,7 @@ Contact Avision Sales Team.						</div>
 				</div>
 				<div class="elementor-element elementor-element-1d20871 elementor-widget elementor-widget-heading" data-id="1d20871" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">Social Media - translated </h1>		</div>
+			<h1 class="elementor-heading-title elementor-size-default">Truy&#x1EC1;n th&#xF4;ng x&#xE3; h&#x1ED9;i</h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-9680097 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="9680097" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -1820,7 +1822,7 @@ Contact Avision Sales Team.						</div>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-9ebf959 elementor-widget elementor-widget-heading" data-id="9ebf959" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h3 class="elementor-heading-title elementor-size-default">Contact Avision Sales Team - translated </h3>		</div>
+			<h3 class="elementor-heading-title elementor-size-default">Li&#xEA;n h&#x1EC7; &#x110;&#x1ED9;i ng&#x169; b&#xE1;n h&#xE0;ng c&#x1EE7;a Avision</h3>		</div>
 				</div>
 				<div class="elementor-element elementor-element-84b5c59 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="84b5c59" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -1833,11 +1835,7 @@ Contact Avision Sales Team.						</div>
 				<div class="elementor-element elementor-element-5dc397c elementor-align-center elementor-widget elementor-widget-button" data-id="5dc397c" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-push" href="http://localhost:3000/contact-us/email-form/">
-						<span class="elementor-button-content-wrapper">
-						<span class="elementor-button-text">Click here - translated </span>
-		</span>
-					</a>
+			<a class="elementor-button elementor-button-link elementor-size-sm elementor-animation-push" href="http://localhost:3000/contact-us/email-form/"> B&#x1EA5;m v&#xE0;o &#x111;&#xE2;y</a>
 		</div>
 				</div>
 				</div>
@@ -1847,7 +1845,7 @@ Contact Avision Sales Team.						</div>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-e3e9e81 elementor-widget elementor-widget-heading" data-id="e3e9e81" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Social media - translated </h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Truy&#x1EC1;n th&#xF4;ng x&#xE3; h&#x1ED9;i</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-7dd8b94 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="7dd8b94" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -1859,18 +1857,7 @@ Contact Avision Sales Team.						</div>
 				</div>
 				<div class="elementor-element elementor-element-2816eb2 e-grid-align-tablet-center elementor-shape-rounded elementor-grid-0 e-grid-align-center elementor-widget elementor-widget-social-icons" data-id="2816eb2" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-social-icons-wrapper elementor-grid">
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook elementor-animation-push elementor-repeater-item-ebe907a" href="https://www.facebook.com/AvisionHQ/" target="_blank">
-						<span class="elementor-screen-only">Facebook - translated </span>
-						<i class="fab fa-facebook"></i>					</a>
-				</span>
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-animation-push elementor-repeater-item-b8e3fd2" href="https://www.youtube.com/@AvisionHQ" target="_blank">
-						<span class="elementor-screen-only">Youtube</span>
-						<i class="fab fa-youtube"></i>					</a>
-				</span>
-					</div>
+					<div class="elementor-social-icons-wrapper elementor-grid"> Facebook Youtube</div>
 				</div>
 				</div>
 					</div>
@@ -1928,30 +1915,16 @@ Contact Avision Sales Team.						</div>
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/why-avision/">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-check"></i>						</span>
-										<span class="elementor-icon-list-text">T&#x1EA1;i sao Avision</span>
-											</a>
+											<a href="http://localhost:3000/why-avision/"> T&#x1EA1;i sao Avision</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/corporate-profile/">
-
-											<span class="elementor-icon-list-text">H&#x1ED3; s&#x1A1; c&#xF4;ng ty</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/corporate-profile/"> H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/news/">
-
-											<span class="elementor-icon-list-text">Tin t&#x1EE9;c</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/news/"> Tin t&#x1EE9;c</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/crs/">
-
-											<span class="elementor-icon-list-text">CSR</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/crs/"> CSR</a>
 									</li>
 						</ul>
 				</div>
@@ -1968,34 +1941,19 @@ Contact Avision Sales Team.						</div>
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/document-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</span>
-											</a>
+											<a href="http://localhost:3000/product-category/document-scanner/"> M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/flatbed-scanner/">
-
-											<span class="elementor-icon-list-text"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/flatbed-scanner/"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/"> M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/network-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/network-scanner/"> M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/paperair-series/">
-
-											<span class="elementor-icon-list-text">D&#xF2;ng PaperAir</span>
-											</a>
+											<a href="http://localhost:3000/product-category/paperair-series/"> D&#xF2;ng PaperAir</a>
 									</li>
 						</ul>
 				</div>
@@ -2024,22 +1982,13 @@ Contact Avision Sales Team.						</div>
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/download/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</span>
-											</a>
+											<a href="http://localhost:3000/download/"> Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/helpcenter/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/helpcenter/"> Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/product-registration/">
-
-											<span class="elementor-icon-list-text">&#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/product-registration/"> &#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</a>
 									</li>
 						</ul>
 				</div>
@@ -2058,18 +2007,7 @@ Contact Avision Sales Team.						</div>
 				</div>
 				<div class="elementor-element elementor-element-5852473a elementor-shape-circle e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="5852473a" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-social-icons-wrapper elementor-grid">
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-9758c9c" href="https://www.facebook.com/AvisionHQ/" target="_blank">
-						<span class="elementor-screen-only">Facebook-f</span>
-						<i class="fab fa-facebook-f"></i>					</a>
-				</span>
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-d550229" href="https://www.youtube.com/user/AvisionHQ" target="_blank">
-						<span class="elementor-screen-only">Youtube</span>
-						<i class="fab fa-youtube"></i>					</a>
-				</span>
-					</div>
+					<div class="elementor-social-icons-wrapper elementor-grid"> Facebook-f Youtube</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-ae800e8 elementor-widget elementor-widget-image" data-id="ae800e8" data-element_type="widget" data-widget_type="image.default">
@@ -2088,9 +2026,7 @@ Contact Avision Sales Team.						</div>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-1398caa elementor-widget elementor-widget-copyright" data-id="1398caa" data-element_type="widget" data-widget_type="copyright.default">
 				<div class="elementor-widget-container">
-					<div class="hfe-copyright-wrapper">
-							<span>Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</span>
-					</div>
+					<div class="hfe-copyright-wrapper"> Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</div>
 				</div>
 				</div>
 					</div>
@@ -2138,7 +2074,7 @@ Contact Avision Sales Team.						</div>
 	</div>
 
 </div>
-<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking &#x201C;Accept&#x201D;, you consent to the use of ALL the cookies. </div><div class="cli-bar-btn_container"><a id="wt-cli-accept-all-btn" role="button" data-cli_action="accept_all" class="wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button">Accept</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking &#x201C;Accept&#x201D;, you consent to the use of ALL the cookies. </div><div class="cli-bar-btn_container"><a id="wt-cli-accept-all-btn" role="button" data-cli_action="accept_all" class="wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button">Ch&#x1EA5;p nh&#x1EAD;n</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
   <div class="cli-modal-dialog" role="document">
 	<div class="cli-modal-content cli-bar-popup">
 		  <button type="button" class="cli-modal-close" id="cliModalClose">
@@ -2158,8 +2094,7 @@ Contact Avision Sales Team.						</div>
 		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
 												<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
-								Necessary							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab"> C&#x1EA7;n thi&#x1EBF;t</a>
 															<div class="wt-cli-necessary-checkbox">
 									<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked">
 									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
@@ -2176,8 +2111,7 @@ Contact Avision Sales Team.						</div>
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab">
-								Functional							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab"> ch&#x1EE9;c n&#x103;ng</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-functional" class="cli-user-preference-checkbox" data-id="checkbox-functional">
 									<label for="wt-cli-checkbox-functional" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Functional</span></label>
@@ -2193,8 +2127,7 @@ Contact Avision Sales Team.						</div>
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab">
-								Performance							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab"> Hi&#x1EC7;u su&#x1EA5;t</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-performance" class="cli-user-preference-checkbox" data-id="checkbox-performance">
 									<label for="wt-cli-checkbox-performance" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Performance</span></label>
@@ -2210,8 +2143,7 @@ Contact Avision Sales Team.						</div>
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab">
-								Analytics							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab"> ph&#xE2;n t&#xED;ch</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-analytics" class="cli-user-preference-checkbox" data-id="checkbox-analytics">
 									<label for="wt-cli-checkbox-analytics" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Analytics</span></label>
@@ -2227,8 +2159,7 @@ Contact Avision Sales Team.						</div>
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab">
-								Advertisement							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab"> Qu&#x1EA3;ng c&#xE1;o</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-advertisement" class="cli-user-preference-checkbox" data-id="checkbox-advertisement">
 									<label for="wt-cli-checkbox-advertisement" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Advertisement</span></label>
@@ -2244,8 +2175,7 @@ Contact Avision Sales Team.						</div>
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab">
-								Others							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab"> Ng&#x1B0;&#x1EDD;i kh&#xE1;c</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-others" class="cli-user-preference-checkbox" data-id="checkbox-others">
 									<label for="wt-cli-checkbox-others" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Others</span></label>
@@ -2269,7 +2199,7 @@ Contact Avision Sales Team.						</div>
 					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
 						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
 						
-															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE &amp; ACCEPT</a>
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">L&#x1AF;U &amp; CH&#x1EA4;P NH&#x1EAC;N</a>
 													</div>
 						
 					</div>
@@ -2310,7 +2240,7 @@ Contact Avision Sales Team.						</div>
 	</div>
 	<div class="owp-qv-overlay"></div>
 </div>
-<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Cart</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Xe &#x111;&#x1EA9;y</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
 								<section class="elementor-section elementor-top-section elementor-element elementor-element-45284f83 elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle elementor-section-height-default elementor-section-items-middle" data-id="45284f83" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
@@ -2324,9 +2254,7 @@ Contact Avision Sales Team.						</div>
 				<i aria-hidden="true" class="fas fa-globe-americas"></i>				</span>
 			</div>
 						<div class="elementor-icon-box-content">
-				<h2 class="elementor-icon-box-title">
-					<span> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</span>
-				</h2>
+				<h2 class="elementor-icon-box-title"> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</h2>
 							</div>
 		</div>
 				</div>
@@ -2467,9 +2395,7 @@ Contact Avision Sales Team.						</div>
 								<div class="elementor-element elementor-element-32f58706 elementor-icon-list--layout-inline elementor-align-right elementor-widget__width-auto elementor-tablet-align-center elementor-mobile-align-center elementor-widget-tablet__width-inherit elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="32f58706" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items elementor-inline-items">
-							<li class="elementor-icon-list-item elementor-inline-item">
-										<span class="elementor-icon-list-text">Ng&#xF4;n ng&#x1EEF;</span>
-									</li>
+							<li class="elementor-icon-list-item elementor-inline-item"> Ng&#xF4;n ng&#x1EEF;</li>
 						</ul>
 				</div>
 				</div>
@@ -2535,7 +2461,7 @@ var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result 
 </script>
 <script src="https://www.avision.com/en/wp-includes/js/jquery/ui/autocomplete.js?ver=1.13.2" id="jquery-ui-autocomplete-js"></script>
 <script id="helpie-faq-bundle-js-extra">
-var helpie_faq_object = {"nonce":"a4b4b99b6d","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"7208","current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
+var helpie_faq_object = {"nonce":"44c8c15ec3","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"7208","current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
 var faqStrings = {"hide":"Hide","addFAQ":"Add FAQ","noFaqsFound":"No FAQ found"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/helpie-faq/assets/bundles/main.app.js?ver=1.11" id="helpie-faq-bundle-js"></script>
@@ -2556,7 +2482,7 @@ var mailchimp_public_data = {"site_url":"https:\/\/www.avision.com\/en","ajax_ur
 <script src="https://www.avision.com/en/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=3.2.03" id="mailchimp-woocommerce-js"></script>
 <script src="https://www.avision.com/en/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
 <script id="oceanwp-main-js-extra">
-var oceanwpLocalize = {"nonce":"63f837164f","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"d9a848d84b"};
+var oceanwpLocalize = {"nonce":"4cd3f37f81","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"130e0abfae"};
 </script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=3.0.5.1644388334" id="oceanwp-main-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=3.0.5.1644388334" id="oceanwp-drop-down-mobile-menu-js"></script>
@@ -2570,7 +2496,7 @@ var oceanwpLocalize = {"nonce":"63f837164f","isRTL":"","menuSearchStyle":"drop_d
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/select.min.js?ver=3.0.5.1644388334" id="oceanwp-select-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/ow-infinite-scroll.min.js?ver=3.0.5.1644388334" id="oceanwp-infinite-scroll-js"></script>
 <script id="oceanwp-woocommerce-custom-features-js-extra">
-var oceanwpLocalize = {"nonce":"63f837164f","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"d9a848d84b"};
+var oceanwpLocalize = {"nonce":"4cd3f37f81","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"130e0abfae"};
 </script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-custom-features.min.js?ver=3.0.5.1644388334" id="oceanwp-woocommerce-custom-features-js"></script>
 <script id="popup-maker-site-js-extra">
@@ -2578,7 +2504,7 @@ var pum_vars = {"version":"1.18.2","pm_dir_url":"https:\/\/www.avision.com\/en\/
 var pum_sub_vars = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","message_position":"top"};
 var pum_popups = {"pum-2659":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"7761","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"7761","id":2659,"slug":"paperport"},"pum-11307":{"triggers":[{"type":"click_open","settings":{"extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"7761","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"7761","id":11307,"slug":"example-of-s-n"}};
 </script>
-<script src="//www.avision.com/en/wp-content/uploads/pum/pum-site-scripts-1.js?defer&amp;generated=1700726651&amp;ver=1.18.2" id="popup-maker-site-js"></script>
+<script src="https://www.avision.com/en/wp-content/plugins/popup-maker/assets/js/site.js?defer&amp;ver=1.18.2" id="popup-maker-site-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-hover-style.min.js?ver=3.0.5.1644388334" id="oceanwp-woo-hover-style-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-quick-view.min.js?ver=3.0.5.1644388334" id="oceanwp-woo-quick-view-js"></script>
 <script src="https://www.avision.com/en/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
@@ -2609,7 +2535,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/en\/?wc-ajax=%%endpoint%
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/tipsy/tipsy.js?ver=1.0.0a" id="um_tipsy-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/raty/um-raty.js?ver=2.6.0" id="um_raty-js"></script>
 <script id="um_scripts-js-extra">
-var um_scripts = {"max_upload_size":"52428800","nonce":"ef3fa3427c"};
+var um_scripts = {"max_upload_size":"52428800","nonce":"9d3a550f4c"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/js/um-scripts.js?ver=2.7.0" id="um_scripts-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/js/um-profile.js?ver=2.7.0" id="um_profile-js"></script>
@@ -2643,7 +2569,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/en\/wp-admin\/admin-ajax.php","wc_
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/js/webpack.runtime.js?ver=3.15.3" id="elementor-webpack-runtime-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/js/frontend-modules.js?ver=3.15.3" id="elementor-frontend-modules-js"></script>
 <script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","nonce":"b3e39359fe","urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.avision.com\/en\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/www.avision.com\/en","checkout_page_url":"https:\/\/www.avision.com\/en"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","nonce":"82ec843f0c","urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.avision.com\/en\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/www.avision.com\/en","checkout_page_url":"https:\/\/www.avision.com\/en"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor-pro/assets/js/frontend.js?ver=3.6.5" id="elementor-pro-frontend-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.js?ver=4.0.2" id="elementor-waypoints-js"></script>
