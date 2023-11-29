@@ -3,6 +3,7 @@ const linkService = require("./src/services/linkService.js");
 const contentService = require("./src/services/contentService.js");
 const pageService = require("./src/services/pageService.js");
 const transAPI = require("./src/services/transAPI.js");
+const fs = require("fs");
 require("dotenv").config();
 
 // (async () => {
@@ -26,15 +27,25 @@ require("dotenv").config();
     // await contentService.checkAll();
     // console.log("All check done");
 
-    // //Step 2: Crawling the URLs
+    //Step 2: Crawling the URLs
     // await linkService.crawAllUrl();
-    // // //await delay(5000);
-    // console.log("URL crawling completed successfully");
+    // //await delay(5000);
+    console.log("URL crawling completed successfully");
 
     // //Step 3: Crawling all the pages English word in to db
-    const links = await linkService.getLinksNeedToCrawl();
-    // let mess = await contentService.crawlingAllPage(links);
-    // console.log("Crawling all words");
+    // const links = [
+    //   //"https://www.avision.com/en/shop/mobile-scanner/scanq-sw/",
+    //   //process.env.ORIGIN_URL,
+    // ];
+    let links = await linkService.getLinksNeedToCrawl();
+    console.log(links);
+    let mess = await contentService.crawlingAllPage(links);
+    console.log("Crawling all words");
+
+    // //TRanslate a html file
+    // let fileHtml = await transAPI.translateHtmlGoogle("fileHtml.html");
+    // fs.writeFileSync("fileHtmlDemo.html", fileHtml);
+    // console.log("write html done");
 
     //Step 4: Translate all words in db in to Vietnamese
     await contentService.translateDb();
@@ -61,3 +72,27 @@ require("dotenv").config();
 // })();
 
 //CHECK ALL THE translate word:
+
+// //Demo a page
+// (async () => {
+//   try {
+//     // Step 1: Connect to the database
+//     await connectDB();
+
+//     // //Step 3: Crawling all the pages English word in to db
+//     const links = [process.env.ORIGIN_URL];
+//     let mess = await contentService.crawlingAllPage(links);
+//     console.log("Crawling all words");
+
+//     //Step 4: Translate all words in db in to Vietnamese
+//     // await contentService.translateDb();
+//     // console.log("Translate all words to vn done");
+
+//     //Step 5: Translat all page and save them to local
+//     let result = await pageService.translateAllPage(links);
+//     console.log(result);
+//     console.log("Application initialized successfully");
+//   } catch (error) {
+//     console.error("Error initializing application:", error);
+//   }
+// })();

@@ -869,7 +869,19 @@ tbody tr:hover {
 <link rel="stylesheet" id="oceanwp-woo-hover-style-css" href="https://www.avision.com/en/wp-content/themes/oceanwp/assets/css/woo/hover-style.min.css?ver=6.3.2" media="all">
 <link rel="stylesheet" id="oceanwp-woo-quick-view-css" href="https://www.avision.com/en/wp-content/themes/oceanwp/assets/css/woo/woo-quick-view.min.css?ver=6.3.2" media="all">
 <link rel="stylesheet" id="chld_thm_cfg_child-css" href="https://www.avision.com/en/wp-content/themes/oceanwp-child/style.css?ver=3.0.5.1644388334" media="all">
-<link rel="stylesheet" id="popup-maker-site-css" href="//www.avision.com/en/wp-content/uploads/pum/pum-site-styles-1.css?generated=1700748082&amp;ver=1.18.2" media="all">
+<link rel="stylesheet" id="popup-maker-site-css" href="https://www.avision.com/en/wp-content/plugins/popup-maker/assets/css/pum-site.css?ver=1.18.2" media="all">
+<style id="popup-maker-site-inline-css">
+/* Popup Theme 7761: Default */
+.pum-theme-7761, .pum-theme-7761 { background-color: rgba( 255, 255, 255, 1.00 ) } 
+.pum-theme-7761 .pum-container, .pum-theme-7761 .pum-container { padding: 18px; border-radius: 0px; border: 1px none #000000; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); background-color: rgba( 249, 249, 249, 1.00 ) } 
+.pum-theme-7761 .pum-title, .pum-theme-7761 .pum-title { color: #000000; text-align: left; text-shadow: 0px 0px 0px rgba( 2, 2, 2, 0.23 ); font-family: inherit; font-weight: 400; font-size: 32px; line-height: 36px } 
+.pum-theme-7761 .pum-content, .pum-theme-7761 .pum-content { color: #8c8c8c; font-family: inherit; font-weight: 400 } 
+.pum-theme-7761 .pum-content + .pum-close, .pum-theme-7761 .pum-content + .pum-close { position: absolute; height: auto; width: auto; left: auto; right: 0px; bottom: auto; top: 0px; padding: 8px; color: #ffffff; font-family: inherit; font-weight: 400; font-size: 12px; line-height: 36px; border: 1px none #ffffff; border-radius: 0px; box-shadow: 1px 1px 3px 0px rgba( 2, 2, 2, 0.23 ); text-shadow: 0px 0px 0px rgba( 0, 0, 0, 0.23 ); background-color: rgba( 0, 183, 205, 1.00 ) } 
+
+#pum-2659 {z-index: 1999999999}
+#pum-11307 {z-index: 1999999999}
+
+</style>
 <link rel="stylesheet" id="oceanwp-woo-floating-bar-css" href="https://www.avision.com/en/wp-content/themes/oceanwp/assets/css/woo/woo-floating-bar.min.css?ver=6.3.2" media="all">
 <link rel="stylesheet" id="um_crop-css" href="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/css/um-crop.css?ver=2.7.0" media="all">
 <link rel="stylesheet" id="um_modal-css" href="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/css/um-modal.css?ver=2.7.0" media="all">
@@ -916,7 +928,7 @@ var log_object = {"ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-aja
 <script src="https://www.avision.com/en/wp-content/plugins/download-manager/assets/bootstrap/js/bootstrap.min.js?ver=6.3.2" id="wpdm-frontend-js-js"></script>
 <script id="wpdm-frontjs-js-extra">
 var wpdm_url = {"home":"https:\/\/www.avision.com\/en\/","site":"https:\/\/www.avision.com\/en\/","ajax":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php"};
-var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>","client_id":"73a061dcc504fb7b97dc732e8cdba4b9"};
+var wpdm_js = {"spinner":"<i class=\"fas fa-sun fa-spin\"><\/i>","client_id":"6510233bd52c15c22c50a7d525073223"};
 var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click following button to start download.","start_dl":"Start Download"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/download-manager/assets/js/front.js?ver=3.2.81" id="wpdm-frontjs-js"></script>
@@ -1121,7 +1133,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	
 	<div id="outer-wrap" class="site clr">
 
-		<a class="skip-link screen-reader-text" href="#main">Skip to content</a>
+		<a class="skip-link screen-reader-text" href="#main">Chuy&#x1EC3;n &#x111;&#x1EBF;n n&#x1ED9;i dung</a>
 
 		
 		<div id="wrap" class="clr">
@@ -1144,7 +1156,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					<form class="hfe-search-button-wrapper" role="search" action="https://www.avision.com/en" method="get">
 						<div class="hfe-search-icon-toggle">
 				<input placeholder class="hfe-search-form__input" type="search" name="s" title="Search" value>
-				<i class="fas fa-search" aria-hidden="true"></i>
+				
 			</div>
 					</form>
 				</div>
@@ -1220,7 +1232,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055"><a href="http://localhost:3000/login/" class="elementor-item">&#x110;&#x103;ng nh&#x1EAD;p</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055">
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://localhost:3000/registration/" class="elementor-sub-item">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
@@ -1262,7 +1274,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item" tabindex="-1">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055"><a href="http://localhost:3000/login/" class="elementor-item" tabindex="-1">&#x110;&#x103;ng nh&#x1EAD;p</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055">
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://localhost:3000/registration/" class="elementor-sub-item" tabindex="-1">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
@@ -1280,20 +1292,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 
 
 			
-			<div class="owp-floating-bar">
-				<div class="container clr">
-					<div class="left">
-						<p class="selected">Selected:</p>
-						<h2 class="entry-title" itemprop="name">CapsoCam Plus</h2>
-					</div>
-											<div class="right">
-							<div class="product_price">
-								<p class="price"></p>
-							</div>
-																			<button type="submit" class="button top">Select Options</button>
-													</div>
-										</div>
-			</div>
+			
 
 			
 			<main id="main" class="site-main clr" role="main">
@@ -1362,22 +1361,13 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-9b7b368 elementor-widget elementor-widget-shortcode" data-id="9b7b368" data-element_type="widget" data-widget_type="shortcode.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-shortcode"><div class="woocommerce product compare-button"><a href="http://localhost:3000?action=yith-woocompare-add-product&amp;id=7617" class="compare button" data-product_id="7617" rel="nofollow" target="_self">So s&#xE1;nh</a></div></div>
+					<div class="elementor-shortcode"><div class="woocommerce product compare-button"></div></div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-5542f48 elementor-widget elementor-widget-shortcode" data-id="5542f48" data-element_type="widget" data-widget_type="shortcode.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-shortcode">
-<div class="yith-woocompare-counter" data-type="text" data-text_o="{{count}} products in compare">
-	<a class="yith-woocompare-open" href="http://localhost:3000?action=yith-woocompare-view-table&amp;iframe=yes">
-		<span class="yith-woocompare-counter">
-							<span class="yith-woocompare-icon">
-					<img src="https://www.avision.com/en/wp-content/plugins/yith-woocommerce-compare-premium/assets/images/compare-icon.png">
-				</span>
-						<span class="yith-woocompare-count"> 0 s&#x1EA3;n ph&#x1EA9;m so s&#xE1;nh</span>
-		</span>
-	</a>
-</div>
+
 </div>
 				</div>
 				</div>
@@ -1427,14 +1417,14 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-7db53fa5 elementor-widget elementor-widget-text-editor" data-id="7db53fa5" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p><strong>not found</strong></p>						</div>
+							<p>M&#xE1;y n&#x1ED9;i soi vi&#xEA;n nang to&#xE0;n c&#x1EA3;nh 360&#x2DA; &#x111;&#x1ED9;c &#x111;&#xE1;o</p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-248b55b6 elementor-widget elementor-widget-video" data-id="248b55b6" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=D7BEpl4TUO4&amp;t=1s&quot;,&quot;show_image_overlay&quot;:&quot;yes&quot;,&quot;image_overlay&quot;:{&quot;url&quot;:&quot;https:\/\/www.avision.com\/en\/wp-content\/uploads\/2021\/09\/0_capso.png&quot;,&quot;id&quot;:7625,&quot;size&quot;:&quot;&quot;,&quot;alt&quot;:&quot;&quot;,&quot;source&quot;:&quot;library&quot;},&quot;lightbox&quot;:&quot;yes&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-wrapper elementor-open-lightbox">
 							<div class="elementor-custom-embed-image-overlay" data-elementor-open-lightbox="yes" data-elementor-lightbox="{&quot;type&quot;:&quot;video&quot;,&quot;videoType&quot;:&quot;youtube&quot;,&quot;url&quot;:&quot;https:\/\/www.youtube.com\/embed\/D7BEpl4TUO4?feature=oembed&amp;start&amp;end&amp;wmode=opaque&amp;loop=0&amp;controls=1&amp;mute=0&amp;rel=0&amp;modestbranding=0&quot;,&quot;modalOptions&quot;:{&quot;id&quot;:&quot;elementor-lightbox-248b55b6&quot;,&quot;entranceAnimation&quot;:&quot;&quot;,&quot;entranceAnimation_tablet&quot;:&quot;&quot;,&quot;entranceAnimation_mobile&quot;:&quot;&quot;,&quot;videoAspectRatio&quot;:&quot;169&quot;}}" data-e-action-hash="#elementor-action%3Aaction%3Dlightbox%26settings%3DeyJ0eXBlIjoidmlkZW8iLCJ2aWRlb1R5cGUiOiJ5b3V0dWJlIiwidXJsIjoiaHR0cHM6XC9cL3d3dy55b3V0dWJlLmNvbVwvZW1iZWRcL0Q3QkVwbDRUVU80P2ZlYXR1cmU9b2VtYmVkJnN0YXJ0JmVuZCZ3bW9kZT1vcGFxdWUmbG9vcD0wJmNvbnRyb2xzPTEmbXV0ZT0wJnJlbD0wJm1vZGVzdGJyYW5kaW5nPTAiLCJtb2RhbE9wdGlvbnMiOnsiaWQiOiJlbGVtZW50b3ItbGlnaHRib3gtMjQ4YjU1YjYiLCJlbnRyYW5jZUFuaW1hdGlvbiI6IiIsImVudHJhbmNlQW5pbWF0aW9uX3RhYmxldCI6IiIsImVudHJhbmNlQW5pbWF0aW9uX21vYmlsZSI6IiIsInZpZGVvQXNwZWN0UmF0aW8iOiIxNjkifX0%3D">
 											<img decoding="async" loading="lazy" width="1201" height="717" src="https://www.avision.com/en/wp-content/uploads/2021/09/0_capso.png" class="attachment-full size-full wp-image-7625" alt srcset="https://www.avision.com/en/wp-content/uploads/2021/09/0_capso.png 1201w, https://www.avision.com/en/wp-content/uploads/2021/09/0_capso-300x179.png 300w, https://www.avision.com/en/wp-content/uploads/2021/09/0_capso-1024x611.png 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/0_capso-768x458.png 768w, https://www.avision.com/en/wp-content/uploads/2021/09/0_capso-600x358.png 600w" sizes="(max-width: 1201px) 100vw, 1201px">																<div class="elementor-custom-embed-play" role="button" aria-label="Play Video" tabindex="0">
-							<i aria-hidden="true" class="eicon-play"></i>							<span class="elementor-screen-only">not found</span>
+							<i aria-hidden="true" class="eicon-play"></i>							<span class="elementor-screen-only">Ph&#xE1;t video</span>
 						</div>
 									</div>
 					</div>
@@ -1458,7 +1448,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-490267b7 elementor-widget elementor-widget-heading" data-id="490267b7" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">not found</h1>		</div>
+			<h1 class="elementor-heading-title elementor-size-default">FDA &#x3001; CE &#x3001; TFDA ph&#xEA; duy&#x1EC7;t</h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-4755f3f1 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="4755f3f1" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -1474,7 +1464,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-283161ae elementor-widget elementor-widget-text-editor" data-id="283161ae" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>not found</p>						</div>
+							<p>CapsoCam Plus v&#xE0; c&#xE1;c ph&#x1EE5; ki&#x1EC7;n c&#x1EE7;a n&#xF3; &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c FDA, CE v&#xE0; TFDA ph&#xEA; duy&#x1EC7;t v&#xE0; &#x111;&#x1B0;&#x1EE3;c b&#xE1;n t&#x1EA1;i h&#x1A1;n 50 qu&#x1ED1;c gia; CapsoVision Inc c&#x1EA5;p cho Avision quy&#x1EC1;n ph&#xE2;n ph&#x1ED1;i &#x111;&#x1ED9;c quy&#x1EC1;n t&#x1EA1;i &#x110;&#xE0;i Loan!</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -1502,7 +1492,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-6654a951 elementor-widget elementor-widget-heading" data-id="6654a951" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">not found</h1>		</div>
+			<h1 class="elementor-heading-title elementor-size-default">M&#xE1;y n&#x1ED9;i soi vi&#xEA;n nang to&#xE0;n c&#x1EA3;nh 360&#x2DA; &#x111;&#x1ED9;c &#x111;&#xE1;o</h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-24d07da5 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="24d07da5" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -1521,7 +1511,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-1cddcec5 elementor-widget elementor-widget-text-editor" data-id="1cddcec5" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>not found</p>						</div>
+							<p>CapsoCam Plus c&#xF3; b&#x1ED1;n camera &#x111;&#x1EC3; t&#x1EA1;o th&#xE0;nh h&#xEC;nh &#x1EA3;nh to&#xE0;n c&#x1EA3;nh 360&#x2DA; b&#xEA;n, kh&#xF4;ng ph&#x1EA3;i l&#xE0; m&#x1ED9;t vi&#xEA;n nang h&#x1B0;&#x1EDB;ng v&#x1EC1; ph&#xED;a cu&#x1ED1;i c&#xF3; th&#x1EC3; c&#xF3; h&#xEC;nh &#x1EA3;nh kh&#xF4;ng h&#x1EE3;p l&#x1EC7; khi &#x111;i qua ru&#x1ED9;t quanh co. T&#x1EF7; l&#x1EC7; ph&#xE1;t hi&#x1EC7;n cao h&#x1A1;n 97%</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -1548,7 +1538,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-7c137e80 elementor-widget elementor-widget-heading" data-id="7c137e80" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">not found</h1>		</div>
+			<h1 class="elementor-heading-title elementor-size-default">Th&#x1EDD;i l&#x1B0;&#x1EE3;ng pin 15 gi&#x1EDD;</h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-26648d69 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="26648d69" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -1560,7 +1550,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-6ea9b5d7 elementor-widget elementor-widget-text-editor" data-id="6ea9b5d7" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>not found</p>						</div>
+							<p>Pin t&#xED;ch h&#x1EE3;p c&#xF3; th&#x1EC3; gi&#xFA;p CapsoCam Plus ch&#x1EE5;p &#x1EA3;nh to&#xE0;n b&#x1ED9; &#x111;&#x1B0;&#x1EDD;ng ti&#xEA;u h&#xF3;a trong h&#x1A1;n 15 gi&#x1EDD;.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -1584,7 +1574,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-157553c7 elementor-widget elementor-widget-heading" data-id="157553c7" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">not found</h1>		</div>
+			<h1 class="elementor-heading-title elementor-size-default">Kh&#xF4;ng c&#xF3; m&#xE1;y thu, kh&#xF4;ng c&#xF3; &#xE1;p l&#x1EF1;c</h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-363f73c6 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="363f73c6" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -1596,7 +1586,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-22ebdecb elementor-widget elementor-widget-text-editor" data-id="22ebdecb" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>not found</p>						</div>
+							<p>CapsoCam Plus l&#x1B0;u tr&#x1EEF; h&#xEC;nh &#x1EA3;nh trong b&#x1ED9; nh&#x1EDB; trong m&#xE1;y, b&#x1EC7;nh nh&#xE2;n c&#xF3; th&#x1EC3; di chuy&#x1EC3;n t&#x1EF1; do m&#xE0; kh&#xF4;ng c&#x1EA7;n &#x111;eo m&#xE1;y thu v&#xE0; c&#x1EA3;m bi&#x1EBF;n d&#x1EEF; li&#x1EC7;u sau khi nu&#x1ED1;t CapsoCam Plus. Kh&#xF4;ng m&#x1EA5;t ph&#xED; l&#x1B0;u tr&#x1EEF; m&#xE1;y thu, th&#x1EDD;i gian l&#x1EAF;p &#x111;&#x1EB7;t v&#xE0; kh&#x1EED; tr&#xF9;ng mi&#x1EBF;ng v&#xE1; m&#xE1;y thu.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -1625,7 +1615,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-162adf18 elementor-widget elementor-widget-heading" data-id="162adf18" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">not found</h1>		</div>
+			<h1 class="elementor-heading-title elementor-size-default">B&#x1ED1;n b&#x1B0;&#x1EDB;c &#x111;&#x1A1;n gi&#x1EA3;n &#x111;&#x1EC3; ch&#x1EA9;n &#x111;o&#xE1;n ch&#xED;nh x&#xE1;c</h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-4e32f895 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="4e32f895" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -1637,7 +1627,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-595e97bf elementor-widget elementor-widget-text-editor" data-id="595e97bf" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>not found</p>						</div>
+							<p>(1)B&#x1EC7;nh nh&#xE2;n nu&#x1ED1;t CapsoCam Plus v&#x1EDB;i s&#x1EF1; h&#x1ED7; tr&#x1EE3; c&#x1EE7;a k&#x1EF9; thu&#x1EAD;t vi&#xEA;n (2)B&#x1EC7;nh nh&#xE2;n l&#x1EA5;y CapsoCam Plus(3)K&#x1EF9; thu&#x1EAD;t vi&#xEA;n t&#x1EA3;i h&#xEC;nh &#x1EA3;nh xu&#x1ED1;ng(4)B&#xE1;c s&#x129; nhanh ch&#xF3;ng xem x&#xE9;t h&#xEC;nh &#x1EA3;nh.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -1653,7 +1643,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-5024a14a elementor-widget elementor-widget-heading" data-id="5024a14a" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">not found</h1>		</div>
+			<h1 class="elementor-heading-title elementor-size-default">Thi&#x1EBF;t k&#x1EBF; ph&#x1EA7;n m&#x1EC1;m v&#xE0; tr&#xEC;nh &#x111;&#x1ECD;c t&#x1ED1;t ti&#x1EBF;t ki&#x1EC7;m th&#x1EDD;i gian</h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-65c83e5a elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="65c83e5a" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -1665,7 +1655,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-1788ba9a elementor-widget elementor-widget-text-editor" data-id="1788ba9a" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>not found</p>						</div>
+							<p>Ph&#x1EA7;n m&#x1EC1;m m&#x1EA1;nh m&#x1EBD; CapsoView v&#xE0; tr&#xEC;nh &#x111;&#x1ECD;c CapsoAccess d&#x1EC5; s&#x1EED; d&#x1EE5;ng gi&#xFA;p t&#x1EA3;i xu&#x1ED1;ng h&#xEC;nh &#x1EA3;nh hi&#x1EC7;u qu&#x1EA3; trong 30 ph&#xFA;t.</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -1681,7 +1671,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-1e2c4d7a elementor-widget elementor-widget-heading" data-id="1e2c4d7a" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">not found</h1>		</div>
+			<h1 class="elementor-heading-title elementor-size-default">D&#x1EC5; d&#xE0;ng xem b&#xE0;i ki&#x1EC3;m tra v&#x1EDB;i CapsoView</h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-680b7eb4 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="680b7eb4" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -1693,7 +1683,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-6edbdae6 elementor-widget elementor-widget-text-editor" data-id="6edbdae6" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>not found</p>						</div>
+							<p>C&#xE1;c b&#xE1;c s&#x129; s&#x1EBD; ch&#x1EC9; tham gia v&#xE0;o b&#x1B0;&#x1EDB;c cu&#x1ED1;i c&#xF9;ng c&#x1EE7;a quy tr&#xEC;nh v&#x1EDB;i CapsoView c&#x1EA3;i ti&#x1EBF;n &#x111;&#x1EC3; xem h&#xEC;nh &#x1EA3;nh v&#xE0; t&#x1EA1;o b&#xE1;o c&#xE1;o to&#xE0;n di&#x1EC7;n</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -1705,7 +1695,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-7eb1bc0 elementor-widget elementor-widget-heading" data-id="7eb1bc0" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">not found</h1>		</div>
+			<h1 class="elementor-heading-title elementor-size-default">Ph&#x1EE5; ki&#x1EC7;n</h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-de5f6cb elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="de5f6cb" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -1732,7 +1722,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-66bbfc4 elementor-widget elementor-widget-text-editor" data-id="66bbfc4" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<div>not found</div><div>not found</div><div>not found</div><div>not found</div><div>not found</div><div>not found</div><div>not found</div><div>not found</div>						</div>
+							<div>1. T&#x1B0;&#x1A1;ng th&#xED;ch c&#x1EA3; MAC &amp; Window.</div><div>2. Ph&#xE1;t hi&#x1EC7;n m&#xE0;u &#x111;&#x1ECF; cho v&#x1ECB; tr&#xED; c&#xF3; th&#x1EC3; ch&#x1EA3;y m&#xE1;u</div><div>3. B&#xE1;o c&#xE1;o to&#xE0;n di&#x1EC7;n th&#xE2;n thi&#x1EC7;n v&#x1EDB;i ng&#x1B0;&#x1EDD;i d&#xF9;ng v&#xE0; t&#xF9;y ch&#x1EC9;nh</div><div>4. Ch&#x1EE9;c n&#x103;ng &#x111;i&#x1EC1;u ch&#x1EC9;nh &#x111;&#x1ED9; t&#x1B0;&#x1A1;ng ph&#x1EA3;n linh ho&#x1EA1;t, t&#x103;ng c&#x1B0;&#x1EDD;ng m&#xE0;u s&#x1EAF;c n&#xE2;ng cao v&#xE0; ph&#xF3;ng &#x111;&#x1EA1;i m&#x1EE5;c ti&#xEA;u</div><div>5. Ki&#x1EC3;m so&#xE1;t t&#x1ED1;c &#x111;&#x1ED9; ch&#xED;nh x&#xE1;c v&#xE0; c&#xE1;c t&#xF9;y ch&#x1ECD;n ph&#xE1;t l&#x1EA1;i tr&#x1EF1;c quan &#x111;&#x1EC3; ph&#xE1;t video.</div><div>6. Ch&#x1EE5;p &#x1EA3;nh nhanh &#x111;&#x1EC3; xem x&#xE9;t v&#xE0; b&#xE1;o c&#xE1;o.</div><div>7. Ch&#x1EBF; &#x111;&#x1ED9; xem m&#x1EDF; r&#x1ED9;ng gi&#xFA;p qu&#xE1; tr&#xEC;nh xem l&#x1EA1;i h&#xEC;nh &#x1EA3;nh d&#x1EC5; d&#xE0;ng v&#xE0; nhanh ch&#xF3;ng h&#x1A1;n.</div><div>8. Th&#x1B0; vi&#x1EC7;n tham kh&#x1EA3;o n&#xE2;ng cao &#x111;&#x1EC3; so s&#xE1;nh h&#xEC;nh &#x1EA3;nh</div>						</div>
 				</div>
 					</div>
 		</div>
@@ -1740,7 +1730,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-89c9ec9 elementor-position-top elementor-widget elementor-widget-image-box" data-id="89c9ec9" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" loading="lazy" width="1475" height="1607" src="https://www.avision.com/en/wp-content/uploads/2021/09/Capso-Access.png" class="attachment-full size-full wp-image-13759" alt srcset="https://www.avision.com/en/wp-content/uploads/2021/09/Capso-Access.png 1475w, https://www.avision.com/en/wp-content/uploads/2021/09/Capso-Access-275x300.png 275w, https://www.avision.com/en/wp-content/uploads/2021/09/Capso-Access-940x1024.png 940w, https://www.avision.com/en/wp-content/uploads/2021/09/Capso-Access-768x837.png 768w, https://www.avision.com/en/wp-content/uploads/2021/09/Capso-Access-1410x1536.png 1410w, https://www.avision.com/en/wp-content/uploads/2021/09/Capso-Access-1320x1438.png 1320w, https://www.avision.com/en/wp-content/uploads/2021/09/Capso-Access-600x654.png 600w" sizes="(max-width: 1475px) 100vw, 1475px"></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">not found</h3><p class="elementor-image-box-description">not found</p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" loading="lazy" width="1475" height="1607" src="https://www.avision.com/en/wp-content/uploads/2021/09/Capso-Access.png" class="attachment-full size-full wp-image-13759" alt srcset="https://www.avision.com/en/wp-content/uploads/2021/09/Capso-Access.png 1475w, https://www.avision.com/en/wp-content/uploads/2021/09/Capso-Access-275x300.png 275w, https://www.avision.com/en/wp-content/uploads/2021/09/Capso-Access-940x1024.png 940w, https://www.avision.com/en/wp-content/uploads/2021/09/Capso-Access-768x837.png 768w, https://www.avision.com/en/wp-content/uploads/2021/09/Capso-Access-1410x1536.png 1410w, https://www.avision.com/en/wp-content/uploads/2021/09/Capso-Access-1320x1438.png 1320w, https://www.avision.com/en/wp-content/uploads/2021/09/Capso-Access-600x654.png 600w" sizes="(max-width: 1475px) 100vw, 1475px"></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">CapsoTruy c&#x1EAD;p</h3><p class="elementor-image-box-description">Tr&#xEC;nh &#x111;&#x1ECD;c d&#x1EC5; s&#x1EED; d&#x1EE5;ng! k&#x1EF9; thu&#x1EAD;t vi&#xEA;n l&#x1EAF;p CapsoCam Plus (h&#x1EBF;t pin), &#x111;&#xF3;ng n&#x1EAF;p l&#x1EA1;i r&#x1ED3;i t&#x1EA3;i &#x1EA3;nh b&#x1EB1;ng CapsoView.</p></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -1748,7 +1738,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-9c0c4be elementor-position-top elementor-widget elementor-widget-image-box" data-id="9c0c4be" data-element_type="widget" data-widget_type="image-box.default">
 				<div class="elementor-widget-container">
-			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" loading="lazy" width="458" height="397" src="https://www.avision.com/en/wp-content/uploads/2021/09/CapsoRetrieve.jpg" class="attachment-full size-full wp-image-13760" alt srcset="https://www.avision.com/en/wp-content/uploads/2021/09/CapsoRetrieve.jpg 458w, https://www.avision.com/en/wp-content/uploads/2021/09/CapsoRetrieve-300x260.jpg 300w" sizes="(max-width: 458px) 100vw, 458px"></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">not found</h3><p class="elementor-image-box-description">not found</p></div></div>		</div>
+			<div class="elementor-image-box-wrapper"><figure class="elementor-image-box-img"><img decoding="async" loading="lazy" width="458" height="397" src="https://www.avision.com/en/wp-content/uploads/2021/09/CapsoRetrieve.jpg" class="attachment-full size-full wp-image-13760" alt srcset="https://www.avision.com/en/wp-content/uploads/2021/09/CapsoRetrieve.jpg 458w, https://www.avision.com/en/wp-content/uploads/2021/09/CapsoRetrieve-300x260.jpg 300w" sizes="(max-width: 458px) 100vw, 458px"></figure><div class="elementor-image-box-content"><h3 class="elementor-image-box-title">CapsoTruy xu&#x1EA5;t</h3><p class="elementor-image-box-description">CapsoRetrieve l&#xE0; b&#x1ED9; d&#x1EE5;ng c&#x1EE5; v&#x1EC7; sinh d&#xF9;ng m&#x1ED9;t l&#x1EA7;n &#x111;&#x1EC3; thu th&#x1EAD;p, l&#x1B0;u tr&#x1EEF; v&#xE0; v&#x1EAD;n chuy&#x1EC3;n CapsoCam Plus</p></div></div>		</div>
 				</div>
 					</div>
 		</div>
@@ -1764,7 +1754,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-6b954b4b elementor-widget elementor-widget-heading" data-id="6b954b4b" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h1 class="elementor-heading-title elementor-size-default">not found</h1>		</div>
+			<h1 class="elementor-heading-title elementor-size-default">LI&#xCA;N H&#x1EC6; CH&#xDA;NG T&#xD4;I</h1>		</div>
 				</div>
 				<div class="elementor-element elementor-element-1cf3b852 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="1cf3b852" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
@@ -1801,10 +1791,8 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<i aria-hidden="true" class="fab fa-whatsapp-square"></i>				</span>
 			</div>
 						<div class="elementor-icon-box-content">
-				<h3 class="elementor-icon-box-title">
-					<span>not found</span>
-				</h3>
-									<p class="elementor-icon-box-description">not found</p>
+				<h3 class="elementor-icon-box-title"> Vivien Chen</h3>
+									<p class="elementor-icon-box-description"> &#x110;&#xE0;i Loan Avision Inc.</p>
 							</div>
 		</div>
 				</div>
@@ -1812,21 +1800,9 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-element elementor-element-5405418a elementor-align-left elementor-list-item-link-inline elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="5405418a" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
-							<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-phone-alt"></i>						</span>
-										<span class="elementor-icon-list-text">+886-3-578-2388 #8921</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-fax"></i>						</span>
-										<span class="elementor-icon-list-text">+886-3-577-7017</span>
-									</li>
-								<li class="elementor-icon-list-item">
-											<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-envelope"></i>						</span>
-										<span class="elementor-icon-list-text">vivien@avision.com.tw</span>
-									</li>
+							<li class="elementor-icon-list-item"> +886-3-578-2388 #8921</li>
+								<li class="elementor-icon-list-item"> +886-3-577-7017</li>
+								<li class="elementor-icon-list-item"> vivien@avision.com.tw</li>
 						</ul>
 				</div>
 				</div>
@@ -1899,9 +1875,9 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<font size="2"><p align="right"><font color="#0e3a65">* C&#xE1;c th&#xF4;ng s&#x1ED1; k&#x1EF9; thu&#x1EAD;t tr&#xEA;n c&#xF3; th&#x1EC3; thay &#x111;&#x1ED5;i t&#xF9;y theo hi&#x1EC7;u su&#x1EA5;t m&#xE1;y t&#xED;nh v&#xE0; khu v&#x1EF1;c b&#xE1;n h&#xE0;ng. &#x110;&#x1EC3; bi&#x1EBF;t th&#xEA;m chi ti&#x1EBF;t, vui l&#xF2;ng tham kh&#x1EA3;o nh&#xE0; ph&#xE2;n ph&#x1ED1;i &#x111;&#x1ECB;a ph&#x1B0;&#x1A1;ng c&#x1EE7;a b&#x1EA1;n.</font></p></font>
 				</div>
 					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--Downloads panel entry-content wc-tab" id="tab-Downloads" role="tabpanel" aria-labelledby="tab-title-Downloads">
-				<div><h2 class="elementor-heading-title elementor-size-default">&#x258E;T&#xE0;i li&#x1EC7;u gi&#x1EDB;i thi&#x1EC7;u</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>not found</th><th>not found</th><th>not found</th><th>not found</th></tr></thead><tbody><tr><td>CapsoCam Plus</td><td></td><td>not found</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/CapsoCam_Plus_CapsoCam_brochure_OUS_Digital.pdf " download>not found</a></td></tr></tbody></table></div></div>			</div>
+				<div><h2 class="elementor-heading-title elementor-size-default">&#x258E;T&#xE0;i li&#x1EC7;u gi&#x1EDB;i thi&#x1EC7;u</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>CapsoCam Plus</td><td></td><td>5,76 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="http://localhost:3000/wp-content/uploads/download-manager-files/CapsoCam_Plus_CapsoCam_brochure_OUS_Digital.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div>			</div>
 					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--desc_tab panel entry-content wc-tab" id="tab-desc_tab" role="tabpanel" aria-labelledby="tab-title-desc_tab">
-				<style>li.desc_tab_tab{ display:none !quan trọng; }</style>			</div>
+				<style>li.desc_tab_tab{ display:none !important; }</style>			</div>
 		
 			</div>
 
@@ -1950,30 +1926,16 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/why-avision/">
-
-												<span class="elementor-icon-list-icon">
-							<i aria-hidden="true" class="fas fa-check"></i>						</span>
-										<span class="elementor-icon-list-text">T&#x1EA1;i sao Avision</span>
-											</a>
+											<a href="http://localhost:3000/why-avision/"> T&#x1EA1;i sao Avision</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/corporate-profile/">
-
-											<span class="elementor-icon-list-text">H&#x1ED3; s&#x1A1; c&#xF4;ng ty</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/corporate-profile/"> H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/news/">
-
-											<span class="elementor-icon-list-text">Tin t&#x1EE9;c</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/news/"> Tin t&#x1EE9;c</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/crs/">
-
-											<span class="elementor-icon-list-text">CSR</span>
-											</a>
+											<a href="http://localhost:3000/about-avision/crs/"> CSR</a>
 									</li>
 						</ul>
 				</div>
@@ -1990,34 +1952,19 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/document-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</span>
-											</a>
+											<a href="http://localhost:3000/product-category/document-scanner/"> M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/flatbed-scanner/">
-
-											<span class="elementor-icon-list-text"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/flatbed-scanner/"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/"> M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/network-scanner/">
-
-											<span class="elementor-icon-list-text">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</span>
-											</a>
+											<a href="http://localhost:3000/product-category/network-scanner/"> M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/paperair-series/">
-
-											<span class="elementor-icon-list-text">D&#xF2;ng PaperAir</span>
-											</a>
+											<a href="http://localhost:3000/product-category/paperair-series/"> D&#xF2;ng PaperAir</a>
 									</li>
 						</ul>
 				</div>
@@ -2046,22 +1993,13 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/download/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</span>
-											</a>
+											<a href="http://localhost:3000/download/"> Trung t&#xE2;m t&#x1EA3;i xu&#x1ED1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/helpcenter/">
-
-											<span class="elementor-icon-list-text">Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/helpcenter/"> Trung t&#xE2;m tr&#x1EE3; gi&#xFA;p</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/product-registration/">
-
-											<span class="elementor-icon-list-text">&#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</span>
-											</a>
+											<a href="http://localhost:3000/contact-us/product-registration/"> &#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</a>
 									</li>
 						</ul>
 				</div>
@@ -2080,18 +2018,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-5852473a elementor-shape-circle e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="5852473a" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-social-icons-wrapper elementor-grid">
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-9758c9c" href="https://www.facebook.com/AvisionHQ/" target="_blank">
-						<span class="elementor-screen-only">Facebook-f</span>
-						<i class="fab fa-facebook-f"></i>					</a>
-				</span>
-							<span class="elementor-grid-item">
-					<a class="elementor-icon elementor-social-icon elementor-social-icon-youtube elementor-repeater-item-d550229" href="https://www.youtube.com/user/AvisionHQ" target="_blank">
-						<span class="elementor-screen-only">Youtube</span>
-						<i class="fab fa-youtube"></i>					</a>
-				</span>
-					</div>
+					<div class="elementor-social-icons-wrapper elementor-grid"> Facebook-f Youtube</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-ae800e8 elementor-widget elementor-widget-image" data-id="ae800e8" data-element_type="widget" data-widget_type="image.default">
@@ -2110,9 +2037,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-1398caa elementor-widget elementor-widget-copyright" data-id="1398caa" data-element_type="widget" data-widget_type="copyright.default">
 				<div class="elementor-widget-container">
-					<div class="hfe-copyright-wrapper">
-							<span>Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</span>
-					</div>
+					<div class="hfe-copyright-wrapper"> Copyright &#xA9; 2023 Avision VN | &#x110;&#x1B0;&#x1EE3;c cung c&#x1EA5;p b&#x1EDF;i Avision ENAvision</div>
 				</div>
 				</div>
 					</div>
@@ -2160,7 +2085,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	</div>
 
 </div>
-<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking &#x201C;Accept&#x201D;, you consent to the use of ALL the cookies. </div><div class="cli-bar-btn_container"><a id="wt-cli-accept-all-btn" role="button" data-cli_action="accept_all" class="wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button">Accept</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
+<!--googleoff: all--><div id="cookie-law-info-bar" data-nosnippet="true"><span><div class="cli-bar-container cli-style-v2"><div class="cli-bar-message">We use cookies on our website to give you the most relevant experience by remembering your preferences and repeat visits. By clicking &#x201C;Accept&#x201D;, you consent to the use of ALL the cookies. </div><div class="cli-bar-btn_container"><a id="wt-cli-accept-all-btn" role="button" data-cli_action="accept_all" class="wt-cli-element medium cli-plugin-button wt-cli-accept-all-btn cookie_action_close_header cli_action_button">Ch&#x1EA5;p nh&#x1EAD;n</a></div></div></span></div><div id="cookie-law-info-again" data-nosnippet="true"><span id="cookie_hdr_showagain">Manage consent</span></div><div class="cli-modal" data-nosnippet="true" id="cliSettingsPopup" tabindex="-1" role="dialog" aria-labelledby="cliSettingsPopup" aria-hidden="true">
   <div class="cli-modal-dialog" role="document">
 	<div class="cli-modal-content cli-bar-popup">
 		  <button type="button" class="cli-modal-close" id="cliModalClose">
@@ -2180,8 +2105,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		<div class="cli-col-12 cli-align-items-stretch cli-px-0 cli-tab-section-container">
 												<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab">
-								Necessary							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="necessary" data-toggle="cli-toggle-tab"> C&#x1EA7;n thi&#x1EBF;t</a>
 															<div class="wt-cli-necessary-checkbox">
 									<input type="checkbox" class="cli-user-preference-checkbox" id="wt-cli-checkbox-necessary" data-id="checkbox-necessary" checked="checked">
 									<label class="form-check-label" for="wt-cli-checkbox-necessary">Necessary</label>
@@ -2198,8 +2122,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab">
-								Functional							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="functional" data-toggle="cli-toggle-tab"> ch&#x1EE9;c n&#x103;ng</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-functional" class="cli-user-preference-checkbox" data-id="checkbox-functional">
 									<label for="wt-cli-checkbox-functional" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Functional</span></label>
@@ -2215,8 +2138,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab">
-								Performance							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="performance" data-toggle="cli-toggle-tab"> Hi&#x1EC7;u su&#x1EA5;t</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-performance" class="cli-user-preference-checkbox" data-id="checkbox-performance">
 									<label for="wt-cli-checkbox-performance" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Performance</span></label>
@@ -2232,8 +2154,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab">
-								Analytics							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="analytics" data-toggle="cli-toggle-tab"> ph&#xE2;n t&#xED;ch</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-analytics" class="cli-user-preference-checkbox" data-id="checkbox-analytics">
 									<label for="wt-cli-checkbox-analytics" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Analytics</span></label>
@@ -2249,8 +2170,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab">
-								Advertisement							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="advertisement" data-toggle="cli-toggle-tab"> Qu&#x1EA3;ng c&#xE1;o</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-advertisement" class="cli-user-preference-checkbox" data-id="checkbox-advertisement">
 									<label for="wt-cli-checkbox-advertisement" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Advertisement</span></label>
@@ -2266,8 +2186,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 																	<div class="cli-tab-section">
 						<div class="cli-tab-header">
-							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab">
-								Others							</a>
+							<a role="button" tabindex="0" class="cli-nav-link cli-settings-mobile" data-target="others" data-toggle="cli-toggle-tab"> Ng&#x1B0;&#x1EDD;i kh&#xE1;c</a>
 															<div class="cli-switch">
 									<input type="checkbox" id="wt-cli-checkbox-others" class="cli-user-preference-checkbox" data-id="checkbox-others">
 									<label for="wt-cli-checkbox-others" class="cli-slider" data-cli-enable="Enabled" data-cli-disable="Disabled"><span class="wt-cli-sr-only">Others</span></label>
@@ -2291,7 +2210,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					<div class="cli-col-12 cli-align-items-stretch cli-px-0">
 						<div class="cli-tab-footer wt-cli-privacy-overview-actions">
 						
-															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">SAVE &amp; ACCEPT</a>
+															<a id="wt-cli-privacy-save-btn" role="button" tabindex="0" data-cli-action="accept" class="wt-cli-privacy-btn cli_setting_save_button wt-cli-privacy-accept-btn cli-btn">L&#x1AF;U &amp; CH&#x1EA4;P NH&#x1EAC;N</a>
 													</div>
 						
 					</div>
@@ -2332,7 +2251,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	</div>
 	<div class="owp-qv-overlay"></div>
 </div>
-<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Cart</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
+<div id="oceanwp-cart-sidebar-wrap"><div class="oceanwp-cart-sidebar"><a href="#" class="oceanwp-cart-close">&#xD7;</a><p class="owp-cart-title">Xe &#x111;&#x1EA9;y</p><div class="divider"></div><div class="owp-mini-cart"><div class="widget woocommerce widget_shopping_cart"><div class="widget_shopping_cart_content"></div></div></div></div><div class="oceanwp-cart-sidebar-overlay"></div></div>		<div data-elementor-type="popup" data-elementor-id="20404" class="elementor elementor-20404 elementor-location-popup" data-elementor-settings="{&quot;entrance_animation&quot;:&quot;fadeIn&quot;,&quot;exit_animation&quot;:&quot;fadeIn&quot;,&quot;entrance_animation_duration&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;1.5&quot;,&quot;sizes&quot;:[]},&quot;triggers&quot;:[],&quot;timing&quot;:[]}">
 								<section class="elementor-section elementor-top-section elementor-element elementor-element-45284f83 elementor-section-full_width elementor-section-height-min-height elementor-section-content-middle elementor-section-height-default elementor-section-items-middle" data-id="45284f83" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
 							<div class="elementor-background-overlay"></div>
 							<div class="elementor-container elementor-column-gap-default">
@@ -2346,9 +2265,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<i aria-hidden="true" class="fas fa-globe-americas"></i>				</span>
 			</div>
 						<div class="elementor-icon-box-content">
-				<h2 class="elementor-icon-box-title">
-					<span> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</span>
-				</h2>
+				<h2 class="elementor-icon-box-title"> Thay &#x111;&#x1ED5;i qu&#x1ED1;c gia/khu v&#x1EF1;c</h2>
 							</div>
 		</div>
 				</div>
@@ -2489,9 +2406,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 								<div class="elementor-element elementor-element-32f58706 elementor-icon-list--layout-inline elementor-align-right elementor-widget__width-auto elementor-tablet-align-center elementor-mobile-align-center elementor-widget-tablet__width-inherit elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="32f58706" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items elementor-inline-items">
-							<li class="elementor-icon-list-item elementor-inline-item">
-										<span class="elementor-icon-list-text">Ng&#xF4;n ng&#x1EEF;</span>
-									</li>
+							<li class="elementor-icon-list-item elementor-inline-item"> Ng&#xF4;n ng&#x1EEF;</li>
 						</ul>
 				</div>
 				</div>
@@ -2592,7 +2507,7 @@ var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result 
 </script>
 <script src="https://www.avision.com/en/wp-includes/js/jquery/ui/autocomplete.js?ver=1.13.2" id="jquery-ui-autocomplete-js"></script>
 <script id="helpie-faq-bundle-js-extra">
-var helpie_faq_object = {"nonce":"f548bcba90","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"7617","current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
+var helpie_faq_object = {"nonce":"44c8c15ec3","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"7617","current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
 var faqStrings = {"hide":"Hide","addFAQ":"Add FAQ","noFaqsFound":"No FAQ found"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/helpie-faq/assets/bundles/main.app.js?ver=1.11" id="helpie-faq-bundle-js"></script>
@@ -2621,7 +2536,7 @@ var mailchimp_public_data = {"site_url":"https:\/\/www.avision.com\/en","ajax_ur
 <script src="https://www.avision.com/en/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=3.2.03" id="mailchimp-woocommerce-js"></script>
 <script src="https://www.avision.com/en/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
 <script id="oceanwp-main-js-extra">
-var oceanwpLocalize = {"nonce":"a3774ccb00","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"bcc9a28ef1"};
+var oceanwpLocalize = {"nonce":"4cd3f37f81","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"130e0abfae"};
 </script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=3.0.5.1644388334" id="oceanwp-main-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=3.0.5.1644388334" id="oceanwp-drop-down-mobile-menu-js"></script>
@@ -2635,7 +2550,7 @@ var oceanwpLocalize = {"nonce":"a3774ccb00","isRTL":"","menuSearchStyle":"drop_d
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/select.min.js?ver=3.0.5.1644388334" id="oceanwp-select-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/ow-infinite-scroll.min.js?ver=3.0.5.1644388334" id="oceanwp-infinite-scroll-js"></script>
 <script id="oceanwp-woocommerce-custom-features-js-extra">
-var oceanwpLocalize = {"nonce":"a3774ccb00","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"bcc9a28ef1"};
+var oceanwpLocalize = {"nonce":"4cd3f37f81","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"130e0abfae"};
 </script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-custom-features.min.js?ver=3.0.5.1644388334" id="oceanwp-woocommerce-custom-features-js"></script>
 <script id="popup-maker-site-js-extra">
@@ -2643,7 +2558,7 @@ var pum_vars = {"version":"1.18.2","pm_dir_url":"https:\/\/www.avision.com\/en\/
 var pum_sub_vars = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","message_position":"top"};
 var pum_popups = {"pum-2659":{"triggers":[{"type":"click_open","settings":{"cookie_name":"","extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"7761","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"7761","id":2659,"slug":"paperport"},"pum-11307":{"triggers":[{"type":"click_open","settings":{"extra_selectors":""}}],"cookies":[],"disable_on_mobile":false,"disable_on_tablet":false,"atc_promotion":null,"explain":null,"type_section":null,"theme_id":"7761","size":"medium","responsive_min_width":"0%","responsive_max_width":"100%","custom_width":"640px","custom_height_auto":false,"custom_height":"380px","scrollable_content":false,"animation_type":"fade","animation_speed":"350","animation_origin":"center top","open_sound":"none","custom_sound":"","location":"center top","position_top":"100","position_bottom":"0","position_left":"0","position_right":"0","position_from_trigger":false,"position_fixed":false,"overlay_disabled":false,"stackable":false,"disable_reposition":false,"zindex":"1999999999","close_button_delay":"0","fi_promotion":null,"close_on_form_submission":false,"close_on_form_submission_delay":"0","close_on_overlay_click":false,"close_on_esc_press":false,"close_on_f4_press":false,"disable_form_reopen":false,"disable_accessibility":false,"theme_slug":"7761","id":11307,"slug":"example-of-s-n"}};
 </script>
-<script src="//www.avision.com/en/wp-content/uploads/pum/pum-site-scripts-1.js?defer&amp;generated=1700748082&amp;ver=1.18.2" id="popup-maker-site-js"></script>
+<script src="https://www.avision.com/en/wp-content/plugins/popup-maker/assets/js/site.js?defer&amp;ver=1.18.2" id="popup-maker-site-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-hover-style.min.js?ver=3.0.5.1644388334" id="oceanwp-woo-hover-style-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-quick-view.min.js?ver=3.0.5.1644388334" id="oceanwp-woo-quick-view-js"></script>
 <script src="https://www.avision.com/en/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
@@ -2674,7 +2589,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/en\/?wc-ajax=%%endpoint%
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/tipsy/tipsy.js?ver=1.0.0a" id="um_tipsy-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/raty/um-raty.js?ver=2.6.0" id="um_raty-js"></script>
 <script id="um_scripts-js-extra">
-var um_scripts = {"max_upload_size":"52428800","nonce":"7550b0382d"};
+var um_scripts = {"max_upload_size":"52428800","nonce":"9d3a550f4c"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/js/um-scripts.js?ver=2.7.0" id="um_scripts-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/js/um-profile.js?ver=2.7.0" id="um_profile-js"></script>
@@ -2708,7 +2623,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/en\/wp-admin\/admin-ajax.php","wc_
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/js/webpack.runtime.js?ver=3.15.3" id="elementor-webpack-runtime-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/js/frontend-modules.js?ver=3.15.3" id="elementor-frontend-modules-js"></script>
 <script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","nonce":"13015df7c5","urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.avision.com\/en\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/www.avision.com\/en","checkout_page_url":"https:\/\/www.avision.com\/en"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","nonce":"82ec843f0c","urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.avision.com\/en\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/www.avision.com\/en","checkout_page_url":"https:\/\/www.avision.com\/en"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor-pro/assets/js/frontend.js?ver=3.6.5" id="elementor-pro-frontend-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.js?ver=4.0.2" id="elementor-waypoints-js"></script>

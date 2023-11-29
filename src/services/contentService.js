@@ -1,6 +1,9 @@
 const contentModel = require("../models/content");
 const transAPI = require("./transAPI");
 const Crawler = require("crawler");
+const fs = require("fs");
+const Cheerio = require("cheerio");
+require("dotenv").config();
 
 // async function createContent(node, url) {
 //   await contentModel.create({
@@ -41,27 +44,45 @@ function getPageAsync(urls, crawler) {
                 console.log(error);
               } else {
                 const $ = res.$;
-                var doc = $(".elementor-widget-container");
-                doc.each(async (index, element) => {
-                  let content = $(element).text().trim();
+                //const $ = Cheerio.load(res.body);
+
+                //fs.writeFileSync("fileHtml.html", $.html());
+                var doc = $(process.env.SELECT_TAGS).not("style, script");
+                for (let index = 0; index < doc.length; index++) {
+                  console.log(doc.length);
+                  let element = doc.eq(index);
+                  let content = element.text().trim();
                   if (content) {
-                    if ($(element).children(":not(br)").length == 0) {
+                    if (
+                      element.children(":not(br):not(strong):not(span)")
+                        .length == 0
+                    ) {
                       let node = $(element);
                       // await createContent(node, res.options.uri);
                       words.add(node.text().replace(/\s+/g, " "));
                     }
-                    $(element)
-                      .find("*")
-                      .each(async (index, childNode) => {
-                        let node = $(childNode);
-                        if (node.children(":not(br)").length == 0)
-                          if (node.text().trim()) {
-                            //await createContent(node, res.options.uri);
-                            words.add(node.text().replace(/\s+/g, " "));
-                          }
-                      });
+
+                    let children = element.find("*").not("style, script");
+                    for (
+                      let childIndex = 0;
+                      childIndex < children.length;
+                      childIndex++
+                    ) {
+                      let childNode = children.eq(childIndex);
+                      let node = $(childNode);
+                      if (
+                        node.children(":not(br):not(strong):not(span)")
+                          .length == 0
+                      )
+                        if (node.text().trim()) {
+                          //await createContent(node, res.options.uri);
+                          words.add(node.text().replace(/\s+/g, " "));
+                        }
+                    }
                   }
-                });
+                }
+
+                // });
               }
               resolve(words);
               done();
@@ -89,14 +110,19 @@ module.exports = {
     //console.log(links);
     let uniqueWords = new Set();
 
+    //let count = 0;
     for (let link of links) {
+      // count++;
       console.log(`start crawling: ${link}`);
       let result = await this.crawlingOnePage(link, crawler);
       //console.log(result);
       //console.log("ressult: " + Array.from(result));
       uniqueWords = new Set([...uniqueWords, ...result]);
-      //console.log("Uniqueword: " + Array.from(uniqueWords));
+      console.log("Uniqueword: " + Array.from(uniqueWords));
       console.log(`finish crawling: ${link}`);
+      // if (count > 0) {
+      //   break;
+      // }
     }
     //Get all the word in db in to a set
     let contents = await contentModel.find();
@@ -123,13 +149,20 @@ module.exports = {
     return "Done";
   },
 
-  findTranslatedWord: async function (world) {
+  findTranslatedWord: async function (word) {
     let result = await contentModel
       .findOne({
-        text: world,
+        $or: [
+          {
+            text: word,
+          },
+          {
+            newText: word,
+          },
+        ],
       })
       .exec();
-    return result ? result.newText : "not found";
+    return result ? result.newText : "not found " + word;
   },
 
   translateDb: async function () {
