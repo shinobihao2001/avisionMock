@@ -35,7 +35,7 @@ require("dotenv").config();
     // //Step 3: Crawling all the pages English word in to db
     // const links = [
     //   //"https://www.avision.com/en/shop/mobile-scanner/scanq-sw/",
-    //   //process.env.ORIGIN_URL,
+    //   process.env.ORIGIN_URL,
     // ];
     let links = await linkService.getLinksNeedToCrawl();
     console.log(links);
