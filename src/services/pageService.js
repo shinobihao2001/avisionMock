@@ -248,6 +248,7 @@ module.exports = {
 
   async getPage(name) {
     let localname = this.getLocalName(name);
+    console.log("Local name: " + localname);
     folder = path.join(__dirname, "localPage");
     try {
       let page = fs.readFileSync(path.join(folder, localname), "utf-8");

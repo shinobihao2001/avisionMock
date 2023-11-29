@@ -73,6 +73,9 @@ app.get("*", async (req, res) => {
   if (filename.startsWith("_")) {
     filename = filename.slice(1);
   }
+  if (filename.includes("?")) {
+    filename = filename.split("?")[0];
+  }
   console.log("filename 2: " + filename);
   let html = await pageService.getPage(filename);
   //let ren = fs.readFileSync("modified.html", "utf8");
