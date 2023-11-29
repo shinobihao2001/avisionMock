@@ -69,6 +69,8 @@ app.use(bodyParser.json());
 app.get("*", async (req, res) => {
   const filename = (process.env.EN_DOMAIN + req.url).toString();
   console.log(filename);
+  filename = filename.slice(1);
+  console.log(filename);
   let html = await pageService.getPage(filename);
   //let ren = fs.readFileSync("modified.html", "utf8");
   res.setHeader("Content-Type", "text/html");
