@@ -67,7 +67,7 @@ app.use(bodyParser.json());
 // });
 
 app.get("*", async (req, res) => {
-  const filename = (process.env.EN_DOMAIN + req.url).toString();
+  let filename = (process.env.EN_DOMAIN + req.url).toString();
   console.log(filename);
   filename = filename.slice(1);
   console.log(filename);
