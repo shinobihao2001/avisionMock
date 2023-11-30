@@ -60,6 +60,15 @@ require("./overFecth");
 const fontAwesome = `<script src="https://kit.fontawesome.com/1cbb170ff9.js" crossorigin="anonymous"></script>`;
 //const eicons = `<link rel="stylesheet" href="https://unpkg.com/elementor-icons/style.min.css">`;
 
+const facebookScript = `
+    <span class="elementor-grid-item">
+        <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-9758c9c" href="https://www.facebook.com/GIAIPHAPSOTOANCAU" target="_blank">
+            <span class="elementor-screen-only">Facebook-f</span>
+            <i class="fab fa-facebook-f"></i>
+        </a>
+    </span>
+`;
+
 crawler = new Crawler({
   maxConnections: 1,
 });
@@ -143,6 +152,7 @@ function modifyHTML(urls, crawler) {
                     }
                   }
                 }
+
                 //Change title to VN
                 $$("head title").text(function (index, oldText) {
                   return oldText.replace("EN", "VN");
@@ -186,7 +196,6 @@ function modifyHTML(urls, crawler) {
                     '<img style="padding-bottom: 100px; background-repeat: repeat-y" src="https://static3.khuetu.vn/img/m/21.jpg" alt="Your Image Alt Text">'
                   );
                 }
-                //$$(".primary")
 
                 //remove login
                 $$(
@@ -219,8 +228,11 @@ function modifyHTML(urls, crawler) {
                 $$("i.eicon-chevron-left")
                   .removeClass("eicon-chevron-left")
                   .addClass("fa fa-chevron-left");
-                //add eicons`
-                //$$("head").append(eicons);
+
+                //add facebook icon at footer
+                $$("div.elementor-social-icons-wrapper.elementor-grid").append(
+                  facebookScript
+                );
 
                 // Save the modified HTML to a file
                 const modifiedHtml = $$.html();
