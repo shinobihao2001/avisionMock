@@ -28,7 +28,8 @@ require("dotenv").config();
     // console.log("All check done");
 
     //Step 2: Crawling the URLs
-    await linkService.crawAllUrl();
+    //TODO: need to drop all the link and start again this maybe harmfull cost 4hours to run
+    //await linkService.crawAllUrl();
     // //await delay(5000);
     console.log("URL crawling completed successfully");
 
@@ -40,7 +41,7 @@ require("dotenv").config();
     // ];
     let links = await linkService.getLinksNeedToCrawl();
     console.log(links);
-    let mess = await contentService.crawlingAllPage(links);
+    //let mess = await contentService.crawlingAllPage(links);
     console.log("Crawling all words");
 
     // //TRanslate a html file

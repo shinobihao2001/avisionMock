@@ -178,7 +178,7 @@ function modifyHTML(urls, crawler) {
 
                 //remove login
                 $$(
-                  `a[href="https://${process.env.MOCK_DOMAIN}/login/"]`
+                  `a[href="http://${process.env.MOCK_DOMAIN}/login/"]`
                 ).remove();
 
                 //ad override fecth api
