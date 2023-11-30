@@ -203,6 +203,11 @@ function modifyHTML(urls, crawler) {
                 //add font-awsone
                 $$("head").append(fontAwesome);
 
+                //change eicons to font-awesome
+                $$("i.eicon-menu-bar")
+                  .removeClass("eicon-menu-bar")
+                  .addClass("fa fa-bars");
+
                 //add eicons`
                 //$$("head").append(eicons);
 
