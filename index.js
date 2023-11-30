@@ -67,8 +67,14 @@ app.use(bodyParser.json());
 // });
 
 app.get("*", async (req, res) => {
-  const filename = (process.env.EN_DOMAIN + req.url).toString();
-  console.log(filename);
+  console.log("URL: " + req.url);
+  let filename = (process.env.EN_DOMAIN + req.url).toString();
+  console.log("filename 1: " + filename);
+  //fix zalo request
+  if (filename.includes("?")) {
+    filename = filename.split("?")[0];
+  }
+  console.log("filename 2: " + filename);
   let html = await pageService.getPage(filename);
   //let ren = fs.readFileSync("modified.html", "utf8");
   res.setHeader("Content-Type", "text/html");
