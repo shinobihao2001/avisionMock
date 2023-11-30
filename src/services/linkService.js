@@ -1,3 +1,4 @@
+const { header } = require("express/lib/request");
 const linkModel = require("../models/link");
 const Crawler = require("crawler");
 require("dotenv").config();
@@ -52,7 +53,7 @@ function getPageAsync(urls, crawler) {
                     !href.endsWith("png") &&
                     !href.endsWith("jpg") &&
                     !href.includes("upload") &&
-                    !href.includes("download")
+                    !href.includes("?")
                   ) {
                     uniqueLinks.add(href);
                   }

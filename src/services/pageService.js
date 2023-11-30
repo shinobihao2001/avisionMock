@@ -93,7 +93,8 @@ function modifyHTML(urls, crawler) {
                       "href",
                       href.replace(
                         "https://www.avision.com/en",
-                        "http://localhost:3000"
+                        //"http://localhost:3000"
+                        `http://${process.env.MOCK_DOMAIN}`
                       )
                       // "http://localhost:3000/"
                     );
@@ -176,7 +177,9 @@ function modifyHTML(urls, crawler) {
                 //$$(".primary")
 
                 //remove login
-                $$('a[href="http://localhost:3000/login/"]').remove();
+                $$(
+                  `a[href="https://${process.env.MOCK_DOMAIN}/login/"]`
+                ).remove();
 
                 //ad override fecth api
                 // const newScript = $$("<script>");
@@ -254,6 +257,11 @@ module.exports = {
 
   async getPage(name) {
     let localname = this.getLocalName(name);
+    // TODO fix this later error cause by "/"
+    if (localname.startsWith("_")) {
+      localname = localname.slice(1);
+    }
+    console.log("Local name: " + localname);
     folder = path.join(__dirname, "localPage");
     try {
       let page = fs.readFileSync(path.join(folder, localname), "utf-8");
