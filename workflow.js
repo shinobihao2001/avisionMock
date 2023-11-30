@@ -36,7 +36,7 @@ require("dotenv").config();
     const links = [
       //"https://www.avision.com/en/shop/mobile-scanner/scanq-sw/",
       //process.env.ORIGIN_URL,
-      "https://www.avision.com/en/about-avision/crs/",
+      "https://www.avision.com/en/about-avision/",
     ];
     //let links = await linkService.getLinksNeedToCrawl();
     console.log(links);
