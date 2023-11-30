@@ -209,9 +209,16 @@ function modifyHTML(urls, crawler) {
                   .removeClass("eicon-menu-bar")
                   .addClass("fa fa-bars");
                 $$("i.eicon-close")
-                  .removeClass("eicon-menu-bar")
+                  .removeClass("eicon-close")
                   .addClass("fa fa-times");
 
+                // change left and right arrow
+                $$("i.eicon-chevron-right")
+                  .removeClass("eicon-chevron-right")
+                  .addClass("fa fa-chevron-right");
+                $$("i.eicon-chevron-left")
+                  .removeClass("eicon-chevron-left")
+                  .addClass("fa fa-chevron-left");
                 //add eicons`
                 //$$("head").append(eicons);
 
