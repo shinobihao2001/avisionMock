@@ -80,14 +80,16 @@ function modifyHTML(urls, crawler) {
                 // const $ = res.$;
                 //$("script, style").remove();
 
-                //replace the old link with VNLink and keep the dowload link
+                //replace the old link with VNLink and keep the dowload  link
+                //Also the upload link in the CSR page
                 $$("a").each((index, element) => {
                   const href = $$(element).attr("href");
                   if (
                     href &&
                     href.startsWith("https://www.avision.com") &&
                     !href.endsWith("png") &&
-                    !href.includes("download")
+                    !href.includes("download") &&
+                    !href.includes("uploads")
                   ) {
                     $$(element).attr(
                       "href",
