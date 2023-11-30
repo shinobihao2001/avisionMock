@@ -93,8 +93,8 @@ function modifyHTML(urls, crawler) {
                       "href",
                       href.replace(
                         "https://www.avision.com/en",
-                        //"http://localhost:3000"
-                        `http://${process.env.MOCK_DOMAIN}`
+                        "http://localhost:3000"
+                        //`http://${process.env.MOCK_DOMAIN}`
                       )
                       // "http://localhost:3000/"
                     );
@@ -141,6 +141,10 @@ function modifyHTML(urls, crawler) {
                     }
                   }
                 }
+                //Change title to VN
+                $$("head title").text(function (index, oldText) {
+                  return oldText.replace("EN", "VN");
+                });
 
                 //remove popmade
                 $$("#popmake-2659").remove();
@@ -177,9 +181,7 @@ function modifyHTML(urls, crawler) {
                 //$$(".primary")
 
                 //remove login
-                $$(
-                  `a[href="https://${process.env.MOCK_DOMAIN}/login/"]`
-                ).remove();
+                $$(`a[href="http://localhost:3000/login/"]`).remove();
 
                 //ad override fecth api
                 // const newScript = $$("<script>");
