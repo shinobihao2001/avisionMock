@@ -4,10 +4,10 @@ let glossarySchema = new mongoose.Schema({
   enLink: {
     type: String,
   },
-  wrongContent: {
+  rightContent: {
     type: String,
   },
-  rightContent: {
+  wrongContent: {
     type: String,
   },
 });
