@@ -54,7 +54,8 @@ require("dotenv").config();
 (async () => {
   await connectDB();
   let name =
-    "https://www.avision.com/en/shop/document-scanner/ad120-series/ad120s/";
+    //"https://www.avision.com/en/shop/document-scanner/ad120-series/ad120s/";
+    process.env.ORIGIN_URL;
   await gloosaryService.replaceOnePage(name);
   console.log("Tesing Done");
 })();
