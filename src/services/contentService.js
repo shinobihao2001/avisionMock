@@ -5,26 +5,6 @@ const fs = require("fs");
 const Cheerio = require("cheerio");
 require("dotenv").config();
 
-// async function createContent(node, url) {
-//   await contentModel.create({
-//     // url: url,
-//     //  tagName: node.prop("tagName"),
-//     text: node.text().replace(/\s+/g, " "),
-//     newText: node.text().replace(/\s+/g, " ") + " - translated ",
-//     isTranslated: false,
-//   });
-// }
-
-// function createOb(node, url) {
-//   return {
-//     // url: url,
-//     // tagName: node.prop("tagName"),
-//     text: node.text().replace(/\s+/g, " "),
-//     newText: node.text().replace(/\s+/g, " ") + " - translated ",
-//     isTranslated: false,
-//   };
-// }
-
 const crawler = new Crawler({
   maxConnections: 50,
   rateLimit: 5000,
@@ -44,9 +24,7 @@ function getPageAsync(urls, crawler) {
                 console.log(error);
               } else {
                 const $ = res.$;
-                //const $ = Cheerio.load(res.body);
 
-                //fs.writeFileSync("fileHtml.html", $.html());
                 var doc = $(process.env.SELECT_TAGS).not("style, script");
                 for (let index = 0; index < doc.length; index++) {
                   console.log(doc.length);
@@ -110,19 +88,12 @@ module.exports = {
     //console.log(links);
     let uniqueWords = new Set();
 
-    //let count = 0;
     for (let link of links) {
-      // count++;
       console.log(`start crawling: ${link}`);
       let result = await this.crawlingOnePage(link, crawler);
-      //console.log(result);
-      //console.log("ressult: " + Array.from(result));
       uniqueWords = new Set([...uniqueWords, ...result]);
       console.log("Uniqueword: " + Array.from(uniqueWords));
       console.log(`finish crawling: ${link}`);
-      // if (count > 0) {
-      //   break;
-      // }
     }
     //Get all the word in db in to a set
     let contents = await contentModel.find();
