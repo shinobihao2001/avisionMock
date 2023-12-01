@@ -170,6 +170,14 @@ function modifyHTML(urls, crawler) {
                   "white;"
                 );
 
+                //Change Icon Grid and List to Fas icon
+                $$("i.icon-grid")
+                  .removeClass("icon-grid")
+                  .addClass("fas fa-th-large");
+                $$("i.icon-list")
+                  .removeClass("icon-list")
+                  .addClass("fas fa-list");
+
                 //remove popmade
                 $$("#popmake-2659").remove();
                 $$("#popmake-11307").remove();
