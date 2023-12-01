@@ -68,7 +68,7 @@ function modifyHTML(urls, crawler) {
 
                   if (content) {
                     if (
-                      element.children(":not(br):not(strong):not(span)")
+                      element.children(":not(br):not(strong):not(span):not(i)")
                         .length == 0
                     ) {
                       let newText = await contentService.findTranslatedWord(
@@ -85,7 +85,7 @@ function modifyHTML(urls, crawler) {
                         let childNode = children.eq(childIndex);
                         let node = $$(childNode);
                         if (
-                          node.children(":not(br):not(strong):not(span)")
+                          node.children(":not(br):not(strong):not(span):not(i)")
                             .length == 0 &&
                           node.text().trim()
                         ) {
@@ -158,6 +158,8 @@ function modifyHTML(urls, crawler) {
                     '<img style="padding-bottom: 100px; background-repeat: repeat-y" src="https://static3.khuetu.vn/img/m/21.jpg" alt="Your Image Alt Text">'
                   );
                 }
+                //remove dateTime in footer news
+                $$("time.published").remove();
 
                 //remove login
                 $$(`a[href="http://localhost:3000/login/"]`).remove();
@@ -195,6 +197,9 @@ function modifyHTML(urls, crawler) {
                 $$("div.elementor-social-icons-wrapper.elementor-grid").append(
                   facebookScript
                 );
+
+                //Change continue reading in exhibiton page to Vn
+                $$("div.blog-entry-readmore a").text("Đọc tiếp");
 
                 // Save the modified HTML to a file
                 const modifiedHtml = $$.html();

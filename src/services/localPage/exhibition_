@@ -1188,9 +1188,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </ul>
 </li>
 </ul>			</nav>
-					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open fa fa-bars"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close fa fa-times"></i>			<span class="elementor-screen-only">Th&#x1EF1;c &#x111;&#x1A1;n</span>
-		</div>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false"> Th&#x1EF1;c &#x111;&#x1A1;n</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
 				<ul id="menu-2-3a0fbe8" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7461"><a href="http://localhost:3000/scanner/" class="elementor-item" tabindex="-1">M&#xE1;y qu&#xE9;t</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
@@ -1297,7 +1295,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		
 	
 		
-					<li class="meta-date" itemprop="datePublished"><span class="screen-reader-text">Post published:</span><i class="fa fa-clock-o" aria-hidden="true" role="img"></i>May 2, 2023</li>
+					<li class="meta-date" itemprop="datePublished">B&#xE0;i &#x111;&#x103;ng &#x111;&#x1B0;&#x1EE3;c xu&#x1EA5;t b&#x1EA3;n:Ng&#xE0;y 2 th&#xE1;ng 5 n&#x103;m 2023</li>
 		
 		
 		
@@ -1334,7 +1332,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 
 
 <div class="blog-entry-readmore clr">
-	<a href="http://localhost:3000/blog/exhibition/computex-taipei-2023/">Continue Reading<span class="screen-reader-text">Avision M&#x1EDD;i B&#x1EA1;n Tham Quan COMPUTEX Taipei 2023</span><i class=" fa fa-angle-right" aria-hidden="true" role="img"></i></a>
+	<a href="http://localhost:3000/blog/exhibition/computex-taipei-2023/">&#x110;&#x1ECD;c ti&#x1EBF;p</a>
 </div><!-- .blog-entry-readmore -->
 
 
@@ -1383,7 +1381,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		
 	
 		
-					<li class="meta-date" itemprop="datePublished"><span class="screen-reader-text">Post published:</span><i class="fa fa-clock-o" aria-hidden="true" role="img"></i>November 4, 2022</li>
+					<li class="meta-date" itemprop="datePublished">B&#xE0;i &#x111;&#x103;ng &#x111;&#x1B0;&#x1EE3;c xu&#x1EA5;t b&#x1EA3;n:Ng&#xE0;y 4 th&#xE1;ng 11 n&#x103;m 2022</li>
 		
 		
 		
@@ -1420,7 +1418,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 
 
 <div class="blog-entry-readmore clr">
-	<a href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2022-healthcare-expo/">Continue Reading<span class="screen-reader-text">Tri&#x1EC3;n l&#xE3;m Avision t&#x1EA1;i 2022 Healthcare+ Expo</span><i class=" fa fa-angle-right" aria-hidden="true" role="img"></i></a>
+	<a href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2022-healthcare-expo/">&#x110;&#x1ECD;c ti&#x1EBF;p</a>
 </div><!-- .blog-entry-readmore -->
 
 
@@ -1469,7 +1467,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		
 	
 		
-					<li class="meta-date" itemprop="datePublished"><span class="screen-reader-text">Post published:</span><i class="fa fa-clock-o" aria-hidden="true" role="img"></i>September 5, 2022</li>
+					<li class="meta-date" itemprop="datePublished">B&#xE0;i &#x111;&#x103;ng &#x111;&#x1B0;&#x1EE3;c xu&#x1EA5;t b&#x1EA3;n:Ng&#xE0;y 5 th&#xE1;ng 9 n&#x103;m 2022</li>
 		
 		
 		
@@ -1506,7 +1504,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 
 
 <div class="blog-entry-readmore clr">
-	<a href="http://localhost:3000/blog/exhibition/meet-us-at-cybersec-2022/">Continue Reading<span class="screen-reader-text">G&#x1EB7;p ch&#xFA;ng t&#xF4;i t&#x1EA1;i CYBERSEC 2022</span><i class=" fa fa-angle-right" aria-hidden="true" role="img"></i></a>
+	<a href="http://localhost:3000/blog/exhibition/meet-us-at-cybersec-2022/">&#x110;&#x1ECD;c ti&#x1EBF;p</a>
 </div><!-- .blog-entry-readmore -->
 
 
@@ -1555,7 +1553,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		
 	
 		
-					<li class="meta-date" itemprop="datePublished"><span class="screen-reader-text">Post published:</span><i class="fa fa-clock-o" aria-hidden="true" role="img"></i>November 17, 2020</li>
+					<li class="meta-date" itemprop="datePublished">B&#xE0;i &#x111;&#x103;ng &#x111;&#x1B0;&#x1EE3;c xu&#x1EA5;t b&#x1EA3;n:Ng&#xE0;y 17 th&#xE1;ng 11 n&#x103;m 2020</li>
 		
 		
 		
@@ -1592,7 +1590,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 
 
 <div class="blog-entry-readmore clr">
-	<a href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2020-healthcare-expo/">Continue Reading<span class="screen-reader-text">Tri&#x1EC3;n l&#xE3;m Avision t&#x1EA1;i 2020 Healthcare+ Expo</span><i class=" fa fa-angle-right" aria-hidden="true" role="img"></i></a>
+	<a href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2020-healthcare-expo/">&#x110;&#x1ECD;c ti&#x1EBF;p</a>
 </div><!-- .blog-entry-readmore -->
 
 
@@ -1641,7 +1639,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		
 	
 		
-					<li class="meta-date" itemprop="datePublished"><span class="screen-reader-text">Post published:</span><i class="fa fa-clock-o" aria-hidden="true" role="img"></i>December 14, 2021</li>
+					<li class="meta-date" itemprop="datePublished">B&#xE0;i &#x111;&#x103;ng &#x111;&#x1B0;&#x1EE3;c xu&#x1EA5;t b&#x1EA3;n:Ng&#xE0;y 14 th&#xE1;ng 12 n&#x103;m 2021</li>
 		
 		
 		
@@ -1678,7 +1676,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 
 
 <div class="blog-entry-readmore clr">
-	<a href="http://localhost:3000/blog/exhibition/avision-to-attend-opto-taiwan-2021/">Continue Reading<span class="screen-reader-text">T&#x1EA7;m nh&#xEC;n tham d&#x1EF1; OPTO &#x110;&#xE0;i Loan 2021</span><i class=" fa fa-angle-right" aria-hidden="true" role="img"></i></a>
+	<a href="http://localhost:3000/blog/exhibition/avision-to-attend-opto-taiwan-2021/">&#x110;&#x1ECD;c ti&#x1EBF;p</a>
 </div><!-- .blog-entry-readmore -->
 
 
@@ -1727,7 +1725,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		
 	
 		
-					<li class="meta-date" itemprop="datePublished"><span class="screen-reader-text">Post published:</span><i class="fa fa-clock-o" aria-hidden="true" role="img"></i>October 13, 2020</li>
+					<li class="meta-date" itemprop="datePublished">B&#xE0;i &#x111;&#x103;ng &#x111;&#x1B0;&#x1EE3;c xu&#x1EA5;t b&#x1EA3;n:Ng&#xE0;y 13 th&#xE1;ng 10 n&#x103;m 2020</li>
 		
 		
 		
@@ -1764,7 +1762,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 
 
 <div class="blog-entry-readmore clr">
-	<a href="http://localhost:3000/blog/exhibition/meet-us-at-medical-taiwan-2020/">Continue Reading<span class="screen-reader-text">G&#x1EB7;p ch&#xFA;ng t&#xF4;i t&#x1EA1;i Medical Taiwan 2020!</span><i class=" fa fa-angle-right" aria-hidden="true" role="img"></i></a>
+	<a href="http://localhost:3000/blog/exhibition/meet-us-at-medical-taiwan-2020/">&#x110;&#x1ECD;c ti&#x1EBF;p</a>
 </div><!-- .blog-entry-readmore -->
 
 
@@ -2208,9 +2206,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </ul>
 </li>
 </ul>			</nav>
-					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open fa fa-bars"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close fa fa-times"></i>			<span class="elementor-screen-only">Th&#x1EF1;c &#x111;&#x1A1;n</span>
-		</div>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false"> Th&#x1EF1;c &#x111;&#x1A1;n</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
 				<ul id="menu-2-761f405b" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20515"><a class="elementor-item" tabindex="-1">Ch&#xE2;u &#xC1;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
@@ -2246,9 +2242,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-2c22cca elementor-widget elementor-widget-nav-menu" data-id="2c22cca" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;dropdown&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-chevron-right\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open fa fa-bars"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close fa fa-times"></i>			<span class="elementor-screen-only">Th&#x1EF1;c &#x111;&#x1A1;n</span>
-		</div>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false"> Th&#x1EF1;c &#x111;&#x1A1;n</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
 				<ul id="menu-2-2c22cca" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20515"><a class="elementor-item" tabindex="-1">Ch&#xE2;u &#xC1;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">

@@ -1192,9 +1192,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </ul>
 </li>
 </ul>			</nav>
-					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open fa fa-bars"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close fa fa-times"></i>			<span class="elementor-screen-only">Th&#x1EF1;c &#x111;&#x1A1;n</span>
-		</div>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false"> Th&#x1EF1;c &#x111;&#x1A1;n</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
 				<ul id="menu-2-3a0fbe8" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7461"><a href="http://localhost:3000/scanner/" class="elementor-item" tabindex="-1">M&#xE1;y qu&#xE9;t</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
@@ -1286,7 +1284,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		
 	
 		
-					<li class="meta-date" itemprop="datePublished"><span class="screen-reader-text">Post published:</span><i class="fa fa-clock-o" aria-hidden="true" role="img"></i>May 2, 2023</li>
+					<li class="meta-date" itemprop="datePublished">B&#xE0;i &#x111;&#x103;ng &#x111;&#x1B0;&#x1EE3;c xu&#x1EA5;t b&#x1EA3;n:Ng&#xE0;y 2 th&#xE1;ng 5 n&#x103;m 2023</li>
 		
 		
 		
@@ -1371,7 +1369,32 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			
 			
 				
-				<article class="related-post clr col span_1_of_3 col-1 post-18090 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-medical entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
+				<article class="related-post clr col span_1_of_3 col-1 post-7126 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-exhibition tag-medical entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
+
+					
+						<figure class="related-post-media clr">
+
+							<a href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2020-healthcare-expo/" class="related-thumb">
+
+								<img width="768" height="432" src="https://www.avision.com/en/wp-content/uploads/2021/09/MedicalTaiwan_post1-768x432.png" class="attachment-medium_large size-medium_large wp-post-image" alt="Read more about the article Avision Showcasing at 2020 Healthcare+ Expo" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/MedicalTaiwan_post1-768x432.png 768w, https://www.avision.com/en/wp-content/uploads/2021/09/MedicalTaiwan_post1-300x169.png 300w, https://www.avision.com/en/wp-content/uploads/2021/09/MedicalTaiwan_post1-1024x576.png 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/MedicalTaiwan_post1-1536x864.png 1536w, https://www.avision.com/en/wp-content/uploads/2021/09/MedicalTaiwan_post1-600x338.png 600w, https://www.avision.com/en/wp-content/uploads/2021/09/MedicalTaiwan_post1.png 1921w" sizes="(max-width: 768px) 100vw, 768px">							</a>
+
+						</figure>
+
+					
+					<h3 class="related-post-title">
+						<a href="http://localhost:3000/blog/exhibition/avision-showcasing-at-2020-healthcare-expo/" rel="bookmark">Tri&#x1EC3;n l&#xE3;m Avision t&#x1EA1;i 2020 Healthcare+ Expo</a>
+					</h3><!-- .related-post-title -->
+
+								
+						
+						
+					
+				</article><!-- .related-post -->
+
+				
+			
+				
+				<article class="related-post clr col span_1_of_3 col-2 post-18090 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-medical entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
 
 					
 						<figure class="related-post-media clr">
@@ -1388,7 +1411,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</h3><!-- .related-post-title -->
 
 								
-						<time class="published" datetime="2022-11-04T06:31:31+00:00"><i class="fa fa-clock-o" aria-hidden="true" role="img"></i>November 4, 2022</time>
+						
 						
 					
 				</article><!-- .related-post -->
@@ -1396,7 +1419,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				
 			
 				
-				<article class="related-post clr col span_1_of_3 col-2 post-15929 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-exhibition entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
+				<article class="related-post clr col span_1_of_3 col-3 post-15929 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-exhibition entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
 
 					
 						<figure class="related-post-media clr">
@@ -1413,32 +1436,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</h3><!-- .related-post-title -->
 
 								
-						<time class="published" datetime="2022-09-05T03:38:14+00:00"><i class="fa fa-clock-o" aria-hidden="true" role="img"></i>September 5, 2022</time>
 						
-					
-				</article><!-- .related-post -->
-
-				
-			
-				
-				<article class="related-post clr col span_1_of_3 col-3 post-15231 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-exhibition entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
-
-					
-						<figure class="related-post-media clr">
-
-							<a href="http://localhost:3000/blog/exhibition/avision-to-attend-opto-taiwan-2021/" class="related-thumb">
-
-								<img width="768" height="432" src="https://www.avision.com/en/wp-content/uploads/2022/04/post-768x432.png" class="attachment-medium_large size-medium_large wp-post-image" alt="Read more about the article Avision to attend OPTO Taiwan 2021" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2022/04/post-768x432.png 768w, https://www.avision.com/en/wp-content/uploads/2022/04/post-300x169.png 300w, https://www.avision.com/en/wp-content/uploads/2022/04/post-600x338.png 600w, https://www.avision.com/en/wp-content/uploads/2022/04/post.png 800w" sizes="(max-width: 768px) 100vw, 768px">							</a>
-
-						</figure>
-
-					
-					<h3 class="related-post-title">
-						<a href="http://localhost:3000/blog/exhibition/avision-to-attend-opto-taiwan-2021/" rel="bookmark">T&#x1EA7;m nh&#xEC;n tham d&#x1EF1; OPTO &#x110;&#xE0;i Loan 2021</a>
-					</h3><!-- .related-post-title -->
-
-								
-						<time class="published" datetime="2021-12-14T09:00:01+00:00"><i class="fa fa-clock-o" aria-hidden="true" role="img"></i>December 14, 2021</time>
 						
 					
 				</article><!-- .related-post -->
@@ -1879,9 +1877,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </ul>
 </li>
 </ul>			</nav>
-					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open fa fa-bars"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close fa fa-times"></i>			<span class="elementor-screen-only">Th&#x1EF1;c &#x111;&#x1A1;n</span>
-		</div>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false"> Th&#x1EF1;c &#x111;&#x1A1;n</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
 				<ul id="menu-2-761f405b" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20515"><a class="elementor-item" tabindex="-1">Ch&#xE2;u &#xC1;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
@@ -1917,9 +1913,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-2c22cca elementor-widget elementor-widget-nav-menu" data-id="2c22cca" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;dropdown&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-chevron-right\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open fa fa-bars"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close fa fa-times"></i>			<span class="elementor-screen-only">Th&#x1EF1;c &#x111;&#x1A1;n</span>
-		</div>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false"> Th&#x1EF1;c &#x111;&#x1A1;n</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
 				<ul id="menu-2-2c22cca" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20515"><a class="elementor-item" tabindex="-1">Ch&#xE2;u &#xC1;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">

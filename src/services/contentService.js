@@ -54,7 +54,7 @@ function getPageAsync(urls, crawler) {
                   let content = element.text().trim();
                   if (content) {
                     if (
-                      element.children(":not(br):not(strong):not(span)")
+                      element.children(":not(br):not(strong):not(span):not(i)")
                         .length == 0
                     ) {
                       let node = $(element);
@@ -71,7 +71,7 @@ function getPageAsync(urls, crawler) {
                       let childNode = children.eq(childIndex);
                       let node = $(childNode);
                       if (
-                        node.children(":not(br):not(strong):not(span)")
+                        node.children(":not(br):not(strong):not(span):not(i)")
                           .length == 0
                       )
                         if (node.text().trim()) {
