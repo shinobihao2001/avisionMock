@@ -4,7 +4,6 @@ const fs = require("fs");
 const contentService = require("./contentService");
 const path = require("path");
 require("dotenv").config();
-require("./overFecth");
 
 const fontAwesome = `<script src="https://kit.fontawesome.com/1cbb170ff9.js" crossorigin="anonymous"></script>`;
 
