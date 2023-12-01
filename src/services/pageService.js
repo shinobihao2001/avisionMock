@@ -177,7 +177,18 @@ function modifyHTML(urls, crawler) {
                 $$("i.icon-list")
                   .removeClass("icon-list")
                   .addClass("fas fa-list");
-
+                //change icon user
+                $$("i.icon-user")
+                  .removeClass("icon-user")
+                  .addClass("fa fa-user-o");
+                //Change clock icon
+                $$("i.icon-clock")
+                  .removeClass("icon-clock")
+                  .addClass("fa fa-clock-o");
+                //Change folder icon
+                $$("i.icon-folder")
+                  .removeClass("icon-folder")
+                  .addClass("fa fa-folder-o");
                 //remove popmade
                 $$("#popmake-2659").remove();
                 $$("#popmake-11307").remove();
@@ -247,6 +258,9 @@ function modifyHTML(urls, crawler) {
                 $$("div.elementor-social-icons-wrapper.elementor-grid").append(
                   facebookScript
                 );
+
+                //Change continue reading in exhibiton page to Vn
+                $$("div.blog-entry-readmore a").text("Đọc tiếp");
 
                 // Save the modified HTML to a file
                 const modifiedHtml = $$.html();
