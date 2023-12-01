@@ -60,6 +60,15 @@ require("./overFecth");
 const fontAwesome = `<script src="https://kit.fontawesome.com/1cbb170ff9.js" crossorigin="anonymous"></script>`;
 //const eicons = `<link rel="stylesheet" href="https://unpkg.com/elementor-icons/style.min.css">`;
 
+const facebookScript = `
+    <span class="elementor-grid-item">
+        <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-9758c9c" href="https://www.facebook.com/GIAIPHAPSOTOANCAU" target="_blank">
+            <span class="elementor-screen-only">Facebook-f</span>
+            <i class="fab fa-facebook-f"></i>
+        </a>
+    </span>
+`;
+
 crawler = new Crawler({
   maxConnections: 1,
 });
@@ -154,6 +163,20 @@ function modifyHTML(urls, crawler) {
                   "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7397.307743665317!2d106.71016755362383!3d10.842855006115066!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x317529ba3b90d51d%3A0x377f46b16c96b3f!2sDSG%20-%20IoT!5e0!3m2!1svi!2s!4v1701326672751!5m2!1svi!2s"
                 );
 
+                //Change item label to white
+                $$("td.woocommerce-product-attributes-item__label").css(
+                  "color",
+                  "white;"
+                );
+
+                //Change Icon Grid and List to Fas icon
+                $$("i.icon-grid")
+                  .removeClass("icon-grid")
+                  .addClass("fas fa-th-large");
+                $$("i.icon-list")
+                  .removeClass("icon-list")
+                  .addClass("fas fa-list");
+
                 //remove popmade
                 $$("#popmake-2659").remove();
                 $$("#popmake-11307").remove();
@@ -201,6 +224,27 @@ function modifyHTML(urls, crawler) {
                 //add font-awsone
                 $$("head").append(fontAwesome);
 
+                //change eicons to font-awesome
+                // change menu
+                $$("i.eicon-menu-bar")
+                  .removeClass("eicon-menu-bar")
+                  .addClass("fa fa-bars");
+                $$("i.eicon-close")
+                  .removeClass("eicon-close")
+                  .addClass("fa fa-times");
+
+                // change left and right arrow
+                $$("i.eicon-chevron-right")
+                  .removeClass("eicon-chevron-right")
+                  .addClass("fa fa-chevron-right");
+                $$("i.eicon-chevron-left")
+                  .removeClass("eicon-chevron-left")
+                  .addClass("fa fa-chevron-left");
+
+                //add facebook icon at footer
+                $$("div.elementor-social-icons-wrapper.elementor-grid").append(
+                  facebookScript
+                );
                 //add eicons`
                 //$$("head").append(eicons);
 
