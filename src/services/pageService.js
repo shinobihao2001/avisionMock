@@ -16,6 +16,14 @@ const facebookScript = `
     </span>
 `;
 
+const receiptScript = `
+<div>
+<label for="receipt">Chọn ảnh hóa đơn:</label>
+<br>
+<input type="file" id="receipt" name="receipt" accept=".pdf, .png, .jpg, .jpeg" required>
+</div>
+`;
+
 let crawler = new Crawler({
   maxConnections: 1,
 });
@@ -196,6 +204,11 @@ function modifyHTML(urls, crawler) {
                 $$("div.elementor-social-icons-wrapper.elementor-grid").append(
                   facebookScript
                 );
+
+                //add receipt input
+                //id="wpforms-field-limit-text-4191-1"
+                //$$("#wpforms-field-limit-text-4191-1").append(receiptScript);
+                $$("#wpforms-4191-field_1-container").append(receiptScript);
 
                 //Change continue reading in exhibiton page to Vn
                 $$("div.blog-entry-readmore a").text("Đọc tiếp");

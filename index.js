@@ -5,12 +5,27 @@ const path = require("path");
 require("dotenv").config();
 const fs = require("fs");
 const bodyParser = require("body-parser");
+const multer = require("multer");
+const { updateOne } = require("./src/models/content.js");
 
-connectDB();
+//setup multer storage
+let storage = multer.diskStorage({
+  destination: function (req, file, cb) {
+    cb(null, "./src/uploads");
+  },
+  filename: function (req, file, cb) {
+    cb(null, file.originalname);
+  },
+});
+let upload = multer({ storage: storage });
+//
+
 const port = process.env.PORT || 3000;
 const app = express();
 
+connectDB();
 app.use(bodyParser.json());
+//setup Router
 
 app.get("*", async (req, res) => {
   console.log("URL: " + req.url);
@@ -27,6 +42,20 @@ app.get("*", async (req, res) => {
   res.setHeader("Content-Type", "text/html");
   res.send(html.toString());
 });
+
+app.post("/en/agent/*", upload.single("receipt"), async (req, res) => {
+  console.log(req.file);
+
+  //get rid of en/
+  let filename = (process.env.EN_DOMAIN + req.url.slice(3)).toString();
+  console.log("filename 1: " + filename);
+  let html = await pageService.getPage(filename);
+  //todo :modify html file again adding the warranty check
+  res.setHeader("Content-Type", "text/html");
+  res.send(html.toString());
+});
+
+////////////
 
 app.listen(port, () => {
   console.log(`Server is run on http://localhost:${port}/`);
