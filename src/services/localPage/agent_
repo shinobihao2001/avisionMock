@@ -1364,13 +1364,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-4edd0b7 elementor-widget elementor-widget-wpforms" data-id="4edd0b7" data-element_type="widget" data-widget_type="wpforms.default">
 				<div class="elementor-widget-container">
-			<div class="wpforms-container wpforms-container-full" id="wpforms-4191"><form id="wpforms-form-4191" class="wpforms-validate wpforms-form" data-formid="4191" method="post" enctype="multipart/form-data" action="/en/agent/" data-token="64350e6d5498c935ecbe3251a91513be"><noscript class="wpforms-error-noscript">Vui lòng kích hoạt JavaScript trong trình duyệt của bạn để hoàn thành biểu mẫu này.</noscript><div class="wpforms-field-container"><div id="wpforms-4191-field_1-container" class="wpforms-field wpforms-field-text" data-field-id="1"><label class="wpforms-field-label" for="wpforms-4191-field_1">S&#x1ED1; seri *</label><input type="text" id="wpforms-4191-field_1" class="wpforms-field-medium wpforms-field-required wpforms-limit-characters-enabled" data-form-id="4191" data-field-id="1" data-text-limit="16" name="wpforms[fields][1]" maxlength="16" required>
-<div>
-<label for="receipt">Ch&#x1ECD;n &#x1EA3;nh h&#xF3;a &#x111;&#x1A1;n:</label>
-<br>
-<input type="file" id="receipt" name="receipt" accept=".pdf, .png, .jpg, .jpeg" required>
-</div>
-</div></div><!-- .wpforms-field-container --><div class="wpforms-submit-container"><input type="hidden" name="wpforms[id]" value="4191"><input type="hidden" name="wpforms[author]" value="2"><input type="hidden" name="wpforms[post_id]" value="7068"><button type="submit" name="wpforms[submit]" id="wpforms-submit-4191" class="wpforms-submit" data-alt-text="Sending..." data-submit-text="Submit" aria-live="assertive" value="wpforms-submit">N&#x1ED9;p</button></div></form></div>  <!-- .wpforms-container -->		</div>
+			<div class="wpforms-container wpforms-container-full" id="wpforms-4191"><form id="wpforms-form-4191" class="wpforms-validate wpforms-form" data-formid="4191" method="post" enctype="multipart/form-data" action="/agent/check" data-token="64350e6d5498c935ecbe3251a91513be"><noscript class="wpforms-error-noscript">Vui lòng kích hoạt JavaScript trong trình duyệt của bạn để hoàn thành biểu mẫu này.</noscript><div class="wpforms-field-container"><div id="wpforms-4191-field_1-container" class="wpforms-field wpforms-field-text" data-field-id="1"><label class="wpforms-field-label" for="wpforms-4191-field_1">S&#x1ED1; seri *</label><input type="text" id="wpforms-4191-field_1" class="wpforms-field-medium wpforms-field-required wpforms-limit-characters-enabled" data-form-id="4191" data-field-id="1" data-text-limit="16" name="wpforms[fields][1]" maxlength="16" required></div></div><!-- .wpforms-field-container --><div class="wpforms-submit-container"><input type="hidden" name="wpforms[id]" value="4191"><input type="hidden" name="wpforms[author]" value="2"><input type="hidden" name="wpforms[post_id]" value="7068"><button type="submit" name="wpforms[submit]" id="wpforms-submit-4191" class="wpforms-submit" data-alt-text="Sending..." data-submit-text="Submit" aria-live="assertive" value="wpforms-submit">N&#x1ED9;p</button></div></form></div>  <!-- .wpforms-container -->		</div>
 				</div>
 				<div class="elementor-element elementor-element-c12b7ee elementor-widget elementor-widget-shortcode" data-id="c12b7ee" data-element_type="widget" data-widget_type="shortcode.default">
 				<div class="elementor-widget-container">
@@ -1380,22 +1374,67 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 		</div>
 							</div>
-		<div class="elementor-section elementor-top-section elementor-element elementor-element-505bfda elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default animated fadeIn" data-id="505bfda" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 569px; left: 0px;">
+		<div class="elementor-section elementor-top-section elementor-element elementor-element-505bfda elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default animated fadeIn" data-id="505bfda" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 143px; left: 0px;">
 <div class="elementor-container elementor-column-gap-default">
-<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6854dc3" data-id="6854dc3" data-element_type="column">
-<div class="elementor-widget-wrap elementor-element-populated">
-        <div class="elementor-element elementor-element-d13b3fd elementor-widget elementor-widget-heading" data-id="d13b3fd" data-element_type="widget" data-widget_type="heading.default">
-<div class="elementor-widget-container">
-<h3 class="elementor-heading-title elementor-size-default">&#x258E;&#x110;&#x103;ng k&#xFD; b&#x1EA3;o h&#xE0;nh</h3>		</div>
-</div>
-<div class="elementor-element elementor-element-9e5d34d elementor-widget elementor-widget-text-editor" data-id="9e5d34d" data-element_type="widget" data-widget_type="text-editor.default">
-<div class="elementor-widget-container">
-    <p>Ki&#x1EC3;m tra t&#xEC;nh tr&#x1EA1;ng b&#x1EA3;o h&#xE0;nh s&#x1EA3;n ph&#x1EA9;m c&#x1EE7;a b&#x1EA1;n. Nh&#x1EAD;p s&#x1ED1; s&#xEA;-ri v&#xE0; t&#x1EA3;i l&#xEA;n h&#xF3;a &#x111;&#x1A1;n &#x111;&#x1EC3; xem x&#xE9;t kh&#x1EA3; n&#x103;ng &#x111;&#x1EE7; &#x111;i&#x1EC1;u ki&#x1EC7;n nh&#x1EAD;n h&#x1ED7; tr&#x1EE3; c&#x1EE7;a b&#x1EA1;n.</p>						</div>
-</div>
-</div>
-</div>
+  <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6854dc3" data-id="6854dc3" data-element_type="column">
+    <div class="elementor-widget-wrap elementor-element-populated">
+      <div class="elementor-element elementor-element-d13b3fd elementor-widget elementor-widget-heading" data-id="d13b3fd" data-element_type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h3 class="elementor-heading-title elementor-size-default">&#x258E;&#x110;&#x103;ng k&#xFD; b&#x1EA3;o h&#xE0;nh</h3>
+        </div>
+      </div>
+      <div class="elementor-element elementor-element-9e5d34d elementor-widget elementor-widget-text-editor" data-id="9e5d34d" data-element_type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+          <p>&#x110;&#x103;ng k&#xFD; b&#x1EA3;o h&#xE0;nh s&#x1EA3;n ph&#x1EA9;m c&#x1EE7;a b&#x1EA1;n. Nh&#x1EAD;p s&#x1ED1; s&#xEA;-ri v&#xE0; t&#x1EA3;i l&#xEA;n h&#xF3;a &#x111;&#x1A1;n &#x111;&#x1EC3; xem x&#xE9;t kh&#x1EA3; n&#x103;ng &#x111;&#x1EE7; &#x111;i&#x1EC1;u ki&#x1EC7;n nh&#x1EAD;n h&#x1ED7; tr&#x1EE3; c&#x1EE7;a b&#x1EA1;n.</p>
+        </div>
+      </div>
     </div>
-</div></section>
+  </div>
+</div>
+</div>
+
+<!-- Original Section -->
+<section class="elementor-section elementor-top-section elementor-element elementor-element-1e178ee elementor-section-boxed elementor-section-height-default elementor-section-height-default animated fadeIn" data-id="1e178ee" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
+<div class="elementor-container elementor-column-gap-default">
+  <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ef0d44c" data-id="ef0d44c" data-element_type="column">
+    <div class="elementor-widget-wrap elementor-element-populated">
+      <div class="elementor-element elementor-element-4edd0b7 elementor-widget elementor-widget-wpforms" data-id="4edd0b7" data-element_type="widget" data-widget_type="wpforms.default">
+        <div class="elementor-widget-container">
+          <div class="wpforms-container wpforms-container-full" id="wpforms-4192">
+            <form id="wpforms-form-4192" class="wpforms-validate wpforms-form" data-formid="4192" method="post" enctype="multipart/form-data" action="/agent/signUpWarranty" data-token="e0bb84edcfe2d9bf1f1a7e751060adb9" novalidate="novalidate">
+              <noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript>
+              <div class="wpforms-field-container">
+                <div id="wpforms-4192-field_1-container" class="wpforms-field wpforms-field-text" data-field-id="1">
+                  <label class="wpforms-field-label" for="wpforms-4192-field_1">S&#x1ED1; seri <span class="wpforms-required-label">*</span></label>
+                  <input type="text" id="wpforms-4192-field_1" class="wpforms-field-medium wpforms-field-required wpforms-limit-characters-enabled" data-form-id="4192" data-field-id="1" data-text-limit="16" name="wpforms[fields][1]" maxlength="16" required>
+                </div>
+                <!-- Additional field for receipt -->
+                <div>
+                  <label for="receipt">Ch&#x1ECD;n &#x1EA3;nh h&#xF3;a &#x111;&#x1A1;n:</label>
+                  <br>
+                  <input type="file" id="receipt" name="receipt" accept=".pdf, .png, .jpg, .jpeg" required>
+                </div>
+              </div><!-- .wpforms-field-container -->
+              <div class="wpforms-submit-container">
+                <input type="hidden" name="wpforms[id]" value="4192">
+                <input type="hidden" name="wpforms[author]" value="2">
+                <input type="hidden" name="wpforms[post_id]" value="7068">
+                <button type="submit" name="wpforms[submit]" id="wpforms-submit-4192" class="wpforms-submit" data-alt-text="Sending..." data-submit-text="Submit" aria-live="assertive" value="wpforms-submit">N&#x1ED9;p</button>
+              </div>
+            </form>
+          </div> <!-- .wpforms-container -->
+        </div>
+      </div>
+      <div class="elementor-element elementor-element-c12b7ee elementor-widget elementor-widget-shortcode" data-id="c12b7ee" data-element_type="widget" data-widget_type="shortcode.default">
+        <div class="elementor-widget-container">
+          <div class="elementor-shortcode"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</section>
+</section>
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-384b934 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="384b934" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-94fffc9" data-id="94fffc9" data-element_type="column">
@@ -2126,7 +2165,7 @@ var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"
 <script src="https://www.avision.com/en/wp-content/plugins/wpforms/assets/js/wpforms.min.js?ver=1.8.4.1" id="wpforms-js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wpforms_settings = {"val_required":"This field is required.","val_email":"Please enter a valid email address.","val_email_suggestion":"Did you mean {suggestion}?","val_email_suggestion_title":"Click to accept this suggestion.","val_email_restricted":"This email address is not allowed.","val_number":"Please enter a valid number.","val_number_positive":"Please enter a valid positive number.","val_confirm":"Field values do not match.","val_checklimit":"You have exceeded the number of allowed selections: {#}.","val_limit_characters":"{count} of {limit} max characters.","val_limit_words":"{count} of {limit} max words.","val_recaptcha_fail_msg":"Google reCAPTCHA verification failed, please try again later.","val_turnstile_fail_msg":"Cloudflare Turnstile verification failed, please try again later.","val_inputmask_incomplete":"Please fill out the field in required format.","uuid_cookie":"1","locale":"en","wpforms_plugin_url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/wpforms\/","gdpr":"1","ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","mailcheck_enabled":"1","mailcheck_domains":[],"mailcheck_toplevel_domains":["dev"],"is_ssl":"1","page_title":"Agent","page_id":"7068","currency_code":"USD","currency_thousands":",","currency_decimals":"2","currency_decimal":".","currency_symbol":"$","currency_symbol_pos":"left","val_requiredpayment":"Payment is required.","val_creditcard":"Please enter a valid credit card number.","val_post_max_size":"The total size of the selected files {totalSize} MB exceeds the allowed limit {maxSize} MB.","val_time12h":"Please enter time in 12-hour AM\/PM format (eg 8:45 AM).","val_time24h":"Please enter time in 24-hour format (eg 22:45).","val_time_limit":"Please enter time between {minTime} and {maxTime}.","val_url":"Please enter a valid URL.","val_fileextension":"File type is not allowed.","val_filesize":"File exceeds max size allowed. File was not uploaded.","post_max_size":"52428800","val_password_strength":"A stronger password is required. Consider using upper and lower case letters, numbers, and symbols.","val_phone":"Please enter a valid phone number.","richtext_add_media_button":"","entry_preview_iframe_styles":["https:\/\/www.avision.com\/en\/wp-includes\/js\/tinymce\/skins\/lightgray\/content.min.css?ver=6.3.2","https:\/\/www.avision.com\/en\/wp-includes\/css\/dashicons.css?ver=6.3.2","https:\/\/www.avision.com\/en\/wp-includes\/js\/tinymce\/skins\/wordpress\/wp-content.css?ver=6.3.2"]}
+var wpforms_settings = {"val_required":"Trường này là bắt buộc.","val_email":"Vui lòng nhập địa chỉ email hợp lệ.","val_email_suggestion":"Bạn có ý kiến gì về {suggestion}?","val_email_suggestion_title":"Nhấp để chấp nhận ý kiến này.","val_email_restricted":"This email address is not allowed.","val_number":"Please enter a valid number.","val_number_positive":"Please enter a valid positive number.","val_confirm":"Field values do not match.","val_checklimit":"You have exceeded the number of allowed selections: {#}.","val_limit_characters":"{count} trên {limit} ký tự tối đa.","val_limit_words":"{count} of {limit} max words.","val_recaptcha_fail_msg":"Google reCAPTCHA verification failed, please try again later.","val_turnstile_fail_msg":"Cloudflare Turnstile verification failed, please try again later.","val_inputmask_incomplete":"Please fill out the field in required format.","uuid_cookie":"1","locale":"en","wpforms_plugin_url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/wpforms\/","gdpr":"1","ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","mailcheck_enabled":"1","mailcheck_domains":[],"mailcheck_toplevel_domains":["dev"],"is_ssl":"1","page_title":"Agent","page_id":"7068","currency_code":"USD","currency_thousands":",","currency_decimals":"2","currency_decimal":".","currency_symbol":"$","currency_symbol_pos":"left","val_requiredpayment":"Payment is required.","val_creditcard":"Please enter a valid credit card number.","val_post_max_size":"The total size of the selected files {totalSize} MB exceeds the allowed limit {maxSize} MB.","val_time12h":"Please enter time in 12-hour AM\/PM format (eg 8:45 AM).","val_time24h":"Please enter time in 24-hour format (eg 22:45).","val_time_limit":"Please enter time between {minTime} and {maxTime}.","val_url":"Please enter a valid URL.","val_fileextension":"File type is not allowed.","val_filesize":"File exceeds max size allowed. File was not uploaded.","post_max_size":"52428800","val_password_strength":"A stronger password is required. Consider using upper and lower case letters, numbers, and symbols.","val_phone":"Please enter a valid phone number.","richtext_add_media_button":"","entry_preview_iframe_styles":["https:\/\/www.avision.com\/en\/wp-includes\/js\/tinymce\/skins\/lightgray\/content.min.css?ver=6.3.2","https:\/\/www.avision.com\/en\/wp-includes\/css\/dashicons.css?ver=6.3.2","https:\/\/www.avision.com\/en\/wp-includes\/js\/tinymce\/skins\/wordpress\/wp-content.css?ver=6.3.2"]}
 /* ]]> */
 </script>
 		<script type="text/javascript">

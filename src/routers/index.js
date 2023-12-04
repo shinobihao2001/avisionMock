@@ -19,16 +19,29 @@ router.get("*", async (req, res) => {
   res.send(html.toString());
 });
 
-router.post("/en/agent/*", upload.single("receipt"), async (req, res) => {
-  console.log(req.file);
-
+router.post("/agent/check", async (req, res) => {
   //get rid of en/
-  let filename = (process.env.EN_DOMAIN + req.url.slice(3)).toString();
+  let filename = (process.env.EN_DOMAIN + "/agent/").toString();
   console.log("filename 1: " + filename);
   let html = await pageService.getPage(filename);
   //todo :modify html file again adding the warranty check
   res.setHeader("Content-Type", "text/html");
   res.send(html.toString());
 });
+
+router.post(
+  "/agent/signUpWarranty",
+  upload.single("receipt"),
+  async (req, res) => {
+    console.log(req.file);
+    //get rid of en/
+    let filename = (process.env.EN_DOMAIN + "/agent/").toString();
+    console.log("filename 1: " + filename);
+    let html = await pageService.getPage(filename);
+    //todo :modify html file again adding the warranty check
+    res.setHeader("Content-Type", "text/html");
+    res.send(html.toString());
+  }
+);
 
 module.exports = router;

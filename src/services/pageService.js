@@ -17,14 +17,6 @@ const facebookScript = `
     </span>
 `;
 
-const receiptScript = `
-<div>
-<label for="receipt">Chọn ảnh hóa đơn:</label>
-<br>
-<input type="file" id="receipt" name="receipt" accept=".pdf, .png, .jpg, .jpeg" required>
-</div>
-`;
-
 let crawler = new Crawler({
   maxConnections: 1,
 });
@@ -206,16 +198,46 @@ function modifyHTML(urls, crawler) {
                   facebookScript
                 );
 
-                //add receipt input
-                //id="wpforms-field-limit-text-4191-1"
-                //$$("#wpforms-field-limit-text-4191-1").append(receiptScript);
-                $$("#wpforms-4191-field_1-container").append(receiptScript);
-
                 //Change continue reading in exhibiton page to Vn
                 $$("div.blog-entry-readmore a").text("Đọc tiếp");
 
+                //Change action of check warranty
+                $$("#wpforms-form-4191").attr("action", "/agent/check");
+
                 //Add signup warranty
                 $$("section[data-id='1e178ee']").append(signUpWarrantyScript);
+
+                //Change the warning code
+                $$("script").text((i, oldText) => {
+                  return (
+                    oldText
+                      .replace(
+                        "This field is required.",
+                        "Trường này là bắt buộc."
+                      )
+                      .replace(
+                        "Please enter a valid email address.",
+                        "Vui lòng nhập địa chỉ email hợp lệ."
+                      )
+                      .replace(
+                        "Did you mean {suggestion}?",
+                        "Bạn có ý kiến gì về {suggestion}?"
+                      )
+                      .replace(
+                        "Click to accept this suggestion.",
+                        "Nhấp để chấp nhận ý kiến này."
+                      )
+                      .replace(
+                        "{count} of {limit} max characters.",
+                        "{count} trên {limit} ký tự tối đa."
+                      )
+                      // Add more replacements as needed
+                      .replace(
+                        "... (add more English texts to replace) ...",
+                        "... (add more Vietnamese translations) ..."
+                      )
+                  );
+                });
 
                 // Save the modified HTML to a file
                 const modifiedHtml = $$.html();
