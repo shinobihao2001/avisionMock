@@ -207,6 +207,9 @@ function modifyHTML(urls, crawler) {
                 //Add signup warranty
                 $$("section[data-id='1e178ee']").append(signUpWarrantyScript);
 
+                //add address DSG to footer
+                $$("section[data-id='53a583dc']").after(footerScript);
+
                 //Change the warning code
                 $$("script").text((i, oldText) => {
                   return (
