@@ -4,6 +4,7 @@ const fs = require("fs");
 const contentService = require("./contentService");
 const path = require("path");
 const signUpWarrantyScript = require("./script/signUpWarranty");
+const footerScript = require("./script/footerScript");
 require("dotenv").config();
 
 const fontAwesome = `<script src="https://kit.fontawesome.com/1cbb170ff9.js" crossorigin="anonymous"></script>`;
@@ -50,8 +51,8 @@ function modifyHTML(urls, crawler) {
                       "href",
                       href.replace(
                         "https://www.avision.com/en",
-                        "http://localhost:3000"
-                        //`http://${process.env.MOCK_DOMAIN}`
+                        //"http://localhost:3000"
+                        `http://${process.env.MOCK_DOMAIN}`
                       )
                       // "http://localhost:3000/"
                     );
