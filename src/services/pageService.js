@@ -221,18 +221,13 @@ function modifyHTML(urls, crawler) {
                     '<img style="padding-bottom: 100px; background-repeat: repeat-y" src="https://static3.khuetu.vn/img/m/21.jpg" alt="Your Image Alt Text">'
                   );
                 }
+                //remove dateTime in footer news
+                $$("time.published").remove();
 
                 //remove login
                 $$(
                   `a[href="http://${process.env.MOCK_DOMAIN}/login/"]`
                 ).remove();
-
-                //ad override fecth api
-                // const newScript = $$("<script>");
-                // newScript.attr("src", "./overFecth.js");
-                // $$("body").append(newScript);
-                //$$("body").append(scriptToInject);
-                //$$("body").append(scriptToInjectSendingAJAX);
 
                 //add font-awsone
                 $$("head").append(fontAwesome);
