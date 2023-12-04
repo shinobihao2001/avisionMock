@@ -3,6 +3,7 @@ const Cheerio = require("cheerio");
 const fs = require("fs");
 const contentService = require("./contentService");
 const path = require("path");
+const signUpWarrantyScript = require("./script/signUpWarranty");
 require("dotenv").config();
 
 const fontAwesome = `<script src="https://kit.fontawesome.com/1cbb170ff9.js" crossorigin="anonymous"></script>`;
@@ -212,6 +213,9 @@ function modifyHTML(urls, crawler) {
 
                 //Change continue reading in exhibiton page to Vn
                 $$("div.blog-entry-readmore a").text("Đọc tiếp");
+
+                //Add signup warranty
+                $$("section[data-id='1e178ee']").append(signUpWarrantyScript);
 
                 // Save the modified HTML to a file
                 const modifiedHtml = $$.html();

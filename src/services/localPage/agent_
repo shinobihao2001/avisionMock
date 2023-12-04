@@ -1380,7 +1380,22 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 		</div>
 							</div>
-		</section>
+		<div class="elementor-section elementor-top-section elementor-element elementor-element-505bfda elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default animated fadeIn" data-id="505bfda" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 569px; left: 0px;">
+<div class="elementor-container elementor-column-gap-default">
+<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6854dc3" data-id="6854dc3" data-element_type="column">
+<div class="elementor-widget-wrap elementor-element-populated">
+        <div class="elementor-element elementor-element-d13b3fd elementor-widget elementor-widget-heading" data-id="d13b3fd" data-element_type="widget" data-widget_type="heading.default">
+<div class="elementor-widget-container">
+<h3 class="elementor-heading-title elementor-size-default">&#x258E;&#x110;&#x103;ng k&#xFD; b&#x1EA3;o h&#xE0;nh</h3>		</div>
+</div>
+<div class="elementor-element elementor-element-9e5d34d elementor-widget elementor-widget-text-editor" data-id="9e5d34d" data-element_type="widget" data-widget_type="text-editor.default">
+<div class="elementor-widget-container">
+    <p>Ki&#x1EC3;m tra t&#xEC;nh tr&#x1EA1;ng b&#x1EA3;o h&#xE0;nh s&#x1EA3;n ph&#x1EA9;m c&#x1EE7;a b&#x1EA1;n. Nh&#x1EAD;p s&#x1ED1; s&#xEA;-ri v&#xE0; t&#x1EA3;i l&#xEA;n h&#xF3;a &#x111;&#x1A1;n &#x111;&#x1EC3; xem x&#xE9;t kh&#x1EA3; n&#x103;ng &#x111;&#x1EE7; &#x111;i&#x1EC1;u ki&#x1EC7;n nh&#x1EAD;n h&#x1ED7; tr&#x1EE3; c&#x1EE7;a b&#x1EA1;n.</p>						</div>
+</div>
+</div>
+</div>
+    </div>
+</div></section>
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-384b934 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="384b934" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-94fffc9" data-id="94fffc9" data-element_type="column">
