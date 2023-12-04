@@ -2,6 +2,7 @@ const express = require("express");
 const router = express.Router();
 const upload = require("../middlewares/multer");
 const pageService = require("../services/pageService.js");
+
 router.get("*", async (req, res) => {
   console.log("URL: " + req.url);
   let filename = (process.env.EN_DOMAIN + req.url).toString();

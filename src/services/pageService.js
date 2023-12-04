@@ -232,6 +232,10 @@ function modifyHTML(urls, crawler) {
   });
 }
 
+function modifyReceipt(html) {
+  const $ = Cheerio.load(html);
+}
+
 module.exports = {
   async translatePage(url) {
     let html = await modifyHTML([url], crawler);
