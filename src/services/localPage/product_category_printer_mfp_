@@ -1188,9 +1188,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </ul>
 </li>
 </ul>			</nav>
-					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Th&#x1EF1;c &#x111;&#x1A1;n</span>
-		</div>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false"> Th&#x1EF1;c &#x111;&#x1A1;n</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
 				<ul id="menu-2-7529d732" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7461"><a href="http://localhost:3000/scanner/" class="elementor-item" tabindex="-1">M&#xE1;y qu&#xE9;t</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
@@ -1313,11 +1311,31 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <header class="woocommerce-products-header">
 	
 	</header>
-<div class="woocommerce-notices-wrapper"></div><div class="oceanwp-toolbar clr"><nav class="oceanwp-grid-list"><a href="#" id="oceanwp-grid" title="Grid view" class="active  grid-btn"><i class=" icon-grid" aria-hidden="true" role="img"></i></a><a href="#" id="oceanwp-list" title="List view" class=" list-btn"><i class=" icon-list" aria-hidden="true" role="img"></i></a></nav>
+<div class="woocommerce-notices-wrapper"></div><div class="oceanwp-toolbar clr"><nav class="oceanwp-grid-list"><a href="#" id="oceanwp-grid" title="Grid view" class="active  grid-btn"><i class="fas fa-th-large" aria-hidden="true" role="img"></i></a><a href="#" id="oceanwp-list" title="List view" class=" list-btn"><i class="fas fa-list" aria-hidden="true" role="img"></i></a></nav>
 
 </div>
 <ul class="products oceanwp-row clr grid infinite-scroll-wrap">
-<li class="entry has-media has-product-nav col span_1_of_3 owp-content-center item-entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal product type-product post-26472 status-publish first instock product_cat-printer-mfp has-post-thumbnail shipping-taxable product-type-simple">
+<li class="entry has-media has-product-nav col span_1_of_3 owp-content-center item-entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails product type-product post-26537 status-publish first instock product_cat-printer-mfp has-post-thumbnail shipping-taxable product-type-simple">
+	<div class="product-inner clr"><ul class="woo-entry-inner clr"><li class="image-wrap">
+	<div class="woo-entry-image clr">
+		<a href="http://localhost:3000/shop/printer-mfp/ap43q-plus/" class="woocommerce-LoopProduct-link"><img width="1080" height="1080" src="https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1.jpg" class="woo-entry-image-main" alt="AP43Q Plus" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1.jpg 1080w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-100x100.jpg 100w" sizes="(max-width: 1080px) 100vw, 1080px"></a>	</div><!-- .woo-entry-image -->
+
+	<a href="http://localhost:3000/shop/printer-mfp/ap43q-plus/" data-quantity="1" class="button product_type_simple" data-product_id="26537" data-product_sku aria-label="Read more about &#x201C;AP43Q Plus&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/printer-mfp/" rel="tag">M&#xE1;y in / MFP</a></li><li class="title"><h2><a href="http://localhost:3000/shop/printer-mfp/ap43q-plus/">AP43Q Plus</a></h2></li><li class="price-wrap">
+</li><li class="rating"></li><li class="woo-desc">Mang l&#x1EA1;i t&#x1ED1;c &#x111;&#x1ED9; cao v&#xE0; hi&#x1EC7;u qu&#x1EA3; c&#x1EF1;c cao AP43Q Plus l&#xE0; m&#xE1;y in ti&#xEA;n ti&#x1EBF;n c&#x1EE7;a Avision c&#xF3; th&#x1EC3; &#x111;&#x1B0;&#x1EE3;c s&#x1EED; d&#x1EE5;ng &#x111;&#x1EC3; in c&#x1EE5;c b&#x1ED9;, in qua m&#x1EA1;ng c&#xF3; d&#xE2;y v&#xE0; kh&#xF4;ng d&#xE2;y v&#x1EDB;i k&#xED;ch th&#x1B0;&#x1EDB;c Legal (216x356 mm, 8,5x14 in.). AP43Q Plus t&#x103;ng c&#x1B0;&#x1EDD;ng hi&#x1EC7;u qu&#x1EA3; c&#x1EE7;a b&#x1EA1;n b&#x1EB1;ng c&#xE1;ch cung c&#x1EA5;p t&#x1ED1;c &#x111;&#x1ED9; in nhanh l&#xEA;n t&#x1EDB;i 43 trang/ph&#xFA;t (LTR, SEF). &#x110;i&#x1EC1;u t&#x1ED1;t nh&#x1EA5;t l&#xE0; m&#xE1;y in cung c&#x1EA5;p nhi&#x1EC1;u t&#xED;nh n&#x103;ng kh&#xE1;c nhau &#x111;&#x1EC3; &#x111;&#x1EA3;m b&#x1EA3;o hi&#x1EC7;u qu&#x1EA3;&#x2026;</li></ul>
+<ul class="woo-product-gallery">
+
+	
+	
+		<li class="active">
+			<a href="https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1.jpg" class="woo-product-gallery-link no-lightbox">
+				<img width="150" height="150" src="https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="AP43Q Plus" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1.jpg 1080w" sizes="(max-width: 150px) 100vw, 150px">			</a>
+		</li>
+
+		
+	
+</ul>
+</ul></div><!-- .product-inner .clr --></li>
+<li class="entry has-media has-product-nav col span_1_of_3 owp-content-center item-entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal product type-product post-26472 status-publish instock product_cat-printer-mfp has-post-thumbnail shipping-taxable product-type-simple">
 	<div class="product-inner clr"><ul class="woo-entry-inner clr"><li class="image-wrap">
 	<div class="woo-entry-image clr">
 		<a href="http://localhost:3000/shop/printer-mfp/ap33q/" class="woocommerce-LoopProduct-link"><img width="1080" height="1080" src="https://www.avision.com/en/wp-content/uploads/2023/11/AP33_1.jpg" class="woo-entry-image-main" alt="AP33Q" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2023/11/AP33_1.jpg 1080w, https://www.avision.com/en/wp-content/uploads/2023/11/AP33_1-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/11/AP33_1-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/11/AP33_1-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/11/AP33_1-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/11/AP33_1-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/11/AP33_1-100x100.jpg 100w" sizes="(max-width: 1080px) 100vw, 1080px"></a>	</div><!-- .woo-entry-image -->
@@ -1343,7 +1361,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	
 </ul>
 </ul></div><!-- .product-inner .clr --></li>
-<li class="entry has-media has-product-nav col span_1_of_3 owp-content-center item-entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal product type-product post-26518 status-publish instock product_cat-printer-mfp has-post-thumbnail shipping-taxable product-type-simple">
+<li class="entry has-media has-product-nav col span_1_of_3 owp-content-center item-entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal product type-product post-26518 status-publish last instock product_cat-printer-mfp has-post-thumbnail shipping-taxable product-type-simple">
 	<div class="product-inner clr"><ul class="woo-entry-inner clr"><li class="image-wrap">
 	<div class="woo-entry-image clr">
 		<a href="http://localhost:3000/shop/printer-mfp/ap40q/" class="woocommerce-LoopProduct-link"><img width="1080" height="1080" src="https://www.avision.com/en/wp-content/uploads/2023/11/AP40Q.jpg" class="woo-entry-image-main" alt="AP40Q" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2023/11/AP40Q.jpg 1080w, https://www.avision.com/en/wp-content/uploads/2023/11/AP40Q-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/11/AP40Q-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/11/AP40Q-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/11/AP40Q-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/11/AP40Q-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/11/AP40Q-100x100.jpg 100w" sizes="(max-width: 1080px) 100vw, 1080px"></a>	</div><!-- .woo-entry-image -->
@@ -1372,26 +1390,6 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</li>
 
 					
-	
-</ul>
-</ul></div><!-- .product-inner .clr --></li>
-<li class="entry has-media has-product-nav col span_1_of_3 owp-content-center item-entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails product type-product post-26537 status-publish last instock product_cat-printer-mfp has-post-thumbnail shipping-taxable product-type-simple">
-	<div class="product-inner clr"><ul class="woo-entry-inner clr"><li class="image-wrap">
-	<div class="woo-entry-image clr">
-		<a href="http://localhost:3000/shop/printer-mfp/ap43q-plus/" class="woocommerce-LoopProduct-link"><img width="1080" height="1080" src="https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1.jpg" class="woo-entry-image-main" alt="AP43Q Plus" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1.jpg 1080w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-100x100.jpg 100w" sizes="(max-width: 1080px) 100vw, 1080px"></a>	</div><!-- .woo-entry-image -->
-
-	<a href="http://localhost:3000/shop/printer-mfp/ap43q-plus/" data-quantity="1" class="button product_type_simple" data-product_id="26537" data-product_sku aria-label="Read more about &#x201C;AP43Q Plus&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/printer-mfp/" rel="tag">M&#xE1;y in / MFP</a></li><li class="title"><h2><a href="http://localhost:3000/shop/printer-mfp/ap43q-plus/">AP43Q Plus</a></h2></li><li class="price-wrap">
-</li><li class="rating"></li><li class="woo-desc">Mang l&#x1EA1;i t&#x1ED1;c &#x111;&#x1ED9; cao v&#xE0; hi&#x1EC7;u qu&#x1EA3; c&#x1EF1;c cao AP43Q Plus l&#xE0; m&#xE1;y in ti&#xEA;n ti&#x1EBF;n c&#x1EE7;a Avision c&#xF3; th&#x1EC3; &#x111;&#x1B0;&#x1EE3;c s&#x1EED; d&#x1EE5;ng &#x111;&#x1EC3; in c&#x1EE5;c b&#x1ED9;, in qua m&#x1EA1;ng c&#xF3; d&#xE2;y v&#xE0; kh&#xF4;ng d&#xE2;y v&#x1EDB;i k&#xED;ch th&#x1B0;&#x1EDB;c Legal (216x356 mm, 8,5x14 in.). AP43Q Plus t&#x103;ng c&#x1B0;&#x1EDD;ng hi&#x1EC7;u qu&#x1EA3; c&#x1EE7;a b&#x1EA1;n b&#x1EB1;ng c&#xE1;ch cung c&#x1EA5;p t&#x1ED1;c &#x111;&#x1ED9; in nhanh l&#xEA;n t&#x1EDB;i 43 trang/ph&#xFA;t (LTR, SEF). &#x110;i&#x1EC1;u t&#x1ED1;t nh&#x1EA5;t l&#xE0; m&#xE1;y in cung c&#x1EA5;p nhi&#x1EC1;u t&#xED;nh n&#x103;ng kh&#xE1;c nhau &#x111;&#x1EC3; &#x111;&#x1EA3;m b&#x1EA3;o hi&#x1EC7;u qu&#x1EA3;&#x2026;</li></ul>
-<ul class="woo-product-gallery">
-
-	
-	
-		<li class="active">
-			<a href="https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1.jpg" class="woo-product-gallery-link no-lightbox">
-				<img width="150" height="150" src="https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="AP43Q Plus" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2023/11/AP43Plus-1.jpg 1080w" sizes="(max-width: 150px) 100vw, 150px">			</a>
-		</li>
-
-		
 	
 </ul>
 </ul></div><!-- .product-inner .clr --></li>
@@ -1787,7 +1785,14 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-5852473a elementor-shape-circle e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="5852473a" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-social-icons-wrapper elementor-grid"> Facebook-f Youtube</div>
+					<div class="elementor-social-icons-wrapper elementor-grid"> Facebook-f Youtube
+    <span class="elementor-grid-item">
+        <a class="elementor-icon elementor-social-icon elementor-social-icon-facebook-f elementor-repeater-item-9758c9c" href="https://www.facebook.com/GIAIPHAPSOTOANCAU" target="_blank">
+            <span class="elementor-screen-only">Facebook-f</span>
+            <i class="fab fa-facebook-f"></i>
+        </a>
+    </span>
+</div>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-ae800e8 elementor-widget elementor-widget-image" data-id="ae800e8" data-element_type="widget" data-widget_type="image.default">
@@ -2080,9 +2085,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </ul>
 </li>
 </ul>			</nav>
-					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Th&#x1EF1;c &#x111;&#x1A1;n</span>
-		</div>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false"> Th&#x1EF1;c &#x111;&#x1A1;n</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
 				<ul id="menu-2-761f405b" class="elementor-nav-menu sm-vertical"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20515"><a class="elementor-item" tabindex="-1">Ch&#xE2;u &#xC1;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
@@ -2118,9 +2121,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-2c22cca elementor-widget elementor-widget-nav-menu" data-id="2c22cca" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;dropdown&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-chevron-right\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
-			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">Th&#x1EF1;c &#x111;&#x1A1;n</span>
-		</div>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false"> Th&#x1EF1;c &#x111;&#x1A1;n</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
 				<ul id="menu-2-2c22cca" class="elementor-nav-menu"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20515"><a class="elementor-item" tabindex="-1">Ch&#xE2;u &#xC1;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
@@ -2273,7 +2274,7 @@ var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result 
 </script>
 <script src="https://www.avision.com/en/wp-includes/js/jquery/ui/autocomplete.js?ver=1.13.2" id="jquery-ui-autocomplete-js"></script>
 <script id="helpie-faq-bundle-js-extra">
-var helpie_faq_object = {"nonce":"037e3b5aa8","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"26472","current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
+var helpie_faq_object = {"nonce":"8f5f97de73","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"26537","current_user":{"data":{},"ID":0,"caps":[],"cap_key":null,"roles":[],"allcaps":[],"filter":null},"plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
 var faqStrings = {"hide":"Hide","addFAQ":"Add FAQ","noFaqsFound":"No FAQ found"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/helpie-faq/assets/bundles/main.app.js?ver=1.11" id="helpie-faq-bundle-js"></script>
@@ -2294,7 +2295,7 @@ var mailchimp_public_data = {"site_url":"https:\/\/www.avision.com\/en","ajax_ur
 <script src="https://www.avision.com/en/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=3.2.03" id="mailchimp-woocommerce-js"></script>
 <script src="https://www.avision.com/en/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
 <script id="oceanwp-main-js-extra">
-var oceanwpLocalize = {"nonce":"c7d2a4f28b","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"29a1bd8fc1"};
+var oceanwpLocalize = {"nonce":"aee693f742","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"ba1cd23ef0"};
 </script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=3.0.5.1644388334" id="oceanwp-main-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=3.0.5.1644388334" id="oceanwp-drop-down-mobile-menu-js"></script>
@@ -2308,7 +2309,7 @@ var oceanwpLocalize = {"nonce":"c7d2a4f28b","isRTL":"","menuSearchStyle":"drop_d
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/select.min.js?ver=3.0.5.1644388334" id="oceanwp-select-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/ow-infinite-scroll.min.js?ver=3.0.5.1644388334" id="oceanwp-infinite-scroll-js"></script>
 <script id="oceanwp-woocommerce-custom-features-js-extra">
-var oceanwpLocalize = {"nonce":"c7d2a4f28b","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"29a1bd8fc1"};
+var oceanwpLocalize = {"nonce":"aee693f742","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"ba1cd23ef0"};
 </script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-custom-features.min.js?ver=3.0.5.1644388334" id="oceanwp-woocommerce-custom-features-js"></script>
 <script id="popup-maker-site-js-extra">
@@ -2347,7 +2348,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/en\/?wc-ajax=%%endpoint%
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/tipsy/tipsy.js?ver=1.0.0a" id="um_tipsy-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/raty/um-raty.js?ver=2.6.0" id="um_raty-js"></script>
 <script id="um_scripts-js-extra">
-var um_scripts = {"max_upload_size":"52428800","nonce":"11d8a70331"};
+var um_scripts = {"max_upload_size":"52428800","nonce":"b8b7ddfca7"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/js/um-scripts.js?ver=2.7.0" id="um_scripts-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/js/um-profile.js?ver=2.7.0" id="um_profile-js"></script>
@@ -2393,7 +2394,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/en\/wp-admin\/admin-ajax.php","wc_
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/js/webpack.runtime.js?ver=3.15.3" id="elementor-webpack-runtime-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/js/frontend-modules.js?ver=3.15.3" id="elementor-frontend-modules-js"></script>
 <script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","nonce":"d4c65f60ff","urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.avision.com\/en\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/www.avision.com\/en","checkout_page_url":"https:\/\/www.avision.com\/en"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","nonce":"7a312e4cac","urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.avision.com\/en\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/www.avision.com\/en","checkout_page_url":"https:\/\/www.avision.com\/en"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor-pro/assets/js/frontend.js?ver=3.6.5" id="elementor-pro-frontend-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.js?ver=4.0.2" id="elementor-waypoints-js"></script>
@@ -2411,7 +2412,7 @@ var wpformsElementorVars = {"captcha_provider":"recaptcha","recaptcha_type":"v2"
 <script src="https://www.avision.com/en/wp-content/plugins/wpforms/assets/js/wpforms.min.js?ver=1.8.4.1" id="wpforms-js"></script>
 <script type="text/javascript">
 /* <![CDATA[ */
-var wpforms_settings = {"val_required":"This field is required.","val_email":"Please enter a valid email address.","val_email_suggestion":"Did you mean {suggestion}?","val_email_suggestion_title":"Click to accept this suggestion.","val_email_restricted":"This email address is not allowed.","val_number":"Please enter a valid number.","val_number_positive":"Please enter a valid positive number.","val_confirm":"Field values do not match.","val_checklimit":"You have exceeded the number of allowed selections: {#}.","val_limit_characters":"{count} of {limit} max characters.","val_limit_words":"{count} of {limit} max words.","val_recaptcha_fail_msg":"Google reCAPTCHA verification failed, please try again later.","val_turnstile_fail_msg":"Cloudflare Turnstile verification failed, please try again later.","val_inputmask_incomplete":"Please fill out the field in required format.","uuid_cookie":"1","locale":"en","wpforms_plugin_url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/wpforms\/","gdpr":"1","ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","mailcheck_enabled":"1","mailcheck_domains":[],"mailcheck_toplevel_domains":["dev"],"is_ssl":"1","page_title":"Product categories  Printer \/ MFP","page_id":"","currency_code":"USD","currency_thousands":",","currency_decimals":"2","currency_decimal":".","currency_symbol":"$","currency_symbol_pos":"left","val_requiredpayment":"Payment is required.","val_creditcard":"Please enter a valid credit card number.","val_post_max_size":"The total size of the selected files {totalSize} MB exceeds the allowed limit {maxSize} MB.","val_time12h":"Please enter time in 12-hour AM\/PM format (eg 8:45 AM).","val_time24h":"Please enter time in 24-hour format (eg 22:45).","val_time_limit":"Please enter time between {minTime} and {maxTime}.","val_url":"Please enter a valid URL.","val_fileextension":"File type is not allowed.","val_filesize":"File exceeds max size allowed. File was not uploaded.","post_max_size":"52428800","val_password_strength":"A stronger password is required. Consider using upper and lower case letters, numbers, and symbols.","val_phone":"Please enter a valid phone number.","richtext_add_media_button":"","entry_preview_iframe_styles":["https:\/\/www.avision.com\/en\/wp-includes\/js\/tinymce\/skins\/lightgray\/content.min.css?ver=6.3.2","https:\/\/www.avision.com\/en\/wp-includes\/css\/dashicons.css?ver=6.3.2","https:\/\/www.avision.com\/en\/wp-includes\/js\/tinymce\/skins\/wordpress\/wp-content.css?ver=6.3.2"]}
+var wpforms_settings = {"val_required":"Trường này là bắt buộc.","val_email":"Vui lòng nhập địa chỉ email hợp lệ.","val_email_suggestion":"Bạn có ý kiến gì về {suggestion}?","val_email_suggestion_title":"Nhấp để chấp nhận ý kiến này.","val_email_restricted":"This email address is not allowed.","val_number":"Please enter a valid number.","val_number_positive":"Please enter a valid positive number.","val_confirm":"Field values do not match.","val_checklimit":"You have exceeded the number of allowed selections: {#}.","val_limit_characters":"{count} trên {limit} ký tự tối đa.","val_limit_words":"{count} of {limit} max words.","val_recaptcha_fail_msg":"Google reCAPTCHA verification failed, please try again later.","val_turnstile_fail_msg":"Cloudflare Turnstile verification failed, please try again later.","val_inputmask_incomplete":"Please fill out the field in required format.","uuid_cookie":"1","locale":"en","wpforms_plugin_url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/wpforms\/","gdpr":"1","ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","mailcheck_enabled":"1","mailcheck_domains":[],"mailcheck_toplevel_domains":["dev"],"is_ssl":"1","page_title":"Product categories  Printer \/ MFP","page_id":"","currency_code":"USD","currency_thousands":",","currency_decimals":"2","currency_decimal":".","currency_symbol":"$","currency_symbol_pos":"left","val_requiredpayment":"Payment is required.","val_creditcard":"Please enter a valid credit card number.","val_post_max_size":"The total size of the selected files {totalSize} MB exceeds the allowed limit {maxSize} MB.","val_time12h":"Please enter time in 12-hour AM\/PM format (eg 8:45 AM).","val_time24h":"Please enter time in 24-hour format (eg 22:45).","val_time_limit":"Please enter time between {minTime} and {maxTime}.","val_url":"Please enter a valid URL.","val_fileextension":"File type is not allowed.","val_filesize":"File exceeds max size allowed. File was not uploaded.","post_max_size":"52428800","val_password_strength":"A stronger password is required. Consider using upper and lower case letters, numbers, and symbols.","val_phone":"Please enter a valid phone number.","richtext_add_media_button":"","entry_preview_iframe_styles":["https:\/\/www.avision.com\/en\/wp-includes\/js\/tinymce\/skins\/lightgray\/content.min.css?ver=6.3.2","https:\/\/www.avision.com\/en\/wp-includes\/css\/dashicons.css?ver=6.3.2","https:\/\/www.avision.com\/en\/wp-includes\/js\/tinymce\/skins\/wordpress\/wp-content.css?ver=6.3.2"]}
 /* ]]> */
 </script>
 		<script type="text/javascript">
