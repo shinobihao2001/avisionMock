@@ -51,8 +51,8 @@ function modifyHTML(urls, crawler) {
                       "href",
                       href.replace(
                         "https://www.avision.com/en",
-                        "http://localhost:3000"
-                        //`http://${process.env.MOCK_DOMAIN}`
+                        //"http://localhost:3000"
+                        `http://${process.env.MOCK_DOMAIN}`
                       )
                       // "http://localhost:3000/"
                     );
@@ -163,7 +163,9 @@ function modifyHTML(urls, crawler) {
                 $$("time.published").remove();
 
                 //remove login
-                $$(`a[href="http://localhost:3000/login/"]`).remove();
+                $$(
+                  `a[href="http://${process.env.MOCK_DOMAIN}/login/"]`
+                ).remove();
 
                 //change eicons to font-awesome
                 // change menu
