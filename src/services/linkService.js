@@ -1,6 +1,10 @@
 const { header } = require("express/lib/request");
 const linkModel = require("../models/link");
 const Crawler = require("crawler");
+const pageService = require("./pageService.js");
+const path = require("path");
+const fs = require("fs");
+const Cheerio = require("cheerio");
 require("dotenv").config();
 
 //save in to db
@@ -26,6 +30,38 @@ const createLink = async (link) => {
 const crawler = new Crawler({
   maxConnections: 1,
 });
+
+function getPageToFile(urls, crawler) {
+  return new Promise((resolve, reject) => {
+    const loop = urls.map((url) => {
+      return new Promise((resolve, reject) => {
+        crawler.queue([
+          {
+            uri: url,
+            callback: async (error, res, done) => {
+              console.log("Calling callback to return original html ");
+              if (error) {
+                console.log(error);
+                reject(error);
+              } else {
+                const $ = Cheerio.load(res.body);
+                let doc = $.html();
+                resolve(doc);
+              }
+              done();
+            },
+          },
+        ]);
+      });
+    });
+    crawler.once("error", (error) => reject(error));
+    crawler.once("drain", () => {
+      Promise.all(loop).then((results) => {
+        resolve(results);
+      });
+    });
+  });
+}
 
 function getPageAsync(urls, crawler) {
   return new Promise((resolve, reject) => {
@@ -65,7 +101,7 @@ function getPageAsync(urls, crawler) {
                 // Print the links
                 //console.log("Links:", links);
 
-                //save in to db
+                //save link in to db
                 for (let link of links) {
                   let mess = await createLink(link);
                   console.log(`${link}: ${mess}`);
@@ -91,6 +127,7 @@ async function getAllUrl() {
   var links = await linkModel.find();
   return links;
 }
+
 module.exports = {
   //Crawling all the links
   crawAllUrl: async () => {
@@ -124,5 +161,22 @@ module.exports = {
       }
     }
     return linkArray;
+  },
+
+  saveAllUrl: async (links) => {
+    console.log(links);
+    for (let link of links) {
+      console.log("Is saving: " + link);
+      let doc = await getPageToFile([link], crawler);
+      let filename = pageService.getLocalName(link);
+      let folder = path.join(__dirname, "onlinePage");
+      try {
+        //console.log(html);
+        fs.writeFileSync(path.join(folder, filename), doc[0]);
+      } catch (error) {
+        console.log(error);
+      }
+      console.log("Saving: " + link + " is done");
+    }
   },
 };
