@@ -7,56 +7,58 @@ const transAPI = require("./src/services/transAPI.js");
 const fs = require("fs");
 require("dotenv").config();
 
-// (async () => {
-//   try {
-//     // Step 1: Connect to the database
-//     await connectDB();
-//     // //console.log("Connected to the database");
+(async () => {
+  try {
+    // Step 1: Connect to the database
+    await connectDB();
+    // //console.log("Connected to the database");
 
-//     // await contentService.checkAll();
-//     // console.log("All check done");
+    // await contentService.checkAll();
+    // console.log("All check done");
 
-//     //Step 2: Crawling the URLs
-//     // await linkService.crawAllUrl();
-//     // //await delay(5000);
-//     console.log("URL crawling completed successfully");
+    //Step 2: Crawling the URLs
+    // await linkService.crawAllUrl();
+    // //await delay(5000);
+    console.log("URL crawling completed successfully");
+    let links = await linkService.getLinksNeedToCrawl();
 
-//     // //Step 3: Crawling all the pages English word in to db
-//     const links = [
-//       //"https://www.avision.com/en/shop/mobile-scanner/scanq-sw/",
-//       process.env.ORIGIN_URL,
-//       //"https://www.avision.com/en/agent/",
-//     ];
-//     //let links = await linkService.getLinksNeedToCrawl();
-//     console.log(links);
-//     let mess = await contentService.crawlingAllPage(links);
-//     console.log("Crawling all words");
+    //Step 2.5 => Save all link html to onlinePage
+    // await linkService.saveAllUrl(links);
+    // console.log("Save all url to html done");
 
-//     // //TRanslate a html file
-//     // let fileHtml = await transAPI.translateHtmlGoogle("fileHtml.html");
-//     // fs.writeFileSync("fileHtmlDemo.html", fileHtml);
-//     // console.log("write html done");
+    //Step 3: Crawling all the pages English word in to db
+    // const links = [
+    //   //"https://www.avision.com/en/shop/mobile-scanner/scanq-sw/",
+    //   //process.env.ORIGIN_URL,
+    //   "https://www.avision.com/en/shop/medical/capsocam-plus/",
+    // ];
 
-//     //Step 4: Translate all words in db in to Vietnamese
-//     await contentService.translateDb();
-//     console.log("Translate all words to vn done");
+    // console.log(links);
+    // let mess = await contentService.crawlingAllPage(links);
+    // console.log("Crawling all words");
 
-//     //Step 5: Translat all page and save them to local
-//     let result = await pageService.translateAllPage(links);
-//     console.log(result);
-//     console.log("Application initialized successfully");
-//   } catch (error) {
-//     console.error("Error initializing application:", error);
-//   }
-// })();
+    // //Step 4: Translate all words in db in to Vietnamese
+    // await contentService.translateDb();
+    // console.log("Translate all words to vn done");
+
+    //Step 5: Translat all page and save them to local
+    // let db = await contentService.getContentArray();
+    // console.log(db);
+    let result = await pageService.translateAllPage(links);
+    //console.log(result);
+    console.log("Application initialized successfully");
+  } catch (error) {
+    console.error("Error initializing application:", error);
+  }
+})();
 
 //Step 2.5 => Save all link html to onlinePage
-(async () => {
-  await connectDB();
-  let links = await linkService.getLinksNeedToCrawl();
-  await linkService.saveAllUrl(links);
-  console.log("Save all url to html done");
-})();
+// (async () => {
+//   await connectDB();
+//   let links = await linkService.getLinksNeedToCrawl();
+//   await linkService.saveAllUrl(links);
+//   console.log("Save all url to html done");
+// })();
 
 // Step 6 fixing wrong content by a gloosary
 // (async () => {

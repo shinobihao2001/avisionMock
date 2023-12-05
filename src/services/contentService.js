@@ -1,86 +1,47 @@
 const contentModel = require("../models/content");
 const transAPI = require("./transAPI");
-const Crawler = require("crawler");
-const fs = require("fs");
 const Cheerio = require("cheerio");
+const linkService = require("./linkService");
 require("dotenv").config();
 
-const crawler = new Crawler({
-  maxConnections: 50,
-  rateLimit: 5000,
-});
+async function getWordFormPage(page) {
+  const $ = Cheerio.load(page);
+  //console.log(page);
+  let words = new Set();
 
-function getPageAsync(urls, crawler) {
-  return new Promise((resolve, reject) => {
-    let words = new Set();
-    const loop = urls.map((url) => {
-      return new Promise((resolve, reject) => {
-        crawler.queue([
-          {
-            uri: url,
-            callback: (error, res, done) => {
-              if (error) {
-                reject(error);
-                console.log(error);
-              } else {
-                const $ = res.$;
+  var doc = $(process.env.SELECT_TAGS).not("style, script");
+  for (let index = 0; index < doc.length; index++) {
+    console.log(doc.length);
+    let element = doc.eq(index);
+    let content = element.text().trim();
+    if (content) {
+      if (
+        element.children(":not(br):not(strong):not(span):not(i)").length == 0
+      ) {
+        let node = $(element);
+        // await createContent(node, res.options.uri);
+        words.add(node.text().replace(/\s+/g, " "));
+      }
 
-                var doc = $(process.env.SELECT_TAGS).not("style, script");
-                for (let index = 0; index < doc.length; index++) {
-                  console.log(doc.length);
-                  let element = doc.eq(index);
-                  let content = element.text().trim();
-                  if (content) {
-                    if (
-                      element.children(":not(br):not(strong):not(span):not(i)")
-                        .length == 0
-                    ) {
-                      let node = $(element);
-                      // await createContent(node, res.options.uri);
-                      words.add(node.text().replace(/\s+/g, " "));
-                    }
-
-                    let children = element.find("*").not("style, script");
-                    for (
-                      let childIndex = 0;
-                      childIndex < children.length;
-                      childIndex++
-                    ) {
-                      let childNode = children.eq(childIndex);
-                      let node = $(childNode);
-                      if (
-                        node.children(":not(br):not(strong):not(span):not(i)")
-                          .length == 0
-                      )
-                        if (node.text().trim()) {
-                          //await createContent(node, res.options.uri);
-                          words.add(node.text().replace(/\s+/g, " "));
-                        }
-                    }
-                  }
-                }
-
-                // });
-              }
-              resolve(words);
-              done();
-            },
-          },
-        ]);
-      });
-    });
-    crawler.once("error", (error) => reject(error));
-    crawler.once("drain", () => {
-      Promise.all(loop).then((results) => {
-        resolve(results[0]);
-      });
-    });
-  });
+      let children = element.find("*").not("style, script");
+      for (let childIndex = 0; childIndex < children.length; childIndex++) {
+        let childNode = children.eq(childIndex);
+        let node = $(childNode);
+        if (node.children(":not(br):not(strong):not(span):not(i)").length == 0)
+          if (node.text().trim()) {
+            //await createContent(node, res.options.uri);
+            words.add(node.text().replace(/\s+/g, " "));
+          }
+      }
+    }
+  }
+  return words;
 }
 
 module.exports = {
-  crawlingOnePage: async function (url, crawler) {
-    let result = await getPageAsync([url], crawler);
+  crawlingOnePage: async function (link) {
+    let page = linkService.getOriginalPage(link);
+    let result = getWordFormPage(page);
     return result;
   },
 
@@ -90,7 +51,8 @@ module.exports = {
 
     for (let link of links) {
       console.log(`start crawling: ${link}`);
-      let result = await this.crawlingOnePage(link, crawler);
+      let result = await this.crawlingOnePage(link);
+
       uniqueWords = new Set([...uniqueWords, ...result]);
       console.log("Uniqueword: " + Array.from(uniqueWords));
       console.log(`finish crawling: ${link}`);
@@ -120,19 +82,14 @@ module.exports = {
     return "Done";
   },
 
-  findTranslatedWord: async function (word) {
-    let result = await contentModel
-      .findOne({
-        $or: [
-          {
-            text: word,
-          },
-          {
-            newText: word,
-          },
-        ],
-      })
-      .exec();
+  findTranslatedWord: function (word, arrayDB) {
+    let result = null;
+    for (let content of arrayDB) {
+      if (word == content.text || word == content.newText) {
+        result = content;
+        break;
+      }
+    }
     return result ? result.newText : "not found " + word;
   },
 
@@ -161,5 +118,18 @@ module.exports = {
       console.log("Check: " + content.text);
       await content.save();
     }
+  },
+
+  getContentArray: async function () {
+    let contents = await contentModel.find({}).lean().exec();
+    let result = [];
+    for (let content of contents) {
+      result.push({
+        text: content.text,
+        newText: content.newText,
+        isTranslated: content.isTranslated,
+      });
+    }
+    return result;
   },
 };

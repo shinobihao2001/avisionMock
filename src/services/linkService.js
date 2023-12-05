@@ -1,7 +1,7 @@
 const { header } = require("express/lib/request");
 const linkModel = require("../models/link");
 const Crawler = require("crawler");
-const pageService = require("./pageService.js");
+const ulti = require("./ulti");
 const path = require("path");
 const fs = require("fs");
 const Cheerio = require("cheerio");
@@ -168,7 +168,7 @@ module.exports = {
     for (let link of links) {
       console.log("Is saving: " + link);
       let doc = await getPageToFile([link], crawler);
-      let filename = pageService.getLocalName(link);
+      let filename = ulti.getLocalName(link);
       let folder = path.join(__dirname, "onlinePage");
       try {
         //console.log(html);
@@ -177,6 +177,17 @@ module.exports = {
         console.log(error);
       }
       console.log("Saving: " + link + " is done");
+    }
+  },
+
+  getOriginalPage(link) {
+    let filename = ulti.getLocalName(link);
+    let folder = path.join(__dirname, "onlinePage");
+    try {
+      let page = fs.readFileSync(path.join(folder, filename), "utf-8");
+      return page;
+    } catch (error) {
+      console.log(error);
     }
   },
 };
