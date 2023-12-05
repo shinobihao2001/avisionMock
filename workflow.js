@@ -22,12 +22,12 @@ require("dotenv").config();
     console.log("URL crawling completed successfully");
 
     // //Step 3: Crawling all the pages English word in to db
-    // const links = [
-    //   //"https://www.avision.com/en/shop/mobile-scanner/scanq-sw/",
-    //   //process.env.ORIGIN_URL,
-    //   "https://www.avision.com/en/agent/",
-    // ];
-    let links = await linkService.getLinksNeedToCrawl();
+    const links = [
+      //"https://www.avision.com/en/shop/mobile-scanner/scanq-sw/",
+      process.env.ORIGIN_URL,
+      //"https://www.avision.com/en/agent/",
+    ];
+    //let links = await linkService.getLinksNeedToCrawl();
     console.log(links);
     let mess = await contentService.crawlingAllPage(links);
     console.log("Crawling all words");

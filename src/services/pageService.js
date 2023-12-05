@@ -4,6 +4,7 @@ const fs = require("fs");
 const contentService = require("./contentService");
 const path = require("path");
 const signUpWarrantyScript = require("./script/signUpWarranty");
+const footerScript = require("./script/footerScript");
 require("dotenv").config();
 
 const fontAwesome = `<script src="https://kit.fontawesome.com/1cbb170ff9.js" crossorigin="anonymous"></script>`;
@@ -68,7 +69,7 @@ function modifyHTML(urls, crawler) {
 
                   if (content) {
                     if (
-                      element.children(":not(br):not(strong):not(span):not(i)")
+                      element.children(":not(br):not(strong):not(span)")
                         .length == 0
                     ) {
                       let newText = await contentService.findTranslatedWord(
@@ -85,7 +86,7 @@ function modifyHTML(urls, crawler) {
                         let childNode = children.eq(childIndex);
                         let node = $$(childNode);
                         if (
-                          node.children(":not(br):not(strong):not(span):not(i)")
+                          node.children(":not(br):not(strong):not(span)")
                             .length == 0 &&
                           node.text().trim()
                         ) {
