@@ -1076,8 +1076,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-3e3534e elementor-widget elementor-widget-image" data-id="3e3534e" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-																<a href="http://localhost:3000/">
-							<img decoding="async" fetchpriority="high" width="497" height="122" src="https://www.avision.com/en/wp-content/uploads/2021/10/logo&#x767D;.png" class="attachment-large size-large wp-image-12297" alt srcset="https://www.avision.com/en/wp-content/uploads/2021/10/logo&#x767D;.png 497w, https://www.avision.com/en/wp-content/uploads/2021/10/logo&#x767D;-300x74.png 300w" sizes="(max-width: 497px) 100vw, 497px">								</a>
+																
 															</div>
 				</div>
 					</div>
@@ -1178,7 +1177,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-element elementor-element-286005f elementor-widget elementor-widget-button" data-id="286005f" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="http://localhost:3000/product/paperair-215/"> &#x110;&#x1ECD;c th&#xEA;m</a>
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="http://avisonmock.onrender.com/product/paperair-215/"> &#x110;&#x1ECD;c th&#xEA;m</a>
 		</div>
 				</div>
 				</div>
@@ -1247,7 +1246,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-element elementor-element-807d982 elementor-align-right elementor-widget elementor-widget-button" data-id="807d982" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="http://localhost:3000/product/paperair-215l/"> &#x110;&#x1ECD;c th&#xEA;m</a>
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="http://avisonmock.onrender.com/product/paperair-215l/"> &#x110;&#x1ECD;c th&#xEA;m</a>
 		</div>
 				</div>
 				</div>
@@ -1319,7 +1318,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-element elementor-element-c735a4c elementor-align-right elementor-widget elementor-widget-button" data-id="c735a4c" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-button-wrapper">
-			<a class="elementor-button elementor-button-link elementor-size-sm" href="http://localhost:3000/product/paperair-10/"> &#x110;&#x1ECD;c th&#xEA;m</a>
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="http://avisonmock.onrender.com/product/paperair-10/"> &#x110;&#x1ECD;c th&#xEA;m</a>
 		</div>
 				</div>
 				</div>
@@ -1645,7 +1644,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-eb6b041 elementor-widget elementor-widget-heading" data-id="eb6b041" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/contact-us/">Li&#xEA;n h&#x1EC7; ch&#xFA;ng t&#xF4;i</a></h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default"><a href="http://avisonmock.onrender.com/contact-us/">Li&#xEA;n h&#x1EC7; ch&#xFA;ng t&#xF4;i</a></h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-2163547 elementor-widget elementor-widget-text-editor" data-id="2163547" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -1698,7 +1697,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 								<div class="elementor-element elementor-element-e04da04 elementor-view-default elementor-widget elementor-widget-icon" data-id="e04da04" data-element_type="widget" data-widget_type="icon.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-icon-wrapper">
-			<a class="elementor-icon elementor-animation-pop" href="http://localhost:3000/contact-us/email-form/">
+			<a class="elementor-icon elementor-animation-pop" href="http://avisonmock.onrender.com/contact-us/email-form/">
 			<i aria-hidden="true" class="fab fa-wpforms"></i>			</a>
 		</div>
 				</div>
@@ -1979,7 +1978,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20518"><a class="elementor-item">B&#x1EAF;c M&#x1EF9;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11887"><a href="http://localhost:3000/" class="elementor-sub-item">con nai</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11887"></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20519"><a class="elementor-item">M&#x1EF9; La-tinh</a>
@@ -2009,7 +2008,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20518"><a class="elementor-item" tabindex="-1">B&#x1EAF;c M&#x1EF9;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11887"><a href="http://localhost:3000/" class="elementor-sub-item" tabindex="-1">con nai</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11887"></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20519"><a class="elementor-item" tabindex="-1">M&#x1EF9; La-tinh</a>
@@ -2047,7 +2046,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20518"><a class="elementor-item" tabindex="-1">B&#x1EAF;c M&#x1EF9;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11887"><a href="http://localhost:3000/" class="elementor-sub-item" tabindex="-1">con nai</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11887"></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20519"><a class="elementor-item" tabindex="-1">M&#x1EF9; La-tinh</a>
