@@ -1186,7 +1186,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://avisonmock.onrender.com/agent/" class="elementor-sub-item">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055"><a href="http://avisonmock.onrender.com/login/" class="elementor-item">&#x110;&#x103;ng nh&#x1EAD;p</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055">
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://avisonmock.onrender.com/registration/" class="elementor-sub-item">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
@@ -1228,7 +1228,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://avisonmock.onrender.com/agent/" class="elementor-sub-item" tabindex="-1">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055"><a href="http://avisonmock.onrender.com/login/" class="elementor-item" tabindex="-1">&#x110;&#x103;ng nh&#x1EAD;p</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055">
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://avisonmock.onrender.com/registration/" class="elementor-sub-item" tabindex="-1">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
@@ -1429,32 +1429,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			
 			
 				
-				<article class="related-post clr col span_1_of_3 col-1 post-15929 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-exhibition entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
-
-					
-						<figure class="related-post-media clr">
-
-							<a href="http://avisonmock.onrender.com/blog/exhibition/meet-us-at-cybersec-2022/" class="related-thumb">
-
-								<img width="768" height="432" src="https://www.avision.com/en/wp-content/uploads/2022/09/CYBERSEC_en-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Read more about the article Meet Us at CYBERSEC 2022" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2022/09/CYBERSEC_en-768x432.jpg 768w, https://www.avision.com/en/wp-content/uploads/2022/09/CYBERSEC_en-300x169.jpg 300w, https://www.avision.com/en/wp-content/uploads/2022/09/CYBERSEC_en-1024x576.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2022/09/CYBERSEC_en-1536x864.jpg 1536w, https://www.avision.com/en/wp-content/uploads/2022/09/CYBERSEC_en-1320x743.jpg 1320w, https://www.avision.com/en/wp-content/uploads/2022/09/CYBERSEC_en-600x338.jpg 600w, https://www.avision.com/en/wp-content/uploads/2022/09/CYBERSEC_en.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px">							</a>
-
-						</figure>
-
-					
-					<h3 class="related-post-title">
-						<a href="http://avisonmock.onrender.com/blog/exhibition/meet-us-at-cybersec-2022/" rel="bookmark">G&#x1EB7;p ch&#xFA;ng t&#xF4;i t&#x1EA1;i CYBERSEC 2022</a>
-					</h3><!-- .related-post-title -->
-
-								
-						
-						
-					
-				</article><!-- .related-post -->
-
-				
-			
-				
-				<article class="related-post clr col span_1_of_3 col-2 post-7133 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-exhibition tag-medical entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
+				<article class="related-post clr col span_1_of_3 col-1 post-7133 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-exhibition tag-medical entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
 
 					
 						<figure class="related-post-media clr">
@@ -1468,6 +1443,31 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					
 					<h3 class="related-post-title">
 						<a href="http://avisonmock.onrender.com/blog/exhibition/meet-us-at-medical-taiwan-2020/" rel="bookmark">G&#x1EB7;p ch&#xFA;ng t&#xF4;i t&#x1EA1;i Medical Taiwan 2020!</a>
+					</h3><!-- .related-post-title -->
+
+								
+						
+						
+					
+				</article><!-- .related-post -->
+
+				
+			
+				
+				<article class="related-post clr col span_1_of_3 col-2 post-18090 post type-post status-publish format-standard has-post-thumbnail hentry category-exhibition tag-medical entry has-media owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal has-no-thumbnails has-product-nav">
+
+					
+						<figure class="related-post-media clr">
+
+							<a href="http://avisonmock.onrender.com/blog/exhibition/avision-showcasing-at-2022-healthcare-expo/" class="related-thumb">
+
+								<img width="768" height="432" src="https://www.avision.com/en/wp-content/uploads/2022/11/poster_EN-768x432.jpg" class="attachment-medium_large size-medium_large wp-post-image" alt="Read more about the article Avision Showcasing at 2022 Healthcare+ Expo" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2022/11/poster_EN-768x432.jpg 768w, https://www.avision.com/en/wp-content/uploads/2022/11/poster_EN-300x169.jpg 300w, https://www.avision.com/en/wp-content/uploads/2022/11/poster_EN-1024x576.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2022/11/poster_EN-1536x864.jpg 1536w, https://www.avision.com/en/wp-content/uploads/2022/11/poster_EN-2048x1152.jpg 2048w, https://www.avision.com/en/wp-content/uploads/2022/11/poster_EN-1320x742.jpg 1320w, https://www.avision.com/en/wp-content/uploads/2022/11/poster_EN-600x337.jpg 600w" sizes="(max-width: 768px) 100vw, 768px">							</a>
+
+						</figure>
+
+					
+					<h3 class="related-post-title">
+						<a href="http://avisonmock.onrender.com/blog/exhibition/avision-showcasing-at-2022-healthcare-expo/" rel="bookmark">Tri&#x1EC3;n l&#xE3;m Avision t&#x1EA1;i 2022 Healthcare+ Expo</a>
 					</h3><!-- .related-post-title -->
 
 								
@@ -1936,7 +1936,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20518"><a class="elementor-item">B&#x1EAF;c M&#x1EF9;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11887"></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11887"><a href="http://avisonmock.onrender.com/" class="elementor-sub-item">con nai</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20519"><a class="elementor-item">M&#x1EF9; La-tinh</a>
@@ -1966,7 +1966,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20518"><a class="elementor-item" tabindex="-1">B&#x1EAF;c M&#x1EF9;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11887"></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11887"><a href="http://avisonmock.onrender.com/" class="elementor-sub-item" tabindex="-1">con nai</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20519"><a class="elementor-item" tabindex="-1">M&#x1EF9; La-tinh</a>
@@ -2004,7 +2004,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20518"><a class="elementor-item" tabindex="-1">B&#x1EAF;c M&#x1EF9;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11887"></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11887"><a href="http://avisonmock.onrender.com/" class="elementor-sub-item" tabindex="-1">con nai</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20519"><a class="elementor-item" tabindex="-1">M&#x1EF9; La-tinh</a>

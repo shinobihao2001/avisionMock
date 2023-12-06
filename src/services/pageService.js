@@ -137,7 +137,7 @@ async function modifyHTML(page, arrayDB) {
   $$("time.published").remove();
 
   //remove login
-  $$(`a[href="http://${process.env.MOCK_DOMAIN}/"]`).remove();
+  $$(`a[href="http://${process.env.MOCK_DOMAIN}/login/"]`).remove();
 
   //change eicons to font-awesome
   // change menu

@@ -1325,10 +1325,10 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 
 <div data-block-name="woocommerce/product-categories" data-is-dropdown="true" class="wp-block-woocommerce-product-categories wc-block-product-categories is-dropdown " style>
 			<div class="wc-block-product-categories__dropdown">
-				<label class="screen-reader-text" for="product-categories-656ff4aba9168-select">
+				<label class="screen-reader-text" for="product-categories-657021bf23d1e-select">
 					Select a category
 				</label>
-				<select aria-label="List of categories with their product counts" id="product-categories-656ff4aba9168-select">
+				<select aria-label="List of categories with their product counts" id="product-categories-657021bf23d1e-select">
 					<option value="false" hidden>
 						Select a category
 					</option>
@@ -1496,7 +1496,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			
 				</select>
 			</div>
-			<button type="button" class="wc-block-product-categories__button" aria-label="Go to category" onclick="const url = document.getElementById( &apos;product-categories-656ff4aba9168-select&apos; ).value; if ( &apos;false&apos; !== url ) document.location.href = url;">
+			<button type="button" class="wc-block-product-categories__button" aria-label="Go to category" onclick="const url = document.getElementById( &apos;product-categories-657021bf23d1e-select&apos; ).value; if ( &apos;false&apos; !== url ) document.location.href = url;">
 				<svg aria-hidden="true" role="img" focusable="false" class="dashicon dashicons-arrow-right-alt2" xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewbox="0 0 20 20">
 					<path d="M6 15l5-5-5-5 1-2 7 7-7 7z"/>
 				</svg>
