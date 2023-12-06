@@ -2,6 +2,8 @@ const express = require("express");
 const router = express.Router();
 const upload = require("../middlewares/multer");
 const pageService = require("../services/pageService.js");
+const agentController = require("../controllers/agentController.js");
+const fs = require("fs");
 
 router.get("*", async (req, res) => {
   console.log("URL: " + req.url);
@@ -19,29 +21,12 @@ router.get("*", async (req, res) => {
   res.send(html.toString());
 });
 
-router.post("/agent/check", async (req, res) => {
-  //get rid of en/
-  let filename = (process.env.EN_DOMAIN + "/agent/").toString();
-  console.log("filename 1: " + filename);
-  let html = await pageService.getPage(filename);
-  //todo :modify html file again adding the warranty check
-  res.setHeader("Content-Type", "text/html");
-  res.send(html.toString());
-});
+router.post("/agent/check", agentController.checkWarranty);
 
 router.post(
   "/agent/signUpWarranty",
   upload.single("receipt"),
-  async (req, res) => {
-    console.log(req.file);
-    //get rid of en/
-    let filename = (process.env.EN_DOMAIN + "/agent/").toString();
-    console.log("filename 1: " + filename);
-    let html = await pageService.getPage(filename);
-    //todo :modify html file again adding the warranty check
-    res.setHeader("Content-Type", "text/html");
-    res.send(html.toString());
-  }
+  agentController.signUpWarranty
 );
 
 module.exports = router;

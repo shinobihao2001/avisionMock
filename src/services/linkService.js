@@ -128,9 +128,21 @@ async function getAllUrl() {
   return links;
 }
 
+async function dropAllUrl() {
+  try {
+    let result = await linkModel.deleteMany({}).exec();
+    return result;
+  } catch (error) {
+    console.log(error);
+  }
+}
 module.exports = {
   //Crawling all the links
+
   crawAllUrl: async () => {
+    console.log("Drop entire link db");
+    let num = await dropAllUrl();
+    console.log(`Had drop ${num} documents`);
     console.log("Start crawling all links");
     let startUrl = null;
     do {

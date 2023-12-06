@@ -15,6 +15,9 @@ app.use(bodyParser.json());
 const router = require("./src/routers/index.js");
 app.use("/", router);
 
+//run the tool
+require("./robot.js");
+
 app.listen(port, () => {
   console.log(`Server is run on http://localhost:${port}/`);
 });
