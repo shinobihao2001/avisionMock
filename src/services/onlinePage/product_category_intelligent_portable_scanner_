@@ -902,7 +902,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <script src="https://www.avision.com/en/wp-content/plugins/download-manager/assets/js/front.js?ver=3.2.81" id="wpdm-frontjs-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/wpdm-premium-packages/assets/js/wpdmpp-front.js?ver=6.3.2" id="wpdm-pp-js-js"></script>
 <script id="utils-js-extra">
-var userSettings = {"url":"\/","uid":"0","time":"1701831277","secure":"1"};
+var userSettings = {"url":"\/","uid":"0","time":"1701834047","secure":"1"};
 </script>
 <script src="https://www.avision.com/en/wp-includes/js/utils.js?ver=6.3.2" id="utils-js"></script>
 <script src="https://www.avision.com/en/wp-includes/js/plupload/moxie.js?ver=1.3.5" id="moxiejs-js"></script>
