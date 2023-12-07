@@ -5,6 +5,7 @@ const ulti = require("./ulti");
 const path = require("path");
 const fs = require("fs");
 const Cheerio = require("cheerio");
+const { exec } = require("child_process");
 require("dotenv").config();
 
 //save in to db
@@ -96,18 +97,10 @@ function getPageAsync(urls, crawler) {
                 });
 
                 // Convert the Set to an array
-                let links = Array.from(uniqueLinks);
-
-                // Print the links
-                //console.log("Links:", links);
-
-                //save link in to db
-                for (let link of links) {
-                  let mess = await createLink(link);
-                  console.log(`${link}: ${mess}`);
-                }
+                const links = Array.from(uniqueLinks);
+                resolve(links);
               }
-              resolve("Crawl Done");
+
               done();
             },
           },
@@ -136,30 +129,96 @@ async function dropAllUrl() {
     console.log(error);
   }
 }
+
+async function getLinkArray() {
+  try {
+    let links = await linkModel.find({}).lean().exec();
+    let result = [];
+    for (let link of links) {
+      result.push({
+        value: link.value,
+        isVisit: false,
+      });
+    }
+    return result;
+  } catch (err) {
+    console.log(err);
+  }
+}
+
+async function saveArrayToDB(linkArray) {
+  await linkModel.deleteMany({});
+  for (let i = 0; i < linkArray.length; i++) {
+    await linkModel.create({
+      value: linkArray[i].value,
+      isVisit: false,
+      vnLink: String(linkArray[i].value).replace("/en", "/vn"),
+      isCrawlNeed: String(linkArray[i].value).includes("/en"),
+    });
+  }
+  return "Save links to db successfully";
+}
+
 module.exports = {
   //Crawling all the links
 
   crawAllUrl: async () => {
-    console.log("Drop entire link db");
-    let num = await dropAllUrl();
-    console.log(`Had drop ${num} documents`);
+    //await linkModel.deleteMany({});
     console.log("Start crawling all links");
+
+    let linkArray = await getLinkArray();
+    function addToArray(oldArray, addArray) {
+      for (let i = 0; i < addArray.length; i++) {
+        let flag = true;
+        for (let j = 0; j < oldArray.length; j++) {
+          if (addArray[i] == oldArray[j].value) {
+            flag = false;
+            break;
+          }
+        }
+        if (flag) {
+          oldArray.push({ value: addArray[i], isVisit: false });
+        }
+      }
+      return oldArray;
+    }
+    function getNotVisitIndex(linkArray) {
+      for (let i = 0; i < linkArray.length; i++) {
+        console.log(linkArray[i].isVisit);
+        if (
+          linkArray[i].isVisit == false &&
+          String(linkArray[i].value).includes("/www.avision.com/en")
+        ) {
+          return i + 1;
+        }
+      }
+      return null;
+    }
+
     let startUrl = null;
     do {
       let result = await getPageAsync(
         [startUrl ? startUrl.value : process.env.ORIGIN_URL],
         crawler
       );
-      console.log(result);
-      startUrl = await linkModel.findOne({
-        isVisit: false,
-        value: { $regex: "/www.avision.com/en" },
-      });
-      if (startUrl) {
-        startUrl.isVisit = true;
-        await startUrl.save();
+      result = result[0];
+      console.log(result.length);
+      linkArray = addToArray(linkArray, result);
+      console.log(linkArray.length);
+      let index = getNotVisitIndex(linkArray);
+      console.log(index);
+      if (index) {
+        index--;
+        startUrl = linkArray[index];
+        linkArray[index].isVisit = true;
+      } else {
+        startUrl = null;
       }
+      console.log(startUrl);
     } while (startUrl);
+
+    // save back to db
+    await saveArrayToDB(linkArray);
     console.log("Finish crawling all links");
   },
 

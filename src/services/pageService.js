@@ -38,8 +38,8 @@ async function modifyHTML(page, arrayDB) {
         "href",
         href.replace(
           "https://www.avision.com/en",
-          //"http://localhost:3000"
-          `http://${process.env.MOCK_DOMAIN}`
+          "http://localhost:3000"
+          //`http://${process.env.MOCK_DOMAIN}`
         )
         // "http://localhost:3000/"
       );
@@ -137,7 +137,7 @@ async function modifyHTML(page, arrayDB) {
   $$("time.published").remove();
 
   //remove login
-  $$(`a[href="http://${process.env.MOCK_DOMAIN}/login/"]`).remove();
+  $$(`a[href="http://localhost:3000/login/"]`).remove();
 
   //change eicons to font-awesome
   // change menu
