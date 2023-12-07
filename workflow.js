@@ -23,8 +23,8 @@ require("dotenv").config();
     let links = await linkService.getLinksNeedToCrawl();
 
     //Step 2.5 => Save all link html to onlinePage
-    // await linkService.saveAllUrl(links);
-    // console.log("Save all url to html done");
+    await linkService.saveAllUrl(links);
+    console.log("Save all url to html done");
 
     // //Step 3: Crawling all the pages English word in to db
     // // const links = [
@@ -34,18 +34,18 @@ require("dotenv").config();
     // // ];
 
     // // console.log(links);
-    // let mess = await contentService.crawlingAllPage(links);
-    // console.log("Crawling all words");
+    let mess = await contentService.crawlingAllPage(links);
+    console.log("Crawling all words");
 
-    // // //Step 4: Translate all words in db in to Vietnamese
-    // await contentService.translateDb();
-    // console.log("Translate all words to vn done");
+    // //Step 4: Translate all words in db in to Vietnamese
+    await contentService.translateDb();
+    console.log("Translate all words to vn done");
 
-    // //Step 5: Translat all page and save them to local
-    // // let db = await contentService.getContentArray();
-    // // console.log(db);
-    // let result = await pageService.translateAllPage(links);
-    // //console.log(result);
+    //Step 5: Translat all page and save them to local
+    // let db = await contentService.getContentArray();
+    // console.log(db);
+    let result = await pageService.translateAllPage(links);
+    //console.log(result);
     console.log("Application initialized successfully");
   } catch (error) {
     console.error("Error initializing application:", error);
