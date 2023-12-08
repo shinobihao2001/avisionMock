@@ -9,6 +9,7 @@ const port = process.env.PORT || 3000;
 const app = express();
 
 connectDB();
+app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 //setupMiddleware

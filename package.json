@@ -11,12 +11,13 @@
   "license": "ISC",
   "dependencies": {
     "@google-cloud/translate": "^8.0.2",
-    "body-parser": "^1.20.1",
+    "body-parser": "^1.20.2",
     "crawler": "^1.4.0",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
     "mongoose": "^8.0.1",
     "multer": "*",
+    "nodemailer": "^6.9.7",
     "openai": "^4.19.1",
     "path": "^0.12.7",
     "request-ip": "^3.3.0"

@@ -17,7 +17,7 @@ require("dotenv").config();
     // console.log("All check done");
 
     //Step 2: Crawling the URLs
-    await linkService.crawAllUrl();
+    //await linkService.crawAllUrl();
     console.log("URL crawling completed successfully");
 
     let links = await linkService.getLinksNeedToCrawl();
@@ -41,11 +41,11 @@ require("dotenv").config();
     // await contentService.translateDb();
     // console.log("Translate all words to vn done");
 
-    // //Step 5: Translat all page and save them to local
-    // // let db = await contentService.getContentArray();
-    // // console.log(db);
-    // let result = await pageService.translateAllPage(links);
-    // //console.log(result);
+    //Step 5: Translat all page and save them to local
+    // let db = await contentService.getContentArray();
+    // console.log(db);
+    let result = await pageService.translateAllPage(links);
+    //console.log(result);
     console.log("Application initialized successfully");
   } catch (error) {
     console.error("Error initializing application:", error);

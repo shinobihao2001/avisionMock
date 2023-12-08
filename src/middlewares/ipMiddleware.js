@@ -14,7 +14,7 @@ async function saveIP(newIp) {
   for (let Ip of IPArray) {
     if (Ip.value == newIp) {
       Ip.requests.push({ time: requestTime });
-      await IPService.updateRequest(newIp, Ip.Requests);
+      await IPService.updateRequest(newIp, Ip.requests);
       flag = false;
       break;
     }
@@ -51,7 +51,7 @@ class IPMiddleware {
     await updateDdosIp();
     //console.log("URL : " + req.url);
     //console.log(IPArray);
-    console.log(IPArray[0]);
+    //console.log(IPArray[0]);
     next();
   }
 

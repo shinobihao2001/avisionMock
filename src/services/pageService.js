@@ -169,6 +169,18 @@ async function modifyHTML(page, arrayDB) {
   //Change action of check warranty
   $$("#wpforms-form-4191").attr("action", "/agent/check");
 
+  //Change action of contac-us seding email
+  $$("#wpforms-form-4192").attr("action", "/contact-us/sendEmail");
+  //modify email field name
+  $$("#wpforms-4192-field_5").attr("name", "subject");
+  $$("#wpforms-4192-field_18").attr("name", "author");
+  $$("#wpforms-4192-field_19").attr("name", "phoneNumber");
+  $$("#wpforms-4192-field_1").attr("name", "email");
+  $$("#wpforms-4192-field_2").attr("name", "content");
+  //remove coutry and seding department
+  $$("#wpforms-4192-field_14-container").remove();
+  $$("#wpforms-4192-field_6-container").remove();
+
   //Add signup warranty
   $$("section[data-id='1e178ee']").append(signUpWarrantyScript);
 
