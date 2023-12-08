@@ -1,10 +1,10 @@
 const mongoose = require("mongoose");
 
 let IPSchema = new mongoose.Schema({
-  IP: {
+  value: {
     type: String,
   },
-  Request: [
+  requests: [
     {
       time: {
         type: Date,

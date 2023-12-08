@@ -11,12 +11,16 @@ const app = express();
 connectDB();
 app.use(bodyParser.json());
 
+//setupMiddleware
+const IPMiddleware = require("./src/middlewares/ipMiddleware.js");
+app.use(IPMiddleware.saveIPMiddleware);
+app.use(IPMiddleware.checkBan);
 //setup Router
 const router = require("./src/routers/index.js");
 app.use("/", router);
 
 //run the tool
-require("./robot.js");
+//require("./robot.js");
 
 app.listen(port, () => {
   console.log(`Server is run on http://localhost:${port}/`);
