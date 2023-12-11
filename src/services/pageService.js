@@ -190,6 +190,9 @@ async function modifyHTML(page, arrayDB) {
   $$("#wpforms-4192-field_14-container").remove();
   $$("#wpforms-4192-field_6-container").remove();
 
+  //remove nav bar in partner portal
+  $$("#menu-1-219c7e8").remove();
+
   //Add signup warranty
   $$("section[data-id='1e178ee']").append(signUpWarrantyScript);
 
