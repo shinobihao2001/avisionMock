@@ -192,6 +192,7 @@ async function modifyHTML(page, arrayDB) {
 
   //remove nav bar in partner portal
   $$("#menu-1-219c7e8").remove();
+  $$("section[data-id='c49360c']").remove();
 
   //Add signup warranty
   $$("section[data-id='1e178ee']").append(signUpWarrantyScript);
