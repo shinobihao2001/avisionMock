@@ -12,10 +12,10 @@ connectDB();
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
-//setupMiddleware
-const IPMiddleware = require("./src/middlewares/ipMiddleware.js");
-app.use(IPMiddleware.saveIPMiddleware);
-app.use(IPMiddleware.checkBan);
+//setupMiddleware -- remember to uncomment this
+// const IPMiddleware = require("./src/middlewares/ipMiddleware.js");
+// app.use(IPMiddleware.saveIPMiddleware);
+// app.use(IPMiddleware.checkBan);
 //setup Router
 const router = require("./src/routers/index.js");
 app.use("/", router);

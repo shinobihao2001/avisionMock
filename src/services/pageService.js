@@ -6,6 +6,7 @@ const linkService = require("./linkService");
 const path = require("path");
 const signUpWarrantyScript = require("./script/signUpWarranty");
 const footerScript = require("./script/footerScript");
+const emailScript = require("./script/emailScript");
 const ulti = require("./ulti");
 require("dotenv").config();
 
@@ -166,6 +167,14 @@ async function modifyHTML(page, arrayDB) {
   //Change continue reading in exhibiton page to Vn
   $$("div.blog-entry-readmore a").text("Đọc tiếp");
 
+  //Change privacy statement sending email to vn
+  $$(".wpforms-field-label-inline")
+    .contents()
+    .first()
+    .replaceWith(
+      "Tôi đồng ý để trang web lưu trữ thông tin mà tôi đã gửi để họ có thể phản hồi cho yêu cầu của tôi."
+    );
+
   //Change action of check warranty
   $$("#wpforms-form-4191").attr("action", "/agent/check");
 
@@ -225,6 +234,13 @@ function modifyReceipt(html) {
   const $ = Cheerio.load(html);
 }
 
+function modifyEmail(html) {
+  const $ = Cheerio.load(html);
+  $('section[data-id="16c6a99"]').after(emailScript);
+  const result = $.html();
+  return result;
+}
+
 module.exports = {
   async translatePage(page, arrayDB) {
     let html = await modifyHTML(page, arrayDB);
@@ -239,6 +255,14 @@ module.exports = {
     } catch (error) {
       console.log(error);
     }
+  },
+
+  async getEmailPage() {
+    const name = "contact_us_email_form_";
+    let folder = path.join(__dirname, "localPage");
+    const page = fs.readFileSync(path.join(folder, name), "utf-8");
+    const result = modifyEmail(page);
+    return result;
   },
 
   async getPage(name) {
