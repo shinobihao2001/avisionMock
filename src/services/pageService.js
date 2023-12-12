@@ -194,6 +194,20 @@ async function modifyHTML(page, arrayDB) {
   $$("#menu-1-219c7e8").remove();
   $$("section[data-id='c49360c']").remove();
 
+  //remove regular question at some products;
+  $$("#tab-title-desc_tab").remove();
+
+  //remove bochure title // remove bochure context
+  const searchText = "Tài liệu giới thiệu";
+  // Select the h2 tag based on its text content
+  const h2Element = $$(`h2:contains("${searchText}")`);
+  if (h2Element.length > 0) {
+    // Remove the next two divs after the h2 tag's parent div
+    h2Element.parent().nextAll("div").slice(0, 2).remove();
+    // Remove the h2 tag
+    h2Element.remove();
+  }
+
   //Add signup warranty
   $$("section[data-id='1e178ee']").append(signUpWarrantyScript);
 

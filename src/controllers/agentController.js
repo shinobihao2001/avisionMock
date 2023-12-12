@@ -4,7 +4,6 @@ const invoiceService = require("../services/invoiceService");
 
 class agentController {
   checkWarranty = async (req, res, next) => {
-    //get rid of en/
     let filename = (process.env.EN_DOMAIN + "/agent/").toString();
     console.log("filename 1: " + filename);
     let html = await pageService.getPage(filename);
@@ -17,7 +16,6 @@ class agentController {
     console.log(req.file);
     //save image to db
     await invoiceService.saveInvoiceImage(req.file.filename);
-
     //call api to get Info
     let info = await invoiceService.getInfoInvoice(req.file.filename);
 
