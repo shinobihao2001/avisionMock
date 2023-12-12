@@ -1272,7 +1272,7 @@ var userSettings = {"url":"\/","uid":"0","time":"1701841764","secure":"1"};
 						<div id="content-wrap" class="container clr">
 
 							
-							<div id="primary" class="content-area clr">
+							<div id="primary" class="content-area clr" style="width: 100%;">
 
 								
 								<div id="content" class="clr site-content">

@@ -122,18 +122,15 @@ async function modifyHTML(page, arrayDB) {
 
   //remove sreach icion
   $$(".fas.fa-search").remove();
+
+  // set with of main to 100 % before remove sidebar
+  $$("#primary.content-area.clr").css("width", "100%");
   //remove fillter zone
-  $$("aside").empty();
+  $$("aside").remove();
 
   //remove floating bar ontop
   $$(".owp-floating-bar").remove();
 
-  // Replace the content with an image tag
-  for (let i = 0; i < 5; i++) {
-    $$("aside").append(
-      '<img style="padding-bottom: 100px; background-repeat: repeat-y" src="https://static3.khuetu.vn/img/m/21.jpg" alt="Your Image Alt Text">'
-    );
-  }
   //remove dateTime in footer news
   $$("time.published").remove();
 
