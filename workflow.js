@@ -13,18 +13,15 @@ require("dotenv").config();
     await connectDB();
     // //console.log("Connected to the database");
 
-    // await contentService.checkAll();
-    // console.log("All check done");
-
     //Step 2: Crawling the URLs
-    //await linkService.crawAllUrl();
+    await linkService.crawAllUrl();
     console.log("URL crawling completed successfully");
 
     let links = await linkService.getLinksNeedToCrawl();
 
     //Step 2.5 => Save all link html to onlinePage
-    // await linkService.saveAllUrl(links);
-    // console.log("Save all url to html done");
+    await linkService.saveAllUrl(links);
+    console.log("Save all url to html done");
 
     // //Step 3: Crawling all the pages English word in to db
     // // const links = [
@@ -34,12 +31,12 @@ require("dotenv").config();
     // // ];
 
     // // console.log(links);
-    // let mess = await contentService.crawlingAllPage(links);
-    // console.log("Crawling all words");
+    let mess = await contentService.crawlingAllPage(links);
+    console.log("Crawling all words");
 
-    // // //Step 4: Translate all words in db in to Vietnamese
-    // await contentService.translateDb();
-    // console.log("Translate all words to vn done");
+    // //Step 4: Translate all words in db in to Vietnamese
+    await contentService.translateDb();
+    console.log("Translate all words to vn done");
 
     //Step 5: Translat all page and save them to local
     // let db = await contentService.getContentArray();
