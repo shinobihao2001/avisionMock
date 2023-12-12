@@ -1,6 +1,6 @@
 const fs = require("fs");
 const pageService = require("../services/pageService");
-const receiptService = require("../services/receiptService");
+const invoiceService = require("../services/invoiceService");
 
 class agentController {
   checkWarranty = async (req, res, next) => {
@@ -16,8 +16,11 @@ class agentController {
   signUpWarranty = async (req, res, next) => {
     console.log(req.file);
     //save image to db
-    await receiptService.saveReceipImage(req.file.filename);
-    //get rid of en/
+    await invoiceService.saveInvoiceImage(req.file.filename);
+
+    //call api to get Info
+    let info = await invoiceService.getInfoInvoice(req.file.filename);
+
     let filename = (process.env.EN_DOMAIN + "/agent/").toString();
     console.log("filename 1: " + filename);
     let html = await pageService.getPage(filename);
