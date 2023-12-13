@@ -46,6 +46,9 @@ require("dotenv").config();
     // console.log(db);
     let result = await pageService.translateAllPage(links);
     //console.log(result);
+
+    //step 7: create Agency page;
+    await pageService.createAgencyPage();
     console.log("Application initialized successfully");
   } catch (error) {
     console.error("Error initializing application:", error);

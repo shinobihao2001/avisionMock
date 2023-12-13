@@ -1189,7 +1189,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7673 current_page_item menu-item-7710"><a href="http://localhost:3000/registration/" aria-current="page" class="elementor-sub-item elementor-item-active">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://localhost:3000/product-category/medical/" class="elementor-item">H&#x1EC7; th&#x1ED1;ng t&#x1ED5;ng &#x111;&#x1EA1;i l&#xFD;</a></li></ul>			</nav>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://localhost:3000/agency/" class="elementor-item">H&#x1EC7; th&#x1ED1;ng &#x111;&#x1EA1;i l&#xFD;</a></li></ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open fa fa-bars"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close fa fa-times"></i>			<span class="elementor-screen-only">Th&#x1EF1;c &#x111;&#x1A1;n</span>
 		</div>
@@ -1231,7 +1231,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7673 current_page_item menu-item-7710"><a href="http://localhost:3000/registration/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://localhost:3000/product-category/medical/" class="elementor-item" tabindex="0">H&#x1EC7; th&#x1ED1;ng &#x111;&#x1EA1;i l&#xFD;</a></li></ul>			</nav>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://localhost:3000/agency/" class="elementor-item" tabindex="0">H&#x1EC7; th&#x1ED1;ng &#x111;&#x1EA1;i l&#xFD;</a></li></ul>			</nav>
 				</div>
 				</div>
 					</div>

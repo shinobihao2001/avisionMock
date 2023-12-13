@@ -262,6 +262,21 @@ function modifyReceipt(html) {
   const $ = Cheerio.load(html);
 }
 
+function modifyAgency(html) {
+  let $$ = Cheerio.load(html);
+  $$("h1:contains('Đăng ký sản phẩm)").text("Hệ thống tổng đại lý");
+
+  //remove the main content and replace with agency content
+  $$("section[data-id='2b62459']").remove();
+  $$("section[data-id='01e275d']").after(agencyScript.mainScript);
+
+  //remove text above
+  $$("div[data-id='170ec9a']").remove();
+  $$("div[data-id='75c0874']").remove();
+
+  return $$.html();
+}
+
 function modifyEmail(html) {
   const $ = Cheerio.load(html);
   $('section[data-id="16c6a99"]').after(emailScript);
@@ -322,5 +337,15 @@ module.exports = {
       let results = await this.saveHtmlLocal(html, filename);
     }
     return "All page translate done";
+  },
+
+  async createAgencyPage() {
+    const arrayDB = await contentService.getContentArray();
+    let link = "https://www.avision.com/en/contact-us/product-registration/";
+    let page = linkService.getOriginalPage(link);
+    let html = await this.translatePage(page, arrayDB);
+    html = modifyAgency(html);
+    let filename = "agency_";
+    await this.saveHtmlLocal(html, filename);
   },
 };
