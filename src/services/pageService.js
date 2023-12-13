@@ -1,3 +1,4 @@
+require("dotenv").config();
 const Crawler = require("crawler");
 const Cheerio = require("cheerio");
 const fs = require("fs");
@@ -8,8 +9,9 @@ const signUpWarrantyScript = require("./script/signUpWarranty");
 const footerScript = require("./script/footerScript");
 const emailScript = require("./script/emailScript");
 const ulti = require("./ulti");
-require("dotenv").config();
+const agencyScript = require("./script/agencyScript");
 
+const domain = process.env.MAIN_DOMAIN;
 const fontAwesome = `<script src="https://kit.fontawesome.com/1cbb170ff9.js" crossorigin="anonymous"></script>`;
 
 const facebookScript = `
@@ -39,7 +41,7 @@ async function modifyHTML(page, arrayDB) {
         "href",
         href.replace(
           "https://www.avision.com/en",
-          "http://localhost:3000"
+          `http://${domain}`
           //`http://${process.env.MOCK_DOMAIN}`
         )
         // "http://localhost:3000/"
@@ -135,7 +137,7 @@ async function modifyHTML(page, arrayDB) {
   $$("time.published").remove();
 
   //remove login
-  $$(`a[href="http://localhost:3000/login/"]`).remove();
+  $$(`a[href="http://${domain}/login/"]`).remove();
 
   //change eicons to font-awesome
   // change menu
@@ -205,11 +207,22 @@ async function modifyHTML(page, arrayDB) {
     h2Element.remove();
   }
 
+  //remove download center
+  $$('a:contains("Trung tâm tải xuống")').parent().remove();
+  //remove help center
+  $$('a:contains("Trung tâm trợ giúp")').parent().remove();
   //Add signup warranty
   $$("section[data-id='1e178ee']").append(signUpWarrantyScript);
 
   //add address DSG to footer
   $$("section[data-id='53a583dc']").after(footerScript);
+
+  //add agencies to row
+  $$("#menu-1-3a0fbe8").append(agencyScript.rowNav);
+  //add agencies to col
+  $$("#menu-2-3a0fbe8").append(agencyScript.colNav);
+  //add agencies to footer
+  $$("div[data-id='5b85b7b']").after(agencyScript.footer);
 
   //Change the warning code
   $$("script").text((i, oldText) => {
