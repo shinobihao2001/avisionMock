@@ -1154,16 +1154,16 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-20505"><a href="http://localhost:3000/product-category/document-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item-12778"><a href="http://localhost:3000/product-category/flatbed-scanner/" aria-current="page" class="elementor-sub-item elementor-item-active">M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12781"><a href="http://localhost:3000/product-category/network-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12781"><a href="http://localhost:3000/product-category/network-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t k&#x1EBF;t n&#x1ED1;i m&#x1EA1;ng</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12779"><a href="http://localhost:3000/product-category/mobile-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12780"><a href="http://localhost:3000/product-category/paperair-series/" class="elementor-sub-item">D&#xF2;ng PaperAir</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12776"><a href="http://localhost:3000/product-category/printer-mfp/" class="elementor-item">M&#xE1;y in / MFP</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12776"><a href="http://localhost:3000/product-category/printer-mfp/" class="elementor-item">M&#xE1;y in / M&#xE1;y in &#x111;a ch&#x1EE9;c n&#x103;ng</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://localhost:3000/product-category/medical/" class="elementor-item">Thi&#x1EBF;t b&#x1ECB; y t&#x1EBF;</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7264"><a href="http://localhost:3000/about-avision/" class="elementor-item">Gi&#x1EDB;i thi&#x1EC7;u v&#x1EC1; Avision</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12986"><a href="http://localhost:3000/about-avision/why-avision/" class="elementor-sub-item">T&#x1EA1;i sao Avision</a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12986"><a href="http://localhost:3000/about-avision/why-avision/" class="elementor-sub-item">T&#x1EA1;i sao n&#xEA;n ch&#x1ECD;n Avision?</a>
 	<ul class="sub-menu elementor-nav-menu--dropdown">
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14275"><a href="http://localhost:3000/about-avision/why-avision/core-image-scanning-technology/" class="elementor-sub-item">C&#xF4;ng ngh&#x1EC7; qu&#xE9;t h&#xEC;nh &#x1EA3;nh c&#x1ED1;t l&#xF5;i</a></li>
 	</ul>
@@ -1196,16 +1196,16 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-20505"><a href="http://localhost:3000/product-category/document-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-menu-item menu-item-12778"><a href="http://localhost:3000/product-category/flatbed-scanner/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12781"><a href="http://localhost:3000/product-category/network-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12781"><a href="http://localhost:3000/product-category/network-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t k&#x1EBF;t n&#x1ED1;i m&#x1EA1;ng</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12779"><a href="http://localhost:3000/product-category/mobile-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12780"><a href="http://localhost:3000/product-category/paperair-series/" class="elementor-sub-item" tabindex="-1">D&#xF2;ng PaperAir</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12776"><a href="http://localhost:3000/product-category/printer-mfp/" class="elementor-item" tabindex="-1">M&#xE1;y in / MFP</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12776"><a href="http://localhost:3000/product-category/printer-mfp/" class="elementor-item" tabindex="-1">M&#xE1;y in / M&#xE1;y in &#x111;a ch&#x1EE9;c n&#x103;ng</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://localhost:3000/product-category/medical/" class="elementor-item" tabindex="-1">Thi&#x1EBF;t b&#x1ECB; y t&#x1EBF;</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7264"><a href="http://localhost:3000/about-avision/" class="elementor-item" tabindex="-1">Gi&#x1EDB;i thi&#x1EC7;u v&#x1EC1; Avision</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12986"><a href="http://localhost:3000/about-avision/why-avision/" class="elementor-sub-item" tabindex="-1">T&#x1EA1;i sao Avision</a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12986"><a href="http://localhost:3000/about-avision/why-avision/" class="elementor-sub-item" tabindex="-1">T&#x1EA1;i sao n&#xEA;n ch&#x1ECD;n Avision?</a>
 	<ul class="sub-menu elementor-nav-menu--dropdown">
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14275"><a href="http://localhost:3000/about-avision/why-avision/core-image-scanning-technology/" class="elementor-sub-item" tabindex="-1">C&#xF4;ng ngh&#x1EC7; qu&#xE9;t h&#xEC;nh &#x1EA3;nh c&#x1ED1;t l&#xF5;i</a></li>
 	</ul>
@@ -1460,7 +1460,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		<a href="http://localhost:3000/shop/flatbed-scanner/fb5000/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="https://www.avision.com/en/wp-content/uploads/2021/09/FB5000-300x300.jpg" class="woo-entry-image-main" alt="FB5000" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/FB5000-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/FB5000-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/FB5000-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/09/FB5000-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/09/FB5000-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/09/FB5000-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/09/FB5000.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a>	</div><!-- .woo-entry-image -->
 
 	<a href="http://localhost:3000/shop/flatbed-scanner/fb5000/" data-quantity="1" class="button product_type_simple" data-product_id="11373" data-product_sku aria-label="Read more about &#x201C;FB5000&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/flatbed-scanner/" rel="tag">M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a></li><li class="title"><h2><a href="http://localhost:3000/shop/flatbed-scanner/fb5000/">FB5000</a></h2></li><li class="price-wrap">
-</li><li class="rating"></li><li class="woo-desc">Nh&#x1EB9;, d&#x1EC5; s&#x1EED; d&#x1EE5;ng FB5000 l&#xE0; th&#x1EBF; h&#x1EC7; m&#xE1;y qu&#xE9;t ph&#x1EB3;ng A3 ti&#x1EBF;p theo c&#x1EE7;a Avision. D&#x1EF1;a tr&#xEA;n c&#xF4;ng ngh&#x1EC7; CIS (C&#x1EA3;m bi&#x1EBF;n h&#xEC;nh &#x1EA3;nh li&#xEA;n h&#x1EC7;), m&#xE1;y qu&#xE9;t m&#x1ECF;ng h&#x1A1;n nhi&#x1EC1;u so v&#x1EDB;i m&#xE1;y qu&#xE9;t truy&#x1EC1;n th&#x1ED1;ng c&#xF3; thi&#x1EBF;t k&#x1EBF; CCD. C&#xF3; kh&#x1EA3; n&#x103;ng qu&#xE9;t l&#xEA;n t&#x1EDB;i kh&#x1ED5; A3, chi&#x1EBF;c FB5000 m&#x1ECF;ng nh&#x1EB9; ho&#xE0;n to&#xE0;n ph&#xF9; h&#x1EE3;p &#x111;&#x1EC3; qu&#xE9;t to&#xE0;n b&#x1ED9; s&#xE1;ch tr&#x1EA3;i r&#x1ED9;ng, hai trang kh&#x1ED5; letter (&#x111;&#x1ED3;ng th&#x1EDD;i), t&#x1EA1;p ch&#xED; kh&#x1ED5; l&#x1EDB;n,&#x2026;</li></ul>
+</li><li class="rating"></li><li class="woo-desc">Nh&#x1EB9;, d&#x1EC5; s&#x1EED; d&#x1EE5;ng FB5000 l&#xE0; th&#x1EBF; h&#x1EC7; m&#xE1;y qu&#xE9;t ph&#x1EB3;ng A3 ti&#x1EBF;p theo c&#x1EE7;a Avision. D&#x1EF1;a tr&#xEA;n c&#xF4;ng ngh&#x1EC7; CIS (C&#x1EA3;m bi&#x1EBF;n h&#xEC;nh &#x1EA3;nh li&#xEA;n h&#x1EC7;), m&#xE1;y qu&#xE9;t m&#x1ECF;ng h&#x1A1;n nhi&#x1EC1;u so v&#x1EDB;i m&#xE1;y qu&#xE9;t truy&#x1EC1;n th&#x1ED1;ng c&#xF3; thi&#x1EBF;t k&#x1EBF; CCD. C&#xF3; kh&#x1EA3; n&#x103;ng qu&#xE9;t l&#xEA;n t&#x1EDB;i kh&#x1ED5; A3, chi&#x1EBF;c FB5000 m&#x1ECF;ng nh&#x1EB9; ho&#xE0;n to&#xE0;n ph&#xF9; h&#x1EE3;p &#x111;&#x1EC3; qu&#xE9;t to&#xE0;n b&#x1ED9; s&#xE1;ch tr&#x1EA3;i r&#x1ED9;ng, hai trang kh&#x1ED5; letter (ho&#x1EB7;c t&#x1B0;&#x1A1;ng &#x111;&#x1B0;&#x1A1;ng), t&#x1EA1;p ch&#xED; kh&#x1ED5; l&#x1EDB;n,&#x2026;</li></ul>
 <ul class="woo-product-gallery">
 
 	
@@ -1600,7 +1600,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/why-avision/"> T&#x1EA1;i sao Avision</a>
+											<a href="http://localhost:3000/why-avision/"> T&#x1EA1;i sao n&#xEA;n ch&#x1ECD;n Avision?</a>
 									</li>
 								<li class="elementor-icon-list-item">
 											<a href="http://localhost:3000/about-avision/corporate-profile/"> H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a>
@@ -1635,7 +1635,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/"> M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/network-scanner/"> M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a>
+											<a href="http://localhost:3000/product-category/network-scanner/"> M&#xE1;y qu&#xE9;t k&#x1EBF;t n&#x1ED1;i m&#x1EA1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
 											<a href="http://localhost:3000/product-category/paperair-series/"> D&#xF2;ng PaperAir</a>
@@ -1649,7 +1649,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-261a51b5 elementor-widget elementor-widget-heading" data-id="261a51b5" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/product-category/printer-mfp/" target="_blank">M&#xE1;y in / MFP</a></h4>		</div>
+			<h4 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/product-category/printer-mfp/" target="_blank">M&#xE1;y in / M&#xE1;y in &#x111;a ch&#x1EE9;c n&#x103;ng</a></h4>		</div>
 				</div>
 				<div class="elementor-element elementor-element-f44253e elementor-widget elementor-widget-heading" data-id="f44253e" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -1687,7 +1687,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-4b4ea00c elementor-widget elementor-widget-heading" data-id="4b4ea00c" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">Theo ch&#xFA;ng t&#xF4;i</h4>		</div>
+			<h4 class="elementor-heading-title elementor-size-default">Theo d&#xF5;i ch&#xFA;ng t&#xF4;i</h4>		</div>
 				</div>
 				<div class="elementor-element elementor-element-5852473a elementor-shape-circle e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="5852473a" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">

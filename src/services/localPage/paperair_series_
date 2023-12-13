@@ -1314,7 +1314,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				</div>
 				<div class="elementor-element elementor-element-4b71b05 elementor-widget elementor-widget-text-editor" data-id="4b71b05" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>Gi&#x1EA3;i ph&#xE1;p l&#xFD; t&#x1B0;&#x1EDF;ng cho vi&#x1EC7;c qu&#xE9;t s&#xE1;ch</p>						</div>
+							<p>Gi&#x1EA3;i Legal t&#x1B0;&#x1EDF;ng cho vi&#x1EC7;c qu&#xE9;t s&#xE1;ch</p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-c735a4c elementor-align-right elementor-widget elementor-widget-button" data-id="c735a4c" data-element_type="widget" data-widget_type="button.default">
 				<div class="elementor-widget-container">
@@ -1588,7 +1588,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-4511afc elementor-widget elementor-widget-text-editor" data-id="4511afc" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-							<p>&#x2759; T&#x1EA1;o c&#xE1;c &#x111;&#x1ECB;nh d&#x1EA1;ng PDF, Word/ Excel/PowerPoint/ JPEG c&#xF3; th&#x1EC3; t&#xEC;m ki&#x1EBF;m v&#xE0; ch&#x1EC9;nh s&#x1EED;a&#x2759; D&#x1EC5; d&#xE0;ng li&#xEA;n k&#x1EBF;t c&#xE1;c b&#x1EA3;n qu&#xE9;t tr&#x1EF1;c ti&#x1EBF;p v&#x1EDB;i e-mail, m&#xE1;y in v&#xE0; m&#xE1;y ch&#x1EE7; &#x111;&#xE1;m m&#xE2;y nh&#x1B0; sharepoint v&#xE0; Google drive, v.v.&#x2759; S&#x1ED1; h&#xF3;a gi&#x1EA3;i ph&#xF3;ng kh&#xF4;ng gian l&#x1B0;u tr&#x1EEF;&#x3002;</p>						</div>
+							<p>&#x2759; T&#x1EA1;o c&#xE1;c &#x111;&#x1ECB;nh d&#x1EA1;ng PDF, Word/ Excel/PowerPoint/ JPEG c&#xF3; th&#x1EC3; t&#xEC;m ki&#x1EBF;m v&#xE0; ch&#x1EC9;nh s&#x1EED;a&#x2759; D&#x1EC5; d&#xE0;ng li&#xEA;n k&#x1EBF;t c&#xE1;c b&#x1EA3;n qu&#xE9;t tr&#x1EF1;c ti&#x1EBF;p v&#x1EDB;i e-mail, m&#xE1;y in v&#xE0; l&#x1B0;u tr&#x1EEF; &#x111;&#xE1;m m&#xE2;y nh&#x1B0; sharepoint v&#xE0; Google drive, v.v.&#x2759; S&#x1ED1; h&#xF3;a gi&#x1EA3;i ph&#xF3;ng kh&#xF4;ng gian l&#x1B0;u tr&#x1EEF;&#x3002;</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -1661,7 +1661,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-fabde73 elementor-widget elementor-widget-heading" data-id="fabde73" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">Theo ch&#xFA;ng t&#xF4;i</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">Theo d&#xF5;i ch&#xFA;ng t&#xF4;i</h2>		</div>
 				</div>
 					</div>
 		</div>

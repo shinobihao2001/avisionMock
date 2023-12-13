@@ -1203,16 +1203,16 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-product-ancestor current-menu-parent current-product-parent menu-item-20505"><a href="http://localhost:3000/product-category/document-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12778"><a href="http://localhost:3000/product-category/flatbed-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12781"><a href="http://localhost:3000/product-category/network-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12781"><a href="http://localhost:3000/product-category/network-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t k&#x1EBF;t n&#x1ED1;i m&#x1EA1;ng</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12779"><a href="http://localhost:3000/product-category/mobile-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12780"><a href="http://localhost:3000/product-category/paperair-series/" class="elementor-sub-item">D&#xF2;ng PaperAir</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12776"><a href="http://localhost:3000/product-category/printer-mfp/" class="elementor-item">M&#xE1;y in / MFP</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12776"><a href="http://localhost:3000/product-category/printer-mfp/" class="elementor-item">M&#xE1;y in / M&#xE1;y in &#x111;a ch&#x1EE9;c n&#x103;ng</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://localhost:3000/product-category/medical/" class="elementor-item">Thi&#x1EBF;t b&#x1ECB; y t&#x1EBF;</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7264"><a href="http://localhost:3000/about-avision/" class="elementor-item">Gi&#x1EDB;i thi&#x1EC7;u v&#x1EC1; Avision</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12986"><a href="http://localhost:3000/about-avision/why-avision/" class="elementor-sub-item">T&#x1EA1;i sao Avision</a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12986"><a href="http://localhost:3000/about-avision/why-avision/" class="elementor-sub-item">T&#x1EA1;i sao n&#xEA;n ch&#x1ECD;n Avision?</a>
 	<ul class="sub-menu elementor-nav-menu--dropdown">
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14275"><a href="http://localhost:3000/about-avision/why-avision/core-image-scanning-technology/" class="elementor-sub-item">C&#xF4;ng ngh&#x1EC7; qu&#xE9;t h&#xEC;nh &#x1EA3;nh c&#x1ED1;t l&#xF5;i</a></li>
 	</ul>
@@ -1245,16 +1245,16 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-product-ancestor current-menu-parent current-product-parent menu-item-20505"><a href="http://localhost:3000/product-category/document-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12778"><a href="http://localhost:3000/product-category/flatbed-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12781"><a href="http://localhost:3000/product-category/network-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12781"><a href="http://localhost:3000/product-category/network-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t k&#x1EBF;t n&#x1ED1;i m&#x1EA1;ng</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12779"><a href="http://localhost:3000/product-category/mobile-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng</a></li>
 	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12780"><a href="http://localhost:3000/product-category/paperair-series/" class="elementor-sub-item" tabindex="-1">D&#xF2;ng PaperAir</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12776"><a href="http://localhost:3000/product-category/printer-mfp/" class="elementor-item" tabindex="-1">M&#xE1;y in / MFP</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12776"><a href="http://localhost:3000/product-category/printer-mfp/" class="elementor-item" tabindex="-1">M&#xE1;y in / M&#xE1;y in &#x111;a ch&#x1EE9;c n&#x103;ng</a></li>
 <li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://localhost:3000/product-category/medical/" class="elementor-item" tabindex="-1">Thi&#x1EBF;t b&#x1ECB; y t&#x1EBF;</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7264"><a href="http://localhost:3000/about-avision/" class="elementor-item" tabindex="-1">Gi&#x1EDB;i thi&#x1EC7;u v&#x1EC1; Avision</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12986"><a href="http://localhost:3000/about-avision/why-avision/" class="elementor-sub-item" tabindex="-1">T&#x1EA1;i sao Avision</a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12986"><a href="http://localhost:3000/about-avision/why-avision/" class="elementor-sub-item" tabindex="-1">T&#x1EA1;i sao n&#xEA;n ch&#x1ECD;n Avision?</a>
 	<ul class="sub-menu elementor-nav-menu--dropdown">
 		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14275"><a href="http://localhost:3000/about-avision/why-avision/core-image-scanning-technology/" class="elementor-sub-item" tabindex="-1">C&#xF4;ng ngh&#x1EC7; qu&#xE9;t h&#xEC;nh &#x1EA3;nh c&#x1ED1;t l&#xF5;i</a></li>
 	</ul>
@@ -1347,8 +1347,8 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-element elementor-element-632c2e2b elementor-widget elementor-widget-woocommerce-product-short-description" data-id="632c2e2b" data-element_type="widget" data-widget_type="woocommerce-product-short-description.default">
 				<div class="elementor-widget-container">
 			<div class="woocommerce-product-details__short-description">
-	<h3>AV332U M&#xE1;y qu&#xE9;t hai m&#x1EB7;t nh&#x1ECF; g&#x1ECD;n v&#xE0; gi&#xE1; c&#x1EA3; ph&#x1EA3;i ch&#x103;ng</h3>
-<p>AV332U l&#xE0; m&#xE1;y qu&#xE9;t n&#x1EA1;p gi&#x1EA5;y hai m&#x1EB7;t, t&#x1ED1;c &#x111;&#x1ED9; 32 trang/ph&#xFA;t/64ipm, nhanh, &#x111;&#xE1;ng tin c&#x1EAD;y v&#xE0; gi&#xE1; c&#x1EA3; ph&#x1EA3;i ch&#x103;ng d&#xE0;nh cho doanh nghi&#x1EC7;p c&#x1EA7;n qu&#xE9;t th&#x1EBB; ID nh&#x1EF1;a, danh thi&#x1EBF;p, t&#xE0;i li&#x1EC7;u ho&#x1EB7;c c&#xE1;c lo&#x1EA1;i th&#x1EBB; n&#x1EB7;ng kh&#xE1;c. V&#x1EDB;i &#x111;&#x1B0;&#x1EDD;ng d&#x1EAB;n gi&#x1EA5;y th&#x1EB3;ng, m&#xE1;y qu&#xE9;t h&#x1ED7; tr&#x1EE3; gi&#x1EA5;y c&#xF3; tr&#x1ECD;ng l&#x1B0;&#x1EE3;ng t&#x1EEB; 27 &#x111;&#x1EBF;n 413g/m2 (7 &#x111;&#x1EBF;n 110 lb) v&#xE0; k&#xED;ch th&#x1B0;&#x1EDB;c 8,5&#x201D; x 14&#x201D; (h&#x1EE3;p ph&#xE1;p) v&#xE0; cho ph&#xE9;p in c&#xE1;c lo&#x1EA1;i th&#x1EBB; nh&#x1EF1;a n&#x1ED5;i nh&#x1B0; th&#x1EBB; t&#xED;n d&#x1EE5;ng ho&#x1EB7;c b&#x1EB1;ng l&#xE1;i xe. d&#xE0;y t&#x1EDB;i 1,25 mm &#x111;&#x1EC3; truy&#x1EC1;n t&#x1EA3;i &#xEA;m &#xE1;i. T&#xED;nh n&#x103;ng ph&#xE1;t hi&#x1EC7;n nhi&#x1EC1;u ngu&#x1ED3;n c&#x1EA5;p d&#x1EEF; li&#x1EC7;u b&#x1EB1;ng si&#xEA;u &#xE2;m &#x111;&#x1EA3;m b&#x1EA3;o v&#x1EDB;i b&#x1EA1;n r&#x1EB1;ng kh&#xF4;ng m&#x1ED9;t trang n&#xE0;o trong t&#xE0;i li&#x1EC7;u c&#x1EE7;a b&#x1EA1;n s&#x1EBD; b&#x1ECB; m&#x1EA5;t.</p>
+	<h3>AV332U M&#xE1;y qu&#xE9;t hai m&#x1EB7;t nh&#x1ECF; g&#x1ECD;n v&#xE0; gi&#xE1; c&#x1EA3; h&#x1EE3;p l&#xFD;</h3>
+<p>AV332U l&#xE0; m&#xE1;y qu&#xE9;t n&#x1EA1;p gi&#x1EA5;y hai m&#x1EB7;t, t&#x1ED1;c &#x111;&#x1ED9; 32 trang/ph&#xFA;t/64&#x1EA3;nh/ph&#xFA;t, nhanh, &#x111;&#xE1;ng tin c&#x1EAD;y v&#xE0; gi&#xE1; c&#x1EA3; h&#x1EE3;p l&#xFD; d&#xE0;nh cho doanh nghi&#x1EC7;p c&#x1EA7;n qu&#xE9;t th&#x1EBB; ID nh&#x1EF1;a, danh thi&#x1EBF;p, t&#xE0;i li&#x1EC7;u ho&#x1EB7;c c&#xE1;c lo&#x1EA1;i gi&#x1EA5;y d&#xE0;y kh&#xE1;c. V&#x1EDB;i &#x111;&#x1B0;&#x1EDD;ng d&#x1EAB;n gi&#x1EA5;y th&#x1EB3;ng, m&#xE1;y qu&#xE9;t h&#x1ED7; tr&#x1EE3; gi&#x1EA5;y c&#xF3; tr&#x1ECD;ng l&#x1B0;&#x1EE3;ng t&#x1EEB; 27 &#x111;&#x1EBF;n 413g/m2 (7 &#x111;&#x1EBF;n 110 lb) v&#xE0; k&#xED;ch th&#x1B0;&#x1EDB;c 8,5&#x201D; x 14&#x201D; (h&#x1EE3;p ph&#xE1;p) v&#xE0; cho ph&#xE9;p in c&#xE1;c lo&#x1EA1;i th&#x1EBB; nh&#x1EF1;a n&#x1ED5;i nh&#x1B0; th&#x1EBB; t&#xED;n d&#x1EE5;ng ho&#x1EB7;c b&#x1EB1;ng l&#xE1;i xe. d&#xE0;y t&#x1EDB;i 1,25 mm &#x111;&#x1EC3; truy&#x1EC1;n t&#x1EA3;i &#xEA;m &#xE1;i. T&#xED;nh n&#x103;ng ph&#xE1;t hi&#x1EC7;n nhi&#x1EC1;u ngu&#x1ED3;n c&#x1EA5;p d&#x1EEF; li&#x1EC7;u b&#x1EB1;ng si&#xEA;u &#xE2;m &#x111;&#x1EA3;m b&#x1EA3;o v&#x1EDB;i b&#x1EA1;n r&#x1EB1;ng kh&#xF4;ng m&#x1ED9;t trang n&#xE0;o trong t&#xE0;i li&#x1EC7;u c&#x1EE7;a b&#x1EA1;n s&#x1EBD; b&#x1ECB; m&#x1EA5;t.</p>
 </div>
 		</div>
 				</div>
@@ -1385,10 +1385,10 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<div class="woocommerce-tabs wc-tabs-wrapper">
 		<ul class="tabs wc-tabs" role="tablist">
 							<li class="description_tab" id="tab-title-description" role="tab" aria-controls="tab-description">
-					<a href="#tab-description"> &#x110;&#x1EB7;c tr&#x1B0;ng</a>
+					<a href="#tab-description"> T&#xED;nh n&#x103;ng</a>
 				</li>
 							<li class="additional_information_tab" id="tab-title-additional_information" role="tab" aria-controls="tab-additional_information">
-					<a href="#tab-additional_information"> S&#x1EF1; ch&#x1EC9; r&#xF5;</a>
+					<a href="#tab-additional_information"> Th&#xF4;ng s&#x1ED1; k&#x1EF9; thu&#x1EAD;t</a>
 				</li>
 							<li class="Downloads_tab" id="tab-title-Downloads" role="tab" aria-controls="tab-Downloads">
 					<a href="#tab-Downloads"> T&#x1EA3;i xu&#x1ED1;ng</a>
@@ -1407,21 +1407,21 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <div class="su-spacer" style="height:25px"></div>
 <h3>&#x258D;&#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i quang h&#x1ECD;c cao 600 dpi</h3>
 <p>V&#x1EDB;i &#x111;&#x1ED9; ph&#xE2;n gi&#x1EA3;i quang h&#x1ECD;c cao 600 dpi v&#xE0; c&#xF4;ng ngh&#x1EC7; x&#x1EED; l&#xFD; h&#xEC;nh &#x1EA3;nh ti&#xEA;n ti&#x1EBF;n, b&#x1EA1;n c&#xF3; th&#x1EC3; y&#xEA;n t&#xE2;m r&#x1EB1;ng t&#xE0;i li&#x1EC7;u c&#xF3; th&#x1EC3; &#x111;&#x1B0;&#x1EE3;c chuy&#x1EC3;n &#x111;&#x1ED5;i v&#x1EDB;i ch&#x1EA5;t l&#x1B0;&#x1EE3;ng h&#xEC;nh &#x1EA3;nh cao nh&#x1EA5;t. Ngo&#xE0;i ra, v&#x1EDB;i m&#xF4;-&#x111;un CIS (C&#x1EA3;m bi&#x1EBF;n h&#xEC;nh &#x1EA3;nh li&#xEA;n h&#x1EC7;) t&#xED;ch h&#x1EE3;p, AV332U kh&#xF4;ng y&#xEA;u c&#x1EA7;u th&#x1EDD;i gian kh&#x1EDF;i &#x111;&#x1ED9;ng.</p>
-<h3>&#x258D;Thi&#x1EBF;t k&#x1EBF; s&#xE1;ng t&#x1EA1;o &#x111;&#x1EC3; ti&#x1EBF;t ki&#x1EC7;m kh&#xF4;ng gian c&#x1EE7;a b&#x1EA1;n</h3>
+<h3>&#x258D;Thi&#x1EBF;t k&#x1EBF; s&#xE1;ng t&#x1EA1;o v&#xE0; nh&#x1ECF; g&#x1ECD;n</h3>
 <p>AV332U c&#xF3; thi&#x1EBF;t k&#x1EBF; &#x111;&#x1ED9;c &#x111;&#xE1;o v&#xE0; phong c&#xE1;ch v&#xEC; c&#x1EA3; khay gi&#x1EA5;y &#x111;&#x1EA7;u v&#xE0;o v&#xE0; &#x111;&#x1EA7;u ra &#x111;&#x1EC1;u c&#xF3; th&#x1EC3; g&#x1EAD;p l&#x1EA1;i khi kh&#xF4;ng s&#x1EED; d&#x1EE5;ng. Khay gi&#x1EA5;y c&#xF2;n gi&#xFA;p b&#x1EA3;o v&#x1EC7; m&#xE1;y kh&#x1ECF;i b&#x1EE5;i b&#x1EA9;n. Kh&#xF4;ng gi&#x1ED1;ng nh&#x1B0; c&#xE1;c m&#xE1;y qu&#xE9;t th&#xF4;ng th&#x1B0;&#x1EDD;ng c&#x1ED3;ng k&#x1EC1;nh, AV332U m&#x1ECF;ng c&#xF3; th&#x1EC3; d&#x1EC5; d&#xE0;ng mang theo v&#xE0; &#x111;&#x1EB7;t v&#x1EEB;a tr&#xEA;n b&#xE0;n m&#xE0; kh&#xF4;ng chi&#x1EBF;m nhi&#x1EC1;u di&#x1EC7;n t&#xED;ch.</p>
 <h3>&#x258D;&#x1EE8;ng d&#x1EE5;ng ph&#x1EA7;n m&#x1EC1;m &#x111;i k&#xE8;m m&#x1EA1;nh m&#x1EBD;</h3>
-<p>AV332U &#x111;i k&#xE8;m v&#x1EDB;i tr&#xEC;nh &#x111;i&#x1EC1;u khi&#x1EC3;n TWAIN v&#xE0; ISIS, &#x111;&#x1ED3;ng th&#x1EDD;i &#x111;&#x1B0;&#x1EE3;c t&#xED;ch h&#x1EE3;p m&#x1ED9;t b&#x1ED9; &#x1EE9;ng d&#x1EE5;ng ph&#x1EA7;n m&#x1EC1;m m&#x1EA1;nh m&#x1EBD; bao g&#x1ED3;m Tr&#xEC;nh qu&#x1EA3;n l&#xFD; n&#xFA;t Avision, AVScan v&#xE0; PaperPort. V&#x1EDB;i Tr&#xEC;nh qu&#x1EA3;n l&#xFD; n&#xFA;t, b&#x1EA1;n c&#xF3; th&#x1EC3; t&#x1EA1;o c&#xE1;c t&#x1EC7;p PDF c&#xF3; th&#x1EC3; t&#xEC;m ki&#x1EBF;m, qu&#xE9;t v&#xE0; g&#x1EED;i h&#xEC;nh &#x1EA3;nh t&#x1EDB;i e-mail, m&#xE1;y in ho&#x1EB7;c m&#xE1;y ch&#x1EE7; &#x111;&#xE1;m m&#xE2;y nh&#x1B0; Google Drive&#x2122; ho&#x1EB7;c Evernote&#xAE; ch&#x1EC9; b&#x1EB1;ng m&#x1ED9;t n&#xFA;t nh&#x1EA5;n &#x111;&#x1A1;n gi&#x1EA3;n. AVScan v&#xE0; PaperPort l&#xE0; ph&#x1EA7;n m&#x1EC1;m qu&#x1EA3;n l&#xFD; t&#xE0;i li&#x1EC7;u v&#xE0; x&#x1EED; l&#xFD; h&#xEC;nh &#x1EA3;nh hi&#x1EC7;u qu&#x1EA3; cao gi&#xFA;p b&#x1EA1;n s&#x1EAF;p x&#x1EBF;p c&#xF4;ng vi&#x1EC7;c c&#x1EE7;a m&#xEC;nh hi&#x1EC7;u qu&#x1EA3; h&#x1A1;n.</p>
+<p>AV332U &#x111;i k&#xE8;m v&#x1EDB;i TWAIN Driver v&#xE0; ISIS, ho&#x1EB7;c t&#x1B0;&#x1A1;ng &#x111;&#x1B0;&#x1A1;ng &#x111;&#x1B0;&#x1EE3;c t&#xED;ch h&#x1EE3;p m&#x1ED9;t b&#x1ED9; &#x1EE9;ng d&#x1EE5;ng ph&#x1EA7;n m&#x1EC1;m m&#x1EA1;nh m&#x1EBD; bao g&#x1ED3;m Avision Button Manager, AVScan v&#xE0; PaperPort. V&#x1EDB;i Button Manager, b&#x1EA1;n c&#xF3; th&#x1EC3; t&#x1EA1;o c&#xE1;c t&#x1EC7;p PDF c&#xF3; th&#x1EC3; t&#xEC;m ki&#x1EBF;m, qu&#xE9;t v&#xE0; g&#x1EED;i h&#xEC;nh &#x1EA3;nh t&#x1EDB;i e-mail, m&#xE1;y in ho&#x1EB7;c l&#x1B0;u tr&#x1EEF; &#x111;&#xE1;m m&#xE2;y nh&#x1B0; Google Drive&#x2122; ho&#x1EB7;c Evernote&#xAE; ch&#x1EC9; b&#x1EB1;ng m&#x1ED9;t n&#xFA;t nh&#x1EA5;n &#x111;&#x1A1;n gi&#x1EA3;n. AVScan v&#xE0; PaperPort l&#xE0; ph&#x1EA7;n m&#x1EC1;m qu&#x1EA3;n l&#xFD; t&#xE0;i li&#x1EC7;u v&#xE0; x&#x1EED; l&#xFD; h&#xEC;nh &#x1EA3;nh hi&#x1EC7;u qu&#x1EA3; cao gi&#xFA;p b&#x1EA1;n s&#x1EAF;p x&#x1EBF;p c&#xF4;ng vi&#x1EC7;c c&#x1EE7;a m&#xEC;nh hi&#x1EC7;u qu&#x1EA3; h&#x1A1;n.</p>
 <p>&#xA0;</p>
 <h3>&#x258D;T&#xED;nh n&#x103;ng</h3>
 <ul>
-<li>T&#x1ED1;c &#x111;&#x1ED9; qu&#xE9;t cao l&#xEA;n t&#x1EDB;i 32 trang/ph&#xFA;t/64ipm &#x1EDF; (A4, M&#xE0;u, 300 dpi)</li>
+<li>T&#x1ED1;c &#x111;&#x1ED9; qu&#xE9;t cao l&#xEA;n t&#x1EDB;i 32 trang/ph&#xFA;t/64&#x1EA3;nh/ph&#xFA;t &#x1EDF; (A4, M&#xE0;u, 300 dpi)</li>
 <li>D&#x1EC5; d&#xE0;ng mang theo do thi&#x1EBF;t k&#x1EBF; m&#x1ECF;ng</li>
 <li>H&#x1ED7; tr&#x1EE3; th&#x1EBB; nh&#x1EF1;a d&#x1EAD;p n&#x1ED5;i</li>
-<li>Ph&#xE1;t hi&#x1EC7;n nhi&#x1EC1;u ngu&#x1ED3;n c&#x1EA5;p d&#x1EEF; li&#x1EC7;u si&#xEA;u &#xE2;m</li>
+<li>Ph&#xE1;t hi&#x1EC7;n gi&#x1EA5;y k&#xE9;p b&#x1EB1;ng c&#xF4;ng ngh&#x1EC7; s&#xF3;ng si&#xEA;u &#xE2;m</li>
 <li>C&#xE1;c &#x1EE9;ng d&#x1EE5;ng ph&#x1EA7;n m&#x1EC1;m &#x111;i k&#xE8;m chuy&#xEA;n nghi&#x1EC7;p bao g&#x1ED3;m Avision Button Manager, AVScan, PaperPort</li>
 <li>C&#xF4;ng ngh&#x1EC7; LED th&#xE2;n thi&#x1EC7;n v&#x1EDB;i tr&#xE1;i &#x111;&#x1EA5;t</li>
 <li>ADF nh&#x1ECF; g&#x1ECD;n ch&#x1EE9;a t&#x1EDB;i 50 trang</li>
-<li>Nh&#x1EA5;n v&#xE0; qu&#xE9;t t&#x1EDB;i c&#xE1;c m&#xE1;y ch&#x1EE7; &#x111;&#xE1;m m&#xE2;y nh&#x1B0; Google Drive, FTP, Evernote v&#xE0; Microsoft SharePoint th&#xF4;ng qua Tr&#xEC;nh qu&#x1EA3;n l&#xFD; n&#xFA;t</li>
+<li>Nh&#x1EA5;n v&#xE0; qu&#xE9;t t&#x1EDB;i c&#xE1;c l&#x1B0;u tr&#x1EEF; &#x111;&#xE1;m m&#xE2;y nh&#x1B0; Google Drive, FTP, Evernote v&#xE0; Microsoft SharePoint th&#xF4;ng qua Button Manager</li>
 </ul>
 <p>&#xA0;</p>
 <hr>
@@ -1451,19 +1451,19 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			</div>
 					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--additional_information panel entry-content wc-tab" id="tab-additional_information" role="tabpanel" aria-labelledby="tab-title-additional_information">
 				
-	<h2>S&#x1EF1; ch&#x1EC9; r&#xF5;</h2>
+	<h2>Th&#xF4;ng s&#x1ED1; k&#x1EF9; thu&#x1EAD;t</h2>
 
 <table class="woocommerce-product-attributes shop_attributes">
 			<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_g01">
 							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color: #0e3a65; text-align: center; color: white;;">&#x110;&#x1EB7;c &#x111;i&#x1EC3;m k&#x1EF9; thu&#x1EAD;t chung</td>
 						</tr><tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_001">
 							<th class="woocommerce-product-attributes-item__label">C&#xF4;ng ngh&#x1EC7;</th>
-				<td class="woocommerce-product-attributes-item__value"><p>C&#x1EA3;m bi&#x1EBF;n h&#xEC;nh &#x1EA3;nh li&#xEA;n h&#x1EC7; (CIS)</p>
+				<td class="woocommerce-product-attributes-item__value"><p>C&#x1EA3;m bi&#x1EBF;n h&#xEC;nh &#x1EA3;nh ti&#x1EBF;p x&#xFA;c(CIS)</p>
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_002">
 							<th class="woocommerce-product-attributes-item__label">Ngu&#x1ED3;n s&#xE1;ng</th>
-				<td class="woocommerce-product-attributes-item__value"><p>D&#x1EAA;N &#x110;&#x1EBE;N</p>
+				<td class="woocommerce-product-attributes-item__value"><p>LED</p>
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_003">
@@ -1487,8 +1487,8 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_009">
-							<th class="woocommerce-product-attributes-item__label">M&#x1EAB;u b&#xE1;n s&#x1EAF;c</th>
-				<td class="woocommerce-product-attributes-item__value"><p>H&#xF2;a s&#x1EAF;c v&#xE0; khu&#x1EBF;ch t&#xE1;n l&#x1ED7;i</p>
+							<th class="woocommerce-product-attributes-item__label">Hi&#x1EC7;u &#x1EE9;ng b&#xE1;n t&#xF4;ng</th>
+				<td class="woocommerce-product-attributes-item__value"><p>L&#x1ECD;c &#x111;i&#x1EC3;m &#x1EA3;nh v&#xE0; s&#x1EAF;p x&#x1EBF;p kh&#x1ED1;i &#x111;&#x1EAD;m &#x111;&#x1EB7;c</p>
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_010">
@@ -1517,7 +1517,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_015">
-							<th class="woocommerce-product-attributes-item__label">Giao di&#x1EC7;n</th>
+							<th class="woocommerce-product-attributes-item__label">Tr&#xEC;nh &#x111;i&#x1EC1;u khi&#x1EC3;n</th>
 				<td class="woocommerce-product-attributes-item__value"><p>USB 2.0</p>
 </td>
 		</tr>
@@ -1532,25 +1532,25 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_024">
-							<th class="woocommerce-product-attributes-item__label">Kh&#x1ED1;i l&#x1B0;&#x1EE3;ng &#x111;&#x1EC1; xu&#x1EA5;t h&#xE0;ng ng&#xE0;y</th>
+							<th class="woocommerce-product-attributes-item__label">C&#xF4;ng su&#x1EA5;t qu&#xE9;t/ng&#xE0;y</th>
 				<td class="woocommerce-product-attributes-item__value"><p>L&#xEA;n t&#x1EDB;i 5.000 trang</p>
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_025">
 							<th class="woocommerce-product-attributes-item__label">H&#x1ED7; tr&#x1EE3; h&#x1EC7; &#x111;i&#x1EC1;u h&#xE0;nh</th>
-				<td class="woocommerce-product-attributes-item__value"><p>Th&#x1EAF;ng 7, th&#x1EAF;ng 8, th&#x1EAF;ng 10, th&#x1EAF;ng 11</p>
+				<td class="woocommerce-product-attributes-item__value"><p>Win 7, Win 8, Win 10, Win 11</p>
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_026">
-							<th class="woocommerce-product-attributes-item__label">Ph&#x1EA7;n m&#x1EC1;m &#x111;&#xF3;ng g&#xF3;i</th>
-				<td class="woocommerce-product-attributes-item__value"><p>Tr&#xEC;nh &#x111;i&#x1EC1;u khi&#x1EC3;n TWAIN, Tr&#xEC;nh &#x111;i&#x1EC1;u khi&#x1EC3;n ISIS, Tr&#xEC;nh qu&#x1EA3;n l&#xFD; n&#xFA;t, PaperPort, AVScan, Tr&#xEC;nh &#x111;i&#x1EC1;u khi&#x1EC3;n WIA</p>
+							<th class="woocommerce-product-attributes-item__label">Ph&#x1EA7;n m&#x1EC1;m &#x111;i k&#xE8;m</th>
+				<td class="woocommerce-product-attributes-item__value"><p>TWAIN Driver, ISIS Driver, Button Manager, PaperPort, AVScan, Tr&#xEC;nh &#x111;i&#x1EC1;u khi&#x1EC3;n WIA</p>
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_g02">
-							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color: #0e3a65; text-align: center; color: white;;">&#x110;&#x1EB7;c tr&#x1B0;ng</td>
+							<td colspan="2" class="woocommerce-product-attributes-item__label" style="background-color: #0e3a65; text-align: center; color: white;;">T&#xED;nh n&#x103;ng</td>
 						</tr><tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_027">
 							<th class="woocommerce-product-attributes-item__label">Ph&#xE1;t hi&#x1EC7;n k&#x1EB9;t gi&#x1EA5;y si&#xEA;u &#xE2;m</th>
-				<td class="woocommerce-product-attributes-item__value"><p>&#x110;&#xFA;ng</p>
+				<td class="woocommerce-product-attributes-item__value"><p>C&#xF3;</p>
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_028">
@@ -1572,7 +1572,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_032">
 							<th class="woocommerce-product-attributes-item__label">ADF t&#x1ED1;i &#x111;a</th>
-				<td class="woocommerce-product-attributes-item__value"><p>216 x 356 mm (Ph&#xE1;p l&#xFD;)( 8,5 x 14 in.)</p>
+				<td class="woocommerce-product-attributes-item__value"><p>216 x 356 mm (Legal)( 8,5 x 14 in.)</p>
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_034">
@@ -1611,7 +1611,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<font size="2"><p align="right"><font color="#0e3a65">* C&#xE1;c th&#xF4;ng s&#x1ED1; k&#x1EF9; thu&#x1EAD;t tr&#xEA;n c&#xF3; th&#x1EC3; thay &#x111;&#x1ED5;i t&#xF9;y theo hi&#x1EC7;u su&#x1EA5;t m&#xE1;y t&#xED;nh v&#xE0; khu v&#x1EF1;c b&#xE1;n h&#xE0;ng. &#x110;&#x1EC3; bi&#x1EBF;t th&#xEA;m chi ti&#x1EBF;t, vui l&#xF2;ng tham kh&#x1EA3;o nh&#xE0; ph&#xE2;n ph&#x1ED1;i &#x111;&#x1ECB;a ph&#x1B0;&#x1A1;ng c&#x1EE7;a b&#x1EA1;n.</font></p></font>
 				</div>
 					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--Downloads panel entry-content wc-tab" id="tab-Downloads" role="tabpanel" aria-labelledby="tab-title-Downloads">
-				<div><h2 class="elementor-heading-title elementor-size-default">&#x258E;H&#xEC;nh &#x1EA3;nh s&#x1EA3;n ph&#x1EA9;m</h2></div><div><table><tbody><tr><td rowspan="4" bgcolor="#fff"><img src="https://www.avision.com/en/wp-content/uploads/download-manager-files/AV332_series_AV332series-Medium.jpg" alt="200" width="200"></td></tr><tr><th> &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i cao</th><th> &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i trung b&#xEC;nh</th><th> &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i th&#x1EA5;p</th></tr><tr><td>15,41 MB</td><td>616,48 KB</td><td>251,70 KB</td></tr><tr><td bgcolor="#fff"><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><font color="#555555"><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/AV332_series_AV332series-High.tif" download>T&#x1EA3;i xu&#x1ED1;ng</a></font></td><td bgcolor="#fff"><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/AV332_series_AV332series-Medium.jpg" download>T&#x1EA3;i xu&#x1ED1;ng</a></td><td bgcolor="#fff"><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/AV332_series_AV332series-Low.jpg" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;H&#x1B0;&#x1EDB;ng d&#x1EAB;n s&#x1EED; d&#x1EE5;ng</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>D&#xF2;ng AV332</td><td>Ti&#x1EBF;ng Trung gi&#x1EA3;n th&#x1EC3;</td><td>4,79 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_cs_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>truy&#x1EC1;n th&#x1ED1;ng Trung Qu&#x1ED1;c</td><td>4,89 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_ct_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>ti&#x1EBF;ng &#x110;&#x1EE9;c</td><td>4,54MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_de_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>Ti&#x1EBF;ng Anh</td><td>4,62 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_en_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>ng&#x1B0;&#x1EDD;i T&#xE2;y Ban Nha</td><td>4,72 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_es_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>ng&#x1B0;&#x1EDD;i Ph&#xE1;p</td><td>4,56MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_fr_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>ti&#x1EBF;ng Do Th&#xE1;i</td><td>5,39MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_he_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>ng&#x1B0;&#x1EDD;i &#xDD;</td><td>4,67MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_it_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>ti&#x1EBF;ng Nh&#x1EAD;t</td><td>5,24 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_jp_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>H&#xE0;n Qu&#x1ED1;c</td><td>6,60MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_kr_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>&#x110;&#xE1;nh b&#xF3;ng</td><td>5,12MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_pl_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>ti&#x1EBF;ng B&#x1ED3; &#x110;&#xE0;o Nha</td><td>6,44MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_pt_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>ti&#x1EBF;ng Nga</td><td>4,77MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_ru_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;H&#x1B0;&#x1EDB;ng d&#x1EAB;n nhanh</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>AV332U</td><td>Ti&#x1EBF;ng Trung gi&#x1EA3;n th&#x1EC3;</td><td>1,66 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/AV332_series_Quick_Guide_cs.pdf" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AV332U</td><td>&#x110;a ng&#xF4;n ng&#x1EEF;</td><td>1,92 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/AV332_series_Quick_Guide_all.pdf" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;Ph&#x1EA7;n m&#x1EC1;m</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>H&#x1ED7; tr&#x1EE3; h&#x1EC7; &#x111;i&#x1EC1;u h&#xE0;nh</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>c&#x1ED5;ng gi&#x1EA5;y</td><td>14</td><td>455,79MB</td><td>Th&#x1EAF;ng 7, th&#x1EAF;ng 8, th&#x1EAF;ng 10, th&#x1EAF;ng 11</td><td>T&#x1EA3;i xu&#x1ED1;ng</td></tr><tr><td>&#x110;&#x1ED9;i th&#x1EBB; th&#x1EBF; gi&#x1EDB;i</td><td>V3.0.0.0(WCT)</td><td>235 MB</td><td>Th&#x1EAF;ng 7, th&#x1EAF;ng 8, th&#x1EAF;ng 10, th&#x1EAF;ng 11</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/BM2_WCT_20210209.zip" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>Tr&#xEC;nh qu&#x1EA3;n l&#xFD; n&#xFA;t V2</td><td>V3.0.0.0</td><td>595 MB</td><td>Th&#x1EAF;ng 7, th&#x1EAF;ng 8, th&#x1EAF;ng 10, th&#x1EAF;ng 11</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://avwebcdnpoint.azureedge.net/software/BM2_V3000_20210115.zip" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AVScan X</td><td>V1.2.1.1</td><td>549,70MB</td><td>Th&#x1EAF;ng 7, th&#x1EAF;ng 8, th&#x1EAF;ng 10, th&#x1EAF;ng 11</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://avwebcdnpoint.azureedge.net/software/AVScanX_V1211_20180831.zip" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;Tr&#xEC;nh &#x111;i&#x1EC1;u khi&#x1EC3;n</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>H&#x1ED7; tr&#x1EE3; h&#x1EC7; &#x111;i&#x1EC1;u h&#xE0;nh</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>AV332U</td><td>VB.20</td><td>139MB</td><td>Th&#x1EAF;ng 7, th&#x1EAF;ng 8, th&#x1EAF;ng 10</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/AV332U_VB20_20200409.zip" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div>			</div>
+				<div><h2 class="elementor-heading-title elementor-size-default">&#x258E;H&#xEC;nh &#x1EA3;nh s&#x1EA3;n ph&#x1EA9;m</h2></div><div><table><tbody><tr><td rowspan="4" bgcolor="#fff"><img src="https://www.avision.com/en/wp-content/uploads/download-manager-files/AV332_series_AV332series-Medium.jpg" alt="200" width="200"></td></tr><tr><th> &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i cao</th><th> &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i trung b&#xEC;nh</th><th> &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i th&#x1EA5;p</th></tr><tr><td>15,41 MB</td><td>616,48 KB</td><td>251,70 KB</td></tr><tr><td bgcolor="#fff"><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><font color="#555555"><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/AV332_series_AV332series-High.tif" download>T&#x1EA3;i xu&#x1ED1;ng</a></font></td><td bgcolor="#fff"><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/AV332_series_AV332series-Medium.jpg" download>T&#x1EA3;i xu&#x1ED1;ng</a></td><td bgcolor="#fff"><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/AV332_series_AV332series-Low.jpg" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;H&#x1B0;&#x1EDB;ng d&#x1EAB;n s&#x1EED; d&#x1EE5;ng</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>D&#xF2;ng AV332</td><td>Ti&#x1EBF;ng Trung gi&#x1EA3;n th&#x1EC3;</td><td>4,79 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_cs_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>truy&#x1EC1;n th&#x1ED1;ng Trung Qu&#x1ED1;c</td><td>4,89 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_ct_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>ti&#x1EBF;ng &#x110;&#x1EE9;c</td><td>4,54MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_de_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>Ti&#x1EBF;ng Anh</td><td>4,62 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_en_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>ng&#x1B0;&#x1EDD;i T&#xE2;y Ban Nha</td><td>4,72 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_es_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>ng&#x1B0;&#x1EDD;i Ph&#xE1;p</td><td>4,56MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_fr_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>ti&#x1EBF;ng Do Th&#xE1;i</td><td>5,39MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_he_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>ng&#x1B0;&#x1EDD;i &#xDD;</td><td>4,67MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_it_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>ti&#x1EBF;ng Nh&#x1EAD;t</td><td>5,24 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_jp_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>H&#xE0;n Qu&#x1ED1;c</td><td>6,60MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_kr_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>&#x110;&#xE1;nh b&#xF3;ng</td><td>5,12MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_pl_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>ti&#x1EBF;ng B&#x1ED3; &#x110;&#xE0;o Nha</td><td>6,44MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_pt_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>D&#xF2;ng AV332</td><td>ti&#x1EBF;ng Nga</td><td>4,77MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/manual_ru_250-1134-E_AV332_V600.pdf " download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;H&#x1B0;&#x1EDB;ng d&#x1EAB;n nhanh</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>AV332U</td><td>Ti&#x1EBF;ng Trung gi&#x1EA3;n th&#x1EC3;</td><td>1,66 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/AV332_series_Quick_Guide_cs.pdf" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AV332U</td><td>&#x110;a ng&#xF4;n ng&#x1EEF;</td><td>1,92 MB</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/AV332_series_Quick_Guide_all.pdf" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;Ph&#x1EA7;n m&#x1EC1;m</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>H&#x1ED7; tr&#x1EE3; h&#x1EC7; &#x111;i&#x1EC1;u h&#xE0;nh</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>PaperPort</td><td>14</td><td>455,79MB</td><td>Win 7, Win 8, Win 10, Win 11</td><td>T&#x1EA3;i xu&#x1ED1;ng</td></tr><tr><td>WorldCard Team</td><td>V3.0.0.0(WCT)</td><td>235 MB</td><td>Win 7, Win 8, Win 10, Win 11</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/BM2_WCT_20210209.zip" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>Button Manager V2</td><td>V3.0.0.0</td><td>595 MB</td><td>Win 7, Win 8, Win 10, Win 11</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://avwebcdnpoint.azureedge.net/software/BM2_V3000_20210115.zip" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr><tr><td>AVScan X</td><td>V1.2.1.1</td><td>549,70MB</td><td>Win 7, Win 8, Win 10, Win 11</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://avwebcdnpoint.azureedge.net/software/AVScanX_V1211_20180831.zip" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div><div><h2 class="elementor-heading-title elementor-size-default">&#x258E;Tr&#xEC;nh &#x111;i&#x1EC1;u khi&#x1EC3;n</h2></div><div class="elementor-element elementor-element-d3f00a2 elementor-widget elementor-widget-spacer" data-id="d3f00a2" data-element_type="widget" data-widget_type="spacer.default"><div class="elementor-widget-container"><div class="elementor-spacer"><div class="elementor-spacer-inner"></div></div></div></div><div class="elementor-element elementor-element-7406d41 elementor-widget elementor-widget-html" data-id="7406d41" data-element_type="widget" data-widget_type="html.default"><div class="elementor-widget-container"><table><thead><tr><th>T&#xEA;n</th><th>Phi&#xEA;n b&#x1EA3;n</th><th>K&#xED;ch c&#x1EE1;</th><th>H&#x1ED7; tr&#x1EE3; h&#x1EC7; &#x111;i&#x1EC1;u h&#xE0;nh</th><th>li&#xEA;n k&#x1EBF;t</th></tr></thead><tbody><tr><td>AV332U</td><td>VB.20</td><td>139MB</td><td>Win 7, Win 8, Win 10</td><td><span class="elementor-button-icon elementor-align-icon-left"><i aria-hidden="true" class="fas fa-chevron-circle-down"></i></span><a href="https://www.avision.com/en/wp-content/uploads/download-manager-files/AV332U_VB20_20200409.zip" download>T&#x1EA3;i xu&#x1ED1;ng</a></td></tr></tbody></table></div></div>			</div>
 					<div class="woocommerce-Tabs-panel woocommerce-Tabs-panel--desc_tab panel entry-content wc-tab" id="tab-desc_tab" role="tabpanel" aria-labelledby="tab-title-desc_tab">
 				<section id class="helpie-faq accordions faq-toggle custom-styles open-first " data-collection data-pagination="0" data-search="0" data-pagination-enabled="0"><form class="search"><div class="search__wrapper"><input type="text" class="search__input" placeholder="Search FAQ"><span class="search__icon">
                         
@@ -1693,7 +1693,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. M&#x1EDF; giao di&#x1EC7;n ng&#x1B0;&#x1EDD;i d&#xF9;ng TWAIN. Trong tab H&#xEC;nh &#x1EA3;nh, ch&#x1ECD;n 600 dpi t&#x1EEB; t&#xF9;y ch&#x1ECD;n &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i v&#xE0; th&#x1EED; l&#x1EA1;i.</p>
+<p>1. M&#x1EDF; Tr&#xEC;nh &#x111;i&#x1EC1;u khi&#x1EC3;n ng&#x1B0;&#x1EDD;i d&#xF9;ng TWAIN. Trong tab H&#xEC;nh &#x1EA3;nh, ch&#x1ECD;n 600 dpi t&#x1EEB; t&#xF9;y ch&#x1ECD;n &#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i v&#xE0; th&#x1EED; l&#x1EA1;i.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":20992,"sizeSlug":"full","linkDestination":"none"} -->
@@ -1707,7 +1707,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. Ki&#x1EC3;m tra xem m&#xE1;y qu&#xE9;t &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c k&#x1EBF;t n&#x1ED1;i &#x111;&#xFA;ng c&#xE1;ch v&#x1EDB;i ngu&#x1ED3;n &#x111;i&#x1EC7;n ch&#x1B0;a.</p>
+<p>1. Ki&#x1EC3;m tra xem m&#xE1;y qu&#xE9;t &#x111;&#xE3; &#x111;&#x1B0;&#x1EE3;c k&#x1EBF;t n&#x1ED1;i C&#xF3; c&#xE1;ch v&#x1EDB;i ngu&#x1ED3;n &#x111;i&#x1EC7;n ch&#x1B0;a.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
@@ -1741,7 +1741,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. M&#x1EDF; giao di&#x1EC7;n ng&#x1B0;&#x1EDD;i d&#xF9;ng TWAIN. Trong tab H&#xEC;nh &#x1EA3;nh, ch&#xFA;ng t&#xF4;i khuy&#xEA;n b&#x1EA1;n n&#xEA;n ch&#x1ECD;n T&#xE0;i li&#x1EC7;u t&#x1EEB; t&#xF9;y ch&#x1ECD;n Kh&#x1EDB;p m&#xE0;u v&#xE0; th&#x1EED; l&#x1EA1;i n&#x1EBF;u b&#x1EA1;n qu&#xE9;t t&#xE0;i li&#x1EC7;u thu&#x1ED9;c lo&#x1EA1;i ch&#xED;nh th&#x1EE9;c.</p>
+<p>1. M&#x1EDF; Tr&#xEC;nh &#x111;i&#x1EC1;u khi&#x1EC3;n ng&#x1B0;&#x1EDD;i d&#xF9;ng TWAIN. Trong tab H&#xEC;nh &#x1EA3;nh, ch&#xFA;ng t&#xF4;i khuy&#xEA;n b&#x1EA1;n n&#xEA;n ch&#x1ECD;n T&#xE0;i li&#x1EC7;u t&#x1EEB; t&#xF9;y ch&#x1ECD;n Kh&#x1EDB;p m&#xE0;u v&#xE0; th&#x1EED; l&#x1EA1;i n&#x1EBF;u b&#x1EA1;n qu&#xE9;t t&#xE0;i li&#x1EC7;u thu&#x1ED9;c lo&#x1EA1;i ch&#xED;nh th&#x1EE9;c.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":21001,"sizeSlug":"full","linkDestination":"none"} -->
@@ -1801,7 +1801,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>1. M&#x1EDF; giao di&#x1EC7;n ng&#x1B0;&#x1EDD;i d&#xF9;ng TWAIN. Trong tab H&#xEC;nh &#x1EA3;nh, h&#xE3;y ch&#x1ECD;n l&#x1EF1;a ch&#x1ECD;n c&#x1EE7;a b&#x1EA1;n cho ph&#xF9; h&#x1EE3;p v&#x1EDB;i b&#x1EA3;n g&#x1ED1;c t&#x1EEB; t&#xF9;y ch&#x1ECD;n Kh&#x1EDB;p m&#xE0;u v&#xE0; th&#x1EED; l&#x1EA1;i. Ho&#x1EB7;c b&#x1EA1;n c&#xF3; th&#x1EC3; n&#xE2;ng cao m&#x1EE9;c &#x111;&#x1ED9; t&#x1B0;&#x1A1;ng ph&#x1EA3;n.</p>
+<p>1. M&#x1EDF; Tr&#xEC;nh &#x111;i&#x1EC1;u khi&#x1EC3;n ng&#x1B0;&#x1EDD;i d&#xF9;ng TWAIN. Trong tab H&#xEC;nh &#x1EA3;nh, h&#xE3;y ch&#x1ECD;n l&#x1EF1;a ch&#x1ECD;n c&#x1EE7;a b&#x1EA1;n cho ph&#xF9; h&#x1EE3;p v&#x1EDB;i b&#x1EA3;n g&#x1ED1;c t&#x1EEB; t&#xF9;y ch&#x1ECD;n Kh&#x1EDB;p m&#xE0;u v&#xE0; th&#x1EED; l&#x1EA1;i. Ho&#x1EB7;c b&#x1EA1;n c&#xF3; th&#x1EC3; n&#xE2;ng cao m&#x1EE9;c &#x111;&#x1ED9; t&#x1B0;&#x1A1;ng ph&#x1EA3;n.</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:image {"align":"left","id":21001,"sizeSlug":"full","linkDestination":"none"} -->
@@ -1819,7 +1819,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <!-- wp:paragraph -->
 <p></p>
 <!-- /wp:paragraph --></div></li></div></div></article><h3 class="accordion__heading accordion__category">&#x258E;Li&#xEA;n quan &#x111;&#x1EBF;n ph&#x1EA7;n c&#x1EE9;ng</h3><article class="accordion "><div class="helpie-faq-row"><div class="helpie-faq-col helpie-faq-col-12"><li class="accordion__item "><div class="accordion__header " data-id="post-20971" data-item="hfaq-post-20971" data-tags><div class="accordion__title">M&#xE3; l&#x1ED7;i 3211(E31): N&#x1EA1;p t&#xE0;i li&#x1EC7;u sai.</div></div><div class="accordion__body"><!-- wp:heading -->
-<h2 class="wp-block-heading">D&#x1EAA;N &#x110;&#x1EBE;N</h2>
+<h2 class="wp-block-heading">LED</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":21318,"width":100,"height":139,"sizeSlug":"full","linkDestination":"none"} -->
@@ -1885,7 +1885,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <!-- wp:image {"align":"left","id":26592,"width":"774px","height":"auto","aspectRatio":"3.5310344827586206","sizeSlug":"large","linkDestination":"none"} -->
 <figure class="wp-block-image alignleft size-large is-resized"><img src="https://www.avision.com/en/wp-content/uploads/2023/12/image-3-1024x290.png" alt class="wp-image-26592" style="aspect-ratio:3.5310344827586206;width:774px;height:auto"></figure>
 <!-- /wp:image --></div></li><li class="accordion__item "><div class="accordion__header " data-id="post-20941" data-item="hfaq-post-20941" data-tags><div class="accordion__title">M&#xE3; l&#x1ED7;i 3101(E5): L&#x1ED7;i nhi&#x1EC1;u ngu&#x1ED3;n c&#x1EA5;p d&#x1EEF; li&#x1EC7;u</div></div><div class="accordion__body"><!-- wp:heading -->
-<h2 class="wp-block-heading">D&#x1EAA;N &#x110;&#x1EBE;N</h2>
+<h2 class="wp-block-heading">LED</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":21385,"width":88,"height":125,"sizeSlug":"full","linkDestination":"none"} -->
@@ -1967,7 +1967,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <!-- wp:paragraph -->
 <p>7. Ho&#x1EB7;c b&#x1EA1;n c&#xF3; th&#x1EC3; gi&#x1EA3;m s&#x1ED1; l&#x1B0;&#x1EE3;ng trang t&#xE0;i li&#x1EC7;u c&#x1EE7;a m&#xEC;nh.</p>
 <!-- /wp:paragraph --></div></li><li class="accordion__item "><div class="accordion__header " data-id="post-20927" data-item="hfaq-post-20927" data-tags><div class="accordion__title">M&#xE3; l&#x1ED7;i 2013(E4): K&#x1EB9;t gi&#x1EA5;y.</div></div><div class="accordion__body"><!-- wp:heading -->
-<h2 class="wp-block-heading">D&#x1EAA;N &#x110;&#x1EBE;N</h2>
+<h2 class="wp-block-heading">LED</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":21382,"width":"86px","height":"auto","aspectRatio":"0.8113207547169812","sizeSlug":"full","linkDestination":"none"} -->
@@ -2077,7 +2077,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <!-- wp:paragraph -->
 <p>7. Ho&#x1EB7;c c&#x1ED1; g&#x1EAF;ng gi&#x1EA3;m s&#x1ED1; l&#x1B0;&#x1EE3;ng trang t&#xE0;i li&#x1EC7;u c&#x1EE7;a b&#x1EA1;n.</p>
 <!-- /wp:paragraph --></div></li><li class="accordion__item "><div class="accordion__header " data-id="post-20958" data-item="hfaq-post-20958" data-tags><div class="accordion__title">M&#xE3; l&#x1ED7;i 3010(E8): L&#x1ED7;i &#x111;&#xE8;n (B&#x1ED9; quang h&#x1ECD;c ph&#xED;a tr&#xEA;n).</div></div><div class="accordion__body"><!-- wp:heading -->
-<h2 class="wp-block-heading">D&#x1EAA;N &#x110;&#x1EBE;N</h2>
+<h2 class="wp-block-heading">LED</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":21407,"width":"85px","height":"auto","aspectRatio":"0.8095238095238095","sizeSlug":"full","linkDestination":"none"} -->
@@ -2095,7 +2095,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <!-- wp:paragraph -->
 <p>1. T&#x1EAF;t r&#x1ED3;i b&#x1EAD;t m&#xE1;y qu&#xE9;t.</p>
 <!-- /wp:paragraph --></div></li><li class="accordion__item "><div class="accordion__header " data-id="post-20967" data-item="hfaq-post-20967" data-tags><div class="accordion__title">M&#xE3; l&#x1ED7;i 2037(E29): L&#x1ED7;i ki&#x1EC3;m tra R/W AFE ph&#xED;a sau ADF.</div></div><div class="accordion__body"><!-- wp:heading -->
-<h2 class="wp-block-heading">D&#x1EAA;N &#x110;&#x1EBE;N</h2>
+<h2 class="wp-block-heading">LED</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":21403,"width":87,"height":103,"sizeSlug":"full","linkDestination":"none"} -->
@@ -2113,7 +2113,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <!-- wp:paragraph -->
 <p>1. T&#x1EAF;t r&#x1ED3;i b&#x1EAD;t m&#xE1;y qu&#xE9;t.</p>
 <!-- /wp:paragraph --></div></li><li class="accordion__item "><div class="accordion__header " data-id="post-21085" data-item="hfaq-post-21085" data-tags><div class="accordion__title">M&#xE3; l&#x1ED7;i 2037(E13): L&#x1ED7;i ki&#x1EC3;m tra R/W ADF ph&#xED;a tr&#x1B0;&#x1EDB;c ADF.</div></div><div class="accordion__body"><!-- wp:heading -->
-<h2 class="wp-block-heading">D&#x1EAA;N &#x110;&#x1EBE;N</h2>
+<h2 class="wp-block-heading">LED</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":21353,"width":89,"height":127,"sizeSlug":"full","linkDestination":"none"} -->
@@ -2135,7 +2135,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <!-- wp:paragraph -->
 <p>1. T&#x1EAF;t r&#x1ED3;i b&#x1EAD;t m&#xE1;y qu&#xE9;t.</p>
 <!-- /wp:paragraph --></div></li><li class="accordion__item "><div class="accordion__header " data-id="post-20964" data-item="hfaq-post-20964" data-tags><div class="accordion__title">M&#xE3; l&#x1ED7;i 2024(E12): L&#x1ED7;i ki&#x1EC3;m tra R/W NVRAM.</div></div><div class="accordion__body"><!-- wp:heading -->
-<h2 class="wp-block-heading">D&#x1EAA;N &#x110;&#x1EBE;N</h2>
+<h2 class="wp-block-heading">LED</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":21400,"width":92,"height":108,"sizeSlug":"full","linkDestination":"none"} -->
@@ -2153,7 +2153,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <!-- wp:paragraph -->
 <p>1. T&#x1EAF;t r&#x1ED3;i b&#x1EAD;t m&#xE1;y qu&#xE9;t.</p>
 <!-- /wp:paragraph --></div></li><li class="accordion__item "><div class="accordion__header " data-id="post-20961" data-item="hfaq-post-20961" data-tags><div class="accordion__title">M&#xE3; l&#x1ED7;i 3003(E9):L&#x1ED7;i ki&#x1EC3;m tra R/W DRAM.</div></div><div class="accordion__body"><!-- wp:heading -->
-<h2 class="wp-block-heading">D&#x1EAA;N &#x110;&#x1EBE;N</h2>
+<h2 class="wp-block-heading">LED</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":21397,"width":84,"height":119,"sizeSlug":"full","linkDestination":"none"} -->
@@ -2171,7 +2171,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <!-- wp:paragraph -->
 <p>1. T&#x1EAF;t r&#x1ED3;i b&#x1EAD;t m&#xE1;y qu&#xE9;t.</p>
 <!-- /wp:paragraph --></div></li><li class="accordion__item "><div class="accordion__header " data-id="post-20954" data-item="hfaq-post-20954" data-tags><div class="accordion__title">M&#xE3; l&#x1ED7;i 3006(E7):L&#x1ED7;i &#x111;&#xE8;n (B&#x1ED9; quang d&#x1B0;&#x1EDB;i).</div></div><div class="accordion__body"><!-- wp:heading -->
-<h2 class="wp-block-heading">D&#x1EAA;N &#x110;&#x1EBE;N</h2>
+<h2 class="wp-block-heading">LED</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":21394,"width":"91px","height":"auto","aspectRatio":"0.8504672897196262","sizeSlug":"full","linkDestination":"none"} -->
@@ -2189,7 +2189,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <!-- wp:paragraph -->
 <p>1. T&#x1EAF;t r&#x1ED3;i b&#x1EAD;t m&#xE1;y qu&#xE9;t.</p>
 <!-- /wp:paragraph --></div></li><li class="accordion__item "><div class="accordion__header " data-id="post-20949" data-item="hfaq-post-20949" data-tags><div class="accordion__title">M&#xE3; l&#x1ED7;i 2014(E6): N&#x1EAF;p ADF m&#x1EDF;.</div></div><div class="accordion__body"><!-- wp:heading -->
-<h2 class="wp-block-heading">D&#x1EAA;N &#x110;&#x1EBE;N</h2>
+<h2 class="wp-block-heading">LED</h2>
 <!-- /wp:heading -->
 
 <!-- wp:image {"align":"left","id":21390,"width":93,"height":106,"sizeSlug":"full","linkDestination":"none"} -->
@@ -2405,7 +2405,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/why-avision/"> T&#x1EA1;i sao Avision</a>
+											<a href="http://localhost:3000/why-avision/"> T&#x1EA1;i sao n&#xEA;n ch&#x1ECD;n Avision?</a>
 									</li>
 								<li class="elementor-icon-list-item">
 											<a href="http://localhost:3000/about-avision/corporate-profile/"> H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a>
@@ -2440,7 +2440,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/"> M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/network-scanner/"> M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a>
+											<a href="http://localhost:3000/product-category/network-scanner/"> M&#xE1;y qu&#xE9;t k&#x1EBF;t n&#x1ED1;i m&#x1EA1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
 											<a href="http://localhost:3000/product-category/paperair-series/"> D&#xF2;ng PaperAir</a>
@@ -2454,7 +2454,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-261a51b5 elementor-widget elementor-widget-heading" data-id="261a51b5" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/product-category/printer-mfp/" target="_blank">M&#xE1;y in / MFP</a></h4>		</div>
+			<h4 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/product-category/printer-mfp/" target="_blank">M&#xE1;y in / M&#xE1;y in &#x111;a ch&#x1EE9;c n&#x103;ng</a></h4>		</div>
 				</div>
 				<div class="elementor-element elementor-element-f44253e elementor-widget elementor-widget-heading" data-id="f44253e" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
@@ -2492,7 +2492,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-4b4ea00c elementor-widget elementor-widget-heading" data-id="4b4ea00c" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default">Theo ch&#xFA;ng t&#xF4;i</h4>		</div>
+			<h4 class="elementor-heading-title elementor-size-default">Theo d&#xF5;i ch&#xFA;ng t&#xF4;i</h4>		</div>
 				</div>
 				<div class="elementor-element elementor-element-5852473a elementor-shape-circle e-grid-align-left elementor-grid-0 elementor-widget elementor-widget-social-icons" data-id="5852473a" data-element_type="widget" data-widget_type="social-icons.default">
 				<div class="elementor-widget-container">

@@ -8,6 +8,9 @@ let contentSchema = new moongoose.Schema({
   newText: {
     type: String,
   },
+  finalText: {
+    type: String,
+  },
   isTranslated: {
     type: Boolean,
   },

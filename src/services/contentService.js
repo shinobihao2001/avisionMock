@@ -2,6 +2,7 @@ const contentModel = require("../models/content");
 const transAPI = require("./transAPI");
 const Cheerio = require("cheerio");
 const linkService = require("./linkService");
+const gloosaryService = require("./glossaryService");
 require("dotenv").config();
 
 async function getWordFormPage(page) {
@@ -75,6 +76,7 @@ module.exports = {
       await contentModel.create({
         text: arr[i].toString(),
         newText: arr[i].toString() + " - translated",
+        finalText: arr[i].toString() + " - translated",
         isTranslated: false,
       });
     }
@@ -85,36 +87,56 @@ module.exports = {
   findTranslatedWord: function (word, arrayDB) {
     let result = null;
     for (let content of arrayDB) {
-      if (word == content.text || word == content.newText) {
+      if (
+        word == content.text ||
+        word == content.newText ||
+        word == content.finalText
+      ) {
         result = content;
         break;
       }
     }
-    return result ? result.newText : "not found " + word;
+    return result ? result.finalText : "not found " + word;
   },
 
   translateDb: async function () {
     const allContents = await contentModel.find();
+    const gloosaryArr = gloosaryService.getGlossaryCsv();
+
     for (var content of allContents) {
       if (!content.isTranslated) {
         console.log("Câu nhận vào: " + content.text);
         let newText = await transAPI.translateGoogle(content.text);
         console.log("Câu được dịch: " + newText);
         content.newText = newText;
+        content.finalText = newText;
         content.isTranslated = true;
         await content.save().catch((err) => console.log(err));
       }
-      console.log(content.text + " Đã được dịch");
-      // Cái này khi xài chat gpt
-      //await new Promise((resolve) => setTimeout(resolve, 30000));
-      //console.log("Đã đợi xong 30s");
+      //console.log(content.text + " Đã được dịch");
+      //checking if text need to fix
+      for (let i = 0; i < gloosaryArr.length; i++) {
+        let wrong = content.finalText.toLowerCase().trim();
+        let right = gloosaryArr[i][0].toLowerCase().trim();
+        if (wrong.includes(right)) {
+          let temp = content.finalText.replace(
+            new RegExp(gloosaryArr[i][0], "gi"),
+            gloosaryArr[i][1]
+          );
+          content.finalText = temp;
+          await content.save().catch((err) => console.log(err));
+          console.log(
+            content.text + " Đã được sửa thành :" + content.finalText
+          );
+        }
+      }
     }
   },
 
   checkAll: async function () {
     let contents = await contentModel.find();
     for (let content of contents) {
-      content.isTranslated = true;
+      content.finalText = content.newText;
       console.log("Check: " + content.text);
       await content.save();
     }
@@ -127,6 +149,7 @@ module.exports = {
       result.push({
         text: content.text,
         newText: content.newText,
+        finalText: content.finalText,
         isTranslated: content.isTranslated,
       });
     }

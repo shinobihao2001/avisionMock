@@ -1,10 +1,12 @@
 const { Page } = require("openai/pagination");
 const glossaryModel = require("../models/glossary");
-const pageService = require("./pageService");
+//const pageService = require("./pageService");
 const link = require("../models/link");
 const Cheerio = require("cheerio");
 const fs = require("fs");
 const { exec } = require("child_process");
+const XLSX = require("xlsx");
+const path = require("path");
 
 async function replacePage(file, gloosary) {
   let $ = Cheerio.load(file);
@@ -101,5 +103,15 @@ module.exports = {
     if (glossary == null) {
       return "Done";
     }
+  },
+
+  getGlossaryCsv() {
+    let buf = fs.readFileSync(path.join(__dirname, "../../avision.xlsx"));
+    let workbook = XLSX.read(buf);
+    let worksheet = workbook.Sheets[workbook.SheetNames[0]];
+    let raw_data = XLSX.utils.sheet_to_json(worksheet, { header: 1 }).slice(1);
+    let filtered_data = raw_data.filter((row) => row.length > 0);
+    console.log(filtered_data);
+    return filtered_data;
   },
 };
