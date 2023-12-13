@@ -1139,7 +1139,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-aef91f6 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="aef91f6" data-element_type="widget" data-widget_type="theme-site-logo.default">
 				<div class="elementor-widget-container">
-																<a href="http://localhost:3000">
+																<a href="http://avisonmock.onrender.com">
 							<img width="523" height="191" src="https://www.avision.com/en/wp-content/uploads/2023/11/cropped-WEB_logo_Avision.png" class="attachment-full size-full wp-image-25379" alt srcset="https://www.avision.com/en/wp-content/uploads/2023/11/cropped-WEB_logo_Avision.png 523w, https://www.avision.com/en/wp-content/uploads/2023/11/cropped-WEB_logo_Avision-300x110.png 300w" sizes="(max-width: 523px) 100vw, 523px">								</a>
 															</div>
 				</div>
@@ -1150,86 +1150,86 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 								<div class="elementor-element elementor-element-3a0fbe8 elementor-nav-menu__align-center elementor-nav-menu__text-align-center elementor-widget__width-initial elementor-nav-menu--stretch elementor-nav-menu--dropdown-tablet elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="3a0fbe8" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
 				<div class="elementor-widget-container">
 						<nav migration_allowed="1" migrated="0" role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
-				<ul id="menu-1-3a0fbe8" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7461"><a href="http://localhost:3000/scanner/" class="elementor-item">M&#xE1;y qu&#xE9;t</a>
+				<ul id="menu-1-3a0fbe8" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7461"><a href="http://avisonmock.onrender.com/scanner/" class="elementor-item">M&#xE1;y qu&#xE9;t</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-product_cat-ancestor menu-item-20505"><a href="http://localhost:3000/product-category/document-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12778"><a href="http://localhost:3000/product-category/flatbed-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12781"><a href="http://localhost:3000/product-category/network-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12779"><a href="http://localhost:3000/product-category/mobile-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12780"><a href="http://localhost:3000/product-category/paperair-series/" class="elementor-sub-item">D&#xF2;ng PaperAir</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-product_cat-ancestor menu-item-20505"><a href="http://avisonmock.onrender.com/product-category/document-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12778"><a href="http://avisonmock.onrender.com/product-category/flatbed-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12781"><a href="http://avisonmock.onrender.com/product-category/network-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12779"><a href="http://avisonmock.onrender.com/product-category/mobile-scanner/" class="elementor-sub-item">M&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12780"><a href="http://avisonmock.onrender.com/product-category/paperair-series/" class="elementor-sub-item">D&#xF2;ng PaperAir</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12776"><a href="http://localhost:3000/product-category/printer-mfp/" class="elementor-item">M&#xE1;y in / MFP</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://localhost:3000/product-category/medical/" class="elementor-item">Thi&#x1EBF;t b&#x1ECB; y t&#x1EBF;</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7264"><a href="http://localhost:3000/about-avision/" class="elementor-item">Gi&#x1EDB;i thi&#x1EC7;u v&#x1EC1; Avision</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12776"><a href="http://avisonmock.onrender.com/product-category/printer-mfp/" class="elementor-item">M&#xE1;y in / MFP</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://avisonmock.onrender.com/product-category/medical/" class="elementor-item">Thi&#x1EBF;t b&#x1ECB; y t&#x1EBF;</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7264"><a href="http://avisonmock.onrender.com/about-avision/" class="elementor-item">Gi&#x1EDB;i thi&#x1EC7;u v&#x1EC1; Avision</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12986"><a href="http://localhost:3000/about-avision/why-avision/" class="elementor-sub-item">T&#x1EA1;i sao Avision</a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12986"><a href="http://avisonmock.onrender.com/about-avision/why-avision/" class="elementor-sub-item">T&#x1EA1;i sao Avision</a>
 	<ul class="sub-menu elementor-nav-menu--dropdown">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14275"><a href="http://localhost:3000/about-avision/why-avision/core-image-scanning-technology/" class="elementor-sub-item">C&#xF4;ng ngh&#x1EC7; qu&#xE9;t h&#xEC;nh &#x1EA3;nh c&#x1ED1;t l&#xF5;i</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14275"><a href="http://avisonmock.onrender.com/about-avision/why-avision/core-image-scanning-technology/" class="elementor-sub-item">C&#xF4;ng ngh&#x1EC7; qu&#xE9;t h&#xEC;nh &#x1EA3;nh c&#x1ED1;t l&#xF5;i</a></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7290"><a href="http://localhost:3000/about-avision/corporate-profile/" class="elementor-sub-item">H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7291"><a href="http://localhost:3000/about-avision/news/" class="elementor-sub-item">Tin t&#x1EE9;c</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7289"><a href="http://localhost:3000/about-avision/crs/" class="elementor-sub-item">CSR</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7290"><a href="http://avisonmock.onrender.com/about-avision/corporate-profile/" class="elementor-sub-item">H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7291"><a href="http://avisonmock.onrender.com/about-avision/news/" class="elementor-sub-item">Tin t&#x1EE9;c</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7289"><a href="http://avisonmock.onrender.com/about-avision/crs/" class="elementor-sub-item">CSR</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7263"><a href="http://localhost:3000/contact-us/" class="elementor-item">H&#x1ED7; tr&#x1EE3; b&#xE1;n h&#xE0;ng</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7263"><a href="http://avisonmock.onrender.com/contact-us/" class="elementor-item">H&#x1ED7; tr&#x1EE3; b&#xE1;n h&#xE0;ng</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	
 	
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12163"><a href="http://localhost:3000/contact-us/product-registration/" class="elementor-sub-item">&#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23018"><a href="http://localhost:3000/contact-us/email-form/" class="elementor-sub-item">Li&#xEA;n h&#x1EC7; ch&#xFA;ng t&#xF4;i</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12163"><a href="http://avisonmock.onrender.com/contact-us/product-registration/" class="elementor-sub-item">&#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23018"><a href="http://avisonmock.onrender.com/contact-us/email-form/" class="elementor-sub-item">Li&#xEA;n h&#x1EC7; ch&#xFA;ng t&#xF4;i</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://avisonmock.onrender.com/agent/" class="elementor-sub-item">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055">
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://localhost:3000/registration/" class="elementor-sub-item">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://avisonmock.onrender.com/registration/" class="elementor-sub-item">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://localhost:3000/agency/" class="elementor-item">H&#x1EC7; th&#x1ED1;ng &#x111;&#x1EA1;i l&#xFD;</a></li></ul>			</nav>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://avisonmock.onrender.com/agency/" class="elementor-item">H&#x1EC7; th&#x1ED1;ng &#x111;&#x1EA1;i l&#xFD;</a></li></ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open fa fa-bars"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close fa fa-times"></i>			<span class="elementor-screen-only">Th&#x1EF1;c &#x111;&#x1A1;n</span>
 		</div>
 			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true">
-				<ul id="menu-2-3a0fbe8" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7461"><a href="http://localhost:3000/scanner/" class="elementor-item" tabindex="-1">M&#xE1;y qu&#xE9;t</a>
+				<ul id="menu-2-3a0fbe8" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7461"><a href="http://avisonmock.onrender.com/scanner/" class="elementor-item" tabindex="-1">M&#xE1;y qu&#xE9;t</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-product_cat-ancestor menu-item-20505"><a href="http://localhost:3000/product-category/document-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12778"><a href="http://localhost:3000/product-category/flatbed-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12781"><a href="http://localhost:3000/product-category/network-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12779"><a href="http://localhost:3000/product-category/mobile-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng</a></li>
-	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12780"><a href="http://localhost:3000/product-category/paperair-series/" class="elementor-sub-item" tabindex="-1">D&#xF2;ng PaperAir</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat current-product_cat-ancestor menu-item-20505"><a href="http://avisonmock.onrender.com/product-category/document-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12778"><a href="http://avisonmock.onrender.com/product-category/flatbed-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12781"><a href="http://avisonmock.onrender.com/product-category/network-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12779"><a href="http://avisonmock.onrender.com/product-category/mobile-scanner/" class="elementor-sub-item" tabindex="-1">M&#xE1;y qu&#xE9;t di &#x111;&#x1ED9;ng</a></li>
+	<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12780"><a href="http://avisonmock.onrender.com/product-category/paperair-series/" class="elementor-sub-item" tabindex="-1">D&#xF2;ng PaperAir</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12776"><a href="http://localhost:3000/product-category/printer-mfp/" class="elementor-item" tabindex="-1">M&#xE1;y in / MFP</a></li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://localhost:3000/product-category/medical/" class="elementor-item" tabindex="-1">Thi&#x1EBF;t b&#x1ECB; y t&#x1EBF;</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7264"><a href="http://localhost:3000/about-avision/" class="elementor-item" tabindex="-1">Gi&#x1EDB;i thi&#x1EC7;u v&#x1EC1; Avision</a>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12776"><a href="http://avisonmock.onrender.com/product-category/printer-mfp/" class="elementor-item" tabindex="-1">M&#xE1;y in / MFP</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://avisonmock.onrender.com/product-category/medical/" class="elementor-item" tabindex="-1">Thi&#x1EBF;t b&#x1ECB; y t&#x1EBF;</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7264"><a href="http://avisonmock.onrender.com/about-avision/" class="elementor-item" tabindex="-1">Gi&#x1EDB;i thi&#x1EC7;u v&#x1EC1; Avision</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12986"><a href="http://localhost:3000/about-avision/why-avision/" class="elementor-sub-item" tabindex="-1">T&#x1EA1;i sao Avision</a>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12986"><a href="http://avisonmock.onrender.com/about-avision/why-avision/" class="elementor-sub-item" tabindex="-1">T&#x1EA1;i sao Avision</a>
 	<ul class="sub-menu elementor-nav-menu--dropdown">
-		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14275"><a href="http://localhost:3000/about-avision/why-avision/core-image-scanning-technology/" class="elementor-sub-item" tabindex="-1">C&#xF4;ng ngh&#x1EC7; qu&#xE9;t h&#xEC;nh &#x1EA3;nh c&#x1ED1;t l&#xF5;i</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14275"><a href="http://avisonmock.onrender.com/about-avision/why-avision/core-image-scanning-technology/" class="elementor-sub-item" tabindex="-1">C&#xF4;ng ngh&#x1EC7; qu&#xE9;t h&#xEC;nh &#x1EA3;nh c&#x1ED1;t l&#xF5;i</a></li>
 	</ul>
 </li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7290"><a href="http://localhost:3000/about-avision/corporate-profile/" class="elementor-sub-item" tabindex="-1">H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7291"><a href="http://localhost:3000/about-avision/news/" class="elementor-sub-item" tabindex="-1">Tin t&#x1EE9;c</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7289"><a href="http://localhost:3000/about-avision/crs/" class="elementor-sub-item" tabindex="-1">CSR</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7290"><a href="http://avisonmock.onrender.com/about-avision/corporate-profile/" class="elementor-sub-item" tabindex="-1">H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7291"><a href="http://avisonmock.onrender.com/about-avision/news/" class="elementor-sub-item" tabindex="-1">Tin t&#x1EE9;c</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7289"><a href="http://avisonmock.onrender.com/about-avision/crs/" class="elementor-sub-item" tabindex="-1">CSR</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7263"><a href="http://localhost:3000/contact-us/" class="elementor-item" tabindex="-1">H&#x1ED7; tr&#x1EE3; b&#xE1;n h&#xE0;ng</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-7263"><a href="http://avisonmock.onrender.com/contact-us/" class="elementor-item" tabindex="-1">H&#x1ED7; tr&#x1EE3; b&#xE1;n h&#xE0;ng</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	
 	
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12163"><a href="http://localhost:3000/contact-us/product-registration/" class="elementor-sub-item" tabindex="-1">&#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</a></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23018"><a href="http://localhost:3000/contact-us/email-form/" class="elementor-sub-item" tabindex="-1">Li&#xEA;n h&#x1EC7; ch&#xFA;ng t&#xF4;i</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item" tabindex="-1">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12163"><a href="http://avisonmock.onrender.com/contact-us/product-registration/" class="elementor-sub-item" tabindex="-1">&#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23018"><a href="http://avisonmock.onrender.com/contact-us/email-form/" class="elementor-sub-item" tabindex="-1">Li&#xEA;n h&#x1EC7; ch&#xFA;ng t&#xF4;i</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://avisonmock.onrender.com/agent/" class="elementor-sub-item" tabindex="-1">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-12055">
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://localhost:3000/registration/" class="elementor-sub-item" tabindex="-1">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="http://avisonmock.onrender.com/registration/" class="elementor-sub-item" tabindex="-1">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://localhost:3000/agency/" class="elementor-item" tabindex="0">H&#x1EC7; th&#x1ED1;ng &#x111;&#x1EA1;i l&#xFD;</a></li></ul>			</nav>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://avisonmock.onrender.com/agency/" class="elementor-item" tabindex="0">H&#x1EC7; th&#x1ED1;ng &#x111;&#x1EA1;i l&#xFD;</a></li></ul>			</nav>
 				</div>
 				</div>
 					</div>
@@ -1271,9 +1271,9 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <li class="entry has-media has-product-nav col span_1_of_3 owp-content-center item-entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal product type-product post-25194 status-publish first instock product_cat-ad350-series product_cat-document-scanner has-post-thumbnail shipping-taxable product-type-simple">
 	<div class="product-inner clr"><ul class="woo-entry-inner clr"><li class="image-wrap">
 	<div class="woo-entry-image clr">
-		<a href="http://localhost:3000/shop/document-scanner/ad350-series/ad350n/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="https://www.avision.com/en/wp-content/uploads/2021/09/AD370-300x300.jpg" class="woo-entry-image-main" alt="AD350N" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/AD370-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a>	</div><!-- .woo-entry-image -->
+		<a href="http://avisonmock.onrender.com/shop/document-scanner/ad350-series/ad350n/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="https://www.avision.com/en/wp-content/uploads/2021/09/AD370-300x300.jpg" class="woo-entry-image-main" alt="AD350N" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/AD370-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a>	</div><!-- .woo-entry-image -->
 
-	<a href="http://localhost:3000/shop/document-scanner/ad350-series/ad350n/" data-quantity="1" class="button product_type_simple" data-product_id="25194" data-product_sku aria-label="Read more about &#x201C;AD350N&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/document-scanner/ad350-series/" rel="tag">D&#xF2;ng AD350</a>, <a href="http://localhost:3000/product-category/document-scanner/" rel="tag">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a></li><li class="title"><h2><a href="http://localhost:3000/shop/document-scanner/ad350-series/ad350n/">AD350N</a></h2></li><li class="price-wrap">
+	<a href="http://avisonmock.onrender.com/shop/document-scanner/ad350-series/ad350n/" data-quantity="1" class="button product_type_simple" data-product_id="25194" data-product_sku aria-label="Read more about &#x201C;AD350N&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a></li><ul class="woo-product-info"><li class="category"><a href="http://avisonmock.onrender.com/product-category/document-scanner/ad350-series/" rel="tag">D&#xF2;ng AD350</a>, <a href="http://avisonmock.onrender.com/product-category/document-scanner/" rel="tag">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a></li><li class="title"><h2><a href="http://avisonmock.onrender.com/shop/document-scanner/ad350-series/ad350n/">AD350N</a></h2></li><li class="price-wrap">
 </li><li class="rating"></li><li class="woo-desc">M&#xE1;y qu&#xE9;t n&#x1EA1;p gi&#x1EA5;y nhanh v&#xE0; gi&#xE1; c&#x1EA3; ph&#x1EA3;i ch&#x103;ng Avision AD350N l&#xE0; m&#xE1;y qu&#xE9;t hai m&#x1EB7;t, t&#x1ED1;c &#x111;&#x1ED9; 50 trang m&#x1ED7;i ph&#xFA;t, nhanh, &#x111;&#xE1;ng tin c&#x1EAD;y v&#xE0; gi&#xE1; c&#x1EA3; ph&#x1EA3;i ch&#x103;ng d&#xE0;nh cho doanh nghi&#x1EC7;p khi c&#x1EA7;n qu&#xE9;t th&#x1EBB; ID nh&#x1EF1;a, danh thi&#x1EBF;p, t&#xE0;i li&#x1EC7;u ho&#x1EB7;c c&#xE1;c lo&#x1EA1;i th&#x1EBB; n&#x1EB7;ng kh&#xE1;c. &#x110;&#x1B0;&#x1EE3;c nh&#xFA;ng v&#x1EDB;i b&#x1ED9; x&#x1EED; l&#xFD; h&#xEC;nh &#x1EA3;nh do Avision ph&#xE1;t tri&#x1EC3;n, h&#xEC;nh &#x1EA3;nh &#x111;&#x1B0;&#x1EE3;c qu&#xE9;t c&#xF3; th&#x1EC3; &#x111;&#x1B0;&#x1EE3;c t&#x1EF1; &#x111;&#x1ED9;ng c&#x1EAF;t, l&#xE0;m th&#x1EB3;ng v&#xE0; t&#x1ED1;i &#x1B0;u h&#xF3;a v&#x1EDB;i t&#x1ED1;c &#x111;&#x1ED9; &#x111;&#x1B0;&#x1EE3;c n&#xE2;ng cao.</li></ul>
 <ul class="woo-product-gallery">
 
@@ -1303,9 +1303,9 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <li class="entry has-media has-product-nav col span_1_of_3 owp-content-center item-entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal product type-product post-11593 status-publish instock product_cat-ad350-series product_cat-document-scanner has-post-thumbnail shipping-taxable product-type-simple">
 	<div class="product-inner clr"><ul class="woo-entry-inner clr"><li class="image-wrap">
 	<div class="woo-entry-image clr">
-		<a href="http://localhost:3000/shop/document-scanner/ad350-series/ad350/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="https://www.avision.com/en/wp-content/uploads/2021/09/AD370-300x300.jpg" class="woo-entry-image-main" alt="AD350" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/AD370-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a>	</div><!-- .woo-entry-image -->
+		<a href="http://avisonmock.onrender.com/shop/document-scanner/ad350-series/ad350/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="https://www.avision.com/en/wp-content/uploads/2021/09/AD370-300x300.jpg" class="woo-entry-image-main" alt="AD350" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/AD370-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a>	</div><!-- .woo-entry-image -->
 
-	<a href="http://localhost:3000/shop/document-scanner/ad350-series/ad350/" data-quantity="1" class="button product_type_simple" data-product_id="11593" data-product_sku aria-label="Read more about &#x201C;AD350&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/document-scanner/ad350-series/" rel="tag">D&#xF2;ng AD350</a>, <a href="http://localhost:3000/product-category/document-scanner/" rel="tag">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a></li><li class="title"><h2><a href="http://localhost:3000/shop/document-scanner/ad350-series/ad350/">AD350</a></h2></li><li class="price-wrap">
+	<a href="http://avisonmock.onrender.com/shop/document-scanner/ad350-series/ad350/" data-quantity="1" class="button product_type_simple" data-product_id="11593" data-product_sku aria-label="Read more about &#x201C;AD350&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a></li><ul class="woo-product-info"><li class="category"><a href="http://avisonmock.onrender.com/product-category/document-scanner/ad350-series/" rel="tag">D&#xF2;ng AD350</a>, <a href="http://avisonmock.onrender.com/product-category/document-scanner/" rel="tag">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a></li><li class="title"><h2><a href="http://avisonmock.onrender.com/shop/document-scanner/ad350-series/ad350/">AD350</a></h2></li><li class="price-wrap">
 </li><li class="rating"></li><li class="woo-desc">M&#xE1;y qu&#xE9;t n&#x1EA1;p gi&#x1EA5;y nhanh v&#xE0; gi&#xE1; c&#x1EA3; ph&#x1EA3;i ch&#x103;ng Avision AD350 l&#xE0; m&#xE1;y qu&#xE9;t hai m&#x1EB7;t, t&#x1ED1;c &#x111;&#x1ED9; 50 trang m&#x1ED7;i ph&#xFA;t, nhanh, &#x111;&#xE1;ng tin c&#x1EAD;y v&#xE0; gi&#xE1; c&#x1EA3; ph&#x1EA3;i ch&#x103;ng d&#xE0;nh cho doanh nghi&#x1EC7;p c&#x1EA7;n qu&#xE9;t th&#x1EBB; ID nh&#x1EF1;a, danh thi&#x1EBF;p, t&#xE0;i li&#x1EC7;u ho&#x1EB7;c c&#xE1;c lo&#x1EA1;i th&#x1EBB; n&#x1EB7;ng kh&#xE1;c. &#x110;&#x1B0;&#x1EE3;c nh&#xFA;ng v&#x1EDB;i b&#x1ED9; x&#x1EED; l&#xFD; h&#xEC;nh &#x1EA3;nh do Avision ph&#xE1;t tri&#x1EC3;n, h&#xEC;nh &#x1EA3;nh &#x111;&#x1B0;&#x1EE3;c qu&#xE9;t c&#xF3; th&#x1EC3; &#x111;&#x1B0;&#x1EE3;c t&#x1EF1; &#x111;&#x1ED9;ng c&#x1EAF;t, l&#xE0;m th&#x1EB3;ng v&#xE0; t&#x1ED1;i &#x1B0;u h&#xF3;a v&#x1EDB;i t&#x1ED1;c &#x111;&#x1ED9; &#x111;&#x1B0;&#x1EE3;c n&#xE2;ng cao.</li></ul>
 <ul class="woo-product-gallery">
 
@@ -1335,9 +1335,9 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <li class="entry has-media has-product-nav col span_1_of_3 owp-content-center item-entry owp-thumbs-layout-horizontal owp-btn-normal owp-tabs-layout-horizontal product type-product post-25575 status-publish last instock product_cat-ad350-series product_cat-document-scanner has-post-thumbnail shipping-taxable product-type-simple">
 	<div class="product-inner clr"><ul class="woo-entry-inner clr"><li class="image-wrap">
 	<div class="woo-entry-image clr">
-		<a href="http://localhost:3000/shop/document-scanner/ad350-series/ad350wn/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="https://www.avision.com/en/wp-content/uploads/2021/09/AD370-300x300.jpg" class="woo-entry-image-main" alt="AD350WN" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/AD370-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a>	</div><!-- .woo-entry-image -->
+		<a href="http://avisonmock.onrender.com/shop/document-scanner/ad350-series/ad350wn/" class="woocommerce-LoopProduct-link"><img width="300" height="300" src="https://www.avision.com/en/wp-content/uploads/2021/09/AD370-300x300.jpg" class="woo-entry-image-main" alt="AD350WN" decoding="async" itemprop="image" loading="lazy" srcset="https://www.avision.com/en/wp-content/uploads/2021/09/AD370-300x300.jpg 300w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-1024x1024.jpg 1024w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-150x150.jpg 150w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-768x768.jpg 768w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-600x600.jpg 600w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370-100x100.jpg 100w, https://www.avision.com/en/wp-content/uploads/2021/09/AD370.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px"></a>	</div><!-- .woo-entry-image -->
 
-	<a href="http://localhost:3000/shop/document-scanner/ad350-series/ad350wn/" data-quantity="1" class="button product_type_simple" data-product_id="25575" data-product_sku aria-label="Read more about &#x201C;AD350WN&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a></li><ul class="woo-product-info"><li class="category"><a href="http://localhost:3000/product-category/document-scanner/ad350-series/" rel="tag">D&#xF2;ng AD350</a>, <a href="http://localhost:3000/product-category/document-scanner/" rel="tag">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a></li><li class="title"><h2><a href="http://localhost:3000/shop/document-scanner/ad350-series/ad350wn/">AD350WN</a></h2></li><li class="price-wrap">
+	<a href="http://avisonmock.onrender.com/shop/document-scanner/ad350-series/ad350wn/" data-quantity="1" class="button product_type_simple" data-product_id="25575" data-product_sku aria-label="Read more about &#x201C;AD350WN&#x201D;" aria-describedby rel="nofollow">&#x110;&#x1ECD;c th&#xEA;m</a></li><ul class="woo-product-info"><li class="category"><a href="http://avisonmock.onrender.com/product-category/document-scanner/ad350-series/" rel="tag">D&#xF2;ng AD350</a>, <a href="http://avisonmock.onrender.com/product-category/document-scanner/" rel="tag">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a></li><li class="title"><h2><a href="http://avisonmock.onrender.com/shop/document-scanner/ad350-series/ad350wn/">AD350WN</a></h2></li><li class="price-wrap">
 </li><li class="rating"></li><li class="woo-desc">M&#xE1;y qu&#xE9;t n&#x1EA1;p gi&#x1EA5;y nhanh v&#xE0; gi&#xE1; c&#x1EA3; ph&#x1EA3;i ch&#x103;ng Avision AD350WN l&#xE0; m&#xE1;y qu&#xE9;t hai m&#x1EB7;t, t&#x1ED1;c &#x111;&#x1ED9; 50 trang m&#x1ED7;i ph&#xFA;t, nhanh, &#x111;&#xE1;ng tin c&#x1EAD;y v&#xE0; gi&#xE1; c&#x1EA3; ph&#x1EA3;i ch&#x103;ng d&#xE0;nh cho doanh nghi&#x1EC7;p c&#x1EA7;n qu&#xE9;t th&#x1EBB; ID nh&#x1EF1;a, danh thi&#x1EBF;p, t&#xE0;i li&#x1EC7;u ho&#x1EB7;c c&#xE1;c lo&#x1EA1;i th&#x1EBB; n&#x1EB7;ng kh&#xE1;c. &#x110;&#x1B0;&#x1EE3;c nh&#xFA;ng v&#x1EDB;i b&#x1ED9; x&#x1EED; l&#xFD; h&#xEC;nh &#x1EA3;nh do Avision ph&#xE1;t tri&#x1EC3;n, h&#xEC;nh &#x1EA3;nh &#x111;&#x1B0;&#x1EE3;c qu&#xE9;t c&#xF3; th&#x1EC3; &#x111;&#x1B0;&#x1EE3;c t&#x1EF1; &#x111;&#x1ED9;ng c&#x1EAF;t, l&#xE0;m th&#x1EB3;ng v&#xE0; t&#x1ED1;i &#x1B0;u h&#xF3;a v&#x1EDB;i t&#x1ED1;c &#x111;&#x1ED9; &#x111;&#x1B0;&#x1EE3;c n&#xE2;ng cao.</li></ul>
 <ul class="woo-product-gallery">
 
@@ -1394,22 +1394,22 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-31168200 elementor-widget elementor-widget-heading" data-id="31168200" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/about-avision/">Gi&#x1EDB;i thi&#x1EC7;u v&#x1EC1; Avision</a></h4>		</div>
+			<h4 class="elementor-heading-title elementor-size-default"><a href="http://avisonmock.onrender.com/about-avision/">Gi&#x1EDB;i thi&#x1EC7;u v&#x1EC1; Avision</a></h4>		</div>
 				</div>
 				<div class="elementor-element elementor-element-4d736331 elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="4d736331" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/why-avision/"> T&#x1EA1;i sao Avision</a>
+											<a href="http://avisonmock.onrender.com/why-avision/"> T&#x1EA1;i sao Avision</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/corporate-profile/"> H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a>
+											<a href="http://avisonmock.onrender.com/about-avision/corporate-profile/"> H&#x1ED3; s&#x1A1; c&#xF4;ng ty</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/news/"> Tin t&#x1EE9;c</a>
+											<a href="http://avisonmock.onrender.com/about-avision/news/"> Tin t&#x1EE9;c</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/about-avision/crs/"> CSR</a>
+											<a href="http://avisonmock.onrender.com/about-avision/crs/"> CSR</a>
 									</li>
 						</ul>
 				</div>
@@ -1420,25 +1420,25 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-6a22b21d elementor-widget elementor-widget-heading" data-id="6a22b21d" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/scanner/">M&#xE1;y qu&#xE9;t</a></h4>		</div>
+			<h4 class="elementor-heading-title elementor-size-default"><a href="http://avisonmock.onrender.com/scanner/">M&#xE1;y qu&#xE9;t</a></h4>		</div>
 				</div>
 				<div class="elementor-element elementor-element-3fcd132e elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3fcd132e" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
 					<ul class="elementor-icon-list-items">
 							<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/document-scanner/"> M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a>
+											<a href="http://avisonmock.onrender.com/product-category/document-scanner/"> M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/flatbed-scanner/"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a>
+											<a href="http://avisonmock.onrender.com/product-category/flatbed-scanner/"> M&#xE1;y qu&#xE9;t ph&#x1EB3;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/intelligent-portable-scanner/"> M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</a>
+											<a href="http://avisonmock.onrender.com/product-category/intelligent-portable-scanner/"> M&#xE1;y qu&#xE9;t th&#xF4;ng minh/di &#x111;&#x1ED9;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/network-scanner/"> M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a>
+											<a href="http://avisonmock.onrender.com/product-category/network-scanner/"> M&#xE1;y qu&#xE9;t m&#x1EA1;ng</a>
 									</li>
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/product-category/paperair-series/"> D&#xF2;ng PaperAir</a>
+											<a href="http://avisonmock.onrender.com/product-category/paperair-series/"> D&#xF2;ng PaperAir</a>
 									</li>
 						</ul>
 				</div>
@@ -1449,11 +1449,11 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-261a51b5 elementor-widget elementor-widget-heading" data-id="261a51b5" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/product-category/printer-mfp/" target="_blank">M&#xE1;y in / MFP</a></h4>		</div>
+			<h4 class="elementor-heading-title elementor-size-default"><a href="http://avisonmock.onrender.com/product-category/printer-mfp/" target="_blank">M&#xE1;y in / MFP</a></h4>		</div>
 				</div>
 				<div class="elementor-element elementor-element-f44253e elementor-widget elementor-widget-heading" data-id="f44253e" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/product-category/medical/">Thi&#x1EBF;t b&#x1ECB; y t&#x1EBF;</a></h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default"><a href="http://avisonmock.onrender.com/product-category/medical/">Thi&#x1EBF;t b&#x1ECB; y t&#x1EBF;</a></h2>		</div>
 				</div>
 					</div>
 		</nav>
@@ -1461,7 +1461,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-184fd647 elementor-widget elementor-widget-heading" data-id="184fd647" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h4 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/contact-us/">H&#x1ED7; tr&#x1EE3; b&#xE1;n h&#xE0;ng</a></h4>		</div>
+			<h4 class="elementor-heading-title elementor-size-default"><a href="http://avisonmock.onrender.com/contact-us/">H&#x1ED7; tr&#x1EE3; b&#xE1;n h&#xE0;ng</a></h4>		</div>
 				</div>
 				<div class="elementor-element elementor-element-3349ee0c elementor-align-left elementor-icon-list--layout-traditional elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="3349ee0c" data-element_type="widget" data-widget_type="icon-list.default">
 				<div class="elementor-widget-container">
@@ -1469,17 +1469,17 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 							
 								
 								<li class="elementor-icon-list-item">
-											<a href="http://localhost:3000/contact-us/product-registration/"> &#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</a>
+											<a href="http://avisonmock.onrender.com/contact-us/product-registration/"> &#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</a>
 									</li>
 						</ul>
 				</div>
 				</div>
 				<div class="elementor-element elementor-element-5b85b7b elementor-widget elementor-widget-heading" data-id="5b85b7b" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/agent/">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default"><a href="http://avisonmock.onrender.com/agent/">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></h2>		</div>
 				</div><div class="elementor-element elementor-element-5b85b7b elementor-widget elementor-widget-heading" data-id="5b85b7b" data-element_type="widget" data-widget_type="heading.default">
   <div class="elementor-widget-container">
-<h2 class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/agency/">H&#x1EC7; th&#x1ED1;ng &#x111;&#x1EA1;i l&#xFD;</a></h2>		</div>
+<h2 class="elementor-heading-title elementor-size-default"><a href="http://avisonmock.onrender.com/agency/">H&#x1EC7; th&#x1ED1;ng &#x111;&#x1EA1;i l&#xFD;</a></h2>		</div>
   </div>
 					</div>
 		</nav>
@@ -1535,7 +1535,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-553c3cad elementor-widget elementor-widget-heading" data-id="553c3cad" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<p class="elementor-heading-title elementor-size-default"><a href="http://localhost:3000/home/terms-of-use-and-legal-restrictions/">&#x110;i&#x1EC1;u kho&#x1EA3;n v&#xE0; h&#x1EA1;n ch&#x1EBF;</a>&#x2502;<a href="http://localhost:3000/home/privacy-statement/">Cam k&#x1EBF;t b&#x1EA3;o m&#x1EAD;t</a></p>		</div>
+			<p class="elementor-heading-title elementor-size-default"><a href="http://avisonmock.onrender.com/home/terms-of-use-and-legal-restrictions/">&#x110;i&#x1EC1;u kho&#x1EA3;n v&#xE0; h&#x1EA1;n ch&#x1EBF;</a>&#x2502;<a href="http://avisonmock.onrender.com/home/privacy-statement/">Cam k&#x1EBF;t b&#x1EA3;o m&#x1EAD;t</a></p>		</div>
 				</div>
 					</div>
 		</div>
@@ -1790,7 +1790,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20518"><a class="elementor-item">B&#x1EAF;c M&#x1EF9;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11887"><a href="http://localhost:3000/" class="elementor-sub-item">con nai</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11887"><a href="http://avisonmock.onrender.com/" class="elementor-sub-item">con nai</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20519"><a class="elementor-item">M&#x1EF9; La-tinh</a>
@@ -1820,7 +1820,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20518"><a class="elementor-item" tabindex="-1">B&#x1EAF;c M&#x1EF9;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11887"><a href="http://localhost:3000/" class="elementor-sub-item" tabindex="-1">con nai</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11887"><a href="http://avisonmock.onrender.com/" class="elementor-sub-item" tabindex="-1">con nai</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20519"><a class="elementor-item" tabindex="-1">M&#x1EF9; La-tinh</a>
@@ -1858,7 +1858,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20518"><a class="elementor-item" tabindex="-1">B&#x1EAF;c M&#x1EF9;</a>
 <ul class="sub-menu elementor-nav-menu--dropdown">
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11887"><a href="http://localhost:3000/" class="elementor-sub-item" tabindex="-1">con nai</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-11887"><a href="http://avisonmock.onrender.com/" class="elementor-sub-item" tabindex="-1">con nai</a></li>
 </ul>
 </li>
 <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20519"><a class="elementor-item" tabindex="-1">M&#x1EF9; La-tinh</a>
