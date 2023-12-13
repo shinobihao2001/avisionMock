@@ -13,8 +13,8 @@ require("dotenv").config();
     await connectDB();
     // //console.log("Connected to the database");
 
-    // await contentService.checkAll();
-    // console.log("All check done");
+    await contentService.checkAll();
+    console.log("All check done");
 
     //Step 2: Crawling the URLs
     //await linkService.crawAllUrl();
