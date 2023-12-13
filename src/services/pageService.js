@@ -219,8 +219,10 @@ async function modifyHTML(page, arrayDB) {
 
   //add agencies to row
   $$("#menu-1-3a0fbe8").append(agencyScript.rowNav);
+  $$("#menu-1-7529d732").append(agencyScript.rowNav);
   //add agencies to col
   $$("#menu-2-3a0fbe8").append(agencyScript.colNav);
+  $$("#menu-2-7529d732").append(agencyScript.colNav);
   //add agencies to footer
   $$("div[data-id='5b85b7b']").after(agencyScript.footer);
 
@@ -264,7 +266,7 @@ function modifyReceipt(html) {
 
 function modifyAgency(html) {
   let $$ = Cheerio.load(html);
-  $$("h1:contains('Đăng ký sản phẩm)").text("Hệ thống tổng đại lý");
+  $$("h1:contains('Đăng ký sản phẩm')").text("Hệ thống tổng đại lý");
 
   //remove the main content and replace with agency content
   $$("section[data-id='2b62459']").remove();
