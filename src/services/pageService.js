@@ -10,6 +10,7 @@ const footerScript = require("./script/footerScript");
 const emailScript = require("./script/emailScript");
 const ulti = require("./ulti");
 const agencyScript = require("./script/agencyScript");
+const mainPageScript = require("./script/mainPageScript");
 
 const domain = process.env.MAIN_DOMAIN;
 const fontAwesome = `<script src="https://kit.fontawesome.com/1cbb170ff9.js" crossorigin="anonymous"></script>`;
@@ -225,6 +226,19 @@ async function modifyHTML(page, arrayDB) {
   $$("#menu-2-7529d732").append(agencyScript.colNav);
   //add agencies to footer
   $$("div[data-id='5b85b7b']").after(agencyScript.footer);
+
+  //modify the main text
+  $$(
+    ".elementor-cta__description:contains('Avision cung cấp đầy đủ các loại máy quét chuyên nghiệp phù hợp với nhu cầu quét của bạn')"
+  )
+    .empty()
+    .append(mainPageScript.scriptLeft);
+
+  $$(
+    ".elementor-cta__description:contains('Tối đa hóa năng suất kinh doanh của bạn với Máy in đa chức năng của Avision.')"
+  )
+    .empty()
+    .append(mainPageScript.scriptRight);
 
   //Change the warning code
   $$("script").text((i, oldText) => {

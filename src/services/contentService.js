@@ -115,14 +115,19 @@ module.exports = {
       }
       //console.log(content.text + " Đã được dịch");
       //checking if text need to fix
+      content.finalText = content.newText;
       for (let i = 0; i < gloosaryArr.length; i++) {
-        let wrong = content.finalText.toLowerCase().trim();
-        let right = gloosaryArr[i][0].toLowerCase().trim();
+        let wrong = content.finalText.toLowerCase();
+        let right = gloosaryArr[i][0].toLowerCase();
         if (wrong.includes(right)) {
-          let temp = content.finalText.replace(
-            new RegExp(gloosaryArr[i][0], "gi"),
-            gloosaryArr[i][1]
-          );
+          let index = wrong.indexOf(right);
+          let prefix = content.finalText.substring(0, index);
+          let suffix = content.finalText.substring(index + right.length);
+          let temp = prefix + gloosaryArr[i][1] + suffix;
+          // let temp = content.finalText.replace(
+          //   new RegExp(gloosaryArr[i][0], "gi"),
+          //   gloosaryArr[i][1]
+          // );
           content.finalText = temp;
           await content.save().catch((err) => console.log(err));
           console.log(
