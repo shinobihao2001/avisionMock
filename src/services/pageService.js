@@ -138,7 +138,7 @@ async function modifyHTML(page, arrayDB) {
   $$("time.published").remove();
 
   //remove login
-  $$(`a[href="http://${domain}/login/"]`).remove();
+  //$$(`a[href="http://${domain}/login/"]`).remove();
 
   //change eicons to font-awesome
   // change menu
@@ -219,11 +219,11 @@ async function modifyHTML(page, arrayDB) {
   $$("section[data-id='53a583dc']").after(footerScript);
 
   //add agencies to row
-  $$("#menu-1-3a0fbe8").append(agencyScript.rowNav);
-  $$("#menu-1-7529d732").append(agencyScript.rowNav);
-  //add agencies to col
-  $$("#menu-2-3a0fbe8").append(agencyScript.colNav);
-  $$("#menu-2-7529d732").append(agencyScript.colNav);
+  $$(".menu-item-7264").after(agencyScript.rowNav);
+  // $$("#menu-1-7529d732").append(agencyScript.rowNav);
+  // //add agencies to col
+  // $$("#menu-2-3a0fbe8").append(agencyScript.colNav);
+  // $$("#menu-2-7529d732").append(agencyScript.colNav);
   //add agencies to footer
   $$("div[data-id='5b85b7b']").after(agencyScript.footer);
 
@@ -268,6 +268,9 @@ async function modifyHTML(page, arrayDB) {
         )
     );
   });
+
+  //hide signup warranty for non-login user
+  $$(".menu-item-12163").css("display", "none");
 
   // Save the modified HTML to a file
   const modifiedHtml = $$.html();
