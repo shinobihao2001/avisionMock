@@ -21,6 +21,11 @@ class emailController {
 
     //return the page with sending success mess
     let html = await pageService.getEmailPage();
+
+    if (req.session.authenticated) {
+      html = pageService.getModifyLogged(html);
+    }
+
     res.setHeader("Content-Type", "text/html");
     res.send(html.toString());
   }

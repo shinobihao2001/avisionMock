@@ -4,14 +4,26 @@ const path = require("path");
 require("dotenv").config();
 const fs = require("fs");
 const bodyParser = require("body-parser");
+const cookieParser = require("cookie-parser");
+var session = require("express-session");
 
 const port = process.env.PORT || 3000;
 const app = express();
 
 connectDB();
+
+app.use(
+  session({
+    secret: "keyboard cat",
+    resave: false,
+    saveUninitialized: false,
+    cookie: { secure: false },
+  })
+);
+
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
-
+app.use(cookieParser());
 //setupMiddleware -- remember to uncomment this
 // const IPMiddleware = require("./src/middlewares/ipMiddleware.js");
 // app.use(IPMiddleware.saveIPMiddleware);

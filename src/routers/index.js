@@ -5,13 +5,19 @@ const upload = require("../middlewares/multer");
 const pageService = require("../services/pageService.js");
 const agentController = require("../controllers/agentController.js");
 const emailController = require("../controllers/emailController.js");
-const fs = require("fs");
+const userController = require("../controllers/userController.js");
 
 const multer = require("multer");
+
 const upload2 = multer().none();
 
-router.get("*", async (req, res) => {
+router.get("*", async (req, res, next) => {
   console.log("URL: " + req.url);
+  console.log(req.path);
+  if (req.path === "/logout/") {
+    // If it's the "logout" path, skip to the next middleware/route
+    return next();
+  }
   let filename = (process.env.EN_DOMAIN + req.url).toString();
   console.log("filename 1: " + filename);
 
@@ -21,7 +27,9 @@ router.get("*", async (req, res) => {
   }
   console.log("filename 2: " + filename);
   let html = await pageService.getPage(filename);
-  //let ren = fs.readFileSync("modified.html", "utf8");
+  if (req.session.isLogin) {
+    html = pageService.getModifyLogged(html);
+  }
   res.setHeader("Content-Type", "text/html");
   res.send(html.toString());
 });
@@ -38,4 +46,10 @@ router.post(
 
 //handle seding email
 router.post("/contact-us/sendEmail", upload2, emailController.sendMail);
+
+//handle login
+router.post("/login", userController.handleLogin);
+
+//handle logout
+router.get("/logout", userController.handleLogout);
 module.exports = router;

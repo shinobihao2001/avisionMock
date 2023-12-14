@@ -11,6 +11,7 @@ const emailScript = require("./script/emailScript");
 const ulti = require("./ulti");
 const agencyScript = require("./script/agencyScript");
 const mainPageScript = require("./script/mainPageScript");
+const loginFailScript = require("./script/loginFailScript");
 
 const domain = process.env.MAIN_DOMAIN;
 const fontAwesome = `<script src="https://kit.fontawesome.com/1cbb170ff9.js" crossorigin="anonymous"></script>`;
@@ -313,6 +314,13 @@ function modifyEmail(html) {
   return result;
 }
 
+function modifyLoginFail(html) {
+  const $ = Cheerio.load(html);
+  $(".um-col-alt").append(loginFailScript);
+  const result = $.html();
+  return result;
+}
+
 module.exports = {
   async translatePage(page, arrayDB) {
     let html = await modifyHTML(page, arrayDB);
@@ -376,5 +384,23 @@ module.exports = {
     html = modifyAgency(html);
     let filename = "agency_";
     await this.saveHtmlLocal(html, filename);
+  },
+
+  getLoginFailPage() {
+    const name = "login_";
+    let folder = path.join(__dirname, "localPage");
+    let page = fs.readFileSync(path.join(folder, name), "utf-8");
+    const result = modifyLoginFail(page);
+    return result;
+  },
+
+  getModifyLogged(html) {
+    const $ = Cheerio.load(html);
+    $(".menu-item-12163").css("display", "block");
+    $("li.menu-item-99999 a.elementor-item").each(function () {
+      $(this).text("Đăng xuất");
+      $(this).attr("href", `http://${process.env.MAIN_DOMAIN}/logout/`);
+    });
+    return $.html();
   },
 };
