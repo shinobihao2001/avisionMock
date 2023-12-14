@@ -137,9 +137,6 @@ async function modifyHTML(page, arrayDB) {
   //remove dateTime in footer news
   $$("time.published").remove();
 
-  //remove login
-  //$$(`a[href="http://${domain}/login/"]`).remove();
-
   //change eicons to font-awesome
   // change menu
   $$("i.eicon-menu-bar").removeClass("eicon-menu-bar").addClass("fa fa-bars");
@@ -271,6 +268,19 @@ async function modifyHTML(page, arrayDB) {
 
   //hide signup warranty for non-login user
   $$(".menu-item-12163").css("display", "none");
+
+  //remove  originnallogin
+  $$(`a[href="http://${domain}/login/"]`).remove();
+  //modify login
+  $$(".menu-item-12055").after(mainPageScript.loginScriptItem);
+  //remove captcha
+  $$(".g-recaptcha").remove();
+  //remove keep login
+  $$(".um-field-area:contains('Giữ tôi đăng nhập')").remove();
+  //remove rigsster
+  $$(".um-right.um-half:contains('Đăng ký')").remove();
+  $$(".um-col-alt-b:contains('Quên mật khẩu')").remove();
+  $$(".um-button[value='Login']").attr("value", "Đăng nhập");
 
   // Save the modified HTML to a file
   const modifiedHtml = $$.html();

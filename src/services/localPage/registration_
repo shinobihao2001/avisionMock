@@ -1184,11 +1184,11 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-12055"><a href="http://localhost:3000/login/" class="elementor-item">&#x110;&#x103;ng nh&#x1EAD;p</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-12055">
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7673 current_page_item menu-item-7710"><a href="http://localhost:3000/registration/" aria-current="page" class="elementor-sub-item elementor-item-active">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
-</li>
+</li><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://localhost:3000/login/" class="elementor-item">&#x110;&#x103;ng nh&#x1EAD;p</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open fa fa-bars"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close fa fa-times"></i>			<span class="elementor-screen-only">Th&#x1EF1;c &#x111;&#x1A1;n</span>
@@ -1226,11 +1226,11 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-12584"><a href="http://localhost:3000/agent/" class="elementor-sub-item" tabindex="-1">C&#x1ED5;ng &#x111;&#x1ED1;i t&#xE1;c</a></li>
 </ul>
 </li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-12055"><a href="http://localhost:3000/login/" class="elementor-item" tabindex="-1">&#x110;&#x103;ng nh&#x1EAD;p</a>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-12055">
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-7673 current_page_item menu-item-7710"><a href="http://localhost:3000/registration/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
-</li>
+</li><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="http://localhost:3000/login/" class="elementor-item">&#x110;&#x103;ng nh&#x1EAD;p</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -1374,7 +1374,7 @@ E-mail:&#xA0;<a href="mailto:webmaster@avision.com.tw">qu&#x1EA3;n tr&#x1ECB; tr
 
 	<input type="hidden" id="_wpnonce" name="_wpnonce" value="a90da32984"><input type="hidden" name="_wp_http_referer" value="/en/registration/">
 <div class="um-field">
-	<div class="g-recaptcha" id="um-2660" data-type="image" data-size="normal" data-theme="light" data-sitekey="6LdJPf0hAAAAAOyYgmpsrauXya9uMp9jDeUBZquu"></div>
+	
 </div>
 
 
@@ -1404,7 +1404,7 @@ E-mail:&#xA0;<a href="mailto:webmaster@avision.com.tw">qu&#x1EA3;n tr&#x1ECB; tr
 				<input type="submit" value="Register" class="um-button" id="um-submit-btn">
 			</div>
 			<div class="um-right um-half">
-				<a href="http://localhost:3000/login/" class="um-button um-alt"> &#x110;&#x103;ng nh&#x1EAD;p</a>
+				
 			</div>
 
 		
