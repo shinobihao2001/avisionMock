@@ -34,12 +34,12 @@ require("dotenv").config();
     // // ];
 
     // // console.log(links);
-    // let mess = await contentService.crawlingAllPage(links);
-    // console.log("Crawling all words");
+    let mess = await contentService.crawlingAllPage(links);
+    console.log("Crawling all words");
 
     //Step 4: Translate all words in db in to Vietnamese
-    // await contentService.translateDb();
-    // console.log("Translate all words to vn done");
+    await contentService.translateDb();
+    console.log("Translate all words to vn done");
 
     //Step 5: Translat all page and save them to local
     // let db = await contentService.getContentArray();

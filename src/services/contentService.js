@@ -17,7 +17,8 @@ async function getWordFormPage(page) {
     let content = element.text().trim();
     if (content) {
       if (
-        element.children(":not(br):not(strong):not(span):not(i)").length == 0
+        element.children(":not(br):not(strong):not(span):not(i):not(sup)")
+          .length == 0
       ) {
         let node = $(element);
         // await createContent(node, res.options.uri);
@@ -28,7 +29,10 @@ async function getWordFormPage(page) {
       for (let childIndex = 0; childIndex < children.length; childIndex++) {
         let childNode = children.eq(childIndex);
         let node = $(childNode);
-        if (node.children(":not(br):not(strong):not(span):not(i)").length == 0)
+        if (
+          node.children(":not(br):not(strong):not(span):not(i):not(sup)")
+            .length == 0
+        )
           if (node.text().trim()) {
             //await createContent(node, res.options.uri);
             words.add(node.text().replace(/\s+/g, " "));

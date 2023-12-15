@@ -60,7 +60,9 @@ async function modifyHTML(page, arrayDB) {
     let content = element.text().trim();
 
     if (content) {
-      if (element.children(":not(br):not(strong):not(span)").length == 0) {
+      if (
+        element.children(":not(br):not(strong):not(span):not(sup)").length == 0
+      ) {
         let newText = contentService.findTranslatedWord(
           element.text().replace(/\s+/g, " "),
           arrayDB
@@ -72,7 +74,8 @@ async function modifyHTML(page, arrayDB) {
           let childNode = children.eq(childIndex);
           let node = $$(childNode);
           if (
-            node.children(":not(br):not(strong):not(span)").length == 0 &&
+            node.children(":not(br):not(strong):not(span):not(sup)").length ==
+              0 &&
             node.text().trim()
           ) {
             let newText = contentService.findTranslatedWord(
