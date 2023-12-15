@@ -1446,7 +1446,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <td style="background-color: #fff;" colspan="2">
 <h3></h3>
 <h3>&#x258D;Qu&#xE9;t l&#xEA;n l&#x1B0;u tr&#x1EEF; &#x111;&#xE1;m m&#xE2;y qua PaperAirX</h3>
-<p>Alternatively, the ScanQ SW is able to connect to your computer to access advanced image processing features. With PaperAirX, you can scan and send the images to E-mail, printer, and popular cloud servers including Google Drive<sup>TM</sup>, Evernote<sup>&#xAE;</sup>, Dropbox<sup>&#xAE;</sup>, and Microsoft SharePoint to share your documents fast and easily. &#xA0;What is best, with the built-in OCR (Optical Character Recognition) engine, the PaperAirX allows you to create a full-text searchable file in just one button.</p></td>
+<p>Ngo&#xE0;i ra, ScanQ SW c&#xF3; th&#x1EC3; k&#x1EBF;t n&#x1ED1;i v&#x1EDB;i m&#xE1;y t&#xED;nh c&#x1EE7;a b&#x1EA1;n &#x111;&#x1EC3; truy c&#x1EAD;p c&#xE1;c t&#xED;nh n&#x103;ng x&#x1EED; l&#xFD; h&#xEC;nh &#x1EA3;nh n&#xE2;ng cao. V&#x1EDB;i PaperAirX, b&#x1EA1;n c&#xF3; th&#x1EC3; qu&#xE9;t v&#xE0; g&#x1EED;i h&#xEC;nh &#x1EA3;nh t&#x1EDB;i E-mail, m&#xE1;y in v&#xE0; c&#xE1;c l&#x1B0;u tr&#x1EEF; &#x111;&#xE1;m m&#xE2;y ph&#x1ED5; bi&#x1EBF;n bao g&#x1ED3;m Google DriveTM, Evernote&#xAE;, Dropbox&#xAE; v&#xE0; Microsoft SharePoint &#x111;&#x1EC3; chia s&#x1EBB; t&#xE0;i li&#x1EC7;u c&#x1EE7;a b&#x1EA1;n nhanh ch&#xF3;ng v&#xE0; d&#x1EC5; d&#xE0;ng. &#x110;i&#x1EC1;u tuy&#x1EC7;t v&#x1EDD;i nh&#x1EA5;t l&#xE0; v&#x1EDB;i c&#xF4;ng c&#x1EE5; OCR (Nh&#x1EAD;n d&#x1EA1;ng k&#xFD; t&#x1EF1; quang h&#x1ECD;c) t&#xED;ch h&#x1EE3;p, PaperAirX cho ph&#xE9;p b&#x1EA1;n t&#x1EA1;o t&#x1EC7;p c&#xF3; th&#x1EC3; t&#xEC;m ki&#x1EBF;m to&#xE0;n v&#x103;n b&#x1EA3;n ch&#x1EC9; b&#x1EB1;ng m&#x1ED9;t n&#xFA;t b&#x1EA5;m.</p></td>
 </tr>
 </tbody>
 </table>
@@ -1458,7 +1458,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <li>&#x110;&#x1ED9; ph&#xE2;n gi&#x1EA3;i quang h&#x1ECD;c cao: 600 dpi</li>
 <li>H&#x1ED7; tr&#x1EE3; qu&#xE9;t trang d&#xE0;i l&#xEA;n t&#x1EDB;i 32&#x201D; (8 mm) cho 300 dpi</li>
 <li>Ngu&#x1ED3;n s&#xE1;ng LED kh&#xF4;ng c&#x1EA7;n th&#x1EDD;i gian kh&#x1EDF;i &#x111;&#x1ED9;ng</li>
-<li>Scans documents (52~105 g/m<sup>2</sup>) and plastic cards (up to 76mm)</li>
+<li>Qu&#xE9;t t&#xE0;i li&#x1EC7;u (52~105 g/m2) v&#xE0; th&#x1EBB; nh&#x1EF1;a (l&#xEA;n &#x111;&#x1EBF;n 76mm)</li>
 <li>T&#x1EF1; &#x111;&#x1ED9;ng t&#x1EAF;t ngu&#x1ED3;n sau khi kh&#xF4;ng ho&#x1EA1;t &#x111;&#x1ED9;ng trong 5 ph&#xFA;t</li>
 </ul>
 <p>&#xA0;</p>
