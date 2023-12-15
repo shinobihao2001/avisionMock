@@ -12,6 +12,7 @@
   "dependencies": {
     "@google-cloud/translate": "^8.0.2",
     "axios": "^1.6.2",
+    "basic-ftp": "^5.0.4",
     "body-parser": "^1.20.2",
     "cookie-parse": "^0.4.0",
     "cookie-parser": "^1.4.6",

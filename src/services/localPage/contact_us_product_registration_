@@ -1281,40 +1281,77 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-01e275d elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="01e275d" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c7331a9" data-id="c7331a9" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-7118722 elementor-widget elementor-widget-spacer" data-id="7118722" data-element_type="widget" data-widget_type="spacer.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-spacer">
-			<div class="elementor-spacer-inner"></div>
-		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-170ec9a elementor-widget elementor-widget-heading" data-id="170ec9a" data-element_type="widget" data-widget_type="heading.default">
-				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">&#x258E;&#x110;&#x103;ng k&#xFD; s&#x1EA3;n ph&#x1EA9;m</h2>		</div>
-				</div>
-				<div class="elementor-element elementor-element-75c0874 elementor-widget elementor-widget-text-editor" data-id="75c0874" data-element_type="widget" data-widget_type="text-editor.default">
-				<div class="elementor-widget-container"> Vui l&#xF2;ng nh&#x1EAD;p th&#xF4;ng tin Ch&#x1EE7; s&#x1EDF; h&#x1EEF;u s&#x1EA3;n ph&#x1EA9;m c&#x1EE7;a b&#x1EA1;n. * Ch&#x1EC9; ra tr&#x1B0;&#x1EDD;ng b&#x1EAF;t bu&#x1ED9;c</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-2b62459 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="2b62459" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-47b14c3" data-id="47b14c3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-9491bff elementor-widget elementor-widget-wpforms" data-id="9491bff" data-element_type="widget" data-widget_type="wpforms.default">
-				<div class="elementor-widget-container">
-			<div class="wpforms-container wpforms-container-full" id="wpforms-4190"><form id="wpforms-form-4190" class="wpforms-validate wpforms-form" data-formid="4190" method="post" enctype="multipart/form-data" action="/en/contact-us/product-registration/" data-token="7b66dba39db3e4c9ab027059837856f8"><noscript class="wpforms-error-noscript">Vui lòng kích hoạt JavaScript trong trình duyệt của bạn để hoàn thành biểu mẫu này.</noscript><div class="wpforms-field-container"><div id="wpforms-4190-field_1-container" class="wpforms-field wpforms-field-text wpforms-first wpforms-one-half" data-field-id="1"><label class="wpforms-field-label" for="wpforms-4190-field_1">SN *</label><input type="text" id="wpforms-4190-field_1" class="wpforms-field-medium wpforms-field-required wpforms-limit-characters-enabled" data-form-id="4190" data-field-id="1" data-text-limit="16" name="wpforms[fields][1]" maxlength="16" required></div><div id="wpforms-4190-field_17-container" class="wpforms-field wpforms-field-html" data-field-id="17"><div id="wpforms-4190-field_17">&#x27A5;V&#xED; d&#x1EE5; v&#x1EC1; S/N</div></div><div id="wpforms-4190-field_8-container" class="wpforms-field wpforms-field-radio wpforms-list-2-columns wpforms-conditional-trigger" data-field-id="8"><label class="wpforms-field-label" for="wpforms-4190-field_8">C&#xE1;ch s&#x1EED; d&#x1EE5;ng</label><ul id="wpforms-4190-field_8"><li class="choice-1 depth-1"><input type="radio" id="wpforms-4190-field_8_1" name="wpforms[fields][8]" value="Personal use"><label class="wpforms-field-label-inline" for="wpforms-4190-field_8_1">T&#xF4;i &#x111;&#x1ED3;ng &#xFD; &#x111;&#x1EC3; trang web l&#x1B0;u tr&#x1EEF; th&#xF4;ng tin m&#xE0; t&#xF4;i &#x111;&#xE3; g&#x1EED;i &#x111;&#x1EC3; h&#x1ECD; c&#xF3; th&#x1EC3; ph&#x1EA3;n h&#x1ED3;i cho y&#xEA;u c&#x1EA7;u c&#x1EE7;a t&#xF4;i.</label></li><li class="choice-3 depth-1 wpforms-selected"><input type="radio" id="wpforms-4190-field_8_3" name="wpforms[fields][8]" value="Corporate use" checked="checked"><label class="wpforms-field-label-inline" for="wpforms-4190-field_8_3">s&#x1EED; d&#x1EE5;ng c&#x1EE7;a c&#xF4;ng ty</label></li></ul></div><div id="wpforms-4190-field_9-container" class="wpforms-field wpforms-field-text wpforms-one-half wpforms-first wpforms-conditional-field wpforms-conditional-show" data-field-id="9" style="display:none;"><label class="wpforms-field-label" for="wpforms-4190-field_9">T&#xEA;n c&#xF4;ng ty</label><input type="text" id="wpforms-4190-field_9" class="wpforms-field-medium" name="wpforms[fields][9]"></div><div id="wpforms-4190-field_10-container" class="wpforms-field wpforms-field-select wpforms-one-half wpforms-first wpforms-field-select-style-classic" data-field-id="10"><label class="wpforms-field-label" for="wpforms-4190-field_10">B&#x1EA1;n &#x111;&#xE3; mua s&#x1EA3;n ph&#x1EA9;m &#x1EDF; &#x111;&#xE2;u?</label><select id="wpforms-4190-field_10" class="wpforms-field-medium" name="wpforms[fields][10]"><option value="Online shop">C&#x1EED;a h&#xE0;ng tr&#x1EF1;c tuy&#x1EBF;n</option><option value="Reseller store">C&#x1EED;a h&#xE0;ng &#x111;&#x1EA1;i l&#xFD;</option><option value="Retail store">C&#x1EED;a h&#xE0;ng b&#xE1;n l&#x1EBB;</option></select></div><div id="wpforms-4190-field_11-container" class="wpforms-field wpforms-field-date-time wpforms-one-half" data-field-id="11"><label class="wpforms-field-label" for="wpforms-4190-field_11">Ng&#xE0;y mua</label><div class="wpforms-datepicker-wrap"><input type="text" id="wpforms-4190-field_11" class="wpforms-field-date-time-date wpforms-datepicker wpforms-field-medium" data-date-format="m/d/Y" data-disable-past-dates="0" data-input="true" name="wpforms[fields][11][date]"><a title="Clear Date" data-clear class="wpforms-datepicker-clear" style="display:none;"></a></div></div><div id="wpforms-4190-field_6-container" class="wpforms-field wpforms-field-hidden" data-field-id="6"><input type="hidden" id="wpforms-4190-field_6" name="wpforms[fields][6]"></div><div id="wpforms-4190-field_20-container" class="wpforms-field wpforms-field-hidden" data-field-id="20"><input type="hidden" id="wpforms-4190-field_20" name="wpforms[fields][20]"></div><div id="wpforms-4190-field_18-container" class="wpforms-field wpforms-field-hidden" data-field-id="18"><input type="hidden" id="wpforms-4190-field_18" name="wpforms[fields][18]"></div><div id="wpforms-4190-field_19-container" class="wpforms-field wpforms-field-hidden" data-field-id="19"><input type="hidden" id="wpforms-4190-field_19" name="wpforms[fields][19]"></div></div><!-- .wpforms-field-container --><div class="wpforms-submit-container"><input type="hidden" name="wpforms[id]" value="4190"><input type="hidden" name="wpforms[author]" value="2"><input type="hidden" name="wpforms[post_id]" value="7300"><button type="submit" name="wpforms[submit]" id="wpforms-submit-4190" class="wpforms-submit" data-alt-text="Sending..." data-submit-text="Submit" aria-live="assertive" value="wpforms-submit">N&#x1ED9;p</button></div></form></div>  <!-- .wpforms-container -->		</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
+				<div class="elementor-section elementor-top-section elementor-element elementor-element-505bfda elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default animated fadeIn" data-id="505bfda" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 143px; left: 0px;">
+<div class="elementor-container elementor-column-gap-default">
+  <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6854dc3" data-id="6854dc3" data-element_type="column">
+    <div class="elementor-widget-wrap elementor-element-populated">
+      <div class="elementor-element elementor-element-d13b3fd elementor-widget elementor-widget-heading" data-id="d13b3fd" data-element_type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h3 class="elementor-heading-title elementor-size-default">&#x258E;&#x110;&#x103;ng k&#xFD; b&#x1EA3;o h&#xE0;nh</h3>
+        </div>
+      </div>
+      <div class="elementor-element elementor-element-9e5d34d elementor-widget elementor-widget-text-editor" data-id="9e5d34d" data-element_type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+          <p>&#x110;&#x103;ng k&#xFD; b&#x1EA3;o h&#xE0;nh s&#x1EA3;n ph&#x1EA9;m c&#x1EE7;a b&#x1EA1;n.T&#x1EA3;i l&#xEA;n danh s&#xE1;ch s&#x1ED1; s&#xEA;-ri,h&#xF3;a &#x111;&#x1A1;n,bi&#xEA;n b&#x1EA3;n giao h&#xE0;ng &#x111;&#x1EC3; xem x&#xE9;t kh&#x1EA3; n&#x103;ng &#x111;&#x1EE7; &#x111;i&#x1EC1;u ki&#x1EC7;n nh&#x1EAD;n h&#x1ED7; tr&#x1EE3; c&#x1EE7;a b&#x1EA1;n.</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</div>
+
+<!-- Original Section -->
+<section class="elementor-section elementor-top-section elementor-element elementor-element-1e178ee elementor-section-boxed elementor-section-height-default elementor-section-height-default animated fadeIn" data-id="1e178ee" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
+  <div class="elementor-container elementor-column-gap-default">
+    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ef0d44c" data-id="ef0d44c" data-element_type="column">
+      <div class="elementor-widget-wrap elementor-element-populated">
+        <div class="elementor-element elementor-element-4edd0b7 elementor-widget elementor-widget-wpforms" data-id="4edd0b7" data-element_type="widget" data-widget_type="wpforms.default">
+          <div class="elementor-widget-container">
+            <div class="wpforms-container wpforms-container-full" id="wpforms-4192">
+              <form id="wpforms-form-4192" class="wpforms-validate wpforms-form" data-formid="4192" method="post" enctype="multipart/form-data" action="/agent/signUpWarranty" data-token="e0bb84edcfe2d9bf1f1a7e751060adb9" novalidate="novalidate">
+                <noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript>
+                <div class="wpforms-field-container">
+                  <!-- Additional field for receipt -->
+                  <div>
+                    <label class="wpforms-field-label" for="receipt">Ch&#x1ECD;n &#x1EA3;nh h&#xF3;a &#x111;&#x1A1;n<span class="wpforms-required-label">*</span></label>
+                    <input type="file" class="wpforms-field-medium wpforms-field-required" id="receipt" name="receipt" accept=".pdf, .png, .jpg, .jpeg" required>
+                  </div>
+                  
+                  <!-- Additional field for Biên Bản Giao Hàng -->
+                  <div id="wpforms-4192-field_2-container" class="wpforms-field wpforms-field-file" data-field-id="2">
+                    <label class="wpforms-field-label" for="wpforms-4192-field_2">Bi&#xEA;n B&#x1EA3;n Giao H&#xE0;ng <span class="wpforms-required-label">*</span></label>
+                    <input type="file" id="wpforms-4192-field_2" class="wpforms-field-medium wpforms-field-required" data-form-id="4192" data-field-id="2" name="wpforms[fields][2]" accept=".pdf, .png, .jpg, .jpeg" required>
+                  </div>
+
+                  <!-- Additional field for Danh sách số seri -->
+                  <div id="wpforms-4192-field_3-container" class="wpforms-field wpforms-field-file" data-field-id="3">
+                    <label class="wpforms-field-label" for="wpforms-4192-field_3">Danh s&#xE1;ch s&#x1ED1; seri <span class="wpforms-required-label">*</span></label>
+                    <input type="file" id="wpforms-4192-field_3" class="wpforms-field-medium wpforms-field-required" data-form-id="4192" data-field-id="3" name="wpforms[fields][3]" accept=".pdf, .png, .jpg, .jpeg" required>
+                  </div>
+
+                </div><!-- .wpforms-field-container -->
+                <div class="wpforms-submit-container">
+                  <input type="hidden" name="wpforms[id]" value="4192">
+                  <input type="hidden" name="wpforms[author]" value="2">
+                  <input type="hidden" name="wpforms[post_id]" value="7068">
+                  <button type="submit" name="wpforms[submit]" id="wpforms-submit-4192" class="wpforms-submit" data-alt-text="Sending..." data-submit-text="Submit" aria-live="assertive" value="wpforms-submit">N&#x1ED9;p</button>
+                </div>
+              </form>
+            </div> <!-- .wpforms-container -->
+          </div>
+        </div>
+        <div class="elementor-element elementor-element-c12b7ee elementor-widget elementor-widget-shortcode" data-id="c12b7ee" data-element_type="widget" data-widget_type="shortcode.default">
+          <div class="elementor-widget-container">
+            <div class="elementor-shortcode"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+</section>
+				
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-7d07c5e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7d07c5e" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-51a4c4b" data-id="51a4c4b" data-element_type="column">

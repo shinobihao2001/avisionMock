@@ -30,5 +30,5 @@ class emailService {
     return transporter.sendMail(options);
   }
 }
-
+``;
 module.exports = new emailService();

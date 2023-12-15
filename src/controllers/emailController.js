@@ -17,10 +17,15 @@ class emailController {
       "\n" +
       "content: " +
       content;
-    await emailService.sendMail(subject, content);
 
-    //return the page with sending success mess
-    let html = await pageService.getEmailPage();
+    let html;
+    try {
+      await emailService.sendMail(subject, content);
+      html = await pageService.getEmailPage(true);
+    } catch (error) {
+      console.log("Email seding error: " + error);
+      html = await pageService.getEmailPage(false);
+    }
 
     if (req.session.authenticated) {
       html = pageService.getModifyLogged(html);

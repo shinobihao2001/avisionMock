@@ -15,9 +15,10 @@ class agentController {
   signUpWarranty = async (req, res, next) => {
     console.log(req.file);
     //save image to db
-    await invoiceService.saveInvoiceImage(req.file.filename);
+    await invoiceService.saveInvoiceImageDB(req.file.filename);
+    //await invoiceService.saveInvoiceImageServe(req.file.filename);
     //call api to get Info
-    let info = await invoiceService.getInfoInvoice(req.file.filename);
+    //let info = await invoiceService.getInfoInvoice(req.file.filename);
 
     let filename = (process.env.EN_DOMAIN + "/agent/").toString();
     console.log("filename 1: " + filename);
