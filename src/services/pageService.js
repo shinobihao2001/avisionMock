@@ -302,13 +302,10 @@ function modifyAgency(html) {
   $$("h1:contains('Đăng ký sản phẩm')").text("Hệ thống tổng đại lý");
 
   //remove the main content and replace with agency content
-  $$("section[data-id='2b62459']").remove();
-  $$("section[data-id='01e275d']").after(agencyScript.mainScript);
-
-  //remove text above
-  $$("div[data-id='170ec9a']").remove();
-  $$("div[data-id='75c0874']").remove();
-
+  $$("section[data-id='505bfda']").remove();
+  $$("section[data-id='1e178ee']").remove();
+  $$("section[data-id='c20f60e']").after(agencyScript.mainScript);
+  $$("div[data-id='505bfda']").remove();
   return $$.html();
 }
 

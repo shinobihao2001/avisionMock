@@ -12,6 +12,8 @@ const app = express();
 
 connectDB();
 
+//app.use(express.static("./src/services/image"));
+
 app.use(
   session({
     secret: "keyboard cat",

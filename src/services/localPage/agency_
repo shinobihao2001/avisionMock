@@ -1280,77 +1280,16 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 					</div>
 		</div>
 							</div>
-		</section>
-				<div class="elementor-section elementor-top-section elementor-element elementor-element-505bfda elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default animated fadeIn" data-id="505bfda" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 143px; left: 0px;">
-<div class="elementor-container elementor-column-gap-default">
-  <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6854dc3" data-id="6854dc3" data-element_type="column">
-    <div class="elementor-widget-wrap elementor-element-populated">
-      <div class="elementor-element elementor-element-d13b3fd elementor-widget elementor-widget-heading" data-id="d13b3fd" data-element_type="widget" data-widget_type="heading.default">
-        <div class="elementor-widget-container">
-          <h3 class="elementor-heading-title elementor-size-default">&#x258E;&#x110;&#x103;ng k&#xFD; b&#x1EA3;o h&#xE0;nh</h3>
-        </div>
-      </div>
-      <div class="elementor-element elementor-element-9e5d34d elementor-widget elementor-widget-text-editor" data-id="9e5d34d" data-element_type="widget" data-widget_type="text-editor.default">
-        <div class="elementor-widget-container">
-          <p>&#x110;&#x103;ng k&#xFD; b&#x1EA3;o h&#xE0;nh s&#x1EA3;n ph&#x1EA9;m c&#x1EE7;a b&#x1EA1;n.T&#x1EA3;i l&#xEA;n danh s&#xE1;ch s&#x1ED1; s&#xEA;-ri,h&#xF3;a &#x111;&#x1A1;n,bi&#xEA;n b&#x1EA3;n giao h&#xE0;ng &#x111;&#x1EC3; xem x&#xE9;t kh&#x1EA3; n&#x103;ng &#x111;&#x1EE7; &#x111;i&#x1EC1;u ki&#x1EC7;n nh&#x1EAD;n h&#x1ED7; tr&#x1EE3; c&#x1EE7;a b&#x1EA1;n.</p>
-        </div>
-      </div>
+		</section><div style="display: flex; justify-content: center; align-items: center; height: 1000px; flex-flow: column ;padding-top: 20px">
+    
+    <h3>T&#x1ED4;NG &#x110;&#x1EA0;I L&#xDD; KHU V&#x1EF0;C PH&#xCD;A B&#x1EAE;C</h3>
+    <img style="width: 60%; height:auto" src="https://i.imgur.com/7cb07Uo.jpg">
+    <h3 style="padding-top: 20px">T&#x1ED4;NG &#x110;&#x1EA0;I L&#xDD; KHU V&#x1EF0;C PH&#xCD;A NAM</h3><img style="width: 60%; height:auto" src="https://i.imgur.com/xHlDXmv.jpg">
     </div>
-  </div>
-</div>
-</div>
+				
 
 <!-- Original Section -->
-<section class="elementor-section elementor-top-section elementor-element elementor-element-1e178ee elementor-section-boxed elementor-section-height-default elementor-section-height-default animated fadeIn" data-id="1e178ee" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;}">
-  <div class="elementor-container elementor-column-gap-default">
-    <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ef0d44c" data-id="ef0d44c" data-element_type="column">
-      <div class="elementor-widget-wrap elementor-element-populated">
-        <div class="elementor-element elementor-element-4edd0b7 elementor-widget elementor-widget-wpforms" data-id="4edd0b7" data-element_type="widget" data-widget_type="wpforms.default">
-          <div class="elementor-widget-container">
-            <div class="wpforms-container wpforms-container-full" id="wpforms-4192">
-              <form id="wpforms-form-4192" class="wpforms-validate wpforms-form" data-formid="4192" method="post" enctype="multipart/form-data" action="/agent/signUpWarranty" data-token="e0bb84edcfe2d9bf1f1a7e751060adb9" novalidate="novalidate">
-                <noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript>
-                <div class="wpforms-field-container">
-                  <!-- Additional field for receipt -->
-                  <div>
-                    <label class="wpforms-field-label" for="receipt">Ch&#x1ECD;n &#x1EA3;nh h&#xF3;a &#x111;&#x1A1;n<span class="wpforms-required-label">*</span></label>
-                    <input type="file" class="wpforms-field-medium wpforms-field-required" id="receipt" name="receipt" accept=".pdf, .png, .jpg, .jpeg" required>
-                  </div>
-                  
-                  <!-- Additional field for Biên Bản Giao Hàng -->
-                  <div id="wpforms-4192-field_2-container" class="wpforms-field wpforms-field-file" data-field-id="2">
-                    <label class="wpforms-field-label" for="wpforms-4192-field_2">Bi&#xEA;n B&#x1EA3;n Giao H&#xE0;ng <span class="wpforms-required-label">*</span></label>
-                    <input type="file" id="wpforms-4192-field_2" class="wpforms-field-medium wpforms-field-required" data-form-id="4192" data-field-id="2" name="wpforms[fields][2]" accept=".pdf, .png, .jpg, .jpeg" required>
-                  </div>
 
-                  <!-- Additional field for Danh sách số seri -->
-                  <div id="wpforms-4192-field_3-container" class="wpforms-field wpforms-field-file" data-field-id="3">
-                    <label class="wpforms-field-label" for="wpforms-4192-field_3">Danh s&#xE1;ch s&#x1ED1; seri <span class="wpforms-required-label">*</span></label>
-                    <input type="file" id="wpforms-4192-field_3" class="wpforms-field-medium wpforms-field-required" data-form-id="4192" data-field-id="3" name="wpforms[fields][3]" accept=".pdf, .png, .jpg, .jpeg" required>
-                  </div>
-
-                </div><!-- .wpforms-field-container -->
-                <div class="wpforms-submit-container">
-                  <input type="hidden" name="wpforms[id]" value="4192">
-                  <input type="hidden" name="wpforms[author]" value="2">
-                  <input type="hidden" name="wpforms[post_id]" value="7068">
-                  <button type="submit" name="wpforms[submit]" id="wpforms-submit-4192" class="wpforms-submit" data-alt-text="Sending..." data-submit-text="Submit" aria-live="assertive" value="wpforms-submit">N&#x1ED9;p</button>
-                </div>
-              </form>
-            </div> <!-- .wpforms-container -->
-          </div>
-        </div>
-        <div class="elementor-element elementor-element-c12b7ee elementor-widget elementor-widget-shortcode" data-id="c12b7ee" data-element_type="widget" data-widget_type="shortcode.default">
-          <div class="elementor-widget-container">
-            <div class="elementor-shortcode"></div>
-          </div>
-        </div>
-      </div>
-    </div>
-  </div>
-
-
-</section>
 				
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-7d07c5e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7d07c5e" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">

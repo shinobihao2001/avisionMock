@@ -1281,14 +1281,14 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		</div>
 							</div>
 		</section>
-				<div class="elementor-section elementor-top-section elementor-element elementor-element-505bfda elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default animated fadeIn" data-id="505bfda" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 143px; left: 0px;">
+				<div class="elementor-section elementor-top-section elementor-element elementor-element-505bfda elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default animated fadeIn" data-id="505bfda" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 143px; left: 0px;padding-top: 25px">
 <div class="elementor-container elementor-column-gap-default">
   <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6854dc3" data-id="6854dc3" data-element_type="column">
     <div class="elementor-widget-wrap elementor-element-populated">
       <div class="elementor-element elementor-element-d13b3fd elementor-widget elementor-widget-heading" data-id="d13b3fd" data-element_type="widget" data-widget_type="heading.default">
         <div class="elementor-widget-container">
-          <h3 class="elementor-heading-title elementor-size-default">&#x258E;&#x110;&#x103;ng k&#xFD; b&#x1EA3;o h&#xE0;nh</h3>
-        </div>
+          <h2 class="elementor-heading-title elementor-size-default">&#x258E;&#x110;&#x103;ng k&#xFD; b&#x1EA3;o h&#xE0;nh
+        </h2></div>
       </div>
       <div class="elementor-element elementor-element-9e5d34d elementor-widget elementor-widget-text-editor" data-id="9e5d34d" data-element_type="widget" data-widget_type="text-editor.default">
         <div class="elementor-widget-container">
@@ -1316,7 +1316,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
                     <label class="wpforms-field-label" for="receipt">Ch&#x1ECD;n &#x1EA3;nh h&#xF3;a &#x111;&#x1A1;n<span class="wpforms-required-label">*</span></label>
                     <input type="file" class="wpforms-field-medium wpforms-field-required" id="receipt" name="receipt" accept=".pdf, .png, .jpg, .jpeg" required>
                   </div>
-                  
+
                   <!-- Additional field for Biên Bản Giao Hàng -->
                   <div id="wpforms-4192-field_2-container" class="wpforms-field wpforms-field-file" data-field-id="2">
                     <label class="wpforms-field-label" for="wpforms-4192-field_2">Bi&#xEA;n B&#x1EA3;n Giao H&#xE0;ng <span class="wpforms-required-label">*</span></label>

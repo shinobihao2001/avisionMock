@@ -1,10 +1,10 @@
-const script = `<div class="elementor-section elementor-top-section elementor-element elementor-element-505bfda elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default animated fadeIn" data-id="505bfda" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 143px; left: 0px;">
+const script = `<div class="elementor-section elementor-top-section elementor-element elementor-element-505bfda elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default animated fadeIn" data-id="505bfda" data-element_type="section" data-settings="{&quot;animation&quot;:&quot;fadeIn&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 143px; left: 0px;padding-top: 25px">
 <div class="elementor-container elementor-column-gap-default">
   <div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6854dc3" data-id="6854dc3" data-element_type="column">
     <div class="elementor-widget-wrap elementor-element-populated">
       <div class="elementor-element elementor-element-d13b3fd elementor-widget elementor-widget-heading" data-id="d13b3fd" data-element_type="widget" data-widget_type="heading.default">
         <div class="elementor-widget-container">
-          <h3 class="elementor-heading-title elementor-size-default">▎Đăng ký bảo hành</h3>
+          <h2 class="elementor-heading-title elementor-size-default">▎Đăng ký bảo hành</h3>
         </div>
       </div>
       <div class="elementor-element elementor-element-9e5d34d elementor-widget elementor-widget-text-editor" data-id="9e5d34d" data-element_type="widget" data-widget_type="text-editor.default">
@@ -33,7 +33,7 @@ const script = `<div class="elementor-section elementor-top-section elementor-el
                     <label class="wpforms-field-label" for="receipt">Chọn ảnh hóa đơn<span class="wpforms-required-label">*</span></label>
                     <input type="file" class="wpforms-field-medium wpforms-field-required" id="receipt" name="receipt" accept=".pdf, .png, .jpg, .jpeg" required>
                   </div>
-                  
+
                   <!-- Additional field for Biên Bản Giao Hàng -->
                   <div id="wpforms-4192-field_2-container" class="wpforms-field wpforms-field-file" data-field-id="2">
                     <label class="wpforms-field-label" for="wpforms-4192-field_2">Biên Bản Giao Hàng <span class="wpforms-required-label">*</span></label>
