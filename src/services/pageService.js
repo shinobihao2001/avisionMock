@@ -275,6 +275,7 @@ async function modifyHTML(page, arrayDB) {
 
   //hide signup warranty for non-login user
   $$(".menu-item-12163").css("display", "none");
+  $$("div[data-id='3349ee0c']").css("display", "none");
 
   //remove  originnallogin
   $$(`a[href="http://${domain}/login/"]`).remove();
@@ -404,6 +405,7 @@ module.exports = {
   getModifyLogged(html) {
     const $ = Cheerio.load(html);
     $(".menu-item-12163").css("display", "block");
+    $("div[data-id='3349ee0c']").css("display", "block");
     $("li.menu-item-99999 a.elementor-item").each(function () {
       $(this).text("Đăng xuất");
       $(this).attr("href", `http://${process.env.MAIN_DOMAIN}/logout/`);
