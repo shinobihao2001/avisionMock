@@ -133,7 +133,7 @@ async function getProductExcelFile() {
     await pageService.createAgencyPage();
 
     //Step 8: Fixing wrong content i mean wrong index ?
-    await pageService.FixAllPage();
+    // await pageService.FixAllPage();
     console.log("Application initialized successfully");
   } catch (error) {
     console.error("Error initializing application:", error);
