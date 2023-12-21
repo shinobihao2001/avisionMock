@@ -1,10 +1,9 @@
 const gloosaryService = require("./src/services/glossaryService");
 const userService = require("./src/services/userService");
 const connectDB = require("./src/database");
+const ob = require("./config.json");
 //gloosaryService.getGlossaryCsv();
 (async () => {
-  await connectDB();
-  let user = await userService.createUser("fakeAccount", "123456");
-  console.log(user);
-  console.log("DONE");
+  let res = gloosaryService.getProductGlossaryCsv();
+  console.log(res);
 })();

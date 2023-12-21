@@ -2,32 +2,31 @@ const nodeMailer = require("nodemailer");
 
 const adminEmail = "nghao@dsg.com.vn";
 const adminPassword = "Uzunaki456123";
-
 const mailHost = "mail.dsg.com.vn";
-const mailPort = 25;
-
+const mailPort = 465;
 const receiverEmail = "shinobihao2001@gmail.com";
+const config = require("../../config.json");
 
 class emailService {
-  sendMail(subject, content) {
+  async sendMail(subject, content) {
     const transporter = nodeMailer.createTransport({
-      host: mailHost,
-      port: mailPort,
-      secure: false,
+      host: config.mailHost,
+      port: config.mailPort,
+      secure: true,
       auth: {
-        user: adminEmail,
-        pass: adminPassword,
+        user: config.emailSender.emailName,
+        pass: config.emailSender.emailPassword,
       },
     });
 
     const options = {
-      from: adminEmail,
-      to: receiverEmail,
+      from: config.emailSender.emailName,
+      to: config.emailReceivers,
       subject: subject,
       text: content,
     };
 
-    return transporter.sendMail(options);
+    return await transporter.sendMail(options);
   }
 }
 ``;

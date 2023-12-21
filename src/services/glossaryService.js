@@ -104,8 +104,14 @@ module.exports = {
       return "Done";
     }
   },
-
-  getGlossaryCsv() {
+  getNeedFixLink(glossary) {
+    let links = new Set();
+    for (let i = 0; i < glossary.length; i++) {
+      links.add(glossary[i][0]);
+    }
+    return Array.from(links);
+  },
+  getNormalGlossaryCsv() {
     let buf = fs.readFileSync(path.join(__dirname, "../../avision.xlsx"));
     let workbook = XLSX.read(buf);
     let worksheet = workbook.Sheets[workbook.SheetNames[0]];
@@ -113,5 +119,25 @@ module.exports = {
     let filtered_data = raw_data.filter((row) => row.length > 0);
     console.log(filtered_data);
     return filtered_data;
+  },
+  getProductGlossaryCsv() {
+    let buf = fs.readFileSync(
+      path.join(__dirname, "../../avisionProduct.xlsx")
+    );
+    let workbook = XLSX.read(buf);
+    let worksheet = workbook.Sheets[workbook.SheetNames[0]];
+    let raw_data = XLSX.utils.sheet_to_json(worksheet, { header: 1 }).slice(1);
+    let filtered_data = raw_data.filter((row) => row.length > 0);
+    console.log(filtered_data);
+    return filtered_data;
+  },
+  getGlossaryByLink(link, gloosary) {
+    let res = [];
+    gloosary.forEach((term) => {
+      if (term[0] == link) {
+        res.push(term);
+      }
+    });
+    return res;
   },
 };

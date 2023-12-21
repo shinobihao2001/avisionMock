@@ -4,6 +4,7 @@ const Cheerio = require("cheerio");
 const fs = require("fs");
 const contentService = require("./contentService");
 const linkService = require("./linkService");
+const gloosaryService = require("./glossaryService");
 const path = require("path");
 const signUpWarrantyScript = require("./script/signUpWarranty");
 const footerScript = require("./script/footerScript");
@@ -406,5 +407,32 @@ module.exports = {
       $(this).attr("href", `http://${process.env.MAIN_DOMAIN}/logout/`);
     });
     return $.html();
+  },
+
+  FixOnePage(html, gloosary) {
+    const $ = Cheerio.load(html);
+    gloosary.forEach((term) => {
+      console.log(Array.isArray(term));
+      console.log("Term:" + term);
+      let th = $(`th:contains(${term[1]})`);
+      let td = th.next("td");
+      td.find("p").text(term[3]);
+    });
+    return $.html();
+  },
+
+  async FixAllPage() {
+    let gloosary = gloosaryService.getProductGlossaryCsv();
+    let links = gloosaryService.getNeedFixLink(gloosary);
+
+    for (let i = 0; i < links.length; i++) {
+      let link = links[i];
+      console.log(link);
+      let html = await this.getPage(link);
+      let newGlossarry = gloosaryService.getGlossaryByLink(link, gloosary);
+      html = this.FixOnePage(html, newGlossarry);
+      let filename = ulti.getLocalName(link);
+      let results = await this.saveHtmlLocal(html, filename);
+    }
   },
 };

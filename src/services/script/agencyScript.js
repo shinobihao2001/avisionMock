@@ -1,7 +1,4 @@
-const path = require("path");
 const mainDomain = process.env.MAIN_DOMAIN;
-
-const localPath = path.join(__dirname, "../image");
 
 module.exports = {
   mainScript: `<div style="display: flex; justify-content: center; align-items: center; height: 1000px; flex-flow: column ;padding-top: 20px">

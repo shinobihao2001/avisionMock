@@ -105,7 +105,7 @@ module.exports = {
 
   translateDb: async function () {
     const allContents = await contentModel.find();
-    const gloosaryArr = gloosaryService.getGlossaryCsv();
+    const gloosaryArr = gloosaryService.getNormalGlossaryCsv();
 
     for (var content of allContents) {
       if (!content.isTranslated) {

@@ -1510,7 +1510,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_012">
 							<th class="woocommerce-product-attributes-item__label">K&#xED;ch th&#x1B0;&#x1EDB;c b&#x1ED9; nh&#x1EDB;</th>
-				<td class="woocommerce-product-attributes-item__value"><p>SDRAM 64 MB</p>
+				<td class="woocommerce-product-attributes-item__value"><p>SDRAM 128 GB</p>
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_013">
@@ -1535,7 +1535,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_024">
 							<th class="woocommerce-product-attributes-item__label">C&#xF4;ng su&#x1EA5;t qu&#xE9;t/ng&#xE0;y</th>
-				<td class="woocommerce-product-attributes-item__value"><p>L&#xEA;n t&#x1EDB;i 1.000 trang</p>
+				<td class="woocommerce-product-attributes-item__value"><p>L&#xEA;n t&#x1EDB;i 1.0 trang</p>
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_025">
@@ -1586,7 +1586,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_042">
 							<th class="woocommerce-product-attributes-item__label">&#x110;en tr&#x1EAF;ng @ 300dpi, A4</th>
-				<td class="woocommerce-product-attributes-item__value"><p>Flatbed: 4,5 gi&#xE2;y / 14,8 gi&#xE2;y (Bao g&#x1ED3;m Backhome), M&#x1ED9;t m&#x1EB7;t: 25 trang/ph&#xFA;t</p>
+				<td class="woocommerce-product-attributes-item__value"><p>Flatbed: 4,5 gi&#xE2;y / 14,6 gi&#xE2;y (Bao g&#x1ED3;m Backhome), M&#x1ED9;t m&#x1EB7;t: 27 trang/ph&#xFA;t</p>
 </td>
 		</tr>
 						<tr class="woocommerce-product-attributes-item woocommerce-product-attributes-item--attribute_pa_spec_049">

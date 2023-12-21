@@ -1,0 +1,13 @@
+{
+    "excelNormalName": "avision.xlsx",
+    "excelProductName": "avisionProduct.xlsx",
+    "emailSender":{
+        "emailName": "nghao@dsg.com.vn",
+        "emailPassword": "Uzunaki456123"
+    },
+    "emailReceivers":[
+          "shinobihao2001@gmail.com","nghao@dsg.com.vn"
+    ],
+	"mailPort": 465,
+	"mailHost": "mail.dsg.com.vn"
+}
