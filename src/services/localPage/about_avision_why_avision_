@@ -1554,41 +1554,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 		</div>
 							</div>
 		</div>
-				<nav class="elementor-section elementor-top-section elementor-element elementor-element-5da3aab elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="5da3aab" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;animation&quot;:&quot;fadeInUp&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d933764 elementor-hidden-mobile" data-id="d933764" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-a9d9b05 elementor-icon-list--layout-inline elementor-align-center elementor-mobile-align-center elementor-hidden-mobile elementor-list-item-link-full_width elementor-widget elementor-widget-icon-list" data-id="a9d9b05" data-element_type="widget" data-widget_type="icon-list.default">
-				<div class="elementor-widget-container">
-					<ul class="elementor-icon-list-items elementor-inline-items">
-							<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="#Topic1"> Thi&#x1EBF;t k&#x1EBF; s&#xE1;ng t&#x1EA1;o v&#xE0; nh&#x1ECF; g&#x1ECD;n</a>
-									</li>
-								<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="#Topic2"> &#x110;&#x1B0;&#x1EDD;ng cong v&#xE0; &#x111;&#x1B0;&#x1EDD;ng th&#x1EB3;ng</a>
-									</li>
-								<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="#Topic3"> Qu&#xE9;t c&#xE1;c t&#xE0;i li&#x1EC7;u c&#xF3; k&#xED;ch th&#x1B0;&#x1EDB;c kh&#xE1;c nhau c&#xF9;ng m&#x1ED9;t l&#xFA;c</a>
-									</li>
-								<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="#Topic4"> B&#x1EA3;o v&#x1EC7; gi&#x1EA5;y tuy&#x1EC7;t v&#x1EDD;i</a>
-									</li>
-								<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="#Topic5"> Ch&#x1EA5;t l&#x1B0;&#x1EE3;ng h&#xEC;nh &#x1EA3;nh &#x111;&#xE1;ng tin c&#x1EAD;y</a>
-									</li>
-								<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="#Topic6"> M&#xF4;-&#x111;un LPH t&#x1EF1; ph&#xE1;t tri&#x1EC3;n</a>
-									</li>
-								<li class="elementor-icon-list-item elementor-inline-item">
-											<a href="#Topic7"> &#x1EE8;ng d&#x1EE5;ng ph&#x1EA7;n m&#x1EC1;m &#x111;i k&#xE8;m m&#x1EA1;nh m&#x1EBD;</a>
-									</li>
-						</ul>
-				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</nav>
+				
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-28f33a1 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="28f33a1" data-element_type="section" id="Topic1" data-settings="{&quot;animation&quot;:&quot;fadeInUp&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-2ecd3b1" data-id="2ecd3b1" data-element_type="column">

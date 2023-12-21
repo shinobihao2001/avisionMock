@@ -289,6 +289,8 @@ async function modifyHTML(page, arrayDB) {
   $$(".um-col-alt-b:contains('Quên mật khẩu')").remove();
   $$(".um-button[value='Login']").attr("value", "Đăng nhập");
 
+  //remove nav bar in why avision page
+  $$("nav[data-id='5da3aab']").remove();
   // Save the modified HTML to a file
   const modifiedHtml = $$.html();
   return modifiedHtml;
