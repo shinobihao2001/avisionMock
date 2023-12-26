@@ -6,8 +6,13 @@ class agentController {
   checkWarranty = async (req, res, next) => {
     let filename = (process.env.EN_DOMAIN + "/agent/").toString();
     console.log("filename 1: " + filename);
-    let html = await pageService.getPage(filename);
+
     //todo :modify html file again adding the warranty check
+    let serial = req.body.wpforms.fields[1];
+    let html = await invoiceService.getWarrantyCheck(serial);
+    if (req.session.isLogin) {
+      html = pageService.getModifyLogged(html);
+    }
     res.setHeader("Content-Type", "text/html");
     res.send(html.toString());
   };

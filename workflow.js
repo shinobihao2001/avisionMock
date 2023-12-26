@@ -84,12 +84,20 @@ async function getProductExcelFile() {
   client.close();
 }
 
+function setUpEnviroment() {
+  let data = require("./config.json");
+  process.env.DB_CONNECT_STRING = data.db_connect_string;
+  process.env.warranty_check_api_key = data.checkWarranty["api-key"];
+  process.env.get_warranty_check_info_url = data.checkWarranty["api-url"];
+}
+
 (async () => {
   try {
     //Step 0: Connect to FTP Serve getting config file also exxcel file
     await getConfigFile();
     await getNormalExcelFile();
     await getProductExcelFile();
+    setUpEnviroment();
 
     // Step 1: Connect to the database
     await connectDB();

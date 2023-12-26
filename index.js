@@ -10,6 +10,14 @@ var session = require("express-session");
 const port = process.env.PORT || 3000;
 const app = express();
 
+function setUpEnviroment() {
+  let data = require("./config.json");
+  process.env.DB_CONNECT_STRING = data.db_connect_string;
+  process.env.warranty_check_api_key = data.checkWarranty["api-key"];
+  process.env.get_warranty_check_info_url = data.checkWarranty["api-url"];
+}
+
+setUpEnviroment();
 connectDB();
 
 //app.use(express.static("./src/services/image"));

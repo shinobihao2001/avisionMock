@@ -19,6 +19,18 @@ class invoiceAPI {
     });
     return reponse;
   }
+
+  async getWarrantyCheckInfo(serial) {
+    let reponse = await axios.get(process.env.get_warranty_check_info_url, {
+      params: {
+        query: serial,
+      },
+      headers: {
+        "api-key": process.env.warranty_check_api_key,
+      },
+    });
+    return reponse;
+  }
 }
 
 module.exports = new invoiceAPI();

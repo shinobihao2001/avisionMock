@@ -13,7 +13,7 @@ const ulti = require("./ulti");
 const agencyScript = require("./script/agencyScript");
 const mainPageScript = require("./script/mainPageScript");
 const loginFailScript = require("./script/loginFailScript");
-
+const warrantyCheckScript = require("./script/warrantyCheckScript");
 const domain = process.env.MAIN_DOMAIN;
 const fontAwesome = `<script src="https://kit.fontawesome.com/1cbb170ff9.js" crossorigin="anonymous"></script>`;
 
@@ -44,7 +44,7 @@ async function modifyHTML(page, arrayDB) {
         "href",
         href.replace(
           "https://www.avision.com/en",
-          `http://${domain}`
+          ``
           //`http://${process.env.MOCK_DOMAIN}`
         )
         // "http://localhost:3000/"
@@ -278,7 +278,9 @@ async function modifyHTML(page, arrayDB) {
   $$("div[data-id='3349ee0c']").css("display", "none");
 
   //remove  originnallogin
-  $$(`a[href="http://${domain}/login/"]`).remove();
+  //$$(`a[href="http://${domain}/login/"]`).remove();
+  //id="sm-17032371227877803-9"
+  $$(`a[href="/login/"]`).remove();
   //modify login
   $$(".menu-item-12055").after(mainPageScript.loginScriptItem);
   //remove captcha
@@ -299,6 +301,18 @@ async function modifyHTML(page, arrayDB) {
 
 function modifyReceipt(html) {
   const $ = Cheerio.load(html);
+}
+
+function modifyWarrantyCheck(html, success, data) {
+  const $ = Cheerio.load(html);
+  if (success) {
+    $("div[data-id='4edd0b7']").after(warrantyCheckScript.successScript(data));
+  } else {
+    $("div[data-id='9e5d34d']").after(
+      warrantyCheckScript.errorScript(data.message)
+    );
+  }
+  return $.html();
 }
 
 function modifyAgency(html) {
@@ -350,6 +364,14 @@ module.exports = {
     let folder = path.join(__dirname, "localPage");
     const page = fs.readFileSync(path.join(folder, name), "utf-8");
     const result = modifyEmail(page, success);
+    return result;
+  },
+
+  getWarrantyCheckPage(success, data) {
+    const name = "agent_";
+    let folder = path.join(__dirname, "localPage");
+    const page = fs.readFileSync(path.join(folder, name), "utf-8");
+    const result = modifyWarrantyCheck(page, success, data);
     return result;
   },
 

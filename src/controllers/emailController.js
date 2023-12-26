@@ -27,7 +27,7 @@ class emailController {
       html = await pageService.getEmailPage(false);
     }
 
-    if (req.session.authenticated) {
+    if (req.session.isLogin) {
       html = pageService.getModifyLogged(html);
     }
 

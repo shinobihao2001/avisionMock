@@ -35,7 +35,7 @@ router.get("*", async (req, res, next) => {
 });
 
 //handle checking warraty
-router.post("/agent/check", agentController.checkWarranty);
+router.post("/agent/check", upload2, agentController.checkWarranty);
 
 //handle signup warranty
 router.post(

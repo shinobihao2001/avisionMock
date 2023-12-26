@@ -3,6 +3,8 @@ const fs = require("fs");
 const path = require("path");
 const ftp = require("basic-ftp");
 const invoiceApi = require("./invoiceApi");
+const { Page } = require("openai/pagination");
+const pageService = require("./pageService");
 
 function getInvoiceImage(invoiceName) {
   let invoiceImagePath = path.join(__dirname, `../uploads/${invoiceName}`);
@@ -71,6 +73,26 @@ class invoiceService {
   getDateInvoice(stringDate) {
     let arr = stringDate.split("");
     let numArr = arr.filter((value) => "0" <= value && value <= "9");
+  }
+
+  async getWarrantyCheck(serial) {
+    let result = "";
+    try {
+      let info = await invoiceApi.getWarrantyCheckInfo(serial);
+      console.log(info.data);
+      if (info.data.statusCode == 200) {
+        result = pageService.getWarrantyCheckPage(true, info.data.data);
+      } else {
+        result = pageService.getWarrantyCheckPage(false, info.data);
+      }
+    } catch (error) {
+      console.log(error);
+      data = {
+        message: " Xin vui lòng gửi lại",
+      };
+      result = pageService.getWarrantyCheckPage(false, data);
+    }
+    return result;
   }
 }
 
