@@ -1144,7 +1144,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-aef91f6 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="aef91f6" data-element_type="widget" data-widget_type="theme-site-logo.default">
 				<div class="elementor-widget-container">
-																<a href>
+																<a href="/">
 							<img width="523" height="191" src="https://www.avision.com/en/wp-content/uploads/2023/11/cropped-WEB_logo_Avision.png" class="attachment-full size-full wp-image-25379" alt srcset="https://www.avision.com/en/wp-content/uploads/2023/11/cropped-WEB_logo_Avision.png 523w, https://www.avision.com/en/wp-content/uploads/2023/11/cropped-WEB_logo_Avision-300x110.png 300w" sizes="(max-width: 523px) 100vw, 523px">								</a>
 															</div>
 				</div>
@@ -1287,8 +1287,8 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
     <div class="elementor-widget-wrap elementor-element-populated">
       <div class="elementor-element elementor-element-d13b3fd elementor-widget elementor-widget-heading" data-id="d13b3fd" data-element_type="widget" data-widget_type="heading.default">
         <div class="elementor-widget-container">
-          <h2 class="elementor-heading-title elementor-size-default">&#x258E;&#x110;&#x103;ng k&#xFD; b&#x1EA3;o h&#xE0;nh
-        </h2></div>
+          <h2 class="elementor-heading-title elementor-size-default">&#x258E;&#x110;&#x103;ng k&#xFD; b&#x1EA3;o h&#xE0;nh</h2>
+        </div>
       </div>
       <div class="elementor-element elementor-element-9e5d34d elementor-widget elementor-widget-text-editor" data-id="9e5d34d" data-element_type="widget" data-widget_type="text-editor.default">
         <div class="elementor-widget-container">
@@ -1296,6 +1296,22 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
         </div>
       </div>
     </div>
+    
+    <div class="elementor-widget-wrap elementor-element-populated">
+      <div class="elementor-element elementor-element-d13b3fd elementor-widget elementor-widget-heading" data-id="d13b3fd" data-element_type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h2 class="elementor-heading-title elementor-size-default">File excel m&#x1EAB;u</h2>
+        </div>
+      </div>
+      <div class="elementor-element elementor-element-9e5d34d elementor-widget elementor-widget-text-editor" data-id="9e5d34d" data-element_type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+          <a href="/public/template.xlsx" download="template.xlsx">B&#x1EA5;m v&#xE0;o t&#x1EA3;i v&#x1EC1; file excel m&#x1EAB;u v&#xE0; &#x111;i&#x1EC1;n v&#xE0;o s&#x1ED1; serial</a>
+        </div>
+      </div>
+    </div>
+
+
+
   </div>
 </div>
 </div>

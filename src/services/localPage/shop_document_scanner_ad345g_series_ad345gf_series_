@@ -1188,7 +1188,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-aef91f6 elementor-widget elementor-widget-theme-site-logo elementor-widget-image" data-id="aef91f6" data-element_type="widget" data-widget_type="theme-site-logo.default">
 				<div class="elementor-widget-container">
-																<a href>
+																<a href="/">
 							<img width="523" height="191" src="https://www.avision.com/en/wp-content/uploads/2023/11/cropped-WEB_logo_Avision.png" class="attachment-full size-full wp-image-25379" alt srcset="https://www.avision.com/en/wp-content/uploads/2023/11/cropped-WEB_logo_Avision.png 523w, https://www.avision.com/en/wp-content/uploads/2023/11/cropped-WEB_logo_Avision-300x110.png 300w" sizes="(max-width: 523px) 100vw, 523px">								</a>
 															</div>
 				</div>
@@ -1303,7 +1303,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5a9bb97a elementor-widget elementor-widget-woocommerce-breadcrumb" data-id="5a9bb97a" data-element_type="widget" data-widget_type="woocommerce-breadcrumb.default">
 				<div class="elementor-widget-container">
-			<nav class="woocommerce-breadcrumb"><a href>Trang ch&#x1EE7;</a>&#xA0;/&#xA0;<a href="/product-category/document-scanner/">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a>&#xA0;/&#xA0;<a href="/product-category/document-scanner/ad345g-series/">D&#xF2;ng AD345G(F)</a>&#xA0;/&#xA0;AD345GF</nav>		</div>
+			<nav class="woocommerce-breadcrumb"><a href="/">Trang ch&#x1EE7;</a>&#xA0;/&#xA0;<a href="/product-category/document-scanner/">M&#xE1;y qu&#xE9;t t&#xE0;i li&#x1EC7;u</a>&#xA0;/&#xA0;<a href="/product-category/document-scanner/ad345g-series/">D&#xF2;ng AD345G(F)</a>&#xA0;/&#xA0;AD345GF</nav>		</div>
 				</div>
 					</div>
 		</div>

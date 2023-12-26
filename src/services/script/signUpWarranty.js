@@ -4,7 +4,7 @@ const script = `<div class="elementor-section elementor-top-section elementor-el
     <div class="elementor-widget-wrap elementor-element-populated">
       <div class="elementor-element elementor-element-d13b3fd elementor-widget elementor-widget-heading" data-id="d13b3fd" data-element_type="widget" data-widget_type="heading.default">
         <div class="elementor-widget-container">
-          <h2 class="elementor-heading-title elementor-size-default">▎Đăng ký bảo hành</h3>
+          <h2 class="elementor-heading-title elementor-size-default">▎Đăng ký bảo hành</h2>
         </div>
       </div>
       <div class="elementor-element elementor-element-9e5d34d elementor-widget elementor-widget-text-editor" data-id="9e5d34d" data-element_type="widget" data-widget_type="text-editor.default">
@@ -13,6 +13,22 @@ const script = `<div class="elementor-section elementor-top-section elementor-el
         </div>
       </div>
     </div>
+    
+    <div class="elementor-widget-wrap elementor-element-populated">
+      <div class="elementor-element elementor-element-d13b3fd elementor-widget elementor-widget-heading" data-id="d13b3fd" data-element_type="widget" data-widget_type="heading.default">
+        <div class="elementor-widget-container">
+          <h2 class="elementor-heading-title elementor-size-default">File excel mẫu</h2>
+        </div>
+      </div>
+      <div class="elementor-element elementor-element-9e5d34d elementor-widget elementor-widget-text-editor" data-id="9e5d34d" data-element_type="widget" data-widget_type="text-editor.default">
+        <div class="elementor-widget-container">
+          <a href="/public/template.xlsx" download="template.xlsx">Bấm vào tải về file excel mẫu và điền vào số serial</a>
+        </div>
+      </div>
+    </div>
+
+
+
   </div>
 </div>
 </div>

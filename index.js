@@ -20,7 +20,7 @@ function setUpEnviroment() {
 setUpEnviroment();
 connectDB();
 
-//app.use(express.static("./src/services/image"));
+app.use(express.static("public"));
 
 app.use(
   session({
@@ -40,6 +40,7 @@ app.use(cookieParser());
 // app.use(IPMiddleware.checkBan);
 //setup Router
 const router = require("./src/routers/index.js");
+router.use("/public", express.static("public"));
 app.use("/", router);
 
 //run the tool

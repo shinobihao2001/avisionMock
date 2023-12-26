@@ -42,11 +42,13 @@ async function modifyHTML(page, arrayDB) {
     ) {
       $$(element).attr(
         "href",
-        href.replace(
-          "https://www.avision.com/en",
-          ``
-          //`http://${process.env.MOCK_DOMAIN}`
-        )
+        href
+          .replace(
+            "https://www.avision.com/en/",
+            "/"
+            //`http://${process.env.MOCK_DOMAIN}`
+          )
+          .replace("https://www.avision.com/en", "/")
         // "http://localhost:3000/"
       );
     }

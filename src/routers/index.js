@@ -18,6 +18,10 @@ router.get("*", async (req, res, next) => {
     // If it's the "logout" path, skip to the next middleware/route
     return next();
   }
+  if (req.path.includes("/public")) {
+    console.log("IT RUN TO PUBLICK FOLDER");
+    return next();
+  }
   let filename = (process.env.EN_DOMAIN + req.url).toString();
   console.log("filename 1: " + filename);
 
