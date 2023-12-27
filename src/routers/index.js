@@ -44,7 +44,7 @@ router.post("/agent/check", upload2, agentController.checkWarranty);
 //handle signup warranty
 router.post(
   "/agent/signUpWarranty",
-  upload.single("receipt"),
+  upload.array("receipt"),
   agentController.signUpWarranty
 );
 

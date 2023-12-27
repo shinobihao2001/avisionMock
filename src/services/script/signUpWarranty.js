@@ -53,13 +53,13 @@ const script = `<div class="elementor-section elementor-top-section elementor-el
                   <!-- Additional field for Biên Bản Giao Hàng -->
                   <div id="wpforms-4192-field_2-container" class="wpforms-field wpforms-field-file" data-field-id="2">
                     <label class="wpforms-field-label" for="wpforms-4192-field_2">Biên Bản Giao Hàng <span class="wpforms-required-label">*</span></label>
-                    <input type="file" id="wpforms-4192-field_2" class="wpforms-field-medium wpforms-field-required" data-form-id="4192" data-field-id="2" name="wpforms[fields][2]" accept=".pdf, .png, .jpg, .jpeg" required="">
+                    <input type="file" id="wpforms-4192-field_2" class="wpforms-field-medium wpforms-field-required" data-form-id="4192" data-field-id="2" name="receipt" accept=".pdf, .png, .jpg, .jpeg" required="">
                   </div>
 
                   <!-- Additional field for Danh sách số seri -->
                   <div id="wpforms-4192-field_3-container" class="wpforms-field wpforms-field-file" data-field-id="3">
                     <label class="wpforms-field-label" for="wpforms-4192-field_3">Danh sách số seri <span class="wpforms-required-label">*</span></label>
-                    <input type="file" id="wpforms-4192-field_3" class="wpforms-field-medium wpforms-field-required" data-form-id="4192" data-field-id="3" name="wpforms[fields][3]" accept=".pdf, .png, .jpg, .jpeg" required="">
+                    <input type="file" id="wpforms-4192-field_3" class="wpforms-field-medium wpforms-field-required" data-form-id="4192" data-field-id="3" name="receipt" accept=".pdf, .png, .jpg, .jpeg" required="">
                   </div>
 
                 </div><!-- .wpforms-field-container -->
