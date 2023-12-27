@@ -3,9 +3,7 @@ const fs = require("fs");
 const path = require("path");
 const ftp = require("basic-ftp");
 const invoiceApi = require("./invoiceApi");
-const { Page } = require("openai/pagination");
 const pageService = require("./pageService");
-const user = require("../models/user");
 
 function getInvoiceImage(invoiceName) {
   let invoiceImagePath = path.join(__dirname, `../uploads/${invoiceName}`);
@@ -28,7 +26,7 @@ function getFinalPath(imagePath, userData, folderType) {
   let formattedTime = `${hours}:${minutes}:${seconds}`;
   let name = path.basename(imagePath);
   let parts = name.split(".");
-  let finalName = parts[0] + "_" + formattedTime + parts[1];
+  let finalName = parts[0] + "_" + formattedTime + "." + parts[1];
 
   let dir =
     parrentPath +
@@ -62,7 +60,7 @@ async function sendImage(imagePath, userData, folderType) {
     console.log(await client.list());
     let finalPath = getFinalPath(imagePath, userData, folderType);
     await client.ensureDir(finalPath.dir);
-    await client.uploadFrom(imagePath, finalPath.finalName);
+    await client.uploadFrom(imagePath, finalPath.filename);
   } catch (err) {
     console.log("đây là lỗi của ftp: " + err);
   }
