@@ -31,6 +31,33 @@ class invoiceAPI {
     });
     return reponse;
   }
+
+  async putSignUpWarranty(serialArr, regisDate) {
+    let serials = [];
+    for (let i = 0; i < serialArr.length; i++) {
+      serials.push(serialArr[i][1]);
+    }
+
+    let registrationDate = `${regisDate.year}-${regisDate.month}-${regisDate.day}`;
+
+    console.log("serial: " + serials);
+    console.log("date: " + registrationDate);
+
+    let response = await axios.put(
+      process.env.signup_warranty_url,
+      {
+        serials: serials,
+        registrationDate: registrationDate,
+      },
+      {
+        headers: {
+          "Content-Type": "application/json",
+          "api-key": process.env.signup_warranty_api_key,
+        },
+      }
+    );
+    return response;
+  }
 }
 
 module.exports = new invoiceAPI();

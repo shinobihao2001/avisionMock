@@ -15,5 +15,9 @@
     "api-key": "31af7568-4067-4cda-bd15-9c7059f61ffd",
     "api-url": "http://192.168.1.6:8084/api/warrantymanagement/search"
   },
+  "signUpWarranty": {
+    "api-key": "31af7568-4067-4cda-bd15-9c7059f61ffd",
+    "api-url": "http://192.168.1.6:8084/api/warrantymanagement/register"
+  },
   "db_connect_string": "mongodb+srv://shinobihao2001:4aqZ56MycMDOtk08@crawlerdb.y573eyx.mongodb.net/"
 }

@@ -4,6 +4,7 @@ const path = require("path");
 const ftp = require("basic-ftp");
 const invoiceApi = require("./invoiceApi");
 const pageService = require("./pageService");
+const XLSX = require("xlsx");
 
 async function getInvoiceImage(invoiceName) {
   let invoiceImagePath = path.join(__dirname, `../uploads/${invoiceName}`);
@@ -67,9 +68,9 @@ async function sendImage(imagePath, userData, folderType) {
   client.close();
 }
 
-function getSerialCsv(csvName) {
+async function getSerialCsv(csvName) {
   let csvPath = path.resolve(__dirname, "../uploads", csvName);
-  let buf = fs.readFileSync(csvPath);
+  let buf = await fs.readFileSync(csvPath);
   let workbook = XLSX.read(buf);
   let worksheet = workbook.Sheets[workbook.SheetNames[0]];
   let raw_data = XLSX.utils.sheet_to_json(worksheet, { header: 1 }).slice(1);
@@ -111,13 +112,15 @@ class invoiceService {
     return info;
   }
   getDateInvoice(stringDate) {
-    let oldDay = stringDate.split(":")[1];
-    oldDay.replaceAll(" ", "0");
-    let arr = oldDay.split("/");
+    let oldDay = stringDate.split(":")[0];
+    const regex = /(\d{2}) tháng \(\w+\) (\d{2}) năm \(\w+\) (\d{4})/;
+
+    // Match the regular expression
+    const match = oldDay.match(regex);
     return {
-      day: arr[0],
-      month: arr[1],
-      year: arr[2],
+      day: match[1],
+      month: match[2],
+      year: match[3],
     };
   }
 
@@ -165,9 +168,11 @@ class invoiceService {
       info.data.data.ARISING_DATE.transcription
     );
     console.log(transcriptionDay);
+    let serials = await getSerialCsv(files[2].filename);
 
-    let serials = getSerialCsv(files[2].filename);
-
+    //call signAPI
+    let reponse = await invoiceApi.putSignUpWarranty(serials, transcriptionDay);
+    console.log(reponse);
     //remove all the file
     for (let i = 0; i < files.length; i++) {
       await fs.unlinkSync(
