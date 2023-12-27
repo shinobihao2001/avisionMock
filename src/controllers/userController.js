@@ -11,7 +11,8 @@ class userController {
     let html;
     if (user) {
       req.session.isLogin = true;
-      req.session.fakeData = 100;
+      req.session.companyName = user.companyName;
+      req.session.email = user.email;
       html = await pageService.getPage("/");
       html = pageService.getModifyLogged(html);
     } else {

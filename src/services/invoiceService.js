@@ -5,6 +5,7 @@ const ftp = require("basic-ftp");
 const invoiceApi = require("./invoiceApi");
 const { Page } = require("openai/pagination");
 const pageService = require("./pageService");
+const user = require("../models/user");
 
 function getInvoiceImage(invoiceName) {
   let invoiceImagePath = path.join(__dirname, `../uploads/${invoiceName}`);
@@ -16,7 +17,35 @@ function getInvoiceImage(invoiceName) {
   }
 }
 
-async function sendImage(imagePath) {
+function getFinalPath(imagePath, userData, folderType) {
+  let parrentPath = "/FTP/Web_Avision_File/data";
+  let currentDay = new Date();
+  let todayPath = currentDay.toDateString().replaceAll(" ", "_");
+  let hours = currentDay.getHours().toString().padStart(2, "0");
+  let minutes = currentDay.getMinutes().toString().padStart(2, "0");
+  let seconds = currentDay.getSeconds().toString().padStart(2, "0");
+
+  let formattedTime = `${hours}:${minutes}:${seconds}`;
+  let name = path.basename(imagePath);
+  let parts = name.split(".");
+  let finalName = parts[0] + "_" + formattedTime + parts[1];
+
+  let dir =
+    parrentPath +
+    "/" +
+    todayPath +
+    "/" +
+    userData.companyName +
+    "/" +
+    folderType;
+
+  return {
+    dir: dir,
+    filename: finalName,
+  };
+}
+
+async function sendImage(imagePath, userData, folderType) {
   const client = new ftp.Client();
   client.ftp.verbose = true;
   process.env["NODE_TLS_REJECT_UNAUTHORIZED"] = 0;
@@ -31,7 +60,9 @@ async function sendImage(imagePath) {
       },
     });
     console.log(await client.list());
-    await client.uploadFrom(imagePath, "/FTP/Web_Avision_File/testing.jpg");
+    let finalPath = getFinalPath(imagePath, userData, folderType);
+    await client.ensureDir(finalPath.dir);
+    await client.uploadFrom(imagePath, finalPath.finalName);
   } catch (err) {
     console.log("đây là lỗi của ftp: " + err);
   }
@@ -54,10 +85,10 @@ class invoiceService {
     }
   }
 
-  async saveInvoiceImageServe(imageName) {
+  async saveInvoiceImageServe(imageName, userData, folderType) {
     let imagePath = path.resolve(__dirname, "../uploads", imageName);
     try {
-      await sendImage(imagePath);
+      await sendImage(imagePath, userData, folderType);
     } catch (error) {
       console.log(error);
     }
@@ -93,6 +124,25 @@ class invoiceService {
       result = pageService.getWarrantyCheckPage(false, data);
     }
     return result;
+  }
+
+  async handleSignUpWarranty(files, userData) {
+    //save image into ftp serve
+    for (let i = 0; i < files.length; i++) {
+      let type = "";
+      switch (i) {
+        case 0:
+          type = "Invoice";
+          break;
+        case 1:
+          type = "SaleReport";
+          break;
+        default:
+          type = "Serial";
+          break;
+      }
+      await this.saveInvoiceImageServe(files[i].filename, userData, type);
+    }
   }
 }
 

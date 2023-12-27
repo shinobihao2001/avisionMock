@@ -4,6 +4,5 @@ const connectDB = require("./src/database");
 const ob = require("./config.json");
 //gloosaryService.getGlossaryCsv();
 (async () => {
-  let res = gloosaryService.getProductGlossaryCsv();
-  console.log(res);
+  await connectDB;
 })();

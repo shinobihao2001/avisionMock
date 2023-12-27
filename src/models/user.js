@@ -9,6 +9,12 @@ let userSchema = new moongoose.Schema({
   password: {
     type: String,
   },
+  companyName: {
+    type: String,
+  },
+  email: {
+    type: String,
+  },
 });
 
 module.exports = mongoose.model("userModel", userSchema);

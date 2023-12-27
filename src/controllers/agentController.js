@@ -24,6 +24,7 @@ class agentController {
     //await invoiceService.saveInvoiceImageServe(req.file.filename);
     //call api to get Info
     //let info = await invoiceService.getInfoInvoice(req.file.filename);
+    invoiceService.handleSignUpWarranty(req.files, req.session);
 
     let filename = (process.env.EN_DOMAIN + "/agent/").toString(); // do this because get page have aggrument is a EN link
     console.log("filename 1: " + filename);
