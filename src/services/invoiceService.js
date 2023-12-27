@@ -5,10 +5,10 @@ const ftp = require("basic-ftp");
 const invoiceApi = require("./invoiceApi");
 const pageService = require("./pageService");
 
-function getInvoiceImage(invoiceName) {
+async function getInvoiceImage(invoiceName) {
   let invoiceImagePath = path.join(__dirname, `../uploads/${invoiceName}`);
   try {
-    let image = fs.readFileSync(invoiceImagePath);
+    let image = await fs.readFileSync(invoiceImagePath);
     return image;
   } catch (error) {
     console.log(error);
@@ -67,6 +67,17 @@ async function sendImage(imagePath, userData, folderType) {
   client.close();
 }
 
+function getSerialCsv(csvName) {
+  let csvPath = path.resolve(__dirname, "../uploads", csvName);
+  let buf = fs.readFileSync(csvPath);
+  let workbook = XLSX.read(buf);
+  let worksheet = workbook.Sheets[workbook.SheetNames[0]];
+  let raw_data = XLSX.utils.sheet_to_json(worksheet, { header: 1 }).slice(1);
+  let filtered_data = raw_data.filter((row) => row.length > 0);
+  console.log(filtered_data);
+  return filtered_data;
+}
+
 class invoiceService {
   async saveInvoiceImageDB(imageName) {
     let imagePath = path.resolve(__dirname, "../uploads", imageName);
@@ -93,15 +104,21 @@ class invoiceService {
   }
 
   async getInfoInvoice(invoiceName) {
-    let image = getInvoiceImage(invoiceName);
+    let image = await getInvoiceImage(invoiceName);
     let info = await invoiceApi.getInfo(image);
     console.log("Ivoice Info: ");
     console.log(info.data.data.ARISING_DATE.transcription);
     return info;
   }
   getDateInvoice(stringDate) {
-    let arr = stringDate.split("");
-    let numArr = arr.filter((value) => "0" <= value && value <= "9");
+    let oldDay = stringDate.split(":")[1];
+    oldDay.replaceAll(" ", "0");
+    let arr = oldDay.split("/");
+    return {
+      day: arr[0],
+      month: arr[1],
+      year: arr[2],
+    };
   }
 
   async getWarrantyCheck(serial) {
@@ -140,6 +157,22 @@ class invoiceService {
           break;
       }
       await this.saveInvoiceImageServe(files[i].filename, userData, type);
+    }
+
+    // get the info
+    let info = await this.getInfoInvoice(files[0].filename);
+    let transcriptionDay = this.getDateInvoice(
+      info.data.data.ARISING_DATE.transcription
+    );
+    console.log(transcriptionDay);
+
+    let serials = getSerialCsv(files[2].filename);
+
+    //remove all the file
+    for (let i = 0; i < files.length; i++) {
+      await fs.unlinkSync(
+        path.resolve(__dirname, "../uploads", files[i].filename)
+      );
     }
   }
 }
