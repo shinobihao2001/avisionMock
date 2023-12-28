@@ -360,11 +360,11 @@ function modifyLoginFail(html) {
 
 function modifyResetPass(html, status, mess) {
   const $ = Cheerio.load(html);
-  let color = "black";
-  if (status == true) {
+  let color = "green";
+  if (status == false) {
     color = "red";
   }
-  $('div[style="text-align:center;"]').text(mess).attr("color", color);
+  $('div[style="text-align:center;"]').text(mess).css("color", color);
   return $.html();
 }
 

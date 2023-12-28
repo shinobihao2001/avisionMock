@@ -37,6 +37,7 @@ class userController {
     let password = req.body["user_password_99999"];
     let newPass = req.body["user_new_password_99999"];
     let newPass2 = req.body["user_new_password_2"];
+    //console.log(req.body);
 
     let response = "";
     try {
@@ -53,7 +54,7 @@ class userController {
         mess: "Cố lỗi trong quá trình , xin vui lòng làm lại",
       };
     }
-    html = pageService.getResetPassPage(response.status, response.mess);
+    let html = pageService.getResetPassPage(response.status, response.mess);
     if (req.session.isLogin) {
       html = pageService.getModifyLogged(html);
     }

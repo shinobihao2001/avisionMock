@@ -7,6 +7,13 @@ function hashPass(pass) {
   return hash;
 }
 
+async function changePass(username, newPass) {
+  let user = await userModel.findOne({ username: username });
+  newPass = hashPass(newPass);
+  user.password = newPass;
+  await user.save();
+}
+
 class userService {
   async createUser(name, pass) {
     try {
@@ -32,26 +39,21 @@ class userService {
     return null;
   }
 
-  async changePass(username, newPass) {
-    let user = await userModel.findOne({ username: username });
-    let hashPass = hashPass(newPass);
-    user.password = hashPass;
-    await user.save();
-  }
-
   async handleChangePass(userData, password, newPass, newPass2) {
     if (newPass != newPass2) {
       return { mess: "Mật khẩu mới không trùng với nhau!", status: false };
     }
 
     if (userData.password != password) {
+      // console.log("Mât khẫu sess:" + userData.password);
+      // console.log("Mật khẩu mới nhập:" + password);
       return {
         mess: "Sai mật khẩu",
         status: false,
       };
     }
 
-    await userService.changePass(userData.username, newPass);
+    await changePass(userData.username, newPass);
     return {
       mess: "Đổi mật khẩu thành công",
       status: true,

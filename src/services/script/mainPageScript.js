@@ -31,7 +31,7 @@ const resetPassWordFormScirpt = `
   <div class="um-clear"></div>
 </div>
 <div class="um-field-area">
-  <input class="um-form-field valid " type="password" name="user_password-99999" id="user_password_99999" value="" placeholder="" data-validate="" data-key="user_password" aria-invalid="false">
+  <input class="um-form-field valid " type="password" name="user_password_99999" id="user_password_99999" value="" placeholder="" data-validate="" data-key="user_password" aria-invalid="false">
 </div>
 </div>
 
