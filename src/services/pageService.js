@@ -317,6 +317,18 @@ function modifyWarrantyCheck(html, success, data) {
   return $.html();
 }
 
+function modifyWarrantySignUp(html, status, mess) {
+  const $ = Cheerio.load(html);
+  let color = "black";
+  if (status == false) {
+    color = "red";
+  }
+  $("div[data-id='9e5d34d']")
+    .first()
+    .after(signUpWarrantyScript.notifyScript(mess, color));
+  return $.html();
+}
+
 function modifyAgency(html) {
   let $$ = Cheerio.load(html);
   $$("h1:contains('Đăng ký sản phẩm')").text("Hệ thống tổng đại lý");
@@ -374,6 +386,14 @@ module.exports = {
     let folder = path.join(__dirname, "localPage");
     const page = fs.readFileSync(path.join(folder, name), "utf-8");
     const result = modifyWarrantyCheck(page, success, data);
+    return result;
+  },
+
+  getWarrantySignUpPage(status, mess) {
+    const name = "contact_us_product_registration_";
+    let folder = path.join(__dirname, "localPage");
+    const page = fs.readFileSync(path.join(folder, name), "utf-8");
+    const result = modifyWarrantySignUp(page, status, mess);
     return result;
   },
 

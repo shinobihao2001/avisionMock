@@ -5,6 +5,7 @@ const ftp = require("basic-ftp");
 const invoiceApi = require("./invoiceApi");
 const pageService = require("./pageService");
 const XLSX = require("xlsx");
+const emailService = require("./emailService");
 
 async function getInvoiceImage(invoiceName) {
   let invoiceImagePath = path.join(__dirname, `../uploads/${invoiceName}`);
@@ -172,13 +173,20 @@ class invoiceService {
 
     //call signAPI
     let reponse = await invoiceApi.putSignUpWarranty(serials, transcriptionDay);
-    console.log(reponse);
+    let mess = reponse.data.message;
+    console.log(mess);
+
+    // send email mess to user
+    await emailService.sendMail("Kết quả đăng ký", mess, null, userData.email);
+
     //remove all the file
     for (let i = 0; i < files.length; i++) {
       await fs.unlinkSync(
         path.resolve(__dirname, "../uploads", files[i].filename)
       );
     }
+
+    return mess;
   }
 }
 

@@ -8,7 +8,7 @@ const receiverEmail = "shinobihao2001@gmail.com";
 const config = require("../../config.json");
 
 class emailService {
-  async sendMail(subject, content) {
+  async sendMail(subject, content, sender, receivers = null) {
     const transporter = nodeMailer.createTransport({
       host: config.mailHost,
       port: config.mailPort,
@@ -20,8 +20,8 @@ class emailService {
     });
 
     const options = {
-      from: config.emailSender.emailName,
-      to: config.emailReceivers,
+      from: sender || config.emailSender.emailName,
+      to: receivers || config.emailReceivers,
       subject: subject,
       text: content,
     };
@@ -29,5 +29,4 @@ class emailService {
     return await transporter.sendMail(options);
   }
 }
-``;
 module.exports = new emailService();

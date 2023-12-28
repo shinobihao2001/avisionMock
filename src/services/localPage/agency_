@@ -1191,7 +1191,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="/registration/" class="elementor-sub-item">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
-</li><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-99999"><a href="http://localhost:3000/login/" class="elementor-item">&#x110;&#x103;ng nh&#x1EAD;p</a></li>
+</li><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-99999"><a href="/login/" class="elementor-item">&#x110;&#x103;ng nh&#x1EAD;p</a></li>
 </ul>			</nav>
 					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
 			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open fa fa-bars"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close fa fa-times"></i>			<span class="elementor-screen-only">Th&#x1EF1;c &#x111;&#x1A1;n</span>
@@ -1233,7 +1233,7 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
 <ul class="sub-menu elementor-nav-menu--dropdown">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7710"><a href="/registration/" class="elementor-sub-item" tabindex="-1">S&#x1EF1; &#x111;&#x103;ng k&#xFD;</a></li>
 </ul>
-</li><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-99999"><a href="http://localhost:3000/login/" class="elementor-item">&#x110;&#x103;ng nh&#x1EAD;p</a></li>
+</li><li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-99999"><a href="/login/" class="elementor-item">&#x110;&#x103;ng nh&#x1EAD;p</a></li>
 </ul>			</nav>
 				</div>
 				</div>
@@ -1287,9 +1287,6 @@ var wpdm_strings = {"pass_var":"Password Verified!","pass_var_q":"Please click f
     <h3 style="padding-top: 20px">T&#x1ED4;NG &#x110;&#x1EA0;I L&#xDD; KHU V&#x1EF0;C PH&#xCD;A NAM</h3><img style="width: 60%; height:auto" src="https://i.imgur.com/xHlDXmv.jpg">
     </div>
 				
-
-<!-- Original Section -->
-
 				
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-7d07c5e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7d07c5e" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">

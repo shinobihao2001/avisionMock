@@ -24,12 +24,20 @@ class agentController {
     //await invoiceService.saveInvoiceImageServe(req.file.filename);
     //call api to get Info
     //let info = await invoiceService.getInfoInvoice(req.file.filename);
-    invoiceService.handleSignUpWarranty(req.files, req.session);
+    let status = true;
+    let mess = "";
+    try {
+      mess = await invoiceService.handleSignUpWarranty(req.files, req.session);
+    } catch (error) {
+      status = false;
+      mess = "Có lỗi trong quá trình xử lý xin vui lòng gửi lại";
+    }
 
-    let filename = (process.env.EN_DOMAIN + "/agent/").toString(); // do this because get page have aggrument is a EN link
-    console.log("filename 1: " + filename);
-    let html = await pageService.getPage(filename);
+    let html = pageService.getWarrantySignUpPage(status, mess);
     //todo :modify html file again adding the warranty check
+    if (req.session.isLogin) {
+      html = pageService.getModifyLogged(html);
+    }
     res.setHeader("Content-Type", "text/html");
     res.send(html.toString());
   };

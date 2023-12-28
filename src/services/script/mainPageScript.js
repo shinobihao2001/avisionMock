@@ -7,6 +7,13 @@ const scriptRight = `<div class="elementor-cta__description elementor-cta__conte
 <br>
 với Máy in đa chức năng của Avision.</div>`;
 
-const loginScriptItem = `<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-99999"><a href="http://${process.env.MAIN_DOMAIN}/login/" class="elementor-item">Đăng nhập</a></li>`;
+const loginScriptItem = `<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-99999"><a href="/login/" class="elementor-item">Đăng nhập</a></li>`;
 
-module.exports = { scriptLeft, scriptRight, loginScriptItem };
+const changePassScriptItem = `<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-999999"><a href="/reset-password/" class="elementor-item">Đổi mật khẩu</a></li>`;
+
+module.exports = {
+  scriptLeft,
+  scriptRight,
+  loginScriptItem,
+  changePassScriptItem,
+};

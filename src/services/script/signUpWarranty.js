@@ -85,4 +85,12 @@ const script = `<div class="elementor-section elementor-top-section elementor-el
 
 `;
 
-module.exports = script;
+function notifyScript(mess, color) {
+  return `<div  style="display: block; color: ${color}; font-weight: bold; margin-top: 10px;">
+  ${mess}
+</div>`;
+}
+const messScript = (module.exports = {
+  script,
+  notifyScript,
+});
