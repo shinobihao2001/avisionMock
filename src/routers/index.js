@@ -56,4 +56,8 @@ router.post("/login", userController.handleLogin);
 
 //handle logout
 router.get("/logout", userController.handleLogout);
+
+//handle changePass
+router.post("/reset-password", upload2, userController.changePassword);
+
 module.exports = router;

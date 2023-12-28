@@ -218,7 +218,7 @@ async function modifyHTML(page, arrayDB) {
   $$('a:contains("Trung tâm trợ giúp")').parent().remove();
   //Add signup warranty
   $$("section[data-id='2b62459']").remove();
-  $$("section[data-id='01e275d']").after(signUpWarrantyScript);
+  $$("section[data-id='01e275d']").after(signUpWarrantyScript.script);
   $$("section[data-id='01e275d']").remove();
 
   //add address DSG to footer
@@ -294,15 +294,16 @@ async function modifyHTML(page, arrayDB) {
   $$(".um-col-alt-b:contains('Quên mật khẩu')").remove();
   $$(".um-button[value='Login']").attr("value", "Đăng nhập");
 
+  //modify resetPassForm
+  $$("#um_field_0_username_b").after(mainPageScript.resetPassWordFormScirpt);
+  $$("#um_field_0_username_b").remove();
+  $$("#um-submit-btn[value='Reset password']").attr("value", "Đổi mật khẩu");
+
   //remove nav bar in why avision page
   $$("nav[data-id='5da3aab']").remove();
   // Save the modified HTML to a file
   const modifiedHtml = $$.html();
   return modifiedHtml;
-}
-
-function modifyReceipt(html) {
-  const $ = Cheerio.load(html);
 }
 
 function modifyWarrantyCheck(html, success, data) {
@@ -355,6 +356,16 @@ function modifyLoginFail(html) {
   $(".um-col-alt").append(loginFailScript);
   const result = $.html();
   return result;
+}
+
+function modifyResetPass(html, status, mess) {
+  const $ = Cheerio.load(html);
+  let color = "black";
+  if (status == true) {
+    color = "red";
+  }
+  $('div[style="text-align:center;"]').text(mess).attr("color", color);
+  return $.html();
 }
 
 module.exports = {
@@ -446,14 +457,25 @@ module.exports = {
     return result;
   },
 
+  getResetPassPage(status, mess) {
+    const name = "reset_password_";
+    let folder = path.join(__dirname, "localPage");
+    let page = fs.readFileSync(path.join(folder, name), "utf-8");
+    const result = modifyResetPass(page, status, mess);
+    return result;
+  },
+
   getModifyLogged(html) {
     const $ = Cheerio.load(html);
     $(".menu-item-12163").css("display", "block");
     $("div[data-id='3349ee0c']").css("display", "block");
-    $("li.menu-item-99999 a.elementor-item").each(function () {
-      $(this).text("Đăng xuất");
-      $(this).attr("href", `http://${process.env.MAIN_DOMAIN}/logout/`);
-    });
+    // $("li.menu-item-99999 a.elementor-item").each(function () {
+    //   $(this).text("Đăng xuất");
+    //   $(this).attr("href", `/logout/`);
+    // });
+    $("li.menu-item-99999").remove();
+    //modify changePass
+    $(".menu-item-12055").after(mainPageScript.changePassScriptItem);
     return $.html();
   },
 
