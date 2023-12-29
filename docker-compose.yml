@@ -1,8 +1,25 @@
-version: "3.8"
+version: "3.4"
 
 services:
   app:
-    image: avision-mock:v3
+    image: avision-mock:v4
+    volumes:
+      - ./:/app # mount từ môi trường gốc vào trong để nếu các bạn thay đổi code thì bên trong sẽ tự động cập nhật
+    environment: # phần này ta định nghĩa ở file .env nhé
+      - DB_HOST=db
+      - DB_NAME=my_db
     ports:
-      - "3000:3000"
+      - 3000:3000 
     restart: unless-stopped
+    depends_on:
+        - db
+  
+  db:
+    image: mongo:4.4
+    volumes:
+      #- .docker/data/db:/data/db
+      #- /C/Users/Public/db:/docker-entrypoint-initdb.d/backup_directory
+      #- /C/Users/Public/db:/data/db
+      - /C/Users/Public/db/test:/docker-entrypoint-initdb.d
+    restart: unless-stopped
+  
