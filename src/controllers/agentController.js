@@ -1,6 +1,7 @@
 const fs = require("fs");
 const pageService = require("../services/pageService");
 const invoiceService = require("../services/invoiceService");
+const path = require("path");
 
 class agentController {
   checkWarranty = async (req, res, next) => {
@@ -19,11 +20,6 @@ class agentController {
 
   signUpWarranty = async (req, res, next) => {
     console.log(req.files);
-    //save image to db
-    //await invoiceService.saveInvoiceImageDB(req.file.filename);
-    //await invoiceService.saveInvoiceImageServe(req.file.filename);
-    //call api to get Info
-    //let info = await invoiceService.getInfoInvoice(req.file.filename);
     let status = true;
     let mess = "";
     try {
@@ -34,9 +30,9 @@ class agentController {
       mess = "Có lỗi trong quá trình xử lý xin vui lòng gửi lại";
 
       //delete allfile;
-      for (let i = 0; i < files.length; i++) {
-        await fs.unlinkSync(
-          path.resolve(__dirname, "../uploads", files[i].filename)
+      for (let i = 0; i < req.files.length; i++) {
+        fs.unlinkSync(
+          path.join(__dirname, "../uploads", req.files[i].filename)
         );
       }
     }

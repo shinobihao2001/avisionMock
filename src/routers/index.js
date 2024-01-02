@@ -22,6 +22,13 @@ router.get("*", async (req, res, next) => {
     console.log("IT RUN TO PUBLICK FOLDER");
     return next();
   }
+  if (req.path.includes("product-registration")) {
+    if (!req.session.isLogin) {
+      let html = await pageService.getPage("/");
+      res.setHeader("Content-Type", "text/html");
+      return res.send(html.toString());
+    }
+  }
   let filename = (process.env.EN_DOMAIN + req.url).toString();
   console.log("filename 1: " + filename);
 
@@ -35,7 +42,7 @@ router.get("*", async (req, res, next) => {
     html = pageService.getModifyLogged(html);
   }
   res.setHeader("Content-Type", "text/html");
-  res.send(html.toString());
+  return res.send(html.toString());
 });
 
 //handle checking warraty
