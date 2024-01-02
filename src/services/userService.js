@@ -15,16 +15,19 @@ async function changePass(username, newPass) {
 }
 
 class userService {
-  async createUser(name, pass) {
+  async createUser(name, pass, company, email) {
     try {
       pass = hashPass(pass);
       let user = await userModel.create({
         username: name,
         password: pass,
+        companyName: company,
+        email: email,
       });
       return user;
     } catch (error) {
       console.log(error);
+      return error;
     }
   }
 

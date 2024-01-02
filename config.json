@@ -8,6 +8,9 @@
   "emailReceivers": [
     "shinobihao2001@gmail.com",
     "nghao@dsg.com.vn"
+  ],  
+  "emailWarrantySignUpReceivers": [
+    "nghao@dsg.com.vn"
   ],
   "mailPort": 465,
   "mailHost": "mail.dsg.com.vn",

@@ -29,8 +29,16 @@ class agentController {
     try {
       mess = await invoiceService.handleSignUpWarranty(req.files, req.session);
     } catch (error) {
+      console.log(error);
       status = false;
       mess = "Có lỗi trong quá trình xử lý xin vui lòng gửi lại";
+
+      //delete allfile;
+      for (let i = 0; i < files.length; i++) {
+        await fs.unlinkSync(
+          path.resolve(__dirname, "../uploads", files[i].filename)
+        );
+      }
     }
 
     let html = pageService.getWarrantySignUpPage(status, mess);

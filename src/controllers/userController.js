@@ -1,5 +1,6 @@
 const userService = require("../services/userService");
 const pageService = require("../services/pageService");
+const { json } = require("body-parser");
 
 class userController {
   async handleLogin(req, res, next) {
@@ -62,6 +63,24 @@ class userController {
 
     res.setHeader("Content-Type", "text/html");
     res.send(html.toString());
+  }
+
+  async handleCreateUser(req, res, next) {
+    let { username, password, companyname, email } = req.body;
+    let mess = "";
+    try {
+      mess = await userService.createUser(
+        username,
+        password,
+        companyname,
+        email
+      );
+    } catch (error) {
+      console.log("Create user Error");
+      console.log(error);
+      mess = error;
+    }
+    res.send(mess.toString());
   }
 }
 

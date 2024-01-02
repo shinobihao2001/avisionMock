@@ -6,6 +6,16 @@ const invoiceApi = require("./invoiceApi");
 const pageService = require("./pageService");
 const XLSX = require("xlsx");
 const emailService = require("./emailService");
+let config = require("../../config.json");
+
+function getEmailMess(userData) {
+  return `
+Kính chào dịch vụ bảo hành,
+Tôi hy vọng bạn đang có một ngày tốt lành. Tôi muốn thông báo rằng phía bên website Avision Việt Nam đã nhận được một đơn đăng ký bảo hành từ công ty ${userData.companyName}.
+Dưới đây là những file được gửi kèm khi đăng ký bảo hành, vui lòng xem qua.
+Trân trọng,
+  `;
+}
 
 async function getInvoiceImage(invoiceName) {
   let invoiceImagePath = path.join(__dirname, `../uploads/${invoiceName}`);
@@ -78,6 +88,43 @@ async function getSerialCsv(csvName) {
   let filtered_data = raw_data.filter((row) => row.length > 0);
   console.log(filtered_data);
   return filtered_data;
+}
+
+async function sendEmailWarranty(attachs, userData) {
+  try {
+    await emailService.sendMail(
+      "Kết quả đăng ký bảo hành",
+      getEmailMess(userData),
+      null,
+      config.emailWarrantySignUpReceivers,
+      attachs
+    );
+  } catch (error) {
+    console.log("Error in sending email warranty: " + error);
+    sendEmailWarranty(attachs, userData);
+  }
+}
+
+async function handleTheRestOfSignUp(files, userData) {
+  try {
+    let attachs = [];
+    //define attachmends
+    for (let i = 0; i < files.length; i++) {
+      let filePath = path.join(__dirname, `../uploads/${files[i].filename}`);
+      attachs.push({ filename: files[i].filename, path: filePath });
+    }
+    await sendEmailWarranty(attachs, userData);
+    // send email mess to sw not user and not need to await this
+  } catch (error) {
+    console.log("Error in send email warranty" + error);
+  }
+
+  //remove all the file
+  for (let i = 0; i < files.length; i++) {
+    await fs.unlinkSync(
+      path.resolve(__dirname, "../uploads", files[i].filename)
+    );
+  }
 }
 
 class invoiceService {
@@ -176,15 +223,8 @@ class invoiceService {
     let mess = reponse.data.message;
     console.log(mess);
 
-    // send email mess to user
-    await emailService.sendMail("Kết quả đăng ký", mess, null, userData.email);
-
-    //remove all the file
-    for (let i = 0; i < files.length; i++) {
-      await fs.unlinkSync(
-        path.resolve(__dirname, "../uploads", files[i].filename)
-      );
-    }
+    // send mail back to sw and delete all the file
+    handleTheRestOfSignUp(files, userData);
 
     return mess;
   }
