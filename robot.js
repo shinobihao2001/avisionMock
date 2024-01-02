@@ -1,13 +1,12 @@
 const workflow = require("./workflow");
+const schedule = require("node-schedule");
 
-workflow.CrawFunction();
-// Time to run the craw tool
-const timeLapse = 1000 * 60 * 60; // 1 hours
-setInterval(async () => {
-  try {
-    await workflow.CrawFunction();
-    console.log("Application crawling at", new Date());
-  } catch (error) {
-    console.error("Error initializing application:", error);
-  }
-}, timeLapse);
+const rule = new schedule.RecurrenceRule();
+rule.hour = 1;
+rule.minute = 10;
+
+//chạy lúc 1h 10p
+const job = schedule.scheduleJob(rule, function () {
+  console.log("Starting worflow");
+  workflow.CrawlFunction();
+});

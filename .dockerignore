@@ -1,0 +1,9 @@
+
+# Bỏ qua folder .docker vì folder này chỉ có service db và redis mới cần (ta đang build image cho service app)
+.docker
+
+# Bỏ qua Dockerfile không đưa vào image vì file này chỉ dùng tại thời điểm build image
+Dockerfile
+
+# Bỏ qua file docker-compose vì file này chỉ dùng tại thời điểm khởi chạy project
+docker-compose.yml

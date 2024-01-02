@@ -50,8 +50,8 @@ const router = require("./src/routers/index.js");
 router.use("/public", express.static("public"));
 app.use("/", router);
 
-//run the tool
-//require("./robot.js");
+//run the tool for crawling
+require("./robot.js");
 
 app.listen(port, () => {
   console.log(`Server is run on http://localhost:${port}/`);
