@@ -14,6 +14,9 @@
   ],
   "mailPort": 465,
   "mailHost": "mail.dsg.com.vn",
+  "getInfo": {
+    "api-url": "http://14.241.244.57:30800/predictions/einvoice"
+  },
   "checkWarranty": {
     "api-key": "31af7568-4067-4cda-bd15-9c7059f61ffd",
     "api-url": "http://192.168.1.6:8084/api/warrantymanagement/search"
@@ -22,5 +25,10 @@
     "api-key": "31af7568-4067-4cda-bd15-9c7059f61ffd",
     "api-url": "http://192.168.1.6:8084/api/warrantymanagement/register"
   },
-  "db_connect_string": "mongodb+srv://shinobihao2001:4aqZ56MycMDOtk08@crawlerdb.y573eyx.mongodb.net/"
+  "ftpConfig": {
+    "host": "192.168.1.9",
+    "user": "nghao",
+    "password": "123456aA@"
+  },
+  "db_connect_string": "mongodb://db:27017/mydb"
 }

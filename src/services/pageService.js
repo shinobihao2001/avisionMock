@@ -200,6 +200,7 @@ async function modifyHTML(page, arrayDB) {
 
   //remove regular question at some products;
   $$("#tab-title-desc_tab").remove();
+  $$("#tab-desc_tab").remove();
 
   //remove bochure title // remove bochure context
   const searchText = "Tài liệu giới thiệu";

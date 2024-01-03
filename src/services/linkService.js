@@ -45,7 +45,8 @@ function getPageToFile(urls, crawler) {
                 console.log(error);
                 reject(error);
               } else {
-                const $ = Cheerio.load(res.body);
+                //const $ = Cheerio.load(res.body);
+                const $ = res.$;
                 let doc = $.html();
                 resolve(doc);
               }

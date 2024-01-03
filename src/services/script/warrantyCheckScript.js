@@ -1,4 +1,12 @@
 function successScript(data) {
+  let registrationDate = new Date(data.registrationDate);
+  registrationDate = registrationDate.toLocaleDateString();
+
+  let expirationDate = "";
+  if (data.expirationDate) {
+    expirationDate = new Date(data.expirationDate);
+    expirationDate = expirationDate.toLocaleDateString();
+  }
   return `
   <div class="elementor-element elementor-element-c12b7ee elementor-widget elementor-widget-shortcode" data-id="c12b7ee" data-element_type="widget" data-widget_type="shortcode.default">
     <div class="elementor-widget-container">
@@ -16,13 +24,11 @@ function successScript(data) {
                         </tr>
                         <tr>
                             <th>Ngày đăng ký bảo hành</th>
-                            <td>${data.registrationDate}</td>
+                            <td>${registrationDate}</td>
                         </tr>
                         <tr>
                             <th>Ngày hết hạn bảo hành</th>
-                            <td>${
-                              data.expirationDate ? data.expirationDate : ""
-                            }</td>
+                            <td>${expirationDate}</td>
                         </tr>
                         <tr>
                             <th>Ghi chú</th>

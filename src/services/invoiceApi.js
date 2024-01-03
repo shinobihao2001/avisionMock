@@ -1,18 +1,20 @@
 const fs = require("fs");
 const axios = require("axios");
 const FormData = require("form-data");
-
-const getInfoUrl = "http://14.241.244.57:30800/predictions/einvoice";
+const configService = require("./configService");
 
 class invoiceAPI {
   async getInfo(image) {
+    let configData = await configService.getData();
+    configData = configData.toJSON().data;
+
     const formData = new FormData();
     formData.append("data", image, {
       filename: "invoice.jpg",
       contentType: "image/jpeg",
     });
 
-    let reponse = await axios.post(getInfoUrl, formData, {
+    let reponse = await axios.post(configData.getInfo["api-url"], formData, {
       headers: {
         "Content-Type": "multipart/form-data",
       },
@@ -21,18 +23,23 @@ class invoiceAPI {
   }
 
   async getWarrantyCheckInfo(serial) {
-    let reponse = await axios.get(process.env.get_warranty_check_info_url, {
+    let configData = await configService.getData();
+    configData = configData.toJSON().data;
+    let reponse = await axios.get(configData.checkWarranty["api-url"], {
       params: {
         query: serial,
       },
       headers: {
-        "api-key": process.env.warranty_check_api_key,
+        "api-key": configData.checkWarranty["api-key"],
       },
     });
     return reponse;
   }
 
   async putSignUpWarranty(serialArr, regisDate) {
+    let configData = await configService.getData();
+    configData = configData.toJSON().data;
+
     let serials = [];
     for (let i = 0; i < serialArr.length; i++) {
       serials.push(serialArr[i][1]);
@@ -44,7 +51,7 @@ class invoiceAPI {
     console.log("date: " + registrationDate);
 
     let response = await axios.put(
-      process.env.signup_warranty_url,
+      configData.signUpWarranty["api-url"],
       {
         serials: serials,
         registrationDate: registrationDate,
@@ -52,7 +59,7 @@ class invoiceAPI {
       {
         headers: {
           "Content-Type": "application/json",
-          "api-key": process.env.signup_warranty_api_key,
+          "api-key": configData.signUpWarranty["api-key"],
         },
       }
     );

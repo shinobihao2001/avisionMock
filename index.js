@@ -10,16 +10,16 @@ var session = require("express-session");
 const port = process.env.PORT || 3000;
 const app = express();
 
-function setUpEnviroment() {
-  let data = require("./config.json");
-  //process.env.DB_CONNECT_STRING = data.db_connect_string;
-  process.env.warranty_check_api_key = data.checkWarranty["api-key"];
-  process.env.get_warranty_check_info_url = data.checkWarranty["api-url"];
-  process.env.signup_warranty_api_key = data.signUpWarranty["api-key"];
-  process.env.signup_warranty_url = data.signUpWarranty["api-url"];
-}
+// function setUpEnviroment() {
+//   let data = require("./config.json");
+//   //process.env.DB_CONNECT_STRING = data.db_connect_string;
+//   process.env.warranty_check_api_key = data.checkWarranty["api-key"];
+//   process.env.get_warranty_check_info_url = data.checkWarranty["api-url"];
+//   process.env.signup_warranty_api_key = data.signUpWarranty["api-key"];
+//   process.env.signup_warranty_url = data.signUpWarranty["api-url"];
+// }
 
-setUpEnviroment();
+//setUpEnviroment();
 connectDB();
 
 app.use(express.static("public"));
@@ -51,7 +51,7 @@ router.use("/public", express.static("public"));
 app.use("/", router);
 
 //run the tool for crawling
-require("./robot.js");
+//require("./robot.js");
 
 app.use((err, req, res, next) => {
   console.error(err.stack);

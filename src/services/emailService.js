@@ -1,11 +1,6 @@
 const nodeMailer = require("nodemailer");
-
-// const adminEmail = "nghao@dsg.com.vn";
-// const adminPassword = "Uzunaki456123";
-// const mailHost = "mail.dsg.com.vn";
-// const mailPort = 465;
-// const receiverEmail = "shinobihao2001@gmail.com";
 const config = require("../../config.json");
+const configService = require("./configService");
 
 class emailService {
   async sendMail(
@@ -15,6 +10,10 @@ class emailService {
     receivers = null,
     attachs = null
   ) {
+    let configData = await configService.getData();
+    configData = configData.toJSON().data;
+    console.log("Config data:");
+    console.log(configData);
     const transporter = nodeMailer.createTransport({
       host: config.mailHost,
       port: config.mailPort,
@@ -26,8 +25,8 @@ class emailService {
     });
 
     const options = {
-      from: sender || config.emailSender.emailName,
-      to: receivers || config.emailReceivers,
+      from: sender || configData.emailSender.emailName,
+      to: receivers || configData.emailReceivers,
       subject: subject,
       text: content,
       attachments: attachs,

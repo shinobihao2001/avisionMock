@@ -6,7 +6,7 @@ const invoiceApi = require("./invoiceApi");
 const pageService = require("./pageService");
 const XLSX = require("xlsx");
 const emailService = require("./emailService");
-let config = require("../../config.json");
+const configService = require("./configService");
 
 function getEmailMess(userData) {
   return `
@@ -60,10 +60,12 @@ async function sendImage(imagePath, userData, folderType) {
   client.ftp.verbose = true;
   process.env["NODE_TLS_REJECT_UNAUTHORIZED"] = 0;
   try {
+    let configData = await configService.getData();
+    configData = configData.toJSON().data;
     await client.access({
-      host: "192.168.1.9",
-      user: "nghao",
-      password: "123456aA@",
+      host: configData.ftpConfig.host,
+      user: configData.ftpConfig.user,
+      password: configData.ftpConfig.password,
       secure: true,
       secureOptions: {
         rejectUnauthorized: false,
@@ -92,11 +94,13 @@ async function getSerialCsv(csvName) {
 
 async function sendEmailWarranty(attachs, userData) {
   try {
+    let configData = await configService.getData();
+    configData = configData.toJSON().data;
     await emailService.sendMail(
       "Kết quả đăng ký bảo hành",
       getEmailMess(userData),
       null,
-      config.emailWarrantySignUpReceivers,
+      configData.emailWarrantySignUpReceivers,
       attachs
     );
   } catch (error) {
