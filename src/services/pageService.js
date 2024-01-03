@@ -302,6 +302,15 @@ async function modifyHTML(page, arrayDB) {
 
   //remove nav bar in why avision page
   $$("nav[data-id='5da3aab']").remove();
+
+  //move specification and downdload back to the wrapper at some FB machines
+  let insertDiv = $$("#tab-description[role='tabpanel']");
+  let divToMove1 = $$("#tab-additional_information[role='tabpanel']");
+  let divToMove2 = $$("#tab-Downloads[role='tabpanel']");
+  divToMove1.insertAfter(insertDiv);
+  divToMove1 = $$("#tab-additional_information[role='tabpanel']"); // maybe the divTomove1 was moved so the dowload disapear
+  divToMove2.insertAfter(divToMove1);
+
   // Save the modified HTML to a file
   const modifiedHtml = $$.html();
   return modifiedHtml;

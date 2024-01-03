@@ -116,8 +116,8 @@ async function getProductExcelFile(configData) {
     let links = await linkService.getLinksNeedToCrawl();
 
     //Step 2.5 => Save all link html to onlinePage
-    await linkService.saveAllUrl(links);
-    console.log("Save all url to html done");
+    // await linkService.saveAllUrl(links);
+    // console.log("Save all url to html done");
 
     // //Step 3: Crawling all the pages English word in to db
     // // const links = [
