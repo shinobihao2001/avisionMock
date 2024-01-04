@@ -1095,7 +1095,9 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/en\/?wc-ajax=%%endpoint%
 
 
         </style>
-        <script src="https://kit.fontawesome.com/1cbb170ff9.js" crossorigin="anonymous"></script></head>
+        <script src="https://kit.fontawesome.com/1cbb170ff9.js" crossorigin="anonymous"></script>
+		<meta name="cystack-verification" content="491f55eff47f3a45305126cfd411c827"/>
+		</head>
 
 <body class="home page-template-default page page-id-6877 page-parent wp-custom-logo wp-embed-responsive theme-oceanwp woocommerce-no-js ehf-template-oceanwp ehf-stylesheet-oceanwp-child oceanwp-theme dropdown-mobile default-breakpoint sidebar-content content-full-screen page-header-disabled has-breadcrumbs has-fixed-footer has-parallax-footer has-grid-list account-original-style elementor-default elementor-kit-20 elementor-page elementor-page-6877" itemscope="itemscope" itemtype="https://schema.org/WebPage">
 
