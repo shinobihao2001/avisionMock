@@ -33,7 +33,9 @@ class userService {
 
   async findUser(name, pass) {
     pass = hashPass(pass);
-    let user = await userModel.findOne({ username: name });
+    let user = await userModel.findOne({
+      $or: [{ username: name }, { email: name }],
+    });
     if (user) {
       if (user.password == pass) {
         return user;
