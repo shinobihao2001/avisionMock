@@ -37,7 +37,14 @@ router.get("*", async (req, res, next) => {
     filename = filename.split("?")[0];
   }
   console.log("filename 2: " + filename);
-  let html = await pageService.getPage(filename);
+  let html = "";
+  try {
+    html = await pageService.getPage(filename);
+  } catch (error) {
+    console.log("Error in get page " + error);
+    html = await pageService.getPage("/");
+  }
+
   if (req.session.isLogin) {
     html = pageService.getModifyLogged(html);
   }
