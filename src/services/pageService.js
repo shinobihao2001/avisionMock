@@ -426,12 +426,12 @@ module.exports = {
     }
     console.log("Local name: " + localname);
     folder = path.join(__dirname, "localPage");
-    try {
-      let page = fs.readFileSync(path.join(folder, localname), "utf-8");
-      return page;
-    } catch (error) {
-      console.log(error);
-    }
+    //try {
+    let page = fs.readFileSync(path.join(folder, localname), "utf-8");
+    return page;
+    // } catch (error) {
+    //   console.log(error);
+    // }
   },
 
   async translateAllPage(links) {
