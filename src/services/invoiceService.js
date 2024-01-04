@@ -7,6 +7,7 @@ const pageService = require("./pageService");
 const XLSX = require("xlsx");
 const emailService = require("./emailService");
 const configService = require("./configService");
+const ulti = require("./ulti");
 
 function getEmailMess(userData) {
   return `
@@ -20,7 +21,7 @@ Trân trọng,
 async function getInvoiceImage(invoiceName) {
   let invoiceImagePath = path.join(__dirname, `../uploads/${invoiceName}`);
   try {
-    let image = await fs.readFileSync(invoiceImagePath);
+    let image = fs.readFileSync(invoiceImagePath);
     return image;
   } catch (error) {
     console.log(error);
@@ -65,7 +66,7 @@ async function sendImage(imagePath, userData, folderType) {
     await client.access({
       host: configData.ftpConfig.host,
       user: configData.ftpConfig.user,
-      password: configData.ftpConfig.password,
+      password: ulti.getDecryptString(configData.ftpConfig.password),
       secure: true,
       secureOptions: {
         rejectUnauthorized: false,
@@ -83,7 +84,7 @@ async function sendImage(imagePath, userData, folderType) {
 
 async function getSerialCsv(csvName) {
   let csvPath = path.resolve(__dirname, "../uploads", csvName);
-  let buf = await fs.readFileSync(csvPath);
+  let buf = fs.readFileSync(csvPath);
   let workbook = XLSX.read(buf);
   let worksheet = workbook.Sheets[workbook.SheetNames[0]];
   let raw_data = XLSX.utils.sheet_to_json(worksheet, { header: 1 }).slice(1);
@@ -92,8 +93,11 @@ async function getSerialCsv(csvName) {
   return filtered_data;
 }
 
-async function sendEmailWarranty(attachs, userData) {
+async function sendEmailWarranty(attachs, userData, count) {
   try {
+    console.log(
+      `Gửi email đăng ký bảo hành lần thứ ${count} của: ` + userData.companyName
+    );
     let configData = await configService.getData();
     configData = configData.toJSON().data;
     await emailService.sendMail(
@@ -105,7 +109,7 @@ async function sendEmailWarranty(attachs, userData) {
     );
   } catch (error) {
     console.log("Error in sending email warranty: " + error);
-    sendEmailWarranty(attachs, userData);
+    setTimeout(sendEmailWarranty(attachs, userData, ++count), 1000 * 60 * 30);
   }
 }
 
@@ -117,7 +121,7 @@ async function handleTheRestOfSignUp(files, userData) {
       let filePath = path.join(__dirname, `../uploads/${files[i].filename}`);
       attachs.push({ filename: files[i].filename, path: filePath });
     }
-    await sendEmailWarranty(attachs, userData);
+    await sendEmailWarranty(attachs, userData, 0);
     // send email mess to sw not user and not need to await this
   } catch (error) {
     console.log("Error in send email warranty" + error);
@@ -125,9 +129,7 @@ async function handleTheRestOfSignUp(files, userData) {
 
   //remove all the file
   for (let i = 0; i < files.length; i++) {
-    await fs.unlinkSync(
-      path.resolve(__dirname, "../uploads", files[i].filename)
-    );
+    fs.unlinkSync(path.resolve(__dirname, "../uploads", files[i].filename));
   }
 }
 
@@ -188,7 +190,7 @@ class invoiceService {
       }
     } catch (error) {
       console.log(error);
-      data = {
+      let data = {
         message: " Xin vui lòng gửi lại",
       };
       result = pageService.getWarrantyCheckPage(false, data);

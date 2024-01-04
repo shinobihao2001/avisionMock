@@ -1,7 +1,7 @@
 const nodeMailer = require("nodemailer");
 const config = require("../../config.json");
 const configService = require("./configService");
-
+const ulti = require("../services/ulti");
 class emailService {
   async sendMail(
     subject,
@@ -12,15 +12,14 @@ class emailService {
   ) {
     let configData = await configService.getData();
     configData = configData.toJSON().data;
-    console.log("Config data:");
-    console.log(configData);
+
     const transporter = nodeMailer.createTransport({
-      host: config.mailHost,
-      port: config.mailPort,
+      host: configData.mailHost,
+      port: configData.mailPort,
       secure: true,
       auth: {
-        user: config.emailSender.emailName,
-        pass: config.emailSender.emailPassword,
+        user: configData.emailSender.emailName,
+        pass: ulti.getDecryptString(configData.emailSender.emailPassword),
       },
     });
 
