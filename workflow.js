@@ -154,17 +154,17 @@ async function getProductExcelFile(configData) {
 module.exports = {
   CrawlFunction: async () => {
     try {
-      //Step 0: Connect to FTP Serve getting config file also exxcel file
+      // Step 1: Connect to the database
+      await connectDB();
+      console.log("Connected to the database");
+
+      //Step 1.5: Connect to FTP Serve getting config file also exxcel file
       let configData = await configService.getData();
       configData = configData.toJSON().data;
       //await getConfigFile();
       await getNormalExcelFile(configData);
       await getProductExcelFile(configData);
       //setUpEnviroment();
-
-      // Step 1: Connect to the database
-      await connectDB();
-      console.log("Connected to the database");
 
       //Step 2: Crawling the URLs
       await linkService.crawAllUrl();

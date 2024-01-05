@@ -6,6 +6,8 @@ const fs = require("fs");
 const bodyParser = require("body-parser");
 const cookieParser = require("cookie-parser");
 var session = require("express-session");
+const https = require("https");
+const http = require("http");
 
 const port = process.env.PORT || 3000;
 const app = express();
@@ -58,6 +60,27 @@ app.use((err, req, res, next) => {
   res.status(500).send("Something broke!");
 });
 
-app.listen(port, () => {
-  console.log(`Server is run on http://localhost:${port}/`);
+//https serve and http serve
+let sslPath = __dirname;
+const certificate = fs.readFileSync(
+  path.join(sslPath, "./SSL/cert.pem"),
+  "utf8"
+);
+const privateKey = fs.readFileSync(
+  path.join(sslPath, "./SSL/privkey.pem"),
+  "utf8"
+);
+
+const credentials = { key: privateKey, cert: certificate };
+const httpServer = http.createServer(app);
+
+// Tạo server HTTPS
+const httpsServer = https.createServer(credentials, app);
+
+httpServer.listen(3000, () => {
+  console.log(`Server is run on http://localhost:3000/`);
+});
+
+httpsServer.listen(3001, () => {
+  console.log(`Server is run on http://localhost:3001/`);
 });
