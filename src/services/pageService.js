@@ -318,6 +318,13 @@ async function modifyHTML(page, arrayDB) {
   //remove EN icon in header
   $$("div[data-id='4f3bc5d']").remove();
 
+  //change color of a tag in footer
+  $$("footer .elementor-icon-list-items a").each(function () {
+    let data = $$(this).text();
+    $$(this).text("");
+    $$(this).append(`<span class="elementor-icon-list-text">${data}</span>`);
+  });
+
   // Save the modified HTML to a file
   const modifiedHtml = $$.html();
   return modifiedHtml;
