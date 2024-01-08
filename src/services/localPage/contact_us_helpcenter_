@@ -1154,10 +1154,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/en\/?wc-ajax=%%endpoint%
 		</div>
 				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-eec6229" data-id="eec6229" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-4f3bc5d elementor-widget elementor-widget-image" data-id="4f3bc5d" data-element_type="widget" data-widget_type="image.default">
-				<div class="elementor-widget-container">
-															<img width="1024" height="1017" src="https://www.avision.com/en/wp-content/uploads/2021/12/Icon_EN-1024x1017.png" class="attachment-large size-large wp-image-20871" alt srcset="https://www.avision.com/en/wp-content/uploads/2021/12/Icon_EN-1024x1017.png 1024w, https://www.avision.com/en/wp-content/uploads/2021/12/Icon_EN-300x298.png 300w, https://www.avision.com/en/wp-content/uploads/2021/12/Icon_EN-150x150.png 150w, https://www.avision.com/en/wp-content/uploads/2021/12/Icon_EN-768x762.png 768w, https://www.avision.com/en/wp-content/uploads/2021/12/Icon_EN-600x596.png 600w, https://www.avision.com/en/wp-content/uploads/2021/12/Icon_EN-100x100.png 100w, https://www.avision.com/en/wp-content/uploads/2021/12/Icon_EN.png 1236w" sizes="(max-width: 1024px) 100vw, 1024px">															</div>
-				</div>
+								
 					</div>
 		</div>
 				<div class="elementor-column elementor-col-25 elementor-inner-column elementor-element elementor-element-f135123" data-id="f135123" data-element_type="column">

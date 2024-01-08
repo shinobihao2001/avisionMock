@@ -315,6 +315,9 @@ async function modifyHTML(page, arrayDB) {
   divToMove1 = $$("#tab-additional_information[role='tabpanel']"); // maybe the divTomove1 was moved so the dowload disapear
   divToMove2.insertAfter(divToMove1);
 
+  //remove EN icon in header
+  $$("div[data-id='4f3bc5d']").remove();
+
   // Save the modified HTML to a file
   const modifiedHtml = $$.html();
   return modifiedHtml;
