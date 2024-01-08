@@ -1,13 +1,13 @@
 const express = require("express");
 const connectDB = require("./src/database");
 const path = require("path");
-require("dotenv").config();
 const fs = require("fs");
 const bodyParser = require("body-parser");
 const cookieParser = require("cookie-parser");
-var session = require("express-session");
+const session = require("express-session");
 const https = require("https");
 const http = require("http");
+require("dotenv").config();
 
 const port = process.env.PORT || 3000;
 const app = express();
@@ -44,6 +44,14 @@ app.all("/", function (req, res, next) {
   res.header("Access-Control-Allow-Headers", "X-Requested-With");
   next();
 });
+const redirectToHTTPS = (req, res, next) => {
+  if (!req.secure) {
+    return res.redirect("https://" + req.headers.host + req.url);
+  }
+  next();
+};
+
+app.use(redirectToHTTPS);
 // const IPMiddleware = require("./src/middlewares/ipMiddleware.js");
 // app.use(IPMiddleware.saveIPMiddleware);
 // app.use(IPMiddleware.checkBan);
@@ -63,24 +71,28 @@ app.use((err, req, res, next) => {
 //https serve and http serve
 let sslPath = __dirname;
 const certificate = fs.readFileSync(
-  path.join(sslPath, "./SSL/cert.pem"),
+  path.join(sslPath, "./SSL/certificate.crt"),
   "utf8"
 );
 const privateKey = fs.readFileSync(
-  path.join(sslPath, "./SSL/privkey.pem"),
+  path.join(sslPath, "./SSL/private.key"),
+  "utf8"
+);
+const caBundle = fs.readFileSync(
+  path.join(sslPath, "./SSL/ca_bundle.crt"),
   "utf8"
 );
 
-const credentials = { key: privateKey, cert: certificate };
+const credentials = { key: privateKey, cert: certificate, ca: caBundle };
 const httpServer = http.createServer(app);
 
 // Tạo server HTTPS
 const httpsServer = https.createServer(credentials, app);
 
-httpServer.listen(3000, () => {
-  console.log(`Server is run on http://localhost:3000/`);
+httpServer.listen(80, () => {
+  console.log(`Server is run on http://localhost:80/`);
 });
 
-httpsServer.listen(3001, () => {
-  console.log(`Server is run on http://localhost:3001/`);
+httpsServer.listen(443, () => {
+  console.log(`Server is run on https://localhost:443/`);
 });
