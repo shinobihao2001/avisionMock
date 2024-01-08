@@ -294,11 +294,15 @@ async function modifyHTML(page, arrayDB) {
   $$(".um-right.um-half:contains('Đăng ký')").remove();
   $$(".um-col-alt-b:contains('Quên mật khẩu')").remove();
   $$(".um-button[value='Login']").attr("value", "Đăng nhập");
+  $$(".um-field-block div[style='']");
 
   //modify resetPassForm
   $$("#um_field_0_username_b").after(mainPageScript.resetPassWordFormScirpt);
   $$("#um_field_0_username_b").remove();
   $$("#um-submit-btn[value='Reset password']").attr("value", "Đổi mật khẩu");
+  $$(".um-field-block:contains('Để đặt lại mật khẩu')").text(
+    "Để đặt lại mật khẩu, vui lòng nhập mật khẩu và mật khẩu mới bên dưới."
+  );
 
   //remove nav bar in why avision page
   $$("nav[data-id='5da3aab']").remove();
