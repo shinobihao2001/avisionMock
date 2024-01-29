@@ -1,11 +1,12 @@
 const mainDomain = process.env.MAIN_DOMAIN;
 
 module.exports = {
-  mainScript: `<div style="display: flex; justify-content: center; align-items: center; height: 1000px; flex-flow: column ;padding-top: 20px">
+  mainScript: `<div style="display: flex;  align-items: center; height: 100%; flex-flow: column ;padding-top: 20px">
     
-    <h3>TỔNG ĐẠI LÝ KHU VỰC PHÍA BẮC</h3>
-    <img style="width: 60%; height:auto" src="https://i.imgur.com/7cb07Uo.jpg">
-    <h3 style="padding-top: 20px">TỔNG ĐẠI LÝ KHU VỰC PHÍA NAM</h3><img style="width: 60%; height:auto" src="https://i.imgur.com/xHlDXmv.jpg">
+    <h3 style="font-size: calc(20px + 3vw);padding-top: 30px">TỔNG ĐẠI LÝ KHU VỰC PHÍA BẮC</h3>
+    <img style="width: 60vw; min-width: 390px; height:auto" src="/public/cdc.png">
+    <h3 style="font-size: calc(20px + 3vw) ; padding-top: 120px">TỔNG ĐẠI LÝ KHU VỰC PHÍA NAM</h3>
+    <img style="width: 60vw; min-width: 390px; height:auto" src="/public/vth.png">
     </div>`,
   rowNav: `<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="/agency/" class="elementor-item">Hệ thống đại lý</a></li>`,
   colNav: `<li class="menu-item menu-item-type-taxonomy menu-item-object-product_cat menu-item-12782"><a href="/agency/" class="elementor-item" tabindex="0">Hệ thống đại lý</a></li>`,

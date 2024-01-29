@@ -239,12 +239,24 @@ module.exports = {
     console.log(links);
     for (let link of links) {
       console.log("Is saving: " + link);
+      if (
+        link.includes("https://www.avision.com/en/agent/") ||
+        link.includes(
+          "https://www.avision.com/en/contact-us/product-registration/"
+        )
+      ) {
+        continue;
+      }
       let doc = await getPageToFile([link], crawler);
       let filename = ulti.getLocalName(link);
       let folder = path.join(__dirname, "onlinePage");
       try {
         //console.log(html);
         fs.writeFileSync(path.join(folder, filename), doc[0]);
+        // thread sleep do the program won't lag
+        setTimeout(() => {
+          console.log("Delayed task  0.3s write file executed to resist lag");
+        }, 300);
       } catch (error) {
         console.log(error);
       }

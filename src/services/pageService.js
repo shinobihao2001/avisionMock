@@ -64,7 +64,7 @@ async function modifyHTML(page, arrayDB) {
 
     if (content) {
       if (
-        element.children(":not(br):not(strong):not(span):not(sup)").length == 0
+        element.children(":not(br):not(strong):not(sup):not(span)").length == 0
       ) {
         let newText = contentService.findTranslatedWord(
           element.text().replace(/\s+/g, " "),
@@ -77,7 +77,7 @@ async function modifyHTML(page, arrayDB) {
           let childNode = children.eq(childIndex);
           let node = $$(childNode);
           if (
-            node.children(":not(br):not(strong):not(span):not(sup)").length ==
+            node.children(":not(br):not(strong):not(sup):not(span)").length ==
               0 &&
             node.text().trim()
           ) {
@@ -113,7 +113,8 @@ async function modifyHTML(page, arrayDB) {
   $$("i.icon-list").removeClass("icon-list").addClass("fas fa-list");
 
   //remove popmade
-  $$("#popmake-2659").remove();
+  //why i remove 2659 in frist place ?
+  //$$("#popmake-2659").remove();
   $$("#popmake-11307").remove();
 
   //remove compare button
@@ -130,8 +131,12 @@ async function modifyHTML(page, arrayDB) {
   //remove entry button
   $$(".woo-entry-buttons").remove();
 
-  //remove sreach icion
+  //remove sreach icion and form
   $$(".fas.fa-search").remove();
+  $$(".hfe-search-button-wrapper").remove();
+
+  //remove sreach form in not found page
+  $$("div[data-id='1829dbb7']").remove();
 
   // set with of main to 100 % before remove sidebar
   $$("#primary.content-area.clr").css("width", "100%");
@@ -325,6 +330,8 @@ async function modifyHTML(page, arrayDB) {
     $$(this).append(`<span class="elementor-icon-list-text">${data}</span>`);
   });
 
+  //remove dowload of paperport
+  $$('td:contains("PaperPort")').parent().children().last().remove();
   // Save the modified HTML to a file
   const modifiedHtml = $$.html();
   return modifiedHtml;
@@ -357,7 +364,7 @@ function modifyWarrantySignUp(html, status, mess) {
 function modifyAgency(html) {
   let $$ = Cheerio.load(html);
   $$("h1:contains('Đăng ký sản phẩm')").text("Hệ thống tổng đại lý");
-
+  $$("title").text("Agency – Avision VN");
   //remove the main content and replace with agency content
   $$("section[data-id='505bfda']").remove();
   $$("section[data-id='1e178ee']").remove();
@@ -402,6 +409,9 @@ module.exports = {
     try {
       //console.log(html);
       fs.writeFileSync(path.join(folder, filename), html);
+      setTimeout(() => {
+        console.log("Delayed task  0.3s write file executed to resist lag");
+      }, 300);
       return "Save file successfully";
     } catch (error) {
       console.log(error);

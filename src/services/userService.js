@@ -49,6 +49,10 @@ class userService {
       return { mess: "Mật khẩu mới không trùng với nhau!", status: false };
     }
 
+    if (newPass == "") {
+      return { mess: "Mật khẩu không được rỗng!", status: false };
+    }
+
     if (userData.password != password) {
       // console.log("Mât khẫu sess:" + userData.password);
       // console.log("Mật khẩu mới nhập:" + password);

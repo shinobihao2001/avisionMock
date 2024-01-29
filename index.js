@@ -21,6 +21,9 @@ const app = express();
 //   process.env.signup_warranty_url = data.signUpWarranty["api-url"];
 // }
 
+//Set Timezone to Viet Nam
+process.env.TZ = "Asia/Ho_Chi_Minh";
+
 //setUpEnviroment();
 connectDB();
 
@@ -61,7 +64,7 @@ router.use("/public", express.static("public"));
 app.use("/", router);
 
 //run the tool for crawling
-//require("./robot.js");
+require("./robot.js");
 
 app.use((err, req, res, next) => {
   console.error(err.stack);

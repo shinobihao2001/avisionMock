@@ -1047,7 +1047,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/en\/?wc-ajax=%%endpoint%
 <link rel="apple-touch-icon" href="https://www.avision.com/en/wp-content/uploads/2021/09/logo&#x7E2E;&#x5716;.png">
 <meta name="msapplication-TileImage" content="https://www.avision.com/en/wp-content/uploads/2021/09/logo&#x7E2E;&#x5716;.png">
 		<style id="wp-custom-css">
-			.widget_product_categories li a,.widget_layered_nav li a{text-transform:none}.pricing-table li.empty-table-cell{display:yes!important}.wpfFilterButton.wpfButton,.wpfClearButton.wpfButton{min-height:25px !important;font-size:13px !important;width:30% !important}.wpfFilterWrapper .wfpTitle{color:#196c8f !important;font-size:14px !important}details :focus{background-color:#d7ecf2}details :active{background-color:#d7ecf2}/*FAQ Assist搜尋結果*/#wpforms-16609 .wpforms-form{background-color:#f4f4f4;padding:20px 50px 50px;border-radius:15px;box-shadow:-0.3em 0 .5em #d3d3d3}div.wpforms-container-full .wpforms-form h3{font-size:18px !important;padding:10px 0}div.wpforms-container-full .wpforms-form select{border-radius:5px}div.wpforms-container-full .wpforms-form input[type=text]{border-radius:5px}div.wpforms-container-full .wpforms-form input[type=tel]{border-radius:5px}div.wpforms-container-full .wpforms-form input[type=email]{border-radius:5px}/*FAQ Assist搜尋欄*/div.wpforms-container-full #wpforms-15952-field_1-container{padding:22px 10px}div.wpforms-container-full #wpforms-15952-field_3-container{padding:22px 10px;margin:0}div.wpforms-container-full #wpforms-15952-field_4-container{background:#d1e6ed;border-radius:8px;border:none;padding:22px 10px;border-radius:10px 0 0 10px }div.wpforms-container-full #wpforms-15952-field_5-container{background:#d1e6ed;border-radius:0 10px 10px 0;border:none;padding:22px 10px;margin:0}/*FAQ tab 搜尋欄樣式*/.helpie-faq.accordions .search__input{Margin:40px 0;!important color:#6ca8c1}/*系統訊息*/.wpforms-confirmation-container-full{   color:#31708f !important;margin:0 0 24px 0;background:#d9edf7;   border:1px solid #bcdff1 !important;padding:15px 15px}/*產品分類css*/h2.woocommerce-loop-category__title{font-size:15px;color:#233a5e}h2.woocommerce-loop-category__title:Hover{color:#3179af}		</style>
+			.widget_product_categories li a,.widget_layered_nav li a{text-transform:none}.pricing-table li.empty-table-cell{display:yes!important}.wpfFilterButton.wpfButton,.wpfClearButton.wpfButton{min-height:25px !important;font-size:13px !important;width:30% !important}.wpfFilterWrapper .wfpTitle{color:#196c8f !important;font-size:14px !important}details :focus{background-color:#d7ecf2}details :active{background-color:#d7ecf2}/*FAQ Assist搜尋結果*/#wpforms-16609 .wpforms-form{background-color:#f4f4f4;padding:20px 50px 50px;border-radius:15px;box-shadow:-0.3em 0 .5em #d3d3d3}div.wpforms-container-full .wpforms-form h3{font-size:18px !important;padding:10px 0}div.wpforms-container-full .wpforms-form select{border-radius:5px}div.wpforms-container-full .wpforms-form input[type=text]{border-radius:5px}div.wpforms-container-full .wpforms-form input[type=tel]{border-radius:5px}div.wpforms-container-full .wpforms-form input[type=email]{border-radius:5px}/*FAQ Assist搜尋欄*/div.wpforms-container-full #wpforms-15952-field_1-container{padding:22px 10px}div.wpforms-container-full #wpforms-15952-field_3-container{padding:22px 10px;margin:0}div.wpforms-container-full #wpforms-15952-field_4-container{background:#d1e6ed;border-radius:8px;border:none;padding:22px 10px;border-radius:10px 0 0 10px }div.wpforms-container-full #wpforms-15952-field_5-container{background:#d1e6ed;border-radius:0 10px 10px 0;border:none;padding:22px 10px;margin:0}/*FAQ tab 搜尋欄樣式*/.helpie-faq.accordions .search__input{Margin:40px 0;!important color:#6ca8c1}/*系統訊息*/.wpforms-confirmation-container-full{   color:#31708f !important;margin:0 0 24px 0;background:#d9edf7;   border:1px solid #bcdff1 !important;padding:15px 15px}/*產品分類css*/h2.woocommerce-loop-category__title{font-size:15px;color:#233a5e}h2.woocommerce-loop-category__title:Hover{color:#3179af}/*my product*/table.wpforms-frontend-entries{display:block;width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;-ms-overflow-style:-ms-autohiding-scrollbar}}		</style>
 		<meta name="generator" content="WordPress Download Manager 3.2.83">
 <!-- OceanWP CSS -->
 <style type="text/css">
@@ -1916,42 +1916,15 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/en\/?wc-ajax=%%endpoint%
 		
 
 				<div class="pum-content popmake-content" tabindex="0">
-			<div class="wpforms-container wpforms-container-full" id="wpforms-4189"><form id="wpforms-form-4189" class="wpforms-validate wpforms-form wpforms-ajax-form" data-formid="4189" method="post" enctype="multipart/form-data" action="/en/scanner/" data-token="2914f36f2f993c12af1b583c850ffd4d"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript><div class="wpforms-field-container"><div id="wpforms-4189-field_5-container" class="wpforms-field wpforms-field-html" data-field-id="5"><div id="wpforms-4189-field_5"><span>Please enter the following information to log in the Bundle Software Application</span></div></div><div id="wpforms-4189-field_3-container" class="wpforms-field wpforms-field-text" data-field-id="3"><label class="wpforms-field-label" for="wpforms-4189-field_3">Serial Number <span class="wpforms-required-label">*</span></label><input type="text" id="wpforms-4189-field_3" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][3]" required></div><div id="wpforms-4189-field_4-container" class="wpforms-field wpforms-field-text" data-field-id="4"><label class="wpforms-field-label" for="wpforms-4189-field_4">Authentication Number <span class="wpforms-required-label">*</span></label><input type="text" id="wpforms-4189-field_4" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][4]" required></div><div id="wpforms-4189-field_6-container" class="wpforms-field wpforms-field-html" data-field-id="6"><div id="wpforms-4189-field_6"><!-- Trigger the Modal -->
-<img id="myImg" src="https://www.avision.com/en/wp-content/uploads/2021/09/sn.jpg" alt="Serial Number" style="width:5%;max-width:300px; display: none;">
-<span id="switchKey">Example of S/N</span>
-
-<!-- The Modal -->
-<div id="myModal" class="modal">
-
-  <!-- The Close Button -->
-  <span class="close">&#xD7;</span>
-
-  <!-- Modal Content (The Image) -->
-  <img class="modal-content" id="img01">
-
-  <!-- Modal Caption (Image Text) -->
-  <div id="caption"></div>
-</div></div></div><div id="wpforms-4189-field_7-container" class="wpforms-field wpforms-field-html" data-field-id="7"><div id="wpforms-4189-field_7"><script>// Get the modal
-var modal = document.getElementById("myModal");
-var img = document.getElementById("myImg");
-// Get the image and insert it inside the modal - use its "alt" text as a caption
-var key = document.getElementById("switchKey");
-var modalImg = document.getElementById("img01");
-var captionText = document.getElementById("caption");
-key.onclick = function(){
-  modal.style.display = "block";
-  modalImg.src = img.src;
-  captionText.innerHTML = img.alt;
-}
-
-// Get the <span> element that closes the modal
-var span = document.getElementsByClassName("close")[0];
-
-// When the user clicks on <span> (x), close the modal
-span.onclick = function() {
-  modal.style.display = "none";
-}
-</span></span></script></div></div></div><!-- .wpforms-field-container --><div class="wpforms-submit-container"><input type="hidden" name="wpforms[id]" value="4189"><input type="hidden" name="wpforms[author]" value="0"><input type="hidden" name="wpforms[post_id]" value="7308"><button type="submit" name="wpforms[submit]" id="wpforms-submit-4189" class="wpforms-submit" data-alt-text="Sending..." data-submit-text="Submit" aria-live="assertive" value="wpforms-submit">Submit</button><img src="https://www.avision.com/en/wp-content/plugins/wpforms/assets/images/submit-spin.svg" class="wpforms-submit-spinner" style="display: none;" width="26" height="26" alt="Loading"></div></form></div>  <!-- .wpforms-container -->
+			<div class="wpforms-container wpforms-container-full" id="wpforms-4189"><form id="wpforms-form-4189" class="wpforms-validate wpforms-form wpforms-ajax-form" data-formid="4189" method="post" enctype="multipart/form-data" action="/en/scanner/" data-token="ec7c07c8e5db6c64e857567f440f6913"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript><div class="wpforms-field-container"><div id="wpforms-4189-field_5-container" class="wpforms-field wpforms-field-html" data-field-id="5"><div id="wpforms-4189-field_5"><span>Please enter the following information to log in the Bundle Software Application</span></div></div><div id="wpforms-4189-field_3-container" class="wpforms-field wpforms-field-text" data-field-id="3"><label class="wpforms-field-label" for="wpforms-4189-field_3">Serial Number <span class="wpforms-required-label">*</span></label><input type="text" id="wpforms-4189-field_3" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][3]" required></div><div id="wpforms-4189-field_4-container" class="wpforms-field wpforms-field-text" data-field-id="4"><label class="wpforms-field-label" for="wpforms-4189-field_4">Authentication Number <span class="wpforms-required-label">*</span></label><input type="text" id="wpforms-4189-field_4" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][4]" required></div><div id="wpforms-4189-field_6-container" class="wpforms-field wpforms-field-html" data-field-id="6"><div id="wpforms-4189-field_6"><body> 
+<script language="JavaScript">
+	function reP(){
+	document.getElementById('oImg').style.display = "block";
+	}
+	</script>
+	<img src="https://www.avision.com/en/wp-content/uploads/2021/09/sn.jpg" id="oImg" style="display:none" width="300px">
+	<input id="switchKey" type="button" style="background-color: #555555;padding: 10px 25px;text-align: center;font-size: 16px;color:#ffffff;border: 1px;border-radius: 5px;" value="Example of S/N" onclick="reP()">
+</body> </div></div></div><!-- .wpforms-field-container --><div class="wpforms-submit-container"><input type="hidden" name="wpforms[id]" value="4189"><input type="hidden" name="wpforms[author]" value="0"><input type="hidden" name="wpforms[post_id]" value="7308"><button type="submit" name="wpforms[submit]" id="wpforms-submit-4189" class="wpforms-submit" data-alt-text="Sending..." data-submit-text="Submit" aria-live="assertive" value="wpforms-submit">Submit</button><img src="https://www.avision.com/en/wp-content/plugins/wpforms/assets/images/submit-spin.svg" class="wpforms-submit-spinner" style="display: none;" width="26" height="26" alt="Loading"></div></form></div>  <!-- .wpforms-container -->
 		</div>
 
 
@@ -2224,7 +2197,7 @@ var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result 
 </script>
 <script src="https://www.avision.com/en/wp-includes/js/jquery/ui/autocomplete.js?ver=1.13.2" id="jquery-ui-autocomplete-js"></script>
 <script id="helpie-faq-bundle-js-extra">
-var helpie_faq_object = {"nonce":"22aa90d5cc","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"7308","plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
+var helpie_faq_object = {"nonce":"1b5f8c0e94","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","current_post_id":"7308","plan":"free","url":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/helpie-faq\/","enabled_submission":"1","enable_search_highlight":""};
 var faqStrings = {"hide":"Hide","addFAQ":"Add FAQ","noFaqsFound":"No FAQ found"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/helpie-faq/assets/bundles/main.app.js?ver=1.15" id="helpie-faq-bundle-js"></script>
@@ -2239,7 +2212,7 @@ var mailchimp_public_data = {"site_url":"https:\/\/www.avision.com\/en","ajax_ur
 <script src="https://www.avision.com/en/wp-content/plugins/mailchimp-for-woocommerce/public/js/mailchimp-woocommerce-public.min.js?ver=3.2.03" id="mailchimp-woocommerce-js"></script>
 <script src="https://www.avision.com/en/wp-includes/js/imagesloaded.min.js?ver=4.1.4" id="imagesloaded-js"></script>
 <script id="oceanwp-main-js-extra">
-var oceanwpLocalize = {"nonce":"707634669b","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"9d4bf141b0"};
+var oceanwpLocalize = {"nonce":"70da9c433a","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"5da850ff32"};
 </script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/theme.min.js?ver=3.0.5.1644388334" id="oceanwp-main-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/drop-down-mobile-menu.min.js?ver=3.0.5.1644388334" id="oceanwp-drop-down-mobile-menu-js"></script>
@@ -2253,7 +2226,7 @@ var oceanwpLocalize = {"nonce":"707634669b","isRTL":"","menuSearchStyle":"drop_d
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/select.min.js?ver=3.0.5.1644388334" id="oceanwp-select-js"></script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/ow-infinite-scroll.min.js?ver=3.0.5.1644388334" id="oceanwp-infinite-scroll-js"></script>
 <script id="oceanwp-woocommerce-custom-features-js-extra">
-var oceanwpLocalize = {"nonce":"707634669b","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"9d4bf141b0"};
+var oceanwpLocalize = {"nonce":"70da9c433a","isRTL":"","menuSearchStyle":"drop_down","mobileMenuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"left","sidrDropdownTarget":"link","verticalHeaderTarget":"link","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","wooCartStyle":"drop_down","ajax_url":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","cart_url":"https:\/\/www.avision.com\/en","cart_redirect_after_add":"no","view_cart":"View cart","floating_bar":"on","grouped_text":"View products","multistep_checkout_error":"Some required fields are empty. Please fill the required fields to go to the next step.","oe_mc_wpnonce":"5da850ff32"};
 </script>
 <script src="https://www.avision.com/en/wp-content/themes/oceanwp/assets/js/wp-plugins/woocommerce/woo-custom-features.min.js?ver=3.0.5.1644388334" id="oceanwp-woocommerce-custom-features-js"></script>
 <script id="popup-maker-site-js-extra">
@@ -2282,7 +2255,7 @@ var pum_popups = {"pum-2659":{"triggers":[{"type":"click_open","settings":{"cook
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/tipsy/tipsy.js?ver=1.0.0a" id="um_tipsy-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/libs/raty/um-raty.js?ver=2.6.0" id="um_raty-js"></script>
 <script id="um_scripts-js-extra">
-var um_scripts = {"max_upload_size":"52428800","nonce":"3eeeb438b7"};
+var um_scripts = {"max_upload_size":"52428800","nonce":"e324c4cb3a"};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/js/um-scripts.js?ver=2.7.0" id="um_scripts-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/ultimate-member/assets/js/um-profile.js?ver=2.7.0" id="um_profile-js"></script>
@@ -2300,7 +2273,7 @@ var wc_cart_fragments_params = {"ajax_url":"\/en\/wp-admin\/admin-ajax.php","wc_
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/js/webpack.runtime.js?ver=3.15.3" id="elementor-webpack-runtime-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/js/frontend-modules.js?ver=3.15.3" id="elementor-frontend-modules-js"></script>
 <script id="elementor-pro-frontend-js-before">
-var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","nonce":"e63b83db47","urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.avision.com\/en\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/www.avision.com\/en","checkout_page_url":"https:\/\/www.avision.com\/en"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.avision.com\/en\/wp-admin\/admin-ajax.php","nonce":"d60544546a","urls":{"assets":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.avision.com\/en\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"woocommerce":{"menu_cart":{"cart_page_url":"https:\/\/www.avision.com\/en","checkout_page_url":"https:\/\/www.avision.com\/en"}},"facebook_sdk":{"lang":"en_US","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.avision.com\/en\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
 </script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor-pro/assets/js/frontend.js?ver=3.6.5" id="elementor-pro-frontend-js"></script>
 <script src="https://www.avision.com/en/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.js?ver=4.0.2" id="elementor-waypoints-js"></script>

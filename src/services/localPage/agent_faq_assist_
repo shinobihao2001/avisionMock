@@ -1202,12 +1202,7 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/en\/?wc-ajax=%%endpoint%
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-1caa884 hfe-search-layout-icon elementor-widget elementor-widget-hfe-search-button" data-id="1caa884" data-element_type="widget" data-settings="{&quot;input_icon_size&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:300,&quot;sizes&quot;:[]},&quot;toggle_icon_size&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:20,&quot;sizes&quot;:[]},&quot;input_icon_size_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;input_icon_size_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_icon_size_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]},&quot;toggle_icon_size_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:&quot;&quot;,&quot;sizes&quot;:[]}}" data-widget_type="hfe-search-button.default">
 				<div class="elementor-widget-container">
-					<form class="hfe-search-button-wrapper" role="search" action="https://www.avision.com/en" method="get">
-						<div class="hfe-search-icon-toggle">
-				<input placeholder class="hfe-search-form__input" type="search" name="s" title="Search" value>
-				
-			</div>
-					</form>
+					
 				</div>
 				</div>
 					</div>
@@ -1780,7 +1775,60 @@ var wc_add_to_cart_variation_params = {"wc_ajax_url":"\/en\/?wc-ajax=%%endpoint%
             <div id="fb-root"></div>
             <div id="pum-2659" class="pum pum-overlay pum-theme-7761 pum-theme-7761 popmake-overlay click_open" data-popmake="{&quot;id&quot;:2659,&quot;slug&quot;:&quot;paperport&quot;,&quot;theme_id&quot;:7761,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;cookie_name&quot;:&quot;&quot;,&quot;extra_selectors&quot;:&quot;&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false">
 
-	
+	<div id="popmake-2659" class="pum-container popmake theme-7761 pum-responsive pum-responsive-medium responsive size-medium">
+
+				
+
+				
+
+		
+
+				<div class="pum-content popmake-content" tabindex="0">
+			<div class="wpforms-container wpforms-container-full" id="wpforms-4189"><form id="wpforms-form-4189" class="wpforms-validate wpforms-form wpforms-ajax-form" data-formid="4189" method="post" enctype="multipart/form-data" action="/en/agent/faq-assist/" data-token="2914f36f2f993c12af1b583c850ffd4d"><noscript class="wpforms-error-noscript">Please enable JavaScript in your browser to complete this form.</noscript><div class="wpforms-field-container"><div id="wpforms-4189-field_5-container" class="wpforms-field wpforms-field-html" data-field-id="5"><div id="wpforms-4189-field_5"><span>Please enter the following information to log in the Bundle Software Application</span></div></div><div id="wpforms-4189-field_3-container" class="wpforms-field wpforms-field-text" data-field-id="3"><label class="wpforms-field-label" for="wpforms-4189-field_3">Serial Number <span class="wpforms-required-label">*</span></label><input type="text" id="wpforms-4189-field_3" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][3]" required></div><div id="wpforms-4189-field_4-container" class="wpforms-field wpforms-field-text" data-field-id="4"><label class="wpforms-field-label" for="wpforms-4189-field_4">Authentication Number <span class="wpforms-required-label">*</span></label><input type="text" id="wpforms-4189-field_4" class="wpforms-field-medium wpforms-field-required" name="wpforms[fields][4]" required></div><div id="wpforms-4189-field_6-container" class="wpforms-field wpforms-field-html" data-field-id="6"><div id="wpforms-4189-field_6"><!-- Trigger the Modal -->
+<img id="myImg" src="https://www.avision.com/en/wp-content/uploads/2021/09/sn.jpg" alt="Serial Number" style="width:5%;max-width:300px; display: none;">
+<span id="switchKey">Example of S/N</span>
+
+<!-- The Modal -->
+<div id="myModal" class="modal">
+
+  <!-- The Close Button -->
+  <span class="close">&#xD7;</span>
+
+  <!-- Modal Content (The Image) -->
+  <img class="modal-content" id="img01">
+
+  <!-- Modal Caption (Image Text) -->
+  <div id="caption"></div>
+</div></div></div><div id="wpforms-4189-field_7-container" class="wpforms-field wpforms-field-html" data-field-id="7"><div id="wpforms-4189-field_7"><script>// Get the modal
+var modal = document.getElementById("myModal");
+var img = document.getElementById("myImg");
+// Get the image and insert it inside the modal - use its "alt" text as a caption
+var key = document.getElementById("switchKey");
+var modalImg = document.getElementById("img01");
+var captionText = document.getElementById("caption");
+key.onclick = function(){
+  modal.style.display = "block";
+  modalImg.src = img.src;
+  captionText.innerHTML = img.alt;
+}
+
+// Get the <span> element that closes the modal
+var span = document.getElementsByClassName("close")[0];
+
+// When the user clicks on <span> (x), close the modal
+span.onclick = function() {
+  modal.style.display = "none";
+}
+</span></span></script></div></div></div><!-- .wpforms-field-container --><div class="wpforms-submit-container"><input type="hidden" name="wpforms[id]" value="4189"><input type="hidden" name="wpforms[author]" value="0"><input type="hidden" name="wpforms[post_id]" value="15956"><button type="submit" name="wpforms[submit]" id="wpforms-submit-4189" class="wpforms-submit" data-alt-text="Sending..." data-submit-text="Submit" aria-live="assertive" value="wpforms-submit">Submit</button><img src="https://www.avision.com/en/wp-content/plugins/wpforms/assets/images/submit-spin.svg" class="wpforms-submit-spinner" style="display: none;" width="26" height="26" alt="Loading"></div></form></div>  <!-- .wpforms-container -->
+		</div>
+
+
+				
+
+							<button type="button" class="pum-close popmake-close" aria-label="Close">
+			CLOSE			</button>
+		
+	</div>
 
 </div>
 <div id="pum-11307" class="pum pum-overlay pum-theme-7761 pum-theme-7761 popmake-overlay click_open" data-popmake="{&quot;id&quot;:11307,&quot;slug&quot;:&quot;example-of-s-n&quot;,&quot;theme_id&quot;:7761,&quot;cookies&quot;:[],&quot;triggers&quot;:[{&quot;type&quot;:&quot;click_open&quot;,&quot;settings&quot;:{&quot;extra_selectors&quot;:&quot;&quot;}}],&quot;mobile_disabled&quot;:null,&quot;tablet_disabled&quot;:null,&quot;meta&quot;:{&quot;display&quot;:{&quot;stackable&quot;:false,&quot;overlay_disabled&quot;:false,&quot;scrollable_content&quot;:false,&quot;disable_reposition&quot;:false,&quot;size&quot;:&quot;medium&quot;,&quot;responsive_min_width&quot;:&quot;0%&quot;,&quot;responsive_min_width_unit&quot;:false,&quot;responsive_max_width&quot;:&quot;100%&quot;,&quot;responsive_max_width_unit&quot;:false,&quot;custom_width&quot;:&quot;640px&quot;,&quot;custom_width_unit&quot;:false,&quot;custom_height&quot;:&quot;380px&quot;,&quot;custom_height_unit&quot;:false,&quot;custom_height_auto&quot;:false,&quot;location&quot;:&quot;center top&quot;,&quot;position_from_trigger&quot;:false,&quot;position_top&quot;:&quot;100&quot;,&quot;position_left&quot;:&quot;0&quot;,&quot;position_bottom&quot;:&quot;0&quot;,&quot;position_right&quot;:&quot;0&quot;,&quot;position_fixed&quot;:false,&quot;animation_type&quot;:&quot;fade&quot;,&quot;animation_speed&quot;:&quot;350&quot;,&quot;animation_origin&quot;:&quot;center top&quot;,&quot;overlay_zindex&quot;:false,&quot;zindex&quot;:&quot;1999999999&quot;},&quot;close&quot;:{&quot;text&quot;:&quot;&quot;,&quot;button_delay&quot;:&quot;0&quot;,&quot;overlay_click&quot;:false,&quot;esc_press&quot;:false,&quot;f4_press&quot;:false},&quot;click_open&quot;:[]}}" role="dialog" aria-modal="false">
